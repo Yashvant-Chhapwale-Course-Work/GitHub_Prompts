@@ -22,7 +22,7 @@ ___________________________________________________
 
 ## Alternatively you can download [` GitHub_Desktop `](https://github.com/apps/desktop) 
   - Download [` GitHub_Desktop `](https://github.com/apps/desktop) instead of downloading and setting up `Git_CLI` separately.
-  - `Advantages` Of GitHub Desktop:
+  - **`Advantages`** Of GitHub Desktop:
     - **User-Friendly Interface:** Easy to navigate GUI, suitable for beginners.
     - Displays line-by-line changes for **easier code review**.
     - **Streamlines frequent Git actions** like commits, pushes, and pulls.
