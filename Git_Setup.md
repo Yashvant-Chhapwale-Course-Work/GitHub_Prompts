@@ -15,3 +15,5 @@
     - Under `User Variables`, click on the `PATH` variable, then click `Edit`.
     - Click `New` and Add the path to your `Git bin` folder (e.g., C:\Program Files\Git\bin\git.exe).
     - `Click OK` to Save.
+
+----------------------------------------------------------------------------------------------ALTERNATIVELY---------------------------------------
