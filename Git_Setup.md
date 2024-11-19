@@ -16,7 +16,7 @@
     - Click `New` and Add the path to your `Git bin` folder (e.g., C:\Program Files\Git\bin\git.exe).
     - `Click OK` to Save.
 
-<center>
+<div align="center">
 -----------------------------------------------------------------`ALTERNATIVELY`-----------------------------------------------------------------
-</center>
+</div>
 
