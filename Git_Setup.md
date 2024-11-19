@@ -23,15 +23,15 @@ ___________________________________________________
 ## Alternatively you can download [` GitHub_Desktop `](https://github.com/apps/desktop) 
   - Download [` GitHub_Desktop `](https://github.com/apps/desktop) instead of downloading and setting up `Git_CLI` separately.
   - **`Advantages`** Of GitHub Desktop:
-    - **User-Friendly Interface:** Easy to navigate GUI, suitable for beginners.
-    - Displays line-by-line changes for **easier code review**.
-    - **Streamlines frequent Git actions** like commits, pushes, and pulls.
-    - **Simplified Branch Management:** Easy creation, switching, and merging of branches.
-    - **Integrated GitHub Features:** Direct support for pull requests, issue tracking, and repository publishing.
-    - **Built-In Conflict Resolution:** User-friendly tools for resolving merge conflicts.
-    - **Multi-Repository Management:** Seamlessly manage and switch between multiple repositories.
-    - **Quick Authentication:** Simplifies login and authentication with GitHub accounts.
-    - **No Separate Git Installation Required:**
+    - `User-Friendly Interface`: Easy to navigate GUI, suitable for beginners.
+    - Displays line-by-line changes for `easier code review`.
+    - `Streamlines frequent Git actions` like commits, pushes, and pulls.
+    - `Simplified Branch Management`: Easy creation, switching, and merging of branches.
+    - `Integrated GitHub Features`: Direct support for pull requests, issue tracking, and repository publishing.
+    - `Built-In Conflict Resolution`: User-friendly tools for resolving merge conflicts.
+    - `Multi-Repository Management`: Seamlessly manage and switch between multiple repositories.
+    - `Quick Authentication`: Simplifies login and authentication with GitHub accounts.
+    - `No Separate Git Installation Required`:
       - GitHub Desktop includes pre-configured Git installation, reducing setup complexity.
       - Users can start using Git features immediately after installing GitHub Desktop.
 
