@@ -4,4 +4,4 @@
 ## Prerequisites Installation
   - [`Download VSCode`](https://code.visualstudio.com/)
   - [`Download Git`](https://git-scm.com/)
-  - [`Create GitHub Account`](https://github.com/)
+  - [`Create GitHub Account`](https://github.com/signup)
