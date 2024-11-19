@@ -33,5 +33,5 @@ ___________________________________________________
     - `Quick Authentication`: Simplifies login and authentication with GitHub accounts.
     - `No Separate Git Installation Required`:
       - GitHub Desktop includes pre-configured Git installation, reducing setup complexity.
-      - Users can start using Git features immediately after installing GitHub Desktop.
-
+      - Users can start using Git features through Command_Prompt / Powershell immediately after installing GitHub Desktop.
+  
