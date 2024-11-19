@@ -20,5 +20,5 @@
 ___________________________________________________
 </div>
 
-## Alternatively you can download [`GitHub_Desktop`](https://github.com/apps/desktop) 
+## Alternatively you can download [` GitHub_Desktop `](https://github.com/apps/desktop) 
 
