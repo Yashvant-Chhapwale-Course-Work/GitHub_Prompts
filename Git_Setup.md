@@ -114,8 +114,9 @@ ___________________________________________________
     <br>
   - Again, Go To `File` >> Click on `Git`>> Set Your `Git_Credentials(Username and Email)` For Git.<br>
     `NOTE`:Generally This Step Is Configured Automatically With Account Sign In.<br>
-    ![GitHub_Desktop>>File>>Git>>Set Name_and_Email](https://github.com/user-attachments/assets/ab9cfe7b-0ce0-40f4-bc0b-0864a6c87cb0)
+    ![GitHub_Desktop>>File>>Git>>Set Name_and_Email](https://github.com/user-attachments/assets/f7a33cae-fe2f-4770-bd56-b04492550f6f)
     <br>
+  - Click on `Save` to Save Credentials.
 <br>
 
 ---
