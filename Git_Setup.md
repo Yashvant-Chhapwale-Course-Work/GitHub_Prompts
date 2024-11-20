@@ -1,4 +1,4 @@
-# Git/Github_Setup [Using VsCode]
+# Git/Github_Setup
 ---
 <br>
 
