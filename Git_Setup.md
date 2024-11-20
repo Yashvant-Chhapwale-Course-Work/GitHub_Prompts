@@ -48,6 +48,20 @@ ___________________________________________________
 ---
 <br>
 
+## Version Verification
+  - You can verify the `Installed_Version of Git`, using the following command in the Shell:
+    ```
+    git --version
+    ```
+  - To Determine the `Directory where Git is Installed` on your System, use the following command in the Shell:
+    ```
+    where git
+    ```
+<br>
+
+---
+<br>
+
 ## Configure Git
   - Open your terminal or command prompt and configure Git with your GitHub credentials.
   - ```
