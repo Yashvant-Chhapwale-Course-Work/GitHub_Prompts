@@ -40,11 +40,12 @@ ___________________________________________________
 ## Configure Git
   - Open your terminal or command prompt and configure Git with your GitHub credentials.
   - ```
-    git config --global user.name "YourGitHubUsername"
-    git config --global user.email "your.email@example.com"
+    git config --global user.name "GITHUB_USERNAME"
+    git config --global user.email "EMAIL_ID@gmail.com"
     ```
+  - Replace "GITHUB_USERNAME" with Your Github Username and "EMAIL_ID@gmail.com" with Your Github_Email Account.
 
-## Configure Git
+## Configure Git [For Particular Repository]
   - Open your terminal or command prompt and configure Git with your GitHub credentials.
   - ```
     git config --global user.name "YourGitHubUsername"
