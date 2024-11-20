@@ -43,7 +43,19 @@ ___________________________________________________
     git config --global user.name "GITHUB_USERNAME"
     git config --global user.email "EMAIL_ID@gmail.com"
     ```
-  - Replace "GITHUB_USERNAME" with Your Github Username and "EMAIL_ID@gmail.com" with Your Github_Email Account.
+    Replace **`GITHUB_USERNAME`** with **`Your Github Username`** and **`EMAIL_ID@gmail.com`** with **`Your Github_Email Account`**.
+  - Verify the Changes:
+    ```
+    git config --list --global
+    ```
+  - Alternatively you can Inspect Specific Configurations:
+    ```
+    git config user.name
+    ```
+    
+    ```
+    git config user.email
+    ```
 
 ## Configure Git [For a Specific  Repository]
   - Open your terminal or command prompt and configure Git with your GitHub credentials.
@@ -55,4 +67,9 @@ ___________________________________________________
     ```
     git config user.name "GITHUB_USERNAME"
     git config user.email "EMAIL_ID@gmail.com"
+    ```
+    Replace **`GITHUB_USERNAME`** with **`Your Github Username`** and **`EMAIL_ID@gmail.com`** with **`Your Github_Email Account`**.
+  - Verify the Changes:
+    ```
+    git config --list --local
     ```
