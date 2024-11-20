@@ -34,8 +34,10 @@ ___________________________________________________
     - `No Separate Git Installation Required`:
       - GitHub Desktop includes pre-configured Git installation, reducing setup complexity.
       - Users can start using Git features through Command_Prompt / Powershell immediately after installing GitHub Desktop.
-      
+<br>
+
 ---
+<br>
 
 ## Configure Git
   - Open your terminal or command prompt and configure Git with your GitHub credentials.
