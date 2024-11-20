@@ -113,6 +113,7 @@ ___________________________________________________
     ![Redirecting Github_Desktop](https://github.com/user-attachments/assets/807f3edc-20e2-404b-95f1-0c01288397f3)
     <br>
   - Again, Go To `File` and Click on `Git`.Set Your `Git_Credentials(Username and Email)` For Git.<br>
+    `NOTE`:Generally This Step Is Configured Automatically With Account Sign In.<br>
     ![GitHub_Desktop>>File>>Git>>Set Name_and_Email](https://github.com/user-attachments/assets/ab9cfe7b-0ce0-40f4-bc0b-0864a6c87cb0)
     <br>
 <br>
