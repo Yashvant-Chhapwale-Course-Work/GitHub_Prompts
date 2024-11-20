@@ -59,6 +59,7 @@ ___________________________________________________
     ```
     git config user.email
     ```
+<br>
 
 ## Configure Git [For a Specific  Repository]
   - Open your terminal or command prompt and configure Git with your GitHub credentials.
@@ -75,4 +76,12 @@ ___________________________________________________
   - Verify the Changes:
     ```
     git config --list --local
+    ```
+  - Alternatively you can Inspect Specific Configurations:
+    ```
+    git config user.name
+    ```
+    
+    ```
+    git config user.email
     ```
