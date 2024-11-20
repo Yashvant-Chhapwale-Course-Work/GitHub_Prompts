@@ -93,3 +93,17 @@ ___________________________________________________
     ```
     git config user.email
     ```
+<br>
+
+## Configure Git Credentials [For Github Desktop]
+  - Open GitHub_Desktop.
+  - Browse `File` and Click on `Options...` o/r Use shortcut `Ctrl + ,`.<br>
+    ![GitHub_Desktop>>File>>Options....](https://github.com/user-attachments/assets/4f1f7d1e-a95a-47cf-b9fc-68ef8dded11e)
+    <br>
+  - Under Accounts. click on `Sign In`.<br>
+    ![Options>>Accounts>>Sign In](https://github.com/user-attachments/assets/5fc1abba-8e75-4d08-b1d6-319170f08f77)
+    <br>
+    `Note`: You will be redirected to the Sign In web page after clicking on the 'Sign In' Button.<br>
+    ![Redirect_To_SignIn_Webpage](https://github.com/user-attachments/assets/892be788-c582-4f00-891f-47ee5dfeaaff)
+    <br>
+  - 
