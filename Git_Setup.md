@@ -45,9 +45,14 @@ ___________________________________________________
     ```
   - Replace "GITHUB_USERNAME" with Your Github Username and "EMAIL_ID@gmail.com" with Your Github_Email Account.
 
-## Configure Git [For Particular Repository]
+## Configure Git [For a Specific  Repository]
   - Open your terminal or command prompt and configure Git with your GitHub credentials.
-  - ```
-    git config --global user.name "YourGitHubUsername"
-    git config --global user.email "your.email@example.com"
+  - Navigate to the Local Repository using the `cd (Change Directory)` Command:
+    ```
+    cd C:\My_Workspace\<path_to_local_repository>
+    ```
+  - Configure Your Github Credentials for the local repository:
+    ```
+    git config user.name "GITHUB_USERNAME"
+    git config user.email "EMAIL_ID@gmail.com"
     ```
