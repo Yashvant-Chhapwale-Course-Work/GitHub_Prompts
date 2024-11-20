@@ -12,8 +12,8 @@
 
   - On `Windows`:
     - Search for `Edit the System's Environment Variables` in the `Start Menu`.<br>
-      <br>
       ![Edit_The_System_Environment_Variables](https://github.com/user-attachments/assets/14c2c514-887c-49b5-8f40-b17064d4f976)
+      <br>
     - Under `Advanced`, click `Environment Variables`.
     - Under `User Variables`, click on the `PATH` variable, then click `Edit`.
     - Click `New` and Add the path to your `Git bin` folder (e.g., C:\Program Files\Git\bin\git.exe).
