@@ -117,13 +117,13 @@ ___________________________________________________
   - Under Accounts >> Click on `Sign In`.<br>
     ![Options>>Accounts>>Sign In](https://github.com/user-attachments/assets/5fc1abba-8e75-4d08-b1d6-319170f08f77)
     <br>
-    You will be redirected to the Sign In web page after clicking on the `Continue with browser` Button.<br>
+  - You will be redirected to the Sign In web page after clicking on the `Continue with browser` Button.<br>
     ![Redirect_To_SignIn_Webpage](https://github.com/user-attachments/assets/892be788-c582-4f00-891f-47ee5dfeaaff)
     <br>
-    `Sign In` to Your `GiitHub Account`<br>
+  - `Sign In` to Your `GiitHub Account`<br>
     ![SignIn_WebPage](https://github.com/user-attachments/assets/c5cd19e3-8a31-44b8-beb2-c9e620281d40)
     <br>
-    Click `Open GithubDesktop.exe` for redirecting to GitHub_Desktop.<br>
+  - Click `Open GithubDesktop.exe` for redirecting to GitHub_Desktop.<br>
     ![Redirecting Github_Desktop](https://github.com/user-attachments/assets/807f3edc-20e2-404b-95f1-0c01288397f3)
     <br>
   - Again, Go To `File` >> Click on `Git`>> Set Your `Git_Credentials(Username and Email)` For Git.<br>
