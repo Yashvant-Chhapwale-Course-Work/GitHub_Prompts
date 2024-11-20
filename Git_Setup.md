@@ -36,3 +36,17 @@ ___________________________________________________
       - Users can start using Git features through Command_Prompt / Powershell immediately after installing GitHub Desktop.
       
 ---
+
+## Configure Git
+  - Open your terminal or command prompt and configure Git with your GitHub credentials.
+  - ```
+    git config --global user.name "YourGitHubUsername"
+    git config --global user.email "your.email@example.com"
+    ```
+
+## Configure Git
+  - Open your terminal or command prompt and configure Git with your GitHub credentials.
+  - ```
+    git config --global user.name "YourGitHubUsername"
+    git config --global user.email "your.email@example.com"
+    ```
