@@ -2,7 +2,7 @@
 ---
 <br>
 
-## Repository Initialization Using Github_Website
+## Repository Initialization Using **Github_Website**
   - Go To **[`Github`](https://github.com/)** .
   - `Sign In` to your Github_Account.
   - To `Create a New Repository` >> Click on `New`
@@ -27,7 +27,7 @@
 ---
 <br>
 
-## Configure Git
+## Repository Initialization Using **Github_Desktop**
   - Open your terminal or command prompt and configure Git with your GitHub credentials.
   - ```
     git config --global user.name "GITHUB_USERNAME"
