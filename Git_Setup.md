@@ -139,14 +139,14 @@ ___________________________________________________
 # VSCode Extensions:
 You can enhance Git operations in VS Code by downloading the following extensions:
   - `GitHub Pull Requests and Issues`:
-    - Publisher: GitHub
+    - Publisher: **GitHub**
     - Description: This extension allows you to manage pull requests and issues directly in VS Code.
     - Functions:
         - Create, review, and merge pull requests.
         - Browse and comment on issues.
         - View repository details.
   - `GitLens -- Git supercharged`:
-    - Publisher: GitKraken
+    - Publisher: **GitKraken**
     - Description:Enhances the built-in Git capabilities of VS Code by providing advanced features:
     - Functions:
       - See who made changes and why.
