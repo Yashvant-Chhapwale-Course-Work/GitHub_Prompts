@@ -3,7 +3,7 @@
 <br>
 
 ## Repository Initialization Using Github_Website
-  - Go To [`Github`](https://github.com/) .
+  - Go To **[`Github`](https://github.com/)** .
   - `Sign In` to your Github_Account.
   - To `Create a New Repository` >> Click on `New`
     ![GitHub>>New_Repository](https://github.com/user-attachments/assets/5c88809c-97f5-421b-9b56-5a9f44146b49)
