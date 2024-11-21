@@ -6,8 +6,10 @@
   - Go To [`Github`](https://github.com/) .
   - `Sign In` to your Github_Account.
   - To `Create a New Repository` >> Click on `New`
-    ![Github>>New_Repository](https://github.com/user-attachments/assets/5c88809c-97f5-421b-9b56-5a9f44146b49)
-  - 
+    ![GitHub>>New_Repository](https://github.com/user-attachments/assets/5c88809c-97f5-421b-9b56-5a9f44146b49)
+  - Set `Repository_NAME` >> Set `Repository_DESCRIPTION` (Optional) >> Set `VISIBILITY` (Either `Public` or `Private`) >> Customize `.gitignore` (Optional) >> Choose an appropriate `LICENSE` for your work (Optional).
+  - After Performing above steps Click on `Create Repository` to Initialize and Create a Github_Repository .
+    ![GitHub>>Create_Repository](https://github.com/user-attachments/assets/17ec6a4a-1ab1-4feb-99f3-934d2cd39e27)
   - [`Create GitHub Account`](https://github.com/signup)
 
 
