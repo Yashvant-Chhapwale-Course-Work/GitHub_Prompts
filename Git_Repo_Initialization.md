@@ -1,48 +1,16 @@
-# Git/Github_Setup [Using VsCode]
+# Git_Repository Initialization and Setup
 ---
 <br>
 
-## Prerequisites Installation
-  - [`Download VSCode`](https://code.visualstudio.com/)
-  - [`Download Git`](https://git-scm.com/)
+## Repository Initialization Using Github_Website
+  - Go To [`Github`](https://github.com/) .
+  - `Sign In` to your Github_Account.
+  - To `Create a New Repository` >> Click on `New`
+    ![Github>>New_Repository](https://github.com/user-attachments/assets/5c88809c-97f5-421b-9b56-5a9f44146b49)
+  - 
   - [`Create GitHub Account`](https://github.com/signup)
 
-## Ensure Git is added to your System's PATH 
-  - If Git is not recognized in your terminal, you need to add it to your System's PATH.
 
-  - On `Windows`:
-    - Search for `Edit the System's Environment Variables` in the `Start Menu`.<br>
-      ![Edit_The_System_Environment_Variables](https://github.com/user-attachments/assets/14c2c514-887c-49b5-8f40-b17064d4f976)
-      <br>
-    - Under `Advanced` >> click `Environment Variables`.<br>
-      ![System_Properties>>Advanced_TAB>>Environment Variables](https://github.com/user-attachments/assets/d86361a7-cd10-4e8b-af90-cdd894be1fad)
-      <br>
-    - Under `User Variables` >> click on the `PATH` variable >> click `Edit`.<br>
-      ![Environment Variables>>User_Variables>>PATH>>Edit](https://github.com/user-attachments/assets/f445bae0-49cd-4174-9715-e7de4c22fe43)
-      <br>
-    - Click `New` >> Add the path to your `Git bin` folder (e.g., C:\Program Files\Git\bin\git.exe).
-    - `Click OK` to Save.<br>
-      ![Edit_Environment_Variable>>New>>OK](https://github.com/user-attachments/assets/15fe7218-fb0f-48d9-981a-b88021c12b77)
-      <br>
-
-<div align="center">
-___________________________________________________
-</div>
-
-## Alternatively you can download [` GitHub_Desktop `](https://github.com/apps/desktop) 
-  - Download [` GitHub_Desktop `](https://github.com/apps/desktop) instead of downloading and setting up `Git_CLI` separately.
-  - **`Advantages`** Of GitHub Desktop:
-    - `User-Friendly Interface`: Easy to navigate GUI, suitable for beginners.
-    - Displays line-by-line changes for `easier code review`.
-    - `Streamlines frequent Git actions` like commits, pushes, and pulls.
-    - `Simplified Branch Management`: Easy creation, switching, and merging of branches.
-    - `Integrated GitHub Features`: Direct support for pull requests, issue tracking, and repository publishing.
-    - `Built-In Conflict Resolution`: User-friendly tools for resolving merge conflicts.
-    - `Multi-Repository Management`: Seamlessly manage and switch between multiple repositories.
-    - `Quick Authentication`: Simplifies login and authentication with GitHub accounts.
-    - `No Separate Git Installation Required`:
-      - GitHub Desktop includes pre-configured Git installation, reducing setup complexity.
-      - Users can start using Git features through Command_Prompt / Powershell immediately after installing GitHub Desktop.
 <br>
 
 ---
