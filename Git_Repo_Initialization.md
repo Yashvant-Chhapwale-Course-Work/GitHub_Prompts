@@ -10,7 +10,16 @@
   - Set `Repository_NAME` >> Set `Repository_DESCRIPTION` (Optional) >> Set `VISIBILITY` (Either `Public` or `Private`) >> Customize `.gitignore` (Optional) >> Choose an appropriate `LICENSE` for your work (Optional).
   - After Performing above steps Click on `Create Repository` to Initialize and Create a Github_Repository .
     ![GitHub>>Create_Repository](https://github.com/user-attachments/assets/17ec6a4a-1ab1-4feb-99f3-934d2cd39e27)
-  - [`Create GitHub Account`](https://github.com/signup)
+  - **`Public Repository`:**
+    - **Description:** `Visible to everyone on GitHub.` Anyone can view the repository contents, including code, issues, and pull requests.
+    - **Access Control:** Only collaborators or contributors with appropriate permissions can make changes.
+    - **Use Cases:** Open-source projects, publicly shared resources, community contributions.
+  - **`Private Repository`:**
+    - **Description:** `Restricted to specific users or teams.` Only authorized users can view or access the contents.
+    - **Access Control:** Collaborators or organization members with explicit access can contribute.
+    - **Use Cases:** Proprietary projects, sensitive work, internal collaboration.
+
+
 
 
 <br>
