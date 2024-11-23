@@ -5,11 +5,13 @@
 ## Repository Initialization Using Github_Website
   - Go To **[`Github`](https://github.com/)** .
   - `Sign In` to your Github_Account.
-  - To `Create a New Repository` >> Click on `New`
+  - To `Create a New Repository` >> Click on `New`<br>
     ![GitHub>>New_Repository](https://github.com/user-attachments/assets/5c88809c-97f5-421b-9b56-5a9f44146b49)
+    <br>
   - Set `Repository_NAME` >> Set `Repository_DESCRIPTION` (Optional) >> Set `VISIBILITY` (Either `Public` or `Private`) >> Customize `.gitignore` (Optional) >> Choose an appropriate `LICENSE` for your work (Optional).
-  - After Performing above steps Click on `Create Repository` to Initialize and Create a Github_Repository .
+  - After Performing above steps Click on `Create Repository` to Initialize and Create a Github_Repository.<br>
     ![GitHub>>Create_Repository](https://github.com/user-attachments/assets/17ec6a4a-1ab1-4feb-99f3-934d2cd39e27)
+    <br>
   - **`Public Repository`:**
     - **Description:** `Visible to everyone on GitHub.` Anyone can view the repository contents, including code, issues, and pull requests.
     - **Access Control:** Only collaborators or contributors with appropriate permissions can make changes.
@@ -28,12 +30,14 @@
 <br>
 
 ## Repository Initialization Using Github_Desktop
-  - Open your terminal or command prompt and configure Git with your GitHub credentials.
-  - ```
-    git config --global user.name "GITHUB_USERNAME"
-    git config --global user.email "EMAIL_ID@gmail.com"
-    ```
-    Replace **`GITHUB_USERNAME`** with **`Your Github Username`** and **`EMAIL_ID@gmail.com`** with **`Your Github_Email Account`**.
+  - Open `Github_Desktop`.
+  - Browse `File` >> Click on `New repository...` o/r Use Shortcut ` Ctrl + N `.<br>
+    ![GitHub_Desktop>>New_Repository](https://github.com/user-attachments/assets/0bae54da-c3de-400d-8901-b0440684e2bf)
+    <br>
+  - Set `Repository_NAME` >> Set `Repository_DESCRIPTION` (Optional) >> Customize `.gitignore` (Optional) >> Choose an appropriate `LICENSE` for your work (Optional).
+  - After Performing above steps Click on `Create Repository` to Initialize and Create a Github_Repository .<br>
+    ![GitHub_Desktop>>Create_Repository](https://github.com/user-attachments/assets/6bf01418-cf4c-4ddb-b14d-5cf48b8f2475)
+    <br>
   - Verify the Changes:
     ```
     git config --list --global
