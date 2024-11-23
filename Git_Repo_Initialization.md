@@ -50,6 +50,11 @@
 <br>
 
 ## Repository Initialization [ Using VSCode Source-Control ]
+  - Open `VSCode`.
+  - For `Initialising a New Project`, Go To `File` >> Click on `Open Folder` or Use shortcut `Ctrl + O` and Create/Open a New Folder in your Local Machine for the Project.
+    [`Note`: For `Uploading an Existing Project`, Navigate To and Open the folder where the Project is Stored.]<br>
+    ![VSCode>>File>>Open Folder](https://github.com/user-attachments/assets/2b2ac1c6-4dda-4384-a205-fc05fb96bb6e)
+    <br>
   - 
 <br>
 
