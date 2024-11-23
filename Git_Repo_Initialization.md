@@ -41,9 +41,9 @@
   - This Repository is currently only available on your Local Machine. Click on `Publish repository` to make it available on your GitHub _Account.<br>
     ![Github_Desktop>>Publish_Repository](https://github.com/user-attachments/assets/44b52764-c714-433a-8d81-3cad977ee14e)
     <br>
-  - Provide the `REPOSITORY_NAME` and a `REPOSITORY_DESCRIPTION (Optional)` to publish the Repository on your GitHub_Account.<br>
-    ![Github_Desktop>>Publish_Repostiory>>Enter_Name_And_Description](https://github.com/user-attachments/assets/8a91e346-562d-49d5-8320-2d631f3f6b79)
-    <br>
+  - Provide the `REPOSITORY_NAME` and a `REPOSITORY_DESCRIPTION (Optional)` >> Click on `Publish Repository` to publish the Repository on your GitHub_Account.<br>
+    ![Github_Desktop>>Publish_Repostiory>>Enter_Name_And_Description](https://github.com/user-attachments/assets/8a91e346-562d-49d5-8320-2d631f3f6b79)<br>
+    [`Note`: Deselect the `Keep this code private` Option to make the Repository Public. `By Default, GitHub_Desktop sets the Repository to Private` when publishing from your Local Machine.]
 <br>
 
 ---
