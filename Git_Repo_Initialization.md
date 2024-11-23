@@ -55,7 +55,9 @@
     [`Note`: For `Uploading an Existing Project`, Navigate To and Open the folder where the Project is Stored.]<br>
     ![VSCode>>File>>Open Folder](https://github.com/user-attachments/assets/2b2ac1c6-4dda-4384-a205-fc05fb96bb6e)
     <br>
-  - 
+  - Go To `Source Control` by Clicking on the `Fork` icon >> Click on `Initialize Repository`.<br>
+    ![GitHub>>Source Control>>Initialize Repository](https://github.com/user-attachments/assets/6abdcb44-6d06-44c6-b779-214503bc3f25)
+    <br>
 <br>
 
 ---
