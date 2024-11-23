@@ -59,8 +59,9 @@
     ![GitHub>>Source Control>>Initialize Repository](https://github.com/user-attachments/assets/6abdcb44-6d06-44c6-b779-214503bc3f25)
     <br>
   - Click on `Publish Branch` to upload the Project to the Remote Repository.<br>
-    ![VSCode>>Source Control>>Publish Branch](https://github.com/user-attachments/assets/3a489239-db4c-4682-9369-669ffd0013e2)
-    <br>
+    ![VSCode>>Source Control>>Publish Branch](https://github.com/user-attachments/assets/3a489239-db4c-4682-9369-669ffd0013e2)<br>
+    `Note`: Sometimes `Publish Branch` button might not be available directly if the system is already initialized with a branch.
+    Check if the 
   - 
 <br>
 
