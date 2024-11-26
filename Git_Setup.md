@@ -24,10 +24,12 @@
     - `Click OK` to Save.<br>
       ![Edit_Environment_Variable>>New>>OK](https://github.com/user-attachments/assets/15fe7218-fb0f-48d9-981a-b88021c12b77)
       <br>
-
+      
+<br>
 <div align="center">
 ___________________________________________________
 </div>
+<br>
 
 ## Alternatively you can download [` GitHub_Desktop `](https://github.com/apps/desktop) 
   - Download [` GitHub_Desktop `](https://github.com/apps/desktop) instead of downloading and setting up `Git_CLI` separately.
@@ -135,26 +137,17 @@ ___________________________________________________
 
 ## Configure Git Credentials [For VSCode]
   - Open `VSCode`.
-  - Click on `Accounts_Icon` at the bottom in the Left-Hand-Side Menu >> Click on `Sign in with GiHhub`<br>
+  - Click on `Accounts_Icon` at the bottom, in the Left-Hand-Side Menu >> Click on `Sign in with GiHhub`<br>
     ![VSCode>>Accounts](https://github.com/user-attachments/assets/c3f41205-5505-4373-820e-df066325d95f)
     <br>
-  - Under Accounts >> Click on `Sign In`.<br>
-    ![Options>>Accounts>>Sign In](https://github.com/user-attachments/assets/5fc1abba-8e75-4d08-b1d6-319170f08f77)
-    <br>
-  - You will be redirected to the Sign In web page after clicking on the `Continue with browser` Button.<br>
-    ![Redirect_To_SignIn_Webpage](https://github.com/user-attachments/assets/892be788-c582-4f00-891f-47ee5dfeaaff)
-    <br>
   - `Sign In` to Your `GiitHub Account`<br>
-    ![SignIn_WebPage](https://github.com/user-attachments/assets/c5cd19e3-8a31-44b8-beb2-c9e620281d40)
+    ![VSCode>>GitHub_SignIn](https://github.com/user-attachments/assets/95c8cd1b-afda-483f-8066-d169ebecf162)
     <br>
-  - Click `Open GithubDesktop.exe` for redirecting to GitHub_Desktop.<br>
-    ![Redirecting Github_Desktop](https://github.com/user-attachments/assets/807f3edc-20e2-404b-95f1-0c01288397f3)
-    <br>
-  - Again, Go To `File` >> Click on `Git`>> Set Your `Git_Credentials(Username and Email)` For Git.<br>
-    `NOTE`:Generally This Step Is Configured Automatically With Account Sign In.<br>
-    ![GitHub_Desktop>>File>>Git>>Set Name_and_Email](https://github.com/user-attachments/assets/f7a33cae-fe2f-4770-bd56-b04492550f6f)
-    <br>
-  - Click on `Save` to Save Credentials.
+<br>
+<div align="center">
+___________________________________________________
+</div>
+<br>
 <br>
 
 ---
