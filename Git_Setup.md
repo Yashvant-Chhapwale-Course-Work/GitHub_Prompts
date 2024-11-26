@@ -1,4 +1,4 @@
-w# Git/Github_Setup
+# Git/Github_Setup
 ---
 <br>
 
