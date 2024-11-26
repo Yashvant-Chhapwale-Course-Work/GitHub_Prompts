@@ -9,7 +9,7 @@
 | 1.  **Pre_requisites**                                                                                         | >> [` CHECK CONTENT `](#prerequisites-installation)                                           |
 | 2.  **Git Version Verificaton**                                                                                | >> [` CHECK CONTENT `](#version-verification)                                                 |
 | 3.  **Configure Git Credentials Using CLI**                                                                    | >> [` CHECK CONTENT `](#configure-git-using-cli)                                              |
-| 4.  **Configure Git Credentials Using CLI**                                                                    | >> [` CHECK CONTENT `](#configure-git-for-a-specific-repository-using-cli)                    |
+| 4.  **Configure Git Credentials Using CLI [For a Specific Repository / Project]**                              | >> [` CHECK CONTENT `](#configure-git-for-a-specific-repository-project-using-cli)            |
 </div>
 
 ---
@@ -97,7 +97,7 @@ ___________________________________________________
     ```
 <br>
 
-## Configure Git For a Specific Repository [Using CLI]
+## Configure Git For a Specific Repository/Project [Using CLI]
   - Open your terminal or command prompt and configure Git with your GitHub credentials.
   - Navigate to the Local Repository using the `cd (Change Directory)` Command:
     ```
