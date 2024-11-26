@@ -1,7 +1,6 @@
 # Git/Github_Setup
 ---
 <br>
-
 <div align="center">
  
 ### TABLE OF CONTENT
