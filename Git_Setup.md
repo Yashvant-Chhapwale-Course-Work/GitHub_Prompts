@@ -7,7 +7,8 @@
 | TITLE                                                                                                          | SECTION_LINK                                                                                                                  |
 |----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | 1.  **Pre_requisites**                                                                                         | >> [` CHECK CONTENT `](#Prerequisites_Installation)                                                                           |
-| 2.  **Git Repository Initialization**                                                                          | >> [` CHECK CONTENT `](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Repo_Initialization.md) |
+| 2.  **Ensuring Git is added to System's PATH**                                                                 | >> [` CHECK CONTENT `](#Ensure_Git_is_added_to_your_System's_PATH )                                                           |
+| 3.  **Ensuring Git is added to System's PATH**                                                                 | >> [` CHECK CONTENT `](#Ensure_Git_is_added_to_your_System's_PATH )                                                           |
 </div>
 
 ---
