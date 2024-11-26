@@ -110,7 +110,7 @@ ___________________________________________________
 <br>
 
 ## Configure Git Credentials [For Github Desktop]
-  - Open GitHub_Desktop.
+  - Open `GitHub_Desktop`.
   - Browse `File` >> Click on `Options...` o/r Use shortcut `Ctrl + ,`.<br>
     ![GitHub_Desktop>>File>>Options....](https://github.com/user-attachments/assets/4f1f7d1e-a95a-47cf-b9fc-68ef8dded11e)
     <br>
@@ -134,7 +134,7 @@ ___________________________________________________
 <br>
 
 ## Configure Git Credentials [For VSCode]
-  - Go To`Control Panel` >> .
+  - Open `VSCode`.
   - Browse `File` >> Click on `Options...` o/r Use shortcut `Ctrl + ,`.<br>
     ![GitHub_Desktop>>File>>Options....](https://github.com/user-attachments/assets/4f1f7d1e-a95a-47cf-b9fc-68ef8dded11e)
     <br>
