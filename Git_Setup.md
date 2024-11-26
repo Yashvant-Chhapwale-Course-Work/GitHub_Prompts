@@ -135,8 +135,8 @@ ___________________________________________________
 
 ## Configure Git Credentials [For VSCode]
   - Open `VSCode`.
-  - Browse `File` >> Click on `Options...` o/r Use shortcut `Ctrl + ,`.<br>
-    ![GitHub_Desktop>>File>>Options....](https://github.com/user-attachments/assets/4f1f7d1e-a95a-47cf-b9fc-68ef8dded11e)
+  - Click on `Accounts_Icon` at the bottom in the Left-Hand-Side Menu >> Click on `Sign in with GiHhub`<br>
+    ![VSCode>>Accounts](https://github.com/user-attachments/assets/c3f41205-5505-4373-820e-df066325d95f)
     <br>
   - Under Accounts >> Click on `Sign In`.<br>
     ![Options>>Accounts>>Sign In](https://github.com/user-attachments/assets/5fc1abba-8e75-4d08-b1d6-319170f08f77)
