@@ -4,11 +4,12 @@
 
 <div align="center">
  
-| TITLE                                                                                                          | SECTION_LINK                                                                                                                  |
-|----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| 1.  **Pre_requisites**                                                                                         | >> [` CHECK CONTENT `](#Prerequisites_Installation)                                                                           |
-| 2.  **Ensuring Git is added to System's PATH**                                                                 | >> [` CHECK CONTENT `](#Ensure_Git_is_added_to_your_System's_PATH )                                                           |
-| 3.  **Ensuring Git is added to System's PATH**                                                                 | >> [` CHECK CONTENT `](#Ensure_Git_is_added_to_your_System's_PATH )                                                           |
+| TITLE                                                                                                          | SECTION_LINK                                                                                  |
+|----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| 1.  **Pre_requisites**                                                                                         | >> [` CHECK CONTENT `](#Prerequisites_Installation)                                           |
+| 2.  **Git Version Verificaton**                                                                                | >> [` CHECK CONTENT `](#Version_Verification)                                                 |
+| 3.  **Configure Git Credentials Using CLI**                                                                    | >> [` CHECK CONTENT `](#Configure_Git_[Using_CLI])                                            |
+| 4.  **Configure Git Credentials Using CLI**                                                                    | >> [` CHECK CONTENT `](#Configure_Git_[Using_CLI])                                            |
 </div>
 
 ---
@@ -41,8 +42,6 @@
 ___________________________________________________
 </div>
 <br>
-
-  - hi  
 
 ## Alternatively you can download [` GitHub_Desktop `](https://github.com/apps/desktop) 
   - Download [` GitHub_Desktop `](https://github.com/apps/desktop) instead of downloading and setting up `Git_CLI` separately.
@@ -77,7 +76,7 @@ ___________________________________________________
 ---
 <br>
 
-## Configure Git
+## Configure Git [Using CLI]
   - Open your terminal or command prompt and configure Git with your GitHub credentials.
   - ```
     git config --global user.name "GITHUB_USERNAME"
@@ -98,7 +97,7 @@ ___________________________________________________
     ```
 <br>
 
-## Configure Git [For a Specific  Repository]
+## Configure Git For a Specific Repository [Using CLI]
   - Open your terminal or command prompt and configure Git with your GitHub credentials.
   - Navigate to the Local Repository using the `cd (Change Directory)` Command:
     ```
