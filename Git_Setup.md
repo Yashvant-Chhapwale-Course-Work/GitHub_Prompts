@@ -2,6 +2,17 @@
 ---
 <br>
 
+<div align="center">
+ 
+| TITLE                                                                                                          | SECTION_LINK                                                                                                                  |
+|----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| 1.  **Pre_requisites**                                                                                         | >> [` CHECK CONTENT `](#Prerequisites Installation)                                                                           |
+| 2.  **Git Repository Initialization**                                                                          | >> [` CHECK CONTENT `](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Repo_Initialization.md) |
+</div>
+
+---
+<br>
+
 ## Prerequisites Installation
   - [`Download VSCode`](https://code.visualstudio.com/)
   - [`Download Git`](https://git-scm.com/)
