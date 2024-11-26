@@ -13,6 +13,7 @@
 | 4.  **Configure Git Credentials Using CLI [For a Specific Repository / Project]**                              | >> [` CHECK CONTENT `](#configure-git-for-a-specific-repositoryproject-using-cli)             |
 | 5.  **Configure Git Credentials [For GitHub Desktop]**                                                         | >> [` CHECK CONTENT `](#configure-git-credentials-for-github-desktop)                         |
 | 6.  **Configure Git Credentials [For VSCode]**                                                                 | >> [` CHECK CONTENT `](#configure-git-credentials-for-vscode)                                 |
+| 7.  **GitHub Extensions For VSCode**                                                                           | >> [` CHECK CONTENT `](#vscode_extensions)                                                    |
 </div>
 
 ---
