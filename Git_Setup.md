@@ -6,10 +6,10 @@
  
 | TITLE                                                                                                          | SECTION_LINK                                                                                  |
 |----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| 1.  **Pre_requisites**                                                                                         | >> [` CHECK CONTENT `](#Prerequisites_Installation)                                           |
-| 2.  **Git Version Verificaton**                                                                                | >> [` CHECK CONTENT `](#Version_Verification)                                                 |
-| 3.  **Configure Git Credentials Using CLI**                                                                    | >> [` CHECK CONTENT `](#Configure_Git_[Using_CLI])                                            |
-| 4.  **Configure Git Credentials Using CLI**                                                                    | >> [` CHECK CONTENT `](#Configure_Git_[Using_CLI])                                            |
+| 1.  **Pre_requisites**                                                                                         | >> [` CHECK CONTENT `](#prerequisites-installation)                                           |
+| 2.  **Git Version Verificaton**                                                                                | >> [` CHECK CONTENT `](#version-verification)                                                 |
+| 3.  **Configure Git Credentials Using CLI**                                                                    | >> [` CHECK CONTENT `](#configure-git-[using-cli])                                            |
+| 4.  **Configure Git Credentials Using CLI**                                                                    | >> [` CHECK CONTENT `](#configure-git-[using-cli])                                            |
 </div>
 
 ---
