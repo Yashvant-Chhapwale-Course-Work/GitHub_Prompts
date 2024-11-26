@@ -25,11 +25,12 @@
       ![Edit_Environment_Variable>>New>>OK](https://github.com/user-attachments/assets/15fe7218-fb0f-48d9-981a-b88021c12b77)
       <br>
       
-<br>
 <div align="center">
 ___________________________________________________
 </div>
 <br>
+
+  - hi  
 
 ## Alternatively you can download [` GitHub_Desktop `](https://github.com/apps/desktop) 
   - Download [` GitHub_Desktop `](https://github.com/apps/desktop) instead of downloading and setting up `Git_CLI` separately.
