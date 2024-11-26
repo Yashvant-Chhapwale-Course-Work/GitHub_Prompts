@@ -9,7 +9,9 @@ w# Git/Github_Setup
 | 1.  **Pre_requisites**                                                                                         | >> [` CHECK CONTENT `](#prerequisites-installation)                                           |
 | 2.  **Git Version Verificaton**                                                                                | >> [` CHECK CONTENT `](#version-verification)                                                 |
 | 3.  **Configure Git Credentials Using CLI**                                                                    | >> [` CHECK CONTENT `](#configure-git-using-cli)                                              |
-| 4.  **Configure Git Credentials Using CLI [For a Specific Repository / Project]**                              | >> [` CHECK CONTENT `](#configure-git-for-a-specific-repositoryproject-using-cli)          |
+| 4.  **Configure Git Credentials Using CLI [For a Specific Repository / Project]**                              | >> [` CHECK CONTENT `](#configure-git-for-a-specific-repositoryproject-using-cli)             |
+| 5.  **Configure Git Credentials [For GitHub Desktop]**                                                         | >> [` CHECK CONTENT `](#configure-git-credentials-for-github-desktop)                         |
+| 6.  **Configure Git Credentials [For VSCode]**                                                                 | >> [` CHECK CONTENT `](#configure-git-credentials-for-vscode)                                 |
 </div>
 
 ---
@@ -123,7 +125,7 @@ ___________________________________________________
     ```
 <br>
 
-## Configure Git Credentials [For Github Desktop]
+## Configure Git Credentials [For GitHub Desktop]
   - Open `GitHub_Desktop`.
   - Browse `File` >> Click on `Options...` o/r Use shortcut `Ctrl + ,`.<br>
     ![GitHub_Desktop>>File>>Options....](https://github.com/user-attachments/assets/4f1f7d1e-a95a-47cf-b9fc-68ef8dded11e)
