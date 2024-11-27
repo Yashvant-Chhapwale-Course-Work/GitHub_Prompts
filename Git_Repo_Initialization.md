@@ -80,7 +80,7 @@
     `Note`:
     - If VSCode is not connected to the GitHub Account where you want to create a Repository, then it will prompt you for permission to Sign In to your GitHub Account.
     - Click on `Allow` and `Sign_In` to your GitHub Account.
-    - If you want to change the GitHub Account where your repository is being published, then follow the steps for [`Git Account Configuration Using VSCode`](Git_Setup.md#using-vscode)
+    - If you want to change the GitHub Account where your repository is being published, then follow the steps: Go To  [`Git_Setup`](Git_Setup.md) >> Click on `CHECK CONTENT` for Git Configuration Using VSCode >> Follow the steps shown in that Section.
   - 
 <br>
 
