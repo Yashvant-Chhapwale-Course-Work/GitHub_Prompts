@@ -78,8 +78,10 @@
     <br>
   - Click on `Publish Branch` to upload the Project to the Remote Repository.<br>
     ![VSCode>>Source Control>>Publish Branch](https://github.com/user-attachments/assets/3a489239-db4c-4682-9369-669ffd0013e2)<br>
-    `Note`: Sometimes `Publish Branch` button might not be available directly if the system is already initialized with a branch.
-    Check if the 
+    `Note`:
+    - If VSCode is not connected to the GitHub Account where you want to create a Repository, then it will prompt you for permission to Sign In to your GitHub Account.
+    - Click on `Allow` and `Sign_In` to your GitHub Account.
+    - If you want to change the GitHub Account where your repository is being published, then follow the steps for [Git 
   - 
 <br>
 
