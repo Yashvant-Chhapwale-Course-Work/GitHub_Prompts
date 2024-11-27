@@ -7,7 +7,7 @@
  
 | TITLE                                                                                                          | SECTION_LINK                                                                                  |
 |----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| 1.  **Create A Repository Using Git_CLI Commands**                                                             | >> [` CHECK CONTENT `](#repository-initialization--using-git_cli-)                            |
+| 1.  **Create A Repository Using Git_CLI Commands**                                                             | >> [` CHECK CONTENT `](#repository-initialization--using-gitcli-)                             |
 | 2.  **Create A Repository Using GitHub_Web_Interface**                                                         | >> [` CHECK CONTENT `](#repository-initialization--using-github_website-)                     |
 | 3.  **Create A Repository Using GitHub_Desktop**                                                               | >> [` CHECK CONTENT `](#repository-initialization--using-github_desktop-)                     |
 | 4.  **Create A Repository Using VSCode Source_Control Tool**                                                   | >> [` CHECK CONTENT `](#repository-initialization--using-vscode-source-control-)              |
