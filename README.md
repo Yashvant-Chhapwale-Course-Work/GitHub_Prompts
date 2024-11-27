@@ -16,8 +16,7 @@
 |      **>> Using Git CLI**                                                                                      |                                                                                                                               |
 |      **>> Using GitHub Desktop**                                                                               |                                                                                                                               |    
 |      **>> Using VSCode**                                                                                       |                                                                                                                               |
-                                                                                                         
-| 2.  **Git Repository Initialization**                                                                          | >> [` CHECK CONTENT `](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Repo_Initialization.md) |
+|________________________________________________________________________________________________________________|_______________________________________________________________________________________________________________________________|                                       | 2.  **Git Repository Initialization**                                                                          | >> [` CHECK CONTENT `](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Repo_Initialization.md) |
 </div>
 
 ---
