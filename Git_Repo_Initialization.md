@@ -78,7 +78,7 @@
   - Create a `Demo Commit File` in the Local Repository Folder to make the `First Commit`, so that the repository can be published to GitHub.<br>
     ![VSCode>>Demo Commit File](https://github.com/user-attachments/assets/0f7f0742-fd4d-451a-9e67-0c0185ffae24)
     <br>
-  - Go To `Source-Control` >> Click on `Commit` to commit changes to local repository.<br>
+  - Go To `Source-Control` >> Replace 'ENTER-COMMIT-TEXT' with a `Commit Message` >> Click on `Commit` to commit changes to local repository.<br>
     ![VSCode>>Demo Commit File>>Commit](https://github.com/user-attachments/assets/4748d8ec-fb03-482b-b5b4-cb4cfb82d113)
     <br>
   - Click on `Yes` to `Stage All Changes and Commit them directly`<br>
