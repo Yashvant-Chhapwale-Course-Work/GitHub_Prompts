@@ -90,7 +90,7 @@
   - Click on `Yes` to `Stage All Changes and Commit them directly`<br>
     ![VSCode>>Demo Commit File>>Commit>>Stage and Commit ? 'Yes'](https://github.com/user-attachments/assets/e9cc609f-6974-49ed-8413-2815293baf52)
     <br>
-  - Click on `Publish Branch` to upload the Project to the Remote Repository.<br>
+  - Click on `Publish Branch` to upload/create the Project as a Remote Repository.<br>
     ![VSCode>>Source Control>>Publish Branch](https://github.com/user-attachments/assets/3a489239-db4c-4682-9369-669ffd0013e2)<br>
     `Note`:
     - If VSCode is not connected to the GitHub Account where you want to create a Repository, then it will prompt you for permission to Sign In to your GitHub Account.
