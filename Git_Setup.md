@@ -12,7 +12,7 @@
 | 3.  **Configure Git Credentials Using CLI**                                                                    | >> [` CHECK CONTENT `](#configure-git-using-cli)                                              |
 | 4.  **Configure Git Credentials Using CLI [For a Specific Repository / Project]**                              | >> [` CHECK CONTENT `](#configure-git-for-a-specific-repositoryproject-using-cli)             |
 | 5.  **Configure Git Credentials [For GitHub Desktop]**                                                         | >> [` CHECK CONTENT `](#configure-git-credentials-for-github-desktop)                         |
-| 6.  **Configure Git Credentials [For VSCode]**                                                                 | >> [` CHECK CONTENT `](#configure-git-credentials-for-vscode)                                 |
+| 6.  **Configure Git Credentials [For VSCode]**                                                                 | >> [` CHECK CONTENT `](#if-github-pull-requests-extension-is-enabled)                         |
 | 7.  **GitHub Extensions For VSCode**                                                                           | >> [` CHECK CONTENT `](#vscode-extensions)                                                    |
 </div>
 
@@ -160,7 +160,6 @@ ___________________________________________________
 <br>
 
 # Using VSCode
-### Configure Git Credentials [For VSCode]:
   ### If "GitHub Pull Requests" Extension is Enabled:
   - Open `VSCode`.
   - Click on `Accounts_Icon` at the `Bottom-Left Corner of VSCode` >> Click on `Sign in with GitHub to use GitHub Pull Requests.`<br>
