@@ -154,7 +154,7 @@ ___________________________________________________
 ## Configure Git Credentials [For VSCode]
   ### If "GitHub Pull Requests" Extension is Enabled:
   - Open `VSCode`.
-  - Click on `Accounts_Icon` at the bottom, in the Left-Hand-Side Menu >> Click on `Sign in with GiHhub`<br>
+  - Click on `Accounts_Icon` at the `Bottom-Left Corner of VSCode` >> Click on `Sign in with GiHhub`<br>
     ![VSCode>>Accounts](https://github.com/user-attachments/assets/c3f41205-5505-4373-820e-df066325d95f)
     <br>
   - `Sign In` to Your `GiitHub Account`<br>
