@@ -75,13 +75,23 @@
   - Go To `Source Control` by Clicking on the `Fork` icon >> Click on `Initialize Repository`.<br>
     ![GitHub>>Source Control>>Initialize Repository](https://github.com/user-attachments/assets/6abdcb44-6d06-44c6-b779-214503bc3f25)
     <br>
+  - Create a `Demo Commit File` in the Local Repository Folder to make the `First Commit`, so that the repository can be published to GitHub.<br>
+    ![VSCode>>Demo Commit File](https://github.com/user-attachments/assets/0f7f0742-fd4d-451a-9e67-0c0185ffae24)
+    <br>
+  - Go To `Source-Control` >> Click on `Commit` to commit changes to local repository.<br>
+    ![VSCode>>Demo Commit File>>Commit](https://github.com/user-attachments/assets/4748d8ec-fb03-482b-b5b4-cb4cfb82d113)
+    <br>
+  - Click on `Yes` to `Stage All Changes and Commit them directly`<br>
+    ![VSCode>>Demo Commit File>>Commit>>Stage and Commit ? 'Yes'](https://github.com/user-attachments/assets/e9cc609f-6974-49ed-8413-2815293baf52)
+    <br>
   - Click on `Publish Branch` to upload the Project to the Remote Repository.<br>
     ![VSCode>>Source Control>>Publish Branch](https://github.com/user-attachments/assets/3a489239-db4c-4682-9369-669ffd0013e2)<br>
     `Note`:
     - If VSCode is not connected to the GitHub Account where you want to create a Repository, then it will prompt you for permission to Sign In to your GitHub Account.
     - Click on `Allow` and `Sign_In` to your GitHub Account.
     - **To `Change GitHub_Account` where the repository is being published:** Go To  [`Git_Setup`](Git_Setup.md) >> Click on `CHECK CONTENT` for `Configure Git Credentials [For VSCode with GitHub Pull Requests Extension]` or for `Configure Git Credentials [For VSCode without GitHub Pull Requests Extension]` >> Follow the steps shown in the Section to change your GitHub Account for VSCode.
-  - 
+  - Select `Publish to GitHub Private Repository` or `Publish to GitHub Public Repository` based on the type of `Access Control` you want for the repository.<br>
+    ![VSCode>>Publish To Branch>>Public Or Private](https://github.com/user-attachments/assets/2334119c-f35b-4072-8c52-98b253e73cb6
 <br>
 
 ---
