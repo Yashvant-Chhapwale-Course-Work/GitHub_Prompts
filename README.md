@@ -10,13 +10,13 @@
 
 <div align="center">
  
-| TITLE                                                                                                          | SECTION_LINK                                                                                                                  |
+| 1. Git Setup_And_Configuration Instructions                                                                    | SECTION_LINK                                                                                                                  |
 |----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | 1.  **Git Setup_And_Configuration Instructions**                                                               | >> [` CHECK CONTENT `](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Setup.md)               |
-|      >> Using Git CLI                                                                                          |                                                                                                                               |
-|      >> Using GitHub Desktop                                                                                   |                                                                                                                               |    
-|      >> Using VSCode                                                                                           |                                                                                                                               |
-| .                                                                                                              |                                                                                                                               |
+|      **>> Using Git CLI**                                                                                      |                                                                                                                               |
+|      **>> Using GitHub Desktop**                                                                               |                                                                                                                               |    
+|      **>> Using VSCode**                                                                                       |                                                                                                                               |
+                                                                                                         
 | 2.  **Git Repository Initialization**                                                                          | >> [` CHECK CONTENT `](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Repo_Initialization.md) |
 </div>
 
