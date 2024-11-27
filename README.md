@@ -12,7 +12,11 @@
  
 | TITLE                                                                                                          | SECTION_LINK                                                                                                                  |
 |----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| 1.  **Git Setup_And_Configuration Instructions**                                                               | >> [` CHECK CONTENT `](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Setup.md)               |
+| 1.  **Git Setup_And_Configuration Instructions**  
+      - Using Git CLI
+      - Using GitHub Desktop
+      - Using VSCode| >> [` CHECK CONTENT `](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Setup.md)               |
+       
 | 2.  **Git Repository Initialization**                                                                          | >> [` CHECK CONTENT `](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Repo_Initialization.md) |
 </div>
 
