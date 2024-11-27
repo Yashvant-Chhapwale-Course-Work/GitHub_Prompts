@@ -96,8 +96,8 @@
     - If VSCode is not connected to the GitHub Account where you want to create a Repository, then it will prompt you for permission to Sign In to your GitHub Account.
     - Click on `Allow` and `Sign_In` to your GitHub Account.
     - **To `Change GitHub_Account` where the repository is being published:** Go To  [`Git_Setup`](Git_Setup.md) >> Click on `CHECK CONTENT` for `Configure Git Credentials [For VSCode with GitHub Pull Requests Extension]` or for `Configure Git Credentials [For VSCode without GitHub Pull Requests Extension]` >> Follow the steps shown in the Section to change your GitHub Account for VSCode.
-  - Select `Publish to GitHub Private Repository` or `Publish to GitHub Public Repository` based on the type of `Access Control` you want for the repository.<br>
-    ![VSCode>>Publish To Branch>>Public Or Private](https://github.com/user-attachments/assets/2334119c-f35b-4072-8c52-98b253e73cb6)
+  - Replace `Demo-GitHub-Repository` with your intended `Repository-Name` >> Select `Publish to GitHub Private Repository` or `Publish to GitHub Public Repository` based on the type of `Access Control` you want for the repository.<br>
+    ![VSCode>>Publish Branch>>Public Or Private](https://github.com/user-attachments/assets/a6406ffa-74f4-4770-8c70-39a246462fef)
 <br>
 
 ---
