@@ -80,6 +80,7 @@ ___________________________________________________
 ---
 <br>
 
+# Using Git_CLI [Command Line Interface]
 ## Configure Git [Using CLI]
   - Open your terminal or command prompt and configure Git with your GitHub credentials.
   - ```
@@ -127,6 +128,10 @@ ___________________________________________________
     ```
 <br>
 
+---
+<br>
+
+# Using GitHub_Desktop
 ## Configure Git Credentials [For GitHub Desktop]
   - Open `GitHub_Desktop`.
   - Browse `File` >> Click on `Options...` o/r Use shortcut `Ctrl + ,`.<br>
@@ -151,6 +156,10 @@ ___________________________________________________
   - Click on `Save` to Save Credentials.
 <br>
 
+---
+<br>
+
+# Using VSCode
 ## Configure Git Credentials [For VSCode]
   ### If "GitHub Pull Requests" Extension is Enabled:
   - Open `VSCode`.
