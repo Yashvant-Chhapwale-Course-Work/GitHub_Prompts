@@ -208,8 +208,8 @@ You can enhance Git operations in VS Code by downloading the following extension
     - Functions:
         - Create, review, and merge pull requests.
         - Browse and comment on issues.
-        - View repository details.<br>
- ![GitHub_Pull_Requests](https://github.com/user-attachments/assets/f9f0b338-3d8a-4e18-af54-c848304a9677)
+        - View repository details.
+    - ![GitHub_Pull_Requests](https://github.com/user-attachments/assets/f9f0b338-3d8a-4e18-af54-c848304a9677)
     <br>
   - `GitLens -- Git supercharged`:
     - Publisher: **GitKraken**
@@ -218,6 +218,7 @@ You can enhance Git operations in VS Code by downloading the following extension
       - See who made changes and why.
       - Explore commits and branches in detail.
       - GitHub integration for quick access to repositories.
+    - ![Git_Lens](https://github.com/user-attachments/assets/23130a4a-e505-46c3-ab04-72ab9d6f1e68)
 <br>
 
 ---
