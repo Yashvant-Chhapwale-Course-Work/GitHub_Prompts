@@ -179,7 +179,22 @@ ___________________________________________________
 <br>
 
  ### If "GitHub Pull Requests" Extension is Not Enabled:
- - hI
+ - Open `VSCode`.
+ - Browse `File` >> Click on `Open Folder...` or Use Shortcut `Ctrl + O` >> `Select the folder which you want to upload to GitHub` or `Select Any Random Folder, If you just want to Sign_In to GitHub Account`.
+ - Browse `View` >> Click on `Command Palette...`<br>
+   ![VSCode>>View>>Command Palette](https://github.com/user-attachments/assets/7a34e476-b179-4e2a-943f-d9331bd170f7)
+   <br>
+ - Paste the Command ` Publish to GitHub ` in the Command Palette >> Press `Enter`<br>
+   ![VSCode>>View>>Command Palette>>Publish to GitHub](https://github.com/user-attachments/assets/26436dcb-5cd5-4c3e-aa07-f313c97d36cd)
+   <br>
+ - Click `Allow` to give permission for Signing_In to your GitHub Account<br>
+   ![Publish to GitHub>>Click Allow](https://github.com/user-attachments/assets/ada7073b-c0cb-4180-8e38-c27fdeb17191)
+   <br>
+ - `Sign In` to Your `GiitHub Account`<br>
+   ![VSCode>>GitHub_SignIn](https://github.com/user-attachments/assets/95c8cd1b-afda-483f-8066-d169ebecf162)
+   <br>
+ You Have <font color="green">Successfully Signed_In to VSCode with your GitHub Account</font> !
+   
 <br>
 
 ---
