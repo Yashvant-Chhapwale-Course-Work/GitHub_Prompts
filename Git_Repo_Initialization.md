@@ -98,6 +98,9 @@
     - **To `Change GitHub_Account` where the repository is being published:** Go To  [`Git_Setup`](Git_Setup.md) >> Click on `CHECK CONTENT` for `Configure Git Credentials [For VSCode with GitHub Pull Requests Extension]` or for `Configure Git Credentials [For VSCode without GitHub Pull Requests Extension]` >> Follow the steps shown in the Section to change your GitHub Account for VSCode.
   - Replace `Demo-GitHub-Repository` with your intended `Repository-Name` >> Select `Publish to GitHub Private Repository` or `Publish to GitHub Public Repository` based on the type of `Access Control` you want for the repository.<br>
     ![VSCode>>Publish Branch>>Public Or Private](https://github.com/user-attachments/assets/a6406ffa-74f4-4770-8c70-39a246462fef)
+    <br>
+  - Once the Repository is Initialized and Published to GitHub Remote a Pop-Up Window will appear at Bottom-Right Corner in VSCode >> Click `Open on GitHub` to view the Published Remote Repository.
+    ![VSCode>>Publish Repository>>Open on GitHub](https://github.com/user-attachments/assets/2dfd78cf-7b3d-4fd4-bfe2-33a8d983324a)
 <br>
 
 ---
