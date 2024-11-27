@@ -81,7 +81,7 @@ ___________________________________________________
 <br>
 
 # Using Git_CLI [Command Line Interface]
-## Configure Git [Using CLI]
+### Configure Git [Using CLI]:
   - Open your terminal or command prompt and configure Git with your GitHub credentials.
   - ```
     git config --global user.name "GITHUB_USERNAME"
@@ -102,7 +102,7 @@ ___________________________________________________
     ```
 <br>
 
-## Configure Git For a Specific Repository/Project [Using CLI]
+### Configure Git For a Specific Repository/Project [Using CLI]:
   - Open your terminal or command prompt and configure Git with your GitHub credentials.
   - Navigate to the Local Repository using the `cd (Change Directory)` Command:
     ```
@@ -132,7 +132,7 @@ ___________________________________________________
 <br>
 
 # Using GitHub_Desktop
-## Configure Git Credentials [For GitHub Desktop]
+### Configure Git Credentials [For GitHub Desktop]:
   - Open `GitHub_Desktop`.
   - Browse `File` >> Click on `Options...` o/r Use shortcut `Ctrl + ,`.<br>
     ![GitHub_Desktop>>File>>Options....](https://github.com/user-attachments/assets/4f1f7d1e-a95a-47cf-b9fc-68ef8dded11e)
@@ -160,7 +160,7 @@ ___________________________________________________
 <br>
 
 # Using VSCode
-## Configure Git Credentials [For VSCode]
+### Configure Git Credentials [For VSCode]:
   ### If "GitHub Pull Requests" Extension is Enabled:
   - Open `VSCode`.
   - Click on `Accounts_Icon` at the `Bottom-Left Corner of VSCode` >> Click on `Sign in with GitHub to use GitHub Pull Requests.`<br>
