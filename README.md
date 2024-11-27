@@ -10,7 +10,7 @@
 
 <div align="center">
  
-| 1. Git Setup_And_Configuration Instructions                                                                    | SECTION_LINK                                                                                                                  |
+| TITLE                                                                                                          | SECTION_LINK                                                                                                                  |
 |----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | 1.  **Git Setup_And_Configuration Instructions**                                                               | >> [` CHECK CONTENT `](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Setup.md)               |
 |      **>> Using Git CLI**                                                                                      |                                                                                                                               |
