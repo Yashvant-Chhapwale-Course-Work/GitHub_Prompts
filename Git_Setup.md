@@ -193,7 +193,10 @@ ___________________________________________________
  - `Sign In` to Your `GiitHub Account`<br>
    ![VSCode>>GitHub_SignIn](https://github.com/user-attachments/assets/95c8cd1b-afda-483f-8066-d169ebecf162)
    <br>
- You Have Successfully Signed_In to VSCode with your GitHub Account!
+    You Have Successfully Signed_In to VSCode with your GitHub Account!
+ - `To Change GitHub Account:` Click on `Accounts_Icon` >> Click `>` on Account with `(GitHub)` Tag >> Click `Sign Out` >> Follow the above steps to `Sign_In to the desired GitHub_Account`.<br>
+   ![VSCode>>Sign_Out](https://github.com/user-attachments/assets/63815e4b-1f28-44ec-8310-4943d4056145)
+   <br>
    
 <br> 
 
