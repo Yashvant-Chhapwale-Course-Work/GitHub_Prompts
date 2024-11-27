@@ -193,10 +193,9 @@ ___________________________________________________
  - `Sign In` to Your `GiitHub Account`<br>
    ![VSCode>>GitHub_SignIn](https://github.com/user-attachments/assets/95c8cd1b-afda-483f-8066-d169ebecf162)
    <br>
- You Have <div color="green">Successfully Signed_In to VSCode with your GitHub Account</div> !
+ You Have Successfully Signed_In to VSCode with your GitHub Account!
    
-<br>
-
+<br> 
 ---
 <br>
 
