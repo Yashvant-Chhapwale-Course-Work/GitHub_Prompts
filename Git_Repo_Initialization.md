@@ -1,6 +1,24 @@
 # Git_Repository Initialization and Setup
 ---
 <br>
+<div align="center">
+ 
+### TABLE OF CONTENT
+ 
+| TITLE                                                                                                          | SECTION_LINK                                                                                  |
+|----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| 1.  **Pre_requisites**                                                                                         | >> [` CHECK CONTENT `](#prerequisites-installation)                                           |
+| 2.  **Git Version Verificaton**                                                                                | >> [` CHECK CONTENT `](#version-verification)                                                 |
+| 3.  **Configure Git Credentials Using CLI**                                                                    | >> [` CHECK CONTENT `](#configure-git-using-cli)                                              |
+| 4.  **Configure Git Credentials Using CLI [For a Specific Repository / Project]**                              | >> [` CHECK CONTENT `](#configure-git-for-a-specific-repositoryproject-using-cli)             |
+| 5.  **Configure Git Credentials [For GitHub Desktop]**                                                         | >> [` CHECK CONTENT `](#configure-git-credentials-for-github-desktop)                         |
+| 6.  **Configure Git Credentials [For VSCode with `GitHub Pull Requests Extension`]**                           | >> [` CHECK CONTENT `](#if-github-pull-requests-extension-is-enabled)                         |
+| 7.  **Configure Git Credentials [For VSCode without `GitHub Pull Requests Extension`]**                        | >> [` CHECK CONTENT `](#if-github-pull-requests-extension-is-not-enabled)                     |
+| 8.  **GitHub Extensions For VSCode**                                                                           | >> [` CHECK CONTENT `](#vscode-extensions)                                                    |
+</div>
+
+---
+<br>
 
 ## Repository Initialization [ Using Github_Website ]
   - Go To **[`Github`](https://github.com/)** .
