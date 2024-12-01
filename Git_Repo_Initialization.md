@@ -20,7 +20,7 @@
   - Open `Command_Prompt` or `Git_Bash`.
   - Set the Folder's `Path` where you want to Initialize the Git repository.
     ```
-    cd C:/My_Workspace/to/your/folder
+    cd C:/My_Workspace/path_to_folder
     ```
   -  
   - 
