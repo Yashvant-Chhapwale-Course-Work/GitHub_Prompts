@@ -48,7 +48,7 @@ ___________________________________________________
 </div>
 <br>
 
-## Alternatively you can download [` GitHub_Desktop `](https://github.com/apps/desktop) 
+## Alternatively you can download [` GitHub_Desktop `](https://github.com/apps/desktop) (Recommended)
   - Download [` GitHub_Desktop `](https://github.com/apps/desktop) instead of downloading and setting up `Git_CLI` separately.
   - **`Advantages`** Of GitHub Desktop:
     - `User-Friendly Interface`: Easy to navigate GUI, suitable for beginners.
