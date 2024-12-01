@@ -144,7 +144,7 @@ ___________________________________________________
   - You will be redirected to the Sign In web page after clicking on the `Continue with browser` Button.<br>
     ![Redirect_To_SignIn_Webpage](https://github.com/user-attachments/assets/892be788-c582-4f00-891f-47ee5dfeaaff)
     <br>
-  - `Sign In` to Your `GiitHub Account`<br>
+  - `Sign In` to Your `GitHub Account`<br>
     ![SignIn_WebPage](https://github.com/user-attachments/assets/c5cd19e3-8a31-44b8-beb2-c9e620281d40)
     <br>
   - Click `Open GithubDesktop.exe` for redirecting to GitHub_Desktop.<br>
@@ -166,7 +166,7 @@ ___________________________________________________
   - Click on `Accounts_Icon` at the `Bottom-Left Corner of VSCode` >> Click on `Sign in with GitHub to use GitHub Pull Requests.`<br>
     ![VSCode>>Accounts](https://github.com/user-attachments/assets/c3f41205-5505-4373-820e-df066325d95f)
     <br>
-  - `Sign In` to Your `GiitHub Account`<br>
+  - `Sign In` to Your `GitHub Account`<br>
     ![VSCode>>GitHub_SignIn](https://github.com/user-attachments/assets/95c8cd1b-afda-483f-8066-d169ebecf162)
     <br>
   - `To Change GitHub Account:` Click on `Accounts_Icon` >> Click `>` on Account with `(GitHub)` Tag >> Click `Sign Out` >> Follow the above steps to `Sign_In to the desired GitHub_Account`.<br>
@@ -190,7 +190,7 @@ ___________________________________________________
  - Click `Allow` to give permission for Signing_In to your GitHub Account<br>
    ![Publish to GitHub>>Click Allow](https://github.com/user-attachments/assets/ada7073b-c0cb-4180-8e38-c27fdeb17191)
    <br>
- - `Sign In` to Your `GiitHub Account`<br>
+ - `Sign In` to Your `GitHub Account`<br>
    ![VSCode>>GitHub_SignIn](https://github.com/user-attachments/assets/95c8cd1b-afda-483f-8066-d169ebecf162)
    <br>
     You Have Successfully Signed_In to VSCode with your GitHub Account!
