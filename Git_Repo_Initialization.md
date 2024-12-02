@@ -52,7 +52,10 @@
     ```
     git push -u origin master
     ```
-    `Note:` Replace `main` with your `BRANCH_NAME` to avoid any errors.<br>
+    ![git push -u origin](https://github.com/user-attachments/assets/296259f7-fae7-452e-b9d8-edeba8748d98)
+    <br>
+    `Note:` Replace `master` with your `BRANCH_NAME` to avoid any errors.<br>
+    
     <br>
     
     **Congratulations! You have successfully `Initialized a Local Repository` and `Linked it with a Remote Repository` using Git_CLI!!**
