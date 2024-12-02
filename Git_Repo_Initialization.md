@@ -80,7 +80,7 @@
   - Use GitHub CLI when you want to `Interact with specific GitHub services directly from the Terminal` including `Creating Repositories (Initializing + Publishing)`,`Managing Pull Requests`, `Issues`, `Repositories`, and `Workflows`.
   - It extends the Git CLI with GitHub-Specific functionalities.
   - Uses GitHub-Specific Authentication (`OAuth`, `PAT(Personal Acess Tokens)` etc).
-  - [**Setup and Install GitHub_CLI**](https://cli.github.com/)
+  - [**Setup and Install GitHub_CLI**](https://cli.github.com/)<br>
     **`Note:` `Git` is required for the `GitHub_CLI (gh)` to work effectively!**
 
 ### Steps to Initialize Repository using GitHub_CLI(gh)
