@@ -192,6 +192,9 @@ ___________________________________________________
     ![gh auth status](https://github.com/user-attachments/assets/daa59b6a-d1e5-44c8-a69c-47795c0301dc)
     <br>
 
+### Configure Git [Using GitHub_CLI (gh)]:
+  - hi
+
 ---
 <br>
 
