@@ -17,12 +17,15 @@
 <br>
 
 ## Repository Initialization [ Using Git_CLI ] (Recommended)
-  - Open `Command_Prompt` or `Git_Bash`.
+  - Open a `Command_Prompt` or `Git_Bash` Terminal.
   - Set the Folder's `Path` where you want to Initialize the Git repository.
     ```
     cd C:/My_Workspace/path_to_folder
     ```
-  -  
+  - Use the `init` command in the Terminal to `Initialize` a Git repository.
+    ```
+    git init
+    ```
   - 
 
 <br>
