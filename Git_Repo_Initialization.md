@@ -79,7 +79,7 @@
   - The `GitHub CLI (gh)` is a command-line tool that allows you to `Interact with GitHub directly from your Terminal`.
   - Use GitHub CLI when you want to `Interact with specific GitHub services directly from the Terminal` including `Creating Repositories (Initializing + Publishing)`,`Managing Pull Requests`, `Issues`, `Repositories`, and `Workflows`.
   - It extends the Git CLI with GitHub-Specific functionalities.
-  - Uses GitHub-Specific Authentication (`OAuth`, `PAT(Personal Acess Tokens)` etc).
+  - Uses GitHub-Specific Authentication (`OAuth(Open Authorization)`, `PAT(Personal Acess Tokens)` etc).
   - [**Setup and Install GitHub_CLI**](https://cli.github.com/)<br>
     **`Note:` `Git` is required for the `GitHub_CLI (gh)` to work effectively!**
 
