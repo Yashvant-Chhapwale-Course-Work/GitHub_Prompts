@@ -8,9 +8,10 @@
 | TITLE                                                                                                          | SECTION_LINK                                                                                  |
 |----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | 1.  **Create A Repository Using Git_CLI Commands**                                                             | >> [` CHECK CONTENT `](#repository-initialization--using-git_cli--recommended)                |
-| 2.  **Create A Repository Using GitHub_Web_Interface**                                                         | >> [` CHECK CONTENT `](#repository-initialization--using-github_website-)                     |
-| 3.  **Create A Repository Using GitHub_Desktop**                                                               | >> [` CHECK CONTENT `](#repository-initialization--using-github_desktop-)                     |
-| 4.  **Create A Repository Using VSCode Source_Control Tool**                                                   | >> [` CHECK CONTENT `](#repository-initialization--using-vscode-source-control-)              |
+| 2.  **Create A Repository Using Git_CLI Commands**                                                             | >> [` CHECK CONTENT `](#repository-initialization--using-git_cli--recommended)                |
+| 3.  **Create A Repository Using GitHub_Web_Interface**                                                         | >> [` CHECK CONTENT `](#repository-initialization--using-github_website-)                     |
+| 4.  **Create A Repository Using GitHub_Desktop**                                                               | >> [` CHECK CONTENT `](#repository-initialization--using-github_desktop-)                     |
+| 5.  **Create A Repository Using VSCode Source_Control Tool**                                                   | >> [` CHECK CONTENT `](#repository-initialization--using-vscode-source-control-)              |
 </div>
 
 ---
@@ -36,7 +37,7 @@
     ```
   - Use the `push` Command to `Upload` the Changes to the Remote_GitHub_Repository.
     ```
-    push -u origin main
+    git push -u origin master
     ```
     `Note:` Replace `main` with your `BRANCH_NAME` to avoid any errors.<br>
     
