@@ -27,6 +27,8 @@
     ```
     git init
     ```
+    ![git init](https://github.com/user-attachments/assets/8842b3bd-c3b8-43d5-9a50-c437d24150f0)
+    <br>
   - Create a `Demo Commit File` in the Local Repository Folder to make the `First Commit`, so that the repository can be published to GitHub.<br>
     ![VSCode>>Demo Commit File](https://github.com/user-attachments/assets/0f7f0742-fd4d-451a-9e67-0c0185ffae24)
     <br>
