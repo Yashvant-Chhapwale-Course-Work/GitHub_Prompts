@@ -129,7 +129,7 @@ ___________________________________________________
     Replace **`GITHUB_USERNAME`** with **`Your Github Username`** and **`EMAIL_ID@gmail.com`** with **`Your Github_Email Account`**.
   - Verify the Changes:
     ```
-    git config --list --local
+    git config --list
     ```
     Verify whether the fields `user.name` and `user.email` are set Correctly.
   - Alternatively you can Inspect Specific Configurations:
@@ -191,6 +191,7 @@ ___________________________________________________
     - `Set your global Git Username` to your GitHub Username.
     - `Set your global Git Email` to the Email associated with your GitHub Account.
     - `Configure your Git Credential Helper` for Secure Authentication.
+<br>
 
 ### Check the Current Authentication Status of the GitHub_CLI(gh):
   - Open your terminal or command prompt.
@@ -203,14 +204,19 @@ ___________________________________________________
     <br>
   - Paste the following Command in Terminal to `Verify Git Credentials`.
     ```
-    git config --list --local
+    git config --list
     ```
     Verify whether the fields `user.name` and `user.email` are set Correctly.
+<br>
 
-### Configure Git [Using GitHub_CLI (gh)]:
-  - hi
-  - 
-    
+### Revoking Authentication Configuration Using GitHub CLI(gh):
+  - Open your terminal or command prompt.
+  - Paste the following Command in Terminal to `Revoke Authentication (Log Out)`.
+    ```
+    gh auth logout
+    ```
+  - `Click on the Account` which you want to LogOut From, Under `What account do you want to log out of?`<br>
+    ![gh auth logout](https://github.com/user-attachments/assets/3455651f-cf24-4909-a1d0-47af2ac4dc36)    
 <br>
 
 ---
