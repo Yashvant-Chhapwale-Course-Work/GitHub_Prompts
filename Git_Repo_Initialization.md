@@ -54,7 +54,7 @@
     ```
     ![git push -u origin](https://github.com/user-attachments/assets/296259f7-fae7-452e-b9d8-edeba8748d98)
     <br>
-    `Note:` Replace `master` with your `BRANCH_NAME` to avoid any errors. [Learn more about `Branches`](#)<br>
+    `Note:` Replace `master` with your `BRANCH_NAME` to avoid any errors. [`Learn more about Branches`](#)<br>
     
     <br>
     
