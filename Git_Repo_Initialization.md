@@ -35,7 +35,7 @@
   - Create a `Remote GitHub Repository` By Following the Steps for [`Repository Initialization Using Github_Web-Interface`](#repository-initialization--using-github_website-).
   - Copy the `URL` for this `GitHub Repository`:<br>
     ![Copy_URL _from_Address_Bar](https://github.com/user-attachments/assets/c7453c89-51af-4bfe-bd31-76d62add8563)
-    <br> **OR** <br>
+    <br> <div align="center">**OR**</div> <br>
     ![GitHub_Website>>Code<>>>`Code<>`>>Copy URL](https://github.com/user-attachments/assets/6484b66b-f33a-404e-b4c2-9b7b2c6d1015)
     <br>
   - Use the following Command in the Terminal to `Link` the `Remote Repository` to your `Local Repository`.
