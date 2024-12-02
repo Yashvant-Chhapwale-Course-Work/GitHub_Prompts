@@ -16,7 +16,7 @@
 ---
 <br>
 
-## Repository Initialization [ Using Terminal ] (Recommended)
+## Repository Initialization [ Using Git_CLI ] (Recommended)
   - Open a `Command_Prompt` or `Git_Bash` Terminal.
   - Set the Folder's `Path` where you want to Initialize the Git repository.
     ```
