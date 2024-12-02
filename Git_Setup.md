@@ -156,29 +156,41 @@ ___________________________________________________
 ### Configure Git [Using GitHub_CLI (gh)]:
   - `Install` and `Setup` GitHub_CLI(gh).
   - Open your terminal or command prompt.
-  - Paste the following Command in Terminal to `Begin Authentication`:
+  - Paste the following Command in Terminal to `Begin Authentication`.
     ```
     gh auth login
     ```
-  - Configure Your Github Credentials for the local repository:
+  - Click or Press Enter for **`GitHub.com`** under `Where do you use GitHub?` >> Click or Press Enter for **`HTTPS`** under `What is your preferred protocol for Git operations on this host?` >> Enter `Y` or `Yes` for `Authenticate Git with your GitHub credentials?` >> Click or Press Enter for **`Login with a Browser`** under `How would you like to authenticate GitHub CLI?`<br>
+    ![gh auth login](https://github.com/user-attachments/assets/6d5c76f3-c055-4756-872d-a1b5cf4bb141)
+    <br>
+  - Copy the **`8-Digit Alpha-Numeric CODE`** under `First copy your one-time code:` >> **`Press Enter`** to proceed to the Sign In webpage.<br>
+    ![gh auth login >> Redirect_to_GitHub_SignIn](https://github.com/user-attachments/assets/4281cdcf-2c4c-4409-9be0-2a24282cf6ce)
+    <br>
+  - Enter your `GitHub Username` and `Password`.<br>
+    ![GitHub_SignIn](https://github.com/user-attachments/assets/5b560390-fbfb-4380-b0bb-1313b72782a3)
+    <br> Replace **`GITHUB USERNAME / EMAIL ID`** with **`Your Github Username`** or **`Your Github_Email Account`**.
+  - Enter the `8-Digit Alpha-Numeric CODE` copied from your Terminal<br>   
+    ![GitHub_SignIn>>Enter_Authentication_CODE](https://github.com/user-attachments/assets/2583347d-7fd9-4445-99bd-15e2c9cc297f)
+    <br>
+  - Enter `Authorize GitHub` to grant permission for the GitHub CLI to access your account.<br>
+    ![GitHub_SignIn>>Authorize GitHub for GitHub_CLI](https://github.com/user-attachments/assets/96c1ae6e-5b00-4742-848e-c9facda86cdf)
+    <br>
+  - An `Authorization-Success-Widget` will be displayed.<br>
+    ![GitHub_Auth_Success](https://github.com/user-attachments/assets/83687506-019b-46a8-97dc-910e05db4c9c)
+    <br>
+  - Return to Terminal.<br>
+    ![gh auth login>>success](https://github.com/user-attachments/assets/a2627600-78f9-4302-953c-7bcd07bd031d)
+    <br>
+
+### Check the Current Authentication Status of the GitHub_CLI(gh):
+  - Open your terminal or command prompt.
+  - Paste the following Command in Terminal to `Verify GitHub_CLI Authentication`.
     ```
-    git config user.name "GITHUB_USERNAME"
-    git config user.email "EMAIL_ID@gmail.com"
+    gh auth status
     ```
-    Replace **`GITHUB_USERNAME`** with **`Your Github Username`** and **`EMAIL_ID@gmail.com`** with **`Your Github_Email Account`**.
-  - Verify the Changes:
-    ```
-    git config --list --local
-    ```
-  - Alternatively you can Inspect Specific Configurations:
-    ```
-    git config user.name
-    ```
-    
-    ```
-    git config user.email
-    ```
-<br>
+  - Verify whether you are Logged Into the Correct Account or Not. You can also Verify the permissions granted by your remote GitHub_Repository to your GitHub_CLI.<br>
+    ![gh auth status](https://github.com/user-attachments/assets/daa59b6a-d1e5-44c8-a69c-47795c0301dc)
+    <br>
 
 ---
 <br>
