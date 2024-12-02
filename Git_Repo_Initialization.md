@@ -18,6 +18,13 @@
 <br>
 
 ## Repository Initialization [ Using Git_CLI ] (Recommended)
+### What is Git_CLI (git)?
+  - The `Git CLI (Command Line Interface)` is a text-based tool used to `Interact with Git`, a distributed version control system.
+  - Use Git CLI when working on `General Version Control Tasks` like `Tracking Changes`, `Branching`, `Merging`, and `Syncing With Remote Repositories` (including any platform like GitHub, GitLab, etc).
+  - Git CLI `does not handle Pull Requests`.
+  - Uses Git `Username/Password` or `SSH Keys` for Repository Access.
+
+### Steps to Initialize Repository using Git_CLI
   - Open a `Command_Prompt` or `Git_Bash` Terminal.
   - Set the Folder's `Path` where you want to Initialize the Git repository.
     ```
@@ -67,7 +74,13 @@
 <br>
 
 ## Repository Initialization [ Using GitHub_CLI (gh) ] (Recommended)
+### What is GitHub_CLI (gh)?
+  - The `GitHub CLI (gh)` is a command-line tool that allows you to `Interact with GitHub directly from your Terminal`.
+  - Use GitHub CLI when you want to `Interact with specific GitHub services directly from the Terminal` including `Creating Repositories (Initializing + Publishing)`,`Managing Pull Requests`, `Issues`, `Repositories`, and `Workflows`.
+  - It extends the Git CLI with GitHub-Specific functionalities.
+  - Uses GitHub-Specific Authentication (`OAuth`, `PAT(Personal Acess Tokens)` etc).
 
+### Steps to Initialize Repository using Git_CLI
 <br>
 
 ---
