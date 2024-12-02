@@ -188,7 +188,7 @@ ___________________________________________________
     ```
     gh auth status
     ```
-  - Verify whether you are Logged Into the Correct Account or Not. You can also Verify the permissions granted by your remote GitHub_Repository to your GitHub_CLI.<br>
+  - Verify whether you are `Logged Into the Correct Account or Not`. You can also `Verify the Permissions Granted` by your Remote GitHub_Repository to your GitHub_CLI.<br>
     ![gh auth status](https://github.com/user-attachments/assets/daa59b6a-d1e5-44c8-a69c-47795c0301dc)
     <br>
 
