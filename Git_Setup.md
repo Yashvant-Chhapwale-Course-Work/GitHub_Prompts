@@ -25,6 +25,7 @@
   - [`Download VSCode`](https://code.visualstudio.com/)
   - [`Download Git`](https://git-scm.com/)
   - [`Create GitHub Account`](https://github.com/signup)
+  - [`Download GitHub_CLI`](https://cli.github.com/) [Optional but Recommended]
 
 ## Ensure Git is added to your System's PATH 
   - If Git is not recognized in your terminal, you need to add it to your System's PATH.
@@ -62,7 +63,8 @@ ___________________________________________________
     - `Quick Authentication`: Simplifies login and authentication with GitHub accounts.
     - `No Separate Git Installation Required`:
       - GitHub Desktop includes pre-configured Git installation, reducing setup complexity.
-      - Users can start using Git features through Command_Prompt / Powershell immediately after installing GitHub Desktop.
+      - Users can start using Git features through Command_Prompt / Powershell immediately after installing GitHub Desktop.<br>
+  - `Note:` It does not include `GitHub_CLI (gh)`. It requires `Separate Installation and Setup` to utilize its functionality. 
 <br>
 
 ---
@@ -152,10 +154,11 @@ ___________________________________________________
 <br>
 
 ### Configure Git [Using GitHub_CLI (gh)]:
-  - Open your terminal or command prompt and configure Git with your GitHub credentials.
-  - Navigate to the Local Repository using the `cd (Change Directory)` Command:
+  - `Install` and `Setup` GitHub_CLI(gh).
+  - Open your terminal or command prompt.
+  - Paste the following Command in Terminal to `Begin Authentication`:
     ```
-    cd C:\My_Workspace\<path_to_local_repository>
+    gh auth login
     ```
   - Configure Your Github Credentials for the local repository:
     ```
