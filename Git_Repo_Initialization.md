@@ -50,7 +50,7 @@
     `Note:` Replace `main` with your `BRANCH_NAME` to avoid any errors.<br>
     <br>
     
-    **Congratulations! You have successfully `Initialized a Local Repository` and `Linked it with a Remote Repository` using Git_CLI!! **
+    **Congratulations! You have successfully `Initialized a Local Repository` and `Linked it with a Remote Repository` using Git_CLI!!**
     
 
 <br>
