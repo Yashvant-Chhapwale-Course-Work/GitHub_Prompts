@@ -81,8 +81,9 @@
   - It extends the Git CLI with GitHub-Specific functionalities.
   - Uses GitHub-Specific Authentication (`OAuth`, `PAT(Personal Acess Tokens)` etc).
   - [**Setup and Install GitHub_CLI**](https://cli.github.com/)
+    **`Note:` `Git` is required for the `GitHub_CLI (gh)` to work effectively!**
 
-### Steps to Initialize Repository using Git_CLI
+### Steps to Initialize Repository using GitHub_CLI(gh)
 <br>
 
 ---
