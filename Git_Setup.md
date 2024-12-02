@@ -82,7 +82,15 @@ ___________________________________________________
 ---
 <br>
 
-# Using [Git_CLI (Git_Command Line Interface)](https://git-scm.com/downloads)
+# Using [Git_CLI (git)](https://git-scm.com/downloads)
+### What is Git_CLI (git)?
+  - The `Git CLI (Command Line Interface)` is a text-based tool used to `Interact with Git`, a distributed version control system.
+  - Use Git CLI when working on `General Version Control Tasks` like `Tracking Changes`, `Branching`, `Merging`, and `Syncing With Remote Repositories` (including any platform like GitHub, GitLab, etc).
+  - Git CLI `does not handle Pull Requests`.
+  - Uses Git `Username/Password` or `SSH Keys` for Repository Access.
+  - [**Setup and Install Git_CLI**](https://git-scm.com/downloads)
+<br>
+
 ### Configure Git [Using Git_CLI]:
   - Open your terminal or command prompt and configure Git with your GitHub credentials.
   - ```
@@ -142,6 +150,7 @@ ___________________________________________________
   - [**Setup and Install GitHub_CLI**](https://cli.github.com/)<br>
     **`Note:` `Git` is required for the `GitHub_CLI (gh)` to work effectively!**
 <br>
+
 ### Configure Git [Using GitHub_CLI (gh)]:
   - Open your terminal or command prompt and configure Git with your GitHub credentials.
   - Navigate to the Local Repository using the `cd (Change Directory)` Command:
