@@ -104,6 +104,7 @@ ___________________________________________________
     ```
     git config --list --global
     ```
+    Verify whether the fields `user.name` and `user.email` are set Correctly.
   - Alternatively you can Inspect Specific Configurations:
     ```
     git config user.name
@@ -130,6 +131,7 @@ ___________________________________________________
     ```
     git config --list --local
     ```
+    Verify whether the fields `user.name` and `user.email` are set Correctly.
   - Alternatively you can Inspect Specific Configurations:
     ```
     git config user.name
@@ -181,6 +183,14 @@ ___________________________________________________
   - Return to Terminal.<br>
     ![gh auth login>>success](https://github.com/user-attachments/assets/a2627600-78f9-4302-953c-7bcd07bd031d)
     <br>
+  - Paste the following Command in Terminal to `Configure Git Credentials`.
+    ```
+    gh auth setup-git
+    ```
+    This command will:
+    - `Set your global Git Username` to your GitHub Username.
+    - `Set your global Git Email` to the Email associated with your GitHub Account.
+    - `Configure your Git Credential Helper` for Secure Authentication.
 
 ### Check the Current Authentication Status of the GitHub_CLI(gh):
   - Open your terminal or command prompt.
@@ -191,6 +201,11 @@ ___________________________________________________
   - Verify whether you are `Logged Into the Correct Account or Not`. You can also `Verify the Permissions Granted` by your Remote GitHub_Repository to your GitHub_CLI.<br>
     ![gh auth status](https://github.com/user-attachments/assets/daa59b6a-d1e5-44c8-a69c-47795c0301dc)
     <br>
+  - Paste the following Command in Terminal to `Verify Git Credentials`.
+    ```
+    git config --list --local
+    ```
+    Verify whether the fields `user.name` and `user.email` are set Correctly.
 
 ### Configure Git [Using GitHub_CLI (gh)]:
   - hi
