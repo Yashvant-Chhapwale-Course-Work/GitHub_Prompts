@@ -23,6 +23,7 @@
   - Use Git CLI when working on `General Version Control Tasks` like `Tracking Changes`, `Branching`, `Merging`, and `Syncing With Remote Repositories` (including any platform like GitHub, GitLab, etc).
   - Git CLI `does not handle Pull Requests`.
   - Uses Git `Username/Password` or `SSH Keys` for Repository Access.
+  - [**Setup and Install Git_CLI**](https://git-scm.com/downloads)
 
 ### Steps to Initialize Repository using Git_CLI
   - Open a `Command_Prompt` or `Git_Bash` Terminal.
@@ -79,6 +80,7 @@
   - Use GitHub CLI when you want to `Interact with specific GitHub services directly from the Terminal` including `Creating Repositories (Initializing + Publishing)`,`Managing Pull Requests`, `Issues`, `Repositories`, and `Workflows`.
   - It extends the Git CLI with GitHub-Specific functionalities.
   - Uses GitHub-Specific Authentication (`OAuth`, `PAT(Personal Acess Tokens)` etc).
+  - [**Setup and Install GitHub_CLI**](https://cli.github.com/)
 
 ### Steps to Initialize Repository using Git_CLI
 <br>
