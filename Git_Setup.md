@@ -9,12 +9,13 @@
 |----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | 1.  **Pre_requisites**                                                                                         | >> [` CHECK CONTENT `](#prerequisites-installation)                                           |
 | 2.  **Git Version Verificaton**                                                                                | >> [` CHECK CONTENT `](#version-verification)                                                 |
-| 3.  **Configure Git Credentials Using CLI**                                                                    | >> [` CHECK CONTENT `](#configure-git-using-cli)                                              |
-| 4.  **Configure Git Credentials Using CLI [For a Specific Repository / Project]**                              | >> [` CHECK CONTENT `](#configure-git-for-a-specific-repositoryproject-using-cli)             |
-| 5.  **Configure Git Credentials [For GitHub Desktop]**                                                         | >> [` CHECK CONTENT `](#configure-git-credentials-for-github-desktop)                         |
-| 6.  **Configure Git Credentials [For VSCode with `GitHub Pull Requests Extension`]**                           | >> [` CHECK CONTENT `](#if-github-pull-requests-extension-is-enabled)                         |
-| 7.  **Configure Git Credentials [For VSCode without `GitHub Pull Requests Extension`]**                        | >> [` CHECK CONTENT `](#if-github-pull-requests-extension-is-not-enabled)                     |
-| 8.  **GitHub Extensions For VSCode**                                                                           | >> [` CHECK CONTENT `](#vscode-extensions)                                                    |
+| 3.  **Configure Git Credentials Using Git_CLI**                                                                | >> [` CHECK CONTENT `](#configure-git-using-git_cli)                                          |
+| 4.  **Configure Git Credentials Using Git_CLI [For a Specific Repository / Project]**                          | >> [` CHECK CONTENT `](#configure-git-for-a-specific-repositoryproject-using-git_cli)         |
+| 5.  **Configure Git Credentials Using GitHub_CLI (gh)**                                                        | >> [` CHECK CONTENT `](#configure-git--using-github_cli-gh)                                   |
+| 6.  **Configure Git Credentials [For GitHub Desktop]**                                                         | >> [` CHECK CONTENT `](#configure-git-credentials-for-github-desktop)                         |
+| 7.  **Configure Git Credentials [For VSCode with `GitHub Pull Requests Extension`]**                           | >> [` CHECK CONTENT `](#if-github-pull-requests-extension-is-enabled)                         |
+| 8.  **Configure Git Credentials [For VSCode without `GitHub Pull Requests Extension`]**                        | >> [` CHECK CONTENT `](#if-github-pull-requests-extension-is-not-enabled)                     |
+| 9.  **GitHub Extensions For VSCode**                                                                           | >> [` CHECK CONTENT `](#vscode-extensions)                                                    |
 </div>
 
 ---
@@ -81,8 +82,8 @@ ___________________________________________________
 ---
 <br>
 
-# Using Git_CLI [Command Line Interface]
-### Configure Git [Using CLI]:
+# Using Git_CLI [Git_Command Line Interface]
+### Configure Git [Using Git_CLI]:
   - Open your terminal or command prompt and configure Git with your GitHub credentials.
   - ```
     git config --global user.name "GITHUB_USERNAME"
@@ -103,7 +104,36 @@ ___________________________________________________
     ```
 <br>
 
-### Configure Git For a Specific Repository/Project [Using CLI]:
+### Configure Git For a Specific Repository/Project [Using Git_CLI]:
+  - Open your terminal or command prompt and configure Git with your GitHub credentials.
+  - Navigate to the Local Repository using the `cd (Change Directory)` Command:
+    ```
+    cd C:\My_Workspace\<path_to_local_repository>
+    ```
+  - Configure Your Github Credentials for the local repository:
+    ```
+    git config user.name "GITHUB_USERNAME"
+    git config user.email "EMAIL_ID@gmail.com"
+    ```
+    Replace **`GITHUB_USERNAME`** with **`Your Github Username`** and **`EMAIL_ID@gmail.com`** with **`Your Github_Email Account`**.
+  - Verify the Changes:
+    ```
+    git config --list --local
+    ```
+  - Alternatively you can Inspect Specific Configurations:
+    ```
+    git config user.name
+    ```
+    
+    ```
+    git config user.email
+    ```
+<br>
+
+---
+<br>
+
+### Configure Git [Using GitHub_CLI (gh)]:
   - Open your terminal or command prompt and configure Git with your GitHub credentials.
   - Navigate to the Local Repository using the `cd (Change Directory)` Command:
     ```
