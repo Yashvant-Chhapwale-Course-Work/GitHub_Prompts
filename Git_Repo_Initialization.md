@@ -16,7 +16,7 @@
 ---
 <br>
 
-## Repository Initialization [ Using Git_CLI ] (Recommended)
+## Repository Initialization [ Using Terminal ] (Recommended)
   - Open a `Command_Prompt` or `Git_Bash` Terminal.
   - Set the Folder's `Path` where you want to Initialize the Git repository.
     ```
@@ -26,6 +26,9 @@
     ```
     git init
     ```
+  - Create a `Demo Commit File` in the Local Repository Folder to make the `First Commit`, so that the repository can be published to GitHub.<br>
+    ![VSCode>>Demo Commit File](https://github.com/user-attachments/assets/0f7f0742-fd4d-451a-9e67-0c0185ffae24)
+    <br>
   - 
 
 <br>
