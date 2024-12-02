@@ -82,7 +82,7 @@ ___________________________________________________
 ---
 <br>
 
-# Using Git_CLI [Git_Command Line Interface]
+# Using [Git_CLI (Git_Command Line Interface)](https://git-scm.com/downloads)
 ### Configure Git [Using Git_CLI]:
   - Open your terminal or command prompt and configure Git with your GitHub credentials.
   - ```
@@ -134,6 +134,14 @@ ___________________________________________________
 <br>
 
 # Using [GitHub_CLI(gh)](https://cli.github.com/)
+### What is GitHub_CLI (gh)?
+  - The `GitHub CLI (gh)` is a command-line tool that allows you to `Interact with GitHub directly from your Terminal`.
+  - Use GitHub CLI when you want to `Interact with specific GitHub services directly from the Terminal` including `Creating Repositories (Initializing + Publishing)`,`Managing Pull Requests`, `Issues`, `Repositories`, and `Workflows`.
+  - It extends the Git CLI with GitHub-Specific functionalities.
+  - Uses GitHub-Specific Authentication (`OAuth(Open Authorization)`, `PAT(Personal Acess Tokens)` etc).
+  - [**Setup and Install GitHub_CLI**](https://cli.github.com/)<br>
+    **`Note:` `Git` is required for the `GitHub_CLI (gh)` to work effectively!**
+<br>
 ### Configure Git [Using GitHub_CLI (gh)]:
   - Open your terminal or command prompt and configure Git with your GitHub credentials.
   - Navigate to the Local Repository using the `cd (Change Directory)` Command:
@@ -163,7 +171,7 @@ ___________________________________________________
 ---
 <br>
 
-# Using GitHub_Desktop
+# Using [GitHub_Desktop](https://desktop.github.com/download/)
 ### Configure Git Credentials [For GitHub Desktop]:
   - Open `GitHub_Desktop`.
   - Browse `File` >> Click on `Options...` o/r Use shortcut `Ctrl + ,`.<br>
@@ -191,7 +199,7 @@ ___________________________________________________
 ---
 <br>
 
-# Using VSCode
+# Using [VSCode](https://code.visualstudio.com/download)
   ### If "GitHub Pull Requests" Extension is Enabled:
   - Open `VSCode`.
   - Click on `Accounts_Icon` at the `Bottom-Left Corner of VSCode` >> Click on `Sign in with GitHub to use GitHub Pull Requests.`<br>
