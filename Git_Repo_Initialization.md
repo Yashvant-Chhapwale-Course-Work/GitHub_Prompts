@@ -29,7 +29,15 @@
   - Create a `Demo Commit File` in the Local Repository Folder to make the `First Commit`, so that the repository can be published to GitHub.<br>
     ![VSCode>>Demo Commit File](https://github.com/user-attachments/assets/0f7f0742-fd4d-451a-9e67-0c0185ffae24)
     <br>
-  - 
+  - Use `add` command for `Staging` Unstaged(New) Changes >> Use `commit` command for commiting the staged changes to repository.
+    ```
+    git add .
+    git commit -m "Initial Message"
+    ```
+    ```
+    git commit -m "Initial Message"
+    ```
+  -  
 
 <br>
 
