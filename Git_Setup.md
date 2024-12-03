@@ -193,8 +193,8 @@ ___________________________________________________
     - `Set your global Git Username` to your GitHub Username.
     - `Set your global Git Email` to the Email associated with your GitHub Account.
     - `Configure your Git Credential Helper` for Secure Authentication.
-  - [`Note:` You can also use `Personal Access Tokens` instead of Signing in with your browser by Clicking on `Paste an authentication token` under `How would you like to authenticate GitHub CLI?`. Visit [`Personal-Access-Tokens(PAT) Guide`](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Personal_Access_Tokens(PAT).md) for more information on this Topic.<br>
-    ![gh auth login>>PAT](https://github.com/user-attachments/assets/f5529aed-42ea-4d26-8180-fff2f23f84ab)]
+  - `Note:` You can also use `Personal Access Tokens` instead of Signing in with your browser by Clicking on `Paste an authentication token` under `How would you like to authenticate GitHub CLI?`. Visit [`Personal-Access-Tokens(PAT) Guide`](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Personal_Access_Tokens(PAT).md) for more information on this Topic.<br>
+    ![gh auth login>>PAT](https://github.com/user-attachments/assets/f5529aed-42ea-4d26-8180-fff2f23f84ab)
 <br>
 
 ### Check the Current Authentication Status of the GitHub_CLI(gh):
