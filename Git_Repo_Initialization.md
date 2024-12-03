@@ -67,7 +67,14 @@
 <br>
 
 ## Repository Initialization [ Using GitHub_CLI (gh) ] (Recommended)
-  - 
+  - Open a `Command_Prompt` or `Git_Bash` Terminal.
+  - Paste the following Command in the Terminal to `Create a Remote Git Repository`.
+    ```
+    gh repo create DEMO-GITHUB-REPOSITORY --public
+    ```
+    `Note:` Substitute 'DEMO-GITHUB-REPOSITORY' with your `Repository-Name` and '--public' with your `Preferred Visibility Flag (--private / --public)`.
+  - Follow Steps For [`Initializing a Local Repository and Linking it with the Above Remote_Repository`](#repository-initialization--using-git_cli--recommended).
+
 <br>
 
 ---
