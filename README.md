@@ -12,8 +12,11 @@
  
 | TITLE                                                                                                          | SECTION_LINK                                                                                                                                          |
 |----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.  **Git Setup_And_Configuration Instructions**                                                               | >> [` CHECK CONTENT `](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Setup.md)                                       |     
-| 2.  **Git Repository Initialization**                                                                          | >> [` CHECK CONTENT `](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Repo_Initialization.md)                         |
+| 1.  **Git Setup_And_Configuration Instructions**                                                               | >> [` CHECK CONTENT `](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Setup.md)                                       |  
+| 2.  **Personal Acess Tokens (PAT)**                                                                            | >> [` CHECK CONTENT `](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Personal_Access_Tokens(PAT).md)                     |
+| 3.  **Git Repository Initialization**                                                                          | >> [` CHECK CONTENT `](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Repo_Initialization.md)                         |
+| 4.  **Git Branches**                                                                                           | >> [` CHECK CONTENT `](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Repo_Initialization.md)                         |
+| 5.  **Initialize-Commit-And-Push Requests**                                                                    | >> [` CHECK CONTENT `](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Repo_Initialization.md)                         |
 </div>
 
 ---
