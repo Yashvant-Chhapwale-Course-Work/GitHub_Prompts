@@ -89,6 +89,7 @@ ___________________________________________________
   - The `Git CLI (Command Line Interface)` is a text-based tool used to `Interact with Git`, a distributed version control system.
   - Use Git CLI when working on `General Version Control Tasks` like `Tracking Changes`, `Branching`, `Merging`, and `Syncing With Remote Repositories` (including any platform like GitHub, GitLab, etc).
   - Git CLI `does not handle Pull Requests`.
+  - Git CLI does not support `Remote Repository Creation`.
   - Uses Git `Username/Password` or `SSH Keys` for Repository Access.
   - [**Setup and Install Git_CLI**](https://git-scm.com/downloads)
 <br>
@@ -151,6 +152,7 @@ ___________________________________________________
   - Use GitHub CLI when you want to `Interact with specific GitHub services directly from the Terminal` including `Creating Repositories (Initializing + Publishing)`,`Managing Pull Requests`, `Issues`, `Repositories`, and `Workflows`.
   - It extends the Git CLI with GitHub-Specific functionalities.
   - Uses GitHub-Specific Authentication (`OAuth(Open Authorization)`, `PAT(Personal Acess Tokens)` etc).
+  - GitHub CLI provides commands for supporting `Remote Repository Creation`.
   - [**Setup and Install GitHub_CLI**](https://cli.github.com/)<br>
     **`Note:` `Git` is required for the `GitHub_CLI (gh)` to work effectively!**
 <br>
