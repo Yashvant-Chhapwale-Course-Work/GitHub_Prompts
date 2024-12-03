@@ -7,7 +7,7 @@
  
 | TITLE                                                                                                          | SECTION_LINK                                                                                  |
 |----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| 1.  **Create A Repository Using Git_CLI Commands**                                                             | >> [` CHECK CONTENT `](#repository-initialization--using-git_cli--recommended)                |
+| 1.  **Create A Personal-Access-Token (PAT)**                                                                   | >> [` CHECK CONTENT `](#create-a-personal-access-token-pat)                                   |
 | 2.  **Create A Repository Using GitHub_CLI (gh) Commands**                                                     | >> [` CHECK CONTENT `](#repository-initialization--using-github_cli-gh--recommended)          |
 | 3.  **Create A Repository Using GitHub_Web_Interface**                                                         | >> [` CHECK CONTENT `](#repository-initialization--using-github_website--recommended)         |
 | 4.  **Create A Repository Using GitHub_Desktop**                                                               | >> [` CHECK CONTENT `](#repository-initialization--using-github_desktop-)                     |
@@ -16,3 +16,5 @@
 
 ---
 <br>
+
+# Create A Personal-Access-Token (PAT)
