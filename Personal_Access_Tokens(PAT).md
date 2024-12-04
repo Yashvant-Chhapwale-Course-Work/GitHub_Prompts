@@ -18,4 +18,4 @@
 <br>
 
 ## Create A Personal-Access-Token (PAT)
-### What is a **Personal-Access-Token** or **(PAT)**?
+### What is a *Personal-Access-Token* or *(PAT)*?
