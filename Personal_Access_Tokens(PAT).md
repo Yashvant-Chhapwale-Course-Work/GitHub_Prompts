@@ -69,7 +69,11 @@
     ![Generate Token>>Custom Expiration](https://github.com/user-attachments/assets/20d2ac36-b579-457d-be6b-562dd1e510dc)
     <br>
   - Under `Select Scopes` choose the permissions you want to grant to the token.<br>
+    ![Generate Token>>Select Scopes_1](https://github.com/user-attachments/assets/af2c6794-cc64-4f04-8fe0-3a5d51184e70)
     <br>
+    ![Generate Token>>Select Scopes_2](https://github.com/user-attachments/assets/9ddf2ba1-c7d9-4a28-9e85-d3b7ab585c8e)
+    <br>
+  - 
     
 
 <br>
