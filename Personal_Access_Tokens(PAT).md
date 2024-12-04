@@ -79,6 +79,10 @@
     - `write:packages`
     - **`Alert:` Any Scopes other than those mentioned above are not recommended for General Use Tokens or Public-Access Tokens.**
     - **`Note:`If you are the Administrator then you can enable the Scopes mentioned in the Image above for General Administrative Efficiency.**
+    <br>
+  - Click on `Generate Token` at the bottom of the page to Create your Personal-Access-Token.<br>
+    ![Generate Token>>Click on Generate_Token](https://github.com/user-attachments/assets/491d6f18-68cb-4171-8f94-016f43f77b93)
+    <br>
   - 
     
 
