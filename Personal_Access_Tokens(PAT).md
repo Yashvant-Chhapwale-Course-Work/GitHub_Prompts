@@ -59,7 +59,9 @@
   - Inside Developer Settings, Click on `Personal Access Tokens` >> Select on `Tokens (classic)` >> Click on `Generate new token (classic)`.<br>
     ![GitHub_Settings>>Developer Settings >> Generate Token](https://github.com/user-attachments/assets/09e38ff2-b223-4e78-a786-2a6a58f6982b)
     <br>
-  - 
+  - Enter an apporpriate `Token Name`. Replace **'Demo_Token'** with your **'Desired-Token_Name'**<br>
+    ![Generate Token>>Enter Token Name](https://github.com/user-attachments/assets/b35e45f6-bcab-4f22-b45c-5d220c374e75)
+    <br>
 
 <br>
 
