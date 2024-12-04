@@ -34,11 +34,11 @@
   <br>
   
   - **Advantages Over Password-Authentication:**
-    - **Enhanced Security:** `PATs are Specific to Certain Tasks and cannot be used to Log In to the Web Interface`, reducing the Risk of Full Account Compromise. They can be Encrypted and Stored Securely, Avoiding Exposure of Actual Passwords.
-    - **Fine-Grained Permissions:** `PATs allow you to grant only the Necessary Permissions, such as Read-Only or Specific Repository Access`, unlike Passwords which provide Full Access.
-    - **Scoped Usage:** `You can Limit PATs to Specific Actions`, such as accessing APIs, workflows, or repository management, while passwords have no such scoping capabilities.
-    - **Expiration and Control:** `PATs can be Configured to Expire automatically after a Set Period`, improving Security by Limiting their Validity.
-    - **Ease of Revocation:** `Individual PATs can be Revoked without affecting your Main Account or Other Access Methods.` Changing a Password disrupts all Tools and Sessions using it.
+    - **`Enhanced Security:`** **PATs are Specific to Certain Tasks and cannot be used to Log In to the Web Interface**, reducing the Risk of Full Account Compromise. They can be Encrypted and Stored Securely, Avoiding Exposure of Actual Passwords.
+    - **`Fine-Grained Permissions:`** **PATs allow you to grant only the Necessary Permissions, such as Read-Only or Specific Repository Access**, unlike Passwords which provide Full Access.
+    - **`Scoped Usage:`** **You can Limit PATs to Specific Actions**, such as accessing APIs, workflows, or repository management, while passwords have no such scoping capabilities.
+    - **`Expiration and Control:`** **PATs can be Configured to Expire automatically after a Set Period**, improving Security by Limiting their Validity.
+    - **`Ease of Revocation:`** **Individual PATs can be Revoked without affecting your Main Account or Other Access Methods.** Changing a Password disrupts all Tools and Sessions using it.
 
 <br>
 
