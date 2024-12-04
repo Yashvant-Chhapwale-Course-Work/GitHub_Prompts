@@ -77,7 +77,7 @@
     - `repo`
     - `workflow`
     - `write:packages`
-    - **`Alert:` Any Scopes other than those mentioned above are not recommended for General Use Tokens or Public-Access Tokens.**
+    - **`Alert:` Any Scopes other than the three mentioned above are not recommended for General Use Tokens or Public-Access Tokens.**
     - **`Note:`If you are the Administrator then you can enable the Scopes mentioned in the Image above for General Administrative Efficiency.**
     <br>
   - Click on `Generate Token` at the bottom of the page to Create your Personal-Access-Token.<br>
