@@ -13,9 +13,22 @@
 | 4.  **Create A Repository Using GitHub_Desktop**                                                               | >> [` CHECK CONTENT `](#repository-initialization--using-github_desktop-)                     |
 | 5.  **Create A Repository Using VSCode Source_Control Tool**                                                   | >> [` CHECK CONTENT `](#repository-initialization--using-vscode-source-control-)              |
 </div>
+<br>
+
+---
+<br>
+
+## What is a Personal-Access-Token or (PAT)?
+  - 
+
+<br>
 
 ---
 <br>
 
 ## Create A Personal-Access-Token (PAT)
-### What is a *Personal-Access-Token* or *(PAT)*?
+
+<br>
+
+---
+<br>
