@@ -24,11 +24,15 @@
   - It is used as a `Replacement for Passwords`, especially in contexts where `Automated or Programmatic Access` is needed.
   - GitHub `introduced` Personal-Access-Tokens (PATs) on `August 12, 2013`, as part of their API Authentication Mechanism.
   - Over time, they `replaced Password-Based Authentication` for Git operations to enhance Security, with `Passwords Officially Deprecated` for API use on `August 13, 2021`.
+  <br>
+  
   - **Features:**
     - **`API Authentication:`** PATs allow developers to access a platform's API Programmatically.
     - **`Git Operations:`** Used to Authenticate Git Operations (e.g. git clone, git push, git pull) instead of passwords.
     - **`Tool Access:`** Enables External Tools (e.g., GitHub CLI, GitHub Desktop) to Authenticate Securely.
     - **`Scoped Access:`** Provides Control over which Resources can be Accessed.
+  <br>
+  
   - **Advantages Over Password-Authentication:**
     - **Enhanced Security:** `PATs are Specific to Certain Tasks and cannot be used to Log In to the Web Interface`, reducing the Risk of Full Account Compromise. They can be Encrypted and Stored Securely, Avoiding Exposure of Actual Passwords.
     - **Fine-Grained Permissions:** `PATs allow you to grant only the Necessary Permissions, such as Read-Only or Specific Repository Access`, unlike Passwords which provide Full Access.
