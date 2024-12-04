@@ -53,6 +53,9 @@
   - Click on `Settings` from the Dropdown Menu.<br>
     ![GitHub>>Profile>>Settings](https://github.com/user-attachments/assets/e60f269c-8c02-474f-aedc-dc1581f6753c)
     <br>
+  - Scroll Down and Click on `Developer Settings` in Settings.<br>
+    ![GitHub_Settings>>Developer Settings](https://github.com/user-attachments/assets/2aca4a9d-ef6d-4cb2-b627-2ee2a441e02f)
+    <br>
   - 
 
 <br>
