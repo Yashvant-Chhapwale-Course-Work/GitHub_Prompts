@@ -73,6 +73,12 @@
     <br>
     ![Generate Token>>Select Scopes_2](https://github.com/user-attachments/assets/aec8d8ca-a996-4b26-bc3f-46d9eca3800e)
     <br>
+    **Here are some `General Scopes` commonly selected for a PAT to Enhance Efficiency:**
+    - `repo`
+    - `workflow`
+    - `write:packages`
+    - **`Alert:` Any Scopes other than those mentioned above are not recommended for General Use Tokens or Public-Access Tokens.**
+    - **`Note:`If you are the Administrator then you can enable the Scopes mentioned in the Image above for General Administrative Efficiency.**
   - 
     
 
