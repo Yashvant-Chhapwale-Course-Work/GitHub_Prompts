@@ -56,6 +56,9 @@
   - Scroll Down and Click on `Developer Settings` in Settings.<br>
     ![GitHub_Settings>>Developer Settings](https://github.com/user-attachments/assets/2aca4a9d-ef6d-4cb2-b627-2ee2a441e02f)
     <br>
+  - Inside Developer Settings, Click on `Personal Access Tokens` >> Select on `Tokens (classic)` >> Click on `Generate new token (classic)`.<br>
+    ![GitHub_Settings>>Developer Settings >> Generate Token](https://github.com/user-attachments/assets/09e38ff2-b223-4e78-a786-2a6a58f6982b)
+    <br>
   - 
 
 <br>
