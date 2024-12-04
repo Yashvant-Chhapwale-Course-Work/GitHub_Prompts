@@ -47,7 +47,7 @@
 
 ## Create A Personal-Access-Token (PAT)
   - Visit [`GitHub Web-Interface`](https://github.com/).
-  - Click on `Profile-Picture` at the TOP-Right Corner.<br>
+  - Click on Your `Profile-Picture` at the TOP-Right Corner.<br>
     ![GitHub>>Profile](https://github.com/user-attachments/assets/57ba16d4-2286-45a1-9d53-4a223377bbe9)
     <br>
   - Click on `Settings` from the Dropdown Menu.<br>
