@@ -8,7 +8,7 @@
 | TITLE                                                                                                          | SECTION_LINK                                                                                  |
 |----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | 1.  **An Overview on Personal-Access-Tokens (PAT)**                                                            | >> [` CHECK CONTENT `](#what-is-a-personal-access-token-or-pat)                               |
-| 1.  **Create A Personal-Access-Token (PAT)**                                                                   | >> [` CHECK CONTENT `](#generating-pat-using-github-web-interface)                            |
+| 1.  **Create A Personal-Access-Token (PAT)**                                                                   | >> [` CHECK CONTENT `](#generating-pat-using-github-web-interface-)                           |
 | 2.  **Create A Repository Using GitHub_CLI (gh) Commands**                                                     | >> [` CHECK CONTENT `](#repository-initialization--using-github_cli-gh--recommended)          |
 | 3.  **Create A Repository Using GitHub_Web_Interface**                                                         | >> [` CHECK CONTENT `](#repository-initialization--using-github_website--recommended)         |
 | 4.  **Create A Repository Using GitHub_Desktop**                                                               | >> [` CHECK CONTENT `](#repository-initialization--using-github_desktop-)                     |
@@ -46,7 +46,7 @@
 <br>
 
 ## Create A Personal-Access-Token (PAT)
-### Generating PAT Using [GitHub Web-Interface](https://github.com/):
+### Generating PAT Using [GitHub Web-Interface](https://github.com/) :
   - Visit [`GitHub Web-Interface`](https://github.com/).
   - Click on Your `Profile-Picture` at the TOP-Right Corner.<br>
     ![GitHub>>Profile](https://github.com/user-attachments/assets/57ba16d4-2286-45a1-9d53-4a223377bbe9)
