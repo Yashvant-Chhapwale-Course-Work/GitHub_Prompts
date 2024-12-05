@@ -9,7 +9,7 @@
 |----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | 1.  **An Overview on Personal-Access-Tokens (PAT)**                                                            | >> [` CHECK CONTENT `](#what-is-a-personal-access-token-or-pat)                               |
 | 2.  **Generate A `Classic Personal-Access-Token (PAT)` using GitHub Web-Interface**                            | >> [` CHECK CONTENT `](#generating-classic-token-using-github-web-interface-)                 |
-| 3.  **Generate `Personal-Access-Token (PAT) for a Specific Repository` using GitHub Web-Interface**            | >> [` CHECK CONTENT `](#generating-fine_grained-token-using-github-web-interface)             |
+| 3.  **Generate `Personal-Access-Token (PAT) for a Specific Repository` using GitHub Web-Interface**            | >> [` CHECK CONTENT `](#generating-fine_grained-token-using-github-web-interface-)            |
 | 3.  **Create A Repository Using GitHub_Web_Interface**                                                         | >> [` CHECK CONTENT `](#repository-initialization--using-github_website--recommended)         |
 | 4.  **Create A Repository Using GitHub_Desktop**                                                               | >> [` CHECK CONTENT `](#repository-initialization--using-github_desktop-)                     |
 | 5.  **Create A Repository Using VSCode Source_Control Tool**                                                   | >> [` CHECK CONTENT `](#repository-initialization--using-vscode-source-control-)              |
