@@ -8,8 +8,8 @@
 | TITLE                                                                                                          | SECTION_LINK                                                                                  |
 |----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | 1.  **An Overview on Personal-Access-Tokens (PAT)**                                                            | >> [` CHECK CONTENT `](#what-is-a-personal-access-token-or-pat)                               |
-| 2.  **Generate A Personal-Access-Token (PAT) using GitHub Web-Interface**                                      | >> [` CHECK CONTENT `](#generating-pat-using-github-web-interface-)                           |
-| 3.  **Generate A Personal-Access-Token (PAT) using GitHub CLI (gh)**                                           | >> [` CHECK CONTENT `](#generating-pat-using-github_cli-gh-)                                 |
+| 2.  **Generate A Classic Personal-Access-Token (PAT) using GitHub Web-Interface**                              | >> [` CHECK CONTENT `](#generating-classic-token-using-github-web-interface-)                 |
+| 3.  **Generate Personal-Access-Token (PAT) for a Specific Repository using GitHub Web-Interface**              | >> [` CHECK CONTENT `](#generating-pat-using-github_cli-gh-)                                  |
 | 3.  **Create A Repository Using GitHub_Web_Interface**                                                         | >> [` CHECK CONTENT `](#repository-initialization--using-github_website--recommended)         |
 | 4.  **Create A Repository Using GitHub_Desktop**                                                               | >> [` CHECK CONTENT `](#repository-initialization--using-github_desktop-)                     |
 | 5.  **Create A Repository Using VSCode Source_Control Tool**                                                   | >> [` CHECK CONTENT `](#repository-initialization--using-vscode-source-control-)              |
@@ -45,8 +45,8 @@
 ---
 <br>
 
-## Create A Personal-Access-Token (PAT)
-### Generating PAT Using [GitHub Web-Interface](https://github.com/) :
+## Create A Personal-Access-Token (PAT) Using GitHub Web-Interface
+### Generating Classic-Token Using [GitHub Web-Interface](https://github.com/) :
   - Visit [`GitHub Web-Interface`](https://github.com/).
   - Click on Your `Profile-Picture` at the TOP-Right Corner.<br>
     ![GitHub>>Profile](https://github.com/user-attachments/assets/57ba16d4-2286-45a1-9d53-4a223377bbe9)
@@ -90,7 +90,7 @@
     `Alert!:` Make sure to Copy and Securely save your Personal-Access-Token now, as you won’t be able to View it Again!
 <br>
 
-### Generating PAT Using GitHub_CLI (gh) :
+### Generating Fine_Grained-Token Using [GitHub Web-Interface](https://github.com/) :
 
 <br>
 
