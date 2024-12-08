@@ -140,7 +140,14 @@
     Select `Only select repositories` option >> `Select the Repositories` from the Dropdown Menu that the Token will Access.<br>
     ![Generate Token>>Only select repositories](https://github.com/user-attachments/assets/93a68068-4fd1-43f1-be87-d5dc49d708a9)
     <br>
-  - 
+  - Select `Permissions` which you want to grant to the Token. There are two types of Permissions `Repository Permissions` and `Account Permissions`.<br>
+    - **Repository Permissions [`Note:` This option is not shown for `Public Repositories` access scope.]:**
+      - Repository Permissions refer to the AccesS_Rights and Privileges granted to a User, Collaborator, or Token for performing Specific Actions on a Repository.
+      - | | |
+        |-|-|
+        | | |
+      - 
+     
 <br>
 
 ---
