@@ -5,13 +5,14 @@
  
 ### TABLE OF CONTENT
  
-| TITLE                                                                                                          | SECTION_LINK                                                                                  |
-|----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| 1.  **An Overview on Personal-Access-Tokens (PAT)**                                                            | >> [` CHECK CONTENT `](#what-is-a-personal-access-token-or-pat)                               |
-| 2.  **Generate A `Classic Personal-Access-Token (PAT)` using GitHub Web-Interface**                            | >> [` CHECK CONTENT `](#generating-classic-token-using-github-web-interface-)                 |
-| 3.  **Generate A `Fine-Grained Personal-Access-Token (PAT)` using GitHub Web-Interface**                       | >> [` CHECK CONTENT `](#generating-fine_grained-token-using-github-web-interface-)            |
-| 4.  **Configure Git to use `Personal Access Tokens for Authentication in the Git_CLI`**                        | >> [` CHECK CONTENT `](#using-personal-access-tokens-pat-for-authentication-in-the-git_cli)   |
-| 5.  **Create A Repository Using VSCode Source_Control Tool**                                                   | >> [` CHECK CONTENT `](#repository-initialization--using-vscode-source-control-)              |
+| TITLE                                                                                                          | SECTION_LINK                                                                                        |
+|----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| 1.  **An Overview on Personal-Access-Tokens (PAT)**                                                            | >> [` CHECK CONTENT `](#what-is-a-personal-access-token-or-pat)                                     |
+| 2.  **Generate A `Classic Personal-Access-Token (PAT)` using GitHub Web-Interface**                            | >> [` CHECK CONTENT `](#generating-classic-token-using-github-web-interface-)                       |
+| 3.  **Generate A `Fine-Grained Personal-Access-Token (PAT)` using GitHub Web-Interface**                       | >> [` CHECK CONTENT `](#generating-fine_grained-token-using-github-web-interface-)                  |
+| 4.  **Configure Git to use `Personal Access Tokens for Authentication in the Git_CLI`**                        | >> [` CHECK CONTENT `](#using-personal-access-tokens-pat-for-authentication-in-the-git_cli)         |
+| 5.  **Configure Git to use `Personal Access Tokens for Authentication in the GitHub_CLI (gh)`**                | >> [` CHECK CONTENT `](#using-personal-access-tokens-pat-for-authentication-in-the-github_cli-gh)   |
+| 6.  **Create A Repository Using VSCode Source_Control Tool**                                                   | >> [` CHECK CONTENT `](#repository-initialization--using-vscode-source-control-)                    |
 </div>
 <br>
 
@@ -179,6 +180,14 @@
 <br>
 
 ## Using Personal-Access-Tokens (PAT) for Authentication in the Git_CLI
+  - To Store and Use a Personal-Access-Token (PAT) in the Git CLI, you can utilize [`Git-Credential-Manager (GCM) or Git's Credential-Helper`](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git-Credential-Manager%20(GCM)%20and%20Git%20Credential-Helper.md) for Secure Management and Authentication.
+
+<br>
+
+---
+<br>
+
+## Using Personal-Access-Tokens (PAT) for Authentication in the GitHub_CLI (gh)
   - To Store and Use a Personal-Access-Token (PAT) in the Git CLI, you can utilize [`Git-Credential-Manager (GCM) or Git's Credential-Helper`](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git-Credential-Manager%20(GCM)%20and%20Git%20Credential-Helper.md) for Secure Management and Authentication.
 
 <br>
