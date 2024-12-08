@@ -137,6 +137,7 @@
     ![Generate Token>>Choose Type OF Repository  Access](https://github.com/user-attachments/assets/31230dbf-11d3-4398-8c6d-31474eeb35cf)
     <br>
     `Note:` Generally, the `Only select repositories` Scope is Recommended for such Granular-Access Tokens.<br>
+    Select `Only select repositories` option >> `Select the Repositories` from the Dropdown Menu that the Token will Access.
     ![Generate Token>>Only select repositories](https://github.com/user-attachments/assets/93a68068-4fd1-43f1-be87-d5dc49d708a9)
     <br>
   - 
