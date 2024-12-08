@@ -143,7 +143,7 @@
   - Select `Permissions` which you want to grant to the Token. There are two types of Permissions `Repository Permissions` and `Account Permissions`.<br>
     - **Repository Permissions [`Note:` This option is not shown for `Public Repositories` access scope.]:**
       - Repository Permissions refer to the Access_Rights and Privileges granted to a User, Collaborator, or Token for performing Specific Actions on a Repository.
-      - Some `General Repository Permissions` based on Roles, for Efficiency, are as follows:
+      - Some `General Repository Permissions` based on Roles, for ensuring Security and Efficiency, are as follows:
         |Permission Category  |Public Users |Contributors    |Administrators  |
         |---------------------|-------------|----------------|----------------|
         |Contents             |`Read`       |`Read and Write`|`Read and Write`|
@@ -157,7 +157,7 @@
         ![Generate Token>>Repository Permissions_2](https://github.com/user-attachments/assets/bf7f0954-794e-4e21-b818-333d30eef352)<br>
     - **Account Permissions:**
       - Account Permissions in Fine-Grained Tokens define the Level of Access granted to Account-Wide Resources.  
-      - Some `General Account Permissions` based on Roles, for Efficiency, are as follows:
+      - Some `General Account Permissions` based on Roles, for ensuring Security and Efficiency, are as follows:
         |Permission Category  |Public Users / Contributors  |Administrators  |
         |---------------------|-----------------------------|----------------|
         |Email addresses      |`Read`                       |`Read and Write`|
@@ -167,6 +167,13 @@
         |Profile              |`Read`                       |`Read and Write`|
       - ![Generate Token>>Account Permissions_1](https://github.com/user-attachments/assets/671df5af-421c-4363-baf9-9688101201ba)<br>
         ![Generate Token>>Account Permissions_2](https://github.com/user-attachments/assets/8cc0492a-a955-427e-9f45-8cd214dc6bd2)<br>
+   - Click on `Generate Token` at the bottom of the page to Create your Personal-Access-Token.<br>
+     ![Generate Token>>Click on Generate_Token](https://github.com/user-attachments/assets/37c24489-f2c0-431b-8258-72613e93ba47)
+     <br>
+   - **Congratulations! Your Personal-Access-Token has been successfully generated!!**<br>
+     ![Copy the Personal-Access-Token](https://github.com/user-attachments/assets/3b34ea0d-a447-4fb9-bb52-d58520928924)
+     <br>
+     `Alert!:` Make sure to Copy and Securely save your Personal-Access-Token now, as you won’t be able to View it Again!
 <br>
 
 ---
