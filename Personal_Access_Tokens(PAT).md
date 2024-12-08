@@ -108,7 +108,22 @@
 <br>
 
 ### Generating Fine_Grained-Token Using [GitHub Web-Interface](https://github.com/) :
-
+  - Visit [`GitHub Web-Interface`](https://github.com/).
+  - Click on Your `Profile-Picture` at the TOP-Right Corner.<br>
+    ![GitHub>>Profile](https://github.com/user-attachments/assets/57ba16d4-2286-45a1-9d53-4a223377bbe9)
+    <br>
+  - Click on `Settings` from the Dropdown Menu.<br>
+    ![GitHub>>Profile>>Settings](https://github.com/user-attachments/assets/e60f269c-8c02-474f-aedc-dc1581f6753c)
+    <br>
+  - Scroll Down and Click on `Developer Settings` in Settings.<br>
+    ![GitHub_Settings>>Developer Settings](https://github.com/user-attachments/assets/2aca4a9d-ef6d-4cb2-b627-2ee2a441e02f)
+    <br>
+  - Inside Developer Settings, Click on `Personal Access Tokens` >> Select `Fine Grained Tokens` >> Click on `Generate new token (classic)`.<br>
+    ![GitHub_Settings>>Developer Settings >> Generate Token](https://github.com/user-attachments/assets/a0f12026-2e19-4eb8-a455-cfd70ef11688)
+    <br>
+  - Enter an apporpriate `Token Name`. Replace **'Demo_Token'** with your **'Desired-Token_Name'**<br>
+    ![Generate Token>>Enter Token Name](https://github.com/user-attachments/assets/b35e45f6-bcab-4f22-b45c-5d220c374e75)
+    <br>
 <br>
 
 ---
