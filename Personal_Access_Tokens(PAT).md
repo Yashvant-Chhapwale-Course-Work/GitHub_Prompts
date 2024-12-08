@@ -179,7 +179,7 @@
 <br>
 
 ## Using Personal-Access-Tokens (PAT) for Authentication in the Git_CLI
-  - To Store and Use a Personal-Access-Token (PAT) in the Git CLI, you can utilize [`Git-Credential-Manager (GCM) or Git's Credential-Helper`](#) for Secure Management and Authentication.
+  - To Store and Use a Personal-Access-Token (PAT) in the Git CLI, you can utilize [`Git-Credential-Manager (GCM) or Git's Credential-Helper`](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git-Credential-Manager%20(GCM)%20and%20Git%20Credential-Helper.md) for Secure Management and Authentication.
 
 <br>
 
