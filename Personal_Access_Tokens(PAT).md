@@ -124,6 +124,12 @@
   - Enter an apporpriate `Token Name`. Replace **'Demo_Token'** with your **'Desired-Token_Name'**<br>
     ![Generate Token>>Enter Token Name](https://github.com/user-attachments/assets/b35e45f6-bcab-4f22-b45c-5d220c374e75)
     <br>
+  - Set `Expiration`.<br>
+    ![Generate Token>>Expiration](https://github.com/user-attachments/assets/21827c5f-a5cb-4446-80a2-8f04ccfdec06)
+    <br>
+    `Note:` You can also implement `Custom Expiration` for better Security and Control.<br>
+    ![Generate Token>>Custom Expiration](https://github.com/user-attachments/assets/20d2ac36-b579-457d-be6b-562dd1e510dc)
+    <br>
 <br>
 
 ---
