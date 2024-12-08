@@ -156,8 +156,17 @@
       - ![Generate Token>>Repository Permissions_1](https://github.com/user-attachments/assets/5960a09b-a1ab-43f2-8f2a-9963582ca0ba)<br>
         ![Generate Token>>Repository Permissions_2](https://github.com/user-attachments/assets/bf7f0954-794e-4e21-b818-333d30eef352)<br>
     - **Account Permissions:**
-      -  
-             
+      - Account Permissions in Fine-Grained Tokens define the Level of Access granted to Account-Wide Resources.  
+      - Some `General Account Permissions` based on Roles, for Efficiency, are as follows:
+        |Permission Category  |Public Users / Contributors  |Administrators  |
+        |---------------------|-----------------------------|----------------|
+        |Email addresses      |`Read`                       |`Read and Write`|
+        |Followers            |`Read`                       |`Read`          |
+        |GPG Keys             |`No Access`                  |`Read and Write`|
+        |SSH Keys             |`No Access`                  |`Read and Write`|
+        |Profile              |`Read`                       |`Read and Write`|
+      - ![Generate Token>>Account Permissions_1](https://github.com/user-attachments/assets/671df5af-421c-4363-baf9-9688101201ba)<br>
+        ![Generate Token>>Account Permissions_2](https://github.com/user-attachments/assets/8cc0492a-a955-427e-9f45-8cd214dc6bd2)<br>
 <br>
 
 ---
