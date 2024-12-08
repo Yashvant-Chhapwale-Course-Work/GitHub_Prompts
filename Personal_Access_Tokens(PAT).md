@@ -9,9 +9,8 @@
 |----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | 1.  **An Overview on Personal-Access-Tokens (PAT)**                                                            | >> [` CHECK CONTENT `](#what-is-a-personal-access-token-or-pat)                               |
 | 2.  **Generate A `Classic Personal-Access-Token (PAT)` using GitHub Web-Interface**                            | >> [` CHECK CONTENT `](#generating-classic-token-using-github-web-interface-)                 |
-| 3.  **Generate `Fine-Grained Personal-Access-Token (PAT)` using GitHub Web-Interface**                         | >> [` CHECK CONTENT `](#generating-fine_grained-token-using-github-web-interface-)            |
-| 3.  **Create A Repository Using GitHub_Web_Interface**                                                         | >> [` CHECK CONTENT `](#repository-initialization--using-github_website--recommended)         |
-| 4.  **Create A Repository Using GitHub_Desktop**                                                               | >> [` CHECK CONTENT `](#repository-initialization--using-github_desktop-)                     |
+| 3.  **Generate A `Fine-Grained Personal-Access-Token (PAT)` using GitHub Web-Interface**                       | >> [` CHECK CONTENT `](#generating-fine_grained-token-using-github-web-interface-)            |
+| 4.  **Generate A `Personal-Access-Token (PAT)` using GitHub_CLI (gh)**                                         | >> [` CHECK CONTENT `](#create-a-personal-access-token-pat-using-github_cli-gh)               |
 | 5.  **Create A Repository Using VSCode Source_Control Tool**                                                   | >> [` CHECK CONTENT `](#repository-initialization--using-vscode-source-control-)              |
 </div>
 <br>
@@ -174,6 +173,13 @@
      ![Copy the Personal-Access-Token](https://github.com/user-attachments/assets/3b34ea0d-a447-4fb9-bb52-d58520928924)
      <br>
      `Alert!:` Make sure to Copy and Securely save your Personal-Access-Token now, as you won’t be able to View it Again!
+<br>
+
+---
+<br>
+
+## Create A Personal-Access-Token (PAT) Using GitHub_CLI (gh)
+
 <br>
 
 ---
