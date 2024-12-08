@@ -43,10 +43,20 @@
   - **GitHub offers Two Types of Personal-Access-Tokens:**
     - [**`Classic Personal-Access-Tokens`**](#classic-personal-access-tokens)
     - [**`Fine Grained Personal-Access-Tokens`**](#fine-grained-personal-access-tokens)
+<br>
 
 ### Classic Personal-Access-Tokens:
-### Fine Grained Personal-Access-Tokens:
+  - Classic Tokens provide `Account-Wide Access`.
+  - Classic Tokens offer `Broad, Predefined scopes with Limited Granularity`.
+  - Classic Tokens `Cannot Limit Access to Specific Repositories`.
+  - Classic Tokens are `Less Secure` due to their Broad Access.
+<br>
 
+### Fine Grained Personal-Access-Tokens:
+  - Fine-Grained Tokens provide `Repository-Specific Access`.
+  - Fine-grained Tokens allow `Precise Control over Permissions at the Repository and Action Level`.
+  - Fine-grained Tokens are `More Secure` with Tailored Access to Resources.
+  - `Permissions are Easier to Audit and Adjust` using Fine-Grained Tokens as compared to Classic Tokens. 
 <br>
 
 ---
