@@ -179,6 +179,8 @@
 <br>
 
 ## Create A Personal-Access-Token (PAT) Using GitHub_CLI (gh)
+  - Open `Command-Prompt` or `Git-Bash` Terminal.
+  - 
 
 <br>
 
