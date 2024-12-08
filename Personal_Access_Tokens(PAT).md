@@ -153,7 +153,7 @@
         |Administration       |`No Access`  |`No Access`     |`Read and Write`|
         |Merge Queues         |`No Access`  |`No Access`     |`Read and Write`|
         |Metadata (By Default)|`No Access`  |`Read`          |`Read`          |
-      - ![Generate Token>>Repository Permissions_1](https://github.com/user-attachments/assets/7ba3795b-0ea3-411a-94f0-6107f80af9ae)<br>
+      - ![Generate Token>>Repository Permissions_1](https://github.com/user-attachments/assets/5960a09b-a1ab-43f2-8f2a-9963582ca0ba)<br>
         ![Generate Token>>Repository Permissions_2](https://github.com/user-attachments/assets/bf7f0954-794e-4e21-b818-333d30eef352)<br>
     - **Account Permissions:**
       -  
