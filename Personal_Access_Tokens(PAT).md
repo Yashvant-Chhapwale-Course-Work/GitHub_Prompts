@@ -130,6 +130,16 @@
     `Note:` You can also implement `Custom Expiration` for better Security and Control.<br>
     ![Generate Token>>Custom Expiration](https://github.com/user-attachments/assets/20d2ac36-b579-457d-be6b-562dd1e510dc)
     <br>
+  - Enter an appropriate `Token Description` (Optional).<br>
+    ![Generate Token>>Enter Token Description](https://github.com/user-attachments/assets/9a2bf9e3-20a0-484a-8a28-2a67d18a2915)
+    <br>
+  - Choose the type of `Repository Access` you wish to Grant with the Token.<br>
+    ![Generate Token>>Choose Type OF Repository  Access](https://github.com/user-attachments/assets/31230dbf-11d3-4398-8c6d-31474eeb35cf)
+    <br>
+    `Note:` Generally, the `Only select repositories` Scope is Recommended for such Granular-Access Tokens.<br>
+    ![Generate Token>>Only select repositories](https://github.com/user-attachments/assets/93a68068-4fd1-43f1-be87-d5dc49d708a9)
+    <br>
+  - 
 <br>
 
 ---
