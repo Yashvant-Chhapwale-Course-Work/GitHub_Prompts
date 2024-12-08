@@ -179,13 +179,7 @@
 <br>
 
 ## Using Personal-Access-Tokens (PAT) for Authentication in the Git_CLI
-  - Open `Command-Prompt` or `Git-Bash` Terminal.
-  - Aunthenticate with your GitHub Account by Following the Steps mentioned in [`Git Setup`](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/edit/main/Git_Setup.md) >> `Configure Git Credentials Using GitHub_CLI (gh)`.<br>
-    You can paste the following Command in Terminal to `Begin Authentication`.
-    ```
-    gh auth login
-    ```
-  - 
+  - To Store and Use a Personal-Access-Token (PAT) in the Git CLI, you can utilize [`Git-Credential-Manager (GCM) or Git's Credential-Helper`](#) for Secure Management and Authentication.
 
 <br>
 
