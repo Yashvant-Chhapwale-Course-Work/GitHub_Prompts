@@ -10,7 +10,7 @@
 | 1.  **An Overview on Personal-Access-Tokens (PAT)**                                                            | >> [` CHECK CONTENT `](#what-is-a-personal-access-token-or-pat)                               |
 | 2.  **Generate A `Classic Personal-Access-Token (PAT)` using GitHub Web-Interface**                            | >> [` CHECK CONTENT `](#generating-classic-token-using-github-web-interface-)                 |
 | 3.  **Generate A `Fine-Grained Personal-Access-Token (PAT)` using GitHub Web-Interface**                       | >> [` CHECK CONTENT `](#generating-fine_grained-token-using-github-web-interface-)            |
-| 4.  **Generate A `Personal-Access-Token (PAT)` using GitHub_CLI (gh)**                                         | >> [` CHECK CONTENT `](#create-a-personal-access-token-pat-using-github_cli-gh)               |
+| 4.  **Store and Use Personal-Access-Tokens using `Credential Manager`**                                        | >> [` CHECK CONTENT `](#store-and-use-personal-access-token-pat-using-credential-manager)     |
 | 5.  **Create A Repository Using VSCode Source_Control Tool**                                                   | >> [` CHECK CONTENT `](#repository-initialization--using-vscode-source-control-)              |
 </div>
 <br>
@@ -178,7 +178,7 @@
 ---
 <br>
 
-## Create A Personal-Access-Token (PAT) Using GitHub_CLI (gh)
+## Store and Use Personal-Access-Tokens (PAT) Using Credential Manager
   - Open `Command-Prompt` or `Git-Bash` Terminal.
   - Aunthenticate with your GitHub Account by Following the Steps mentioned in [`Git Setup`](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/edit/main/Git_Setup.md) >> `Configure Git Credentials Using GitHub_CLI (gh)`.<br>
     You can paste the following Command in Terminal to `Begin Authentication`.
