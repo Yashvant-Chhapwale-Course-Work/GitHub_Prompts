@@ -40,6 +40,13 @@
     - **`Expiration and Control:`** **PATs can be Configured to Expire automatically after a Set Period**, improving Security by Limiting their Validity.
     - **`Ease of Revocation:`** **Individual PATs can be Revoked without affecting your Main Account or Other Access Methods.** Changing a Password disrupts all Tools and Sessions using it.
 
+  - **GitHub offers Two Types of Personal-Access-Tokens:**
+    - [Classic Personal-Access-Tokens](#classic-personal-access-tokens)
+    - [Fine Grained Personal-Access-Tokens](#fine-grained-personal-access-tokens)
+
+### Classic Personal-Access-Tokens:
+### Fine Grained Personal-Access-Tokens:
+
 <br>
 
 ---
