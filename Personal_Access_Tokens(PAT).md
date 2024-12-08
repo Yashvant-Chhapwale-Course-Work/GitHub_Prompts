@@ -142,7 +142,7 @@
     <br>
   - Select `Permissions` which you want to grant to the Token. There are two types of Permissions `Repository Permissions` and `Account Permissions`.<br>
     - **Repository Permissions [`Note:` This option is not shown for `Public Repositories` access scope.]:**
-      - Repository Permissions refer to the AccesS_Rights and Privileges granted to a User, Collaborator, or Token for performing Specific Actions on a Repository.
+      - Repository Permissions refer to the Access_Rights and Privileges granted to a User, Collaborator, or Token for performing Specific Actions on a Repository.
       - Some `General Repository Permissions` based on Roles, for Efficiency, are as follows:
         |Permission Category  |Public Users |Contributors    |Administrators  |
         |---------------------|-------------|----------------|----------------|
@@ -152,7 +152,7 @@
         |Discussions          |`No Access`  |`Read and Write`|`Read and Write`|
         |Administration       |`No Access`  |`No Access`     |`Read and Write`|
         |Merge Queues         |`No Access`  |`No Access`     |`Read and Write`|
-        |Metadata (By Default)|`Read`       |`Read`          |`Read`          |
+        |Metadata (By Default)|`No Access`  |`Read`          |`Read`          |
       - ![Generate Token>>Repository Permissions_1](https://github.com/user-attachments/assets/7ba3795b-0ea3-411a-94f0-6107f80af9ae)<br>
         ![Generate Token>>Repository Permissions_2](https://github.com/user-attachments/assets/bf7f0954-794e-4e21-b818-333d30eef352)<br>
     - **Account Permissions:**
