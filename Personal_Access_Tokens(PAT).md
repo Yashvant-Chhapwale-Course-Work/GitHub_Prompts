@@ -9,11 +9,11 @@
 |-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | 1 .  **An Overview on Personal-Access-Tokens (PAT)**                                                            | >> [` CHECK CONTENT `](#what-is-a-personal-access-token-or-pat)                                     |
 | 2 .  **Generate A `Classic Personal-Access-Token (PAT)` using GitHub Web-Interface**                            | >> [` CHECK CONTENT `](#generating-classic-token-using-github-web-interface-)                       |
-| 3 .  **`Regenrating` an Existing `Classic Personal-Access-Token (PAT)`**                                       | >> [` CHECK CONTENT `](#regenerating-an-existing-classic-token-)                                     |
-| 4 .  **`Updating` an Existing `Classic Personal-Access-Token (PAT)`**                                          | >> [` CHECK CONTENT `](#updating-an-existing-classic-token-)                                         |
+| 3 .  **`Regenrating` an Existing `Classic Personal-Access-Token (PAT)`**                                        | >> [` CHECK CONTENT `](#regenerating-an-existing-classic-token-)                                    |
+| 4 .  **`Updating` an Existing `Classic Personal-Access-Token (PAT)`**                                           | >> [` CHECK CONTENT `](#updating-an-existing-classic-token-)                                        |
 | 5 .  **Generate A `Fine-Grained Personal-Access-Token (PAT)` using GitHub Web-Interface**                       | >> [` CHECK CONTENT `](#generating-fine_grained-token-using-github-web-interface-)                  |
-| 6 .  **`Regenrating` an Existing `Fine_Grained Personal-Access-Token (PAT)`**                                  | >> [` CHECK CONTENT `](#regenerating-an-existing-fine_grained-token-)                                |
-| 7 .  **`Updating` an Existing `Fine_Grained Personal-Access-Token (PAT)`**                                     | >> [` CHECK CONTENT `](#updating-an-existing-fine_grained-token-)                                    |
+| 6 .  **`Regenrating` an Existing `Fine_Grained Personal-Access-Token (PAT)`**                                   | >> [` CHECK CONTENT `](#regenerating-an-existing-fine_grained-token-)                               |
+| 7 .  **`Updating` an Existing `Fine_Grained Personal-Access-Token (PAT)`**                                      | >> [` CHECK CONTENT `](#updating-an-existing-fine_grained-token-)                                   |
 | 8 .  **Configure Git to use `Personal-Access-Tokens for Authentication in the Git_CLI`**                        | >> [` CHECK CONTENT `](#using-personal-access-tokens-pat-for-authentication-in-the-git_cli)         |
 | 9 .  **Configure Git to use `Personal-Access-Tokens for Authentication in the GitHub_CLI (gh)`**                | >> [` CHECK CONTENT `](#using-personal-access-tokens-pat-for-authentication-in-the-github_cli-gh)   |
 | 10.  **`Authenticate GitHub_Desktop` Using Personal-Access-Tokens**                                             | >> [` CHECK CONTENT `](#authenticate-github_desktop-using-personal-access-tokens-pat)               |
@@ -120,7 +120,7 @@
   - Click on `Regenrate token` to regenerate a New Token-Code for the Selected Token.<br>
     ![Classic_Token>>Regenerate_Token](https://github.com/user-attachments/assets/57317b4e-51b2-41de-b05f-72b6302a89f6)
     <br>
-  - Set `New Expiration-Date` if required (Optional) >> Click on `Regenrate token`.<br>
+  - Set `New Expiration-Date` (Optional) >> Click on `Regenrate token`.<br>
     ![Classic_Token>>Set Expiration>>Regenerate_Token](https://github.com/user-attachments/assets/448ffd51-ecc6-4979-ad3d-b00ecc58f179)
     <br>
   - Copy and Securely save your **Regenerated Personal-Access-Token** now, as you won’t be able to View it Again!<br>
