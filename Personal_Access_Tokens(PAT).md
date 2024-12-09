@@ -121,7 +121,7 @@
     ![Classic_Token>>Regenerate_Token](https://github.com/user-attachments/assets/57317b4e-51b2-41de-b05f-72b6302a89f6)
     <br>
   - Copy and Securely save your **Regenerated Personal-Access-Token** now, as you won’t be able to View it Again!<br>
-    ![Classic_Token>>Token Regenerated](https://github.com/user-attachments/assets/f758c3b2-22b5-45f8-b68e-21813750480d)
+    ![Classic_Token>>Token Regenerated](https://github.com/user-attachments/assets/67dab367-aa5c-475d-8339-6ce96330c738)
     <br>
 
 <br>
