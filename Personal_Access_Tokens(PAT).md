@@ -10,9 +10,9 @@
 | 1.  **An Overview on Personal-Access-Tokens (PAT)**                                                            | >> [` CHECK CONTENT `](#what-is-a-personal-access-token-or-pat)                                     |
 | 2.  **Generate A `Classic Personal-Access-Token (PAT)` using GitHub Web-Interface**                            | >> [` CHECK CONTENT `](#generating-classic-token-using-github-web-interface-)                       |
 | 3.  **Generate A `Fine-Grained Personal-Access-Token (PAT)` using GitHub Web-Interface**                       | >> [` CHECK CONTENT `](#generating-fine_grained-token-using-github-web-interface-)                  |
-| 4.  **Configure Git to use `Personal Access Tokens for Authentication in the Git_CLI`**                        | >> [` CHECK CONTENT `](#using-personal-access-tokens-pat-for-authentication-in-the-git_cli)         |
-| 5.  **Configure Git to use `Personal Access Tokens for Authentication in the GitHub_CLI (gh)`**                | >> [` CHECK CONTENT `](#using-personal-access-tokens-pat-for-authentication-in-the-github_cli-gh)   |
-| 6.  **Create A Repository Using VSCode Source_Control Tool**                                                   | >> [` CHECK CONTENT `](#repository-initialization--using-vscode-source-control-)                    |
+| 4.  **Configure Git to use `Personal-Access-Tokens for Authentication in the Git_CLI`**                        | >> [` CHECK CONTENT `](#using-personal-access-tokens-pat-for-authentication-in-the-git_cli)         |
+| 5.  **Configure Git to use `Personal-Access-Tokens for Authentication in the GitHub_CLI (gh)`**                | >> [` CHECK CONTENT `](#using-personal-access-tokens-pat-for-authentication-in-the-github_cli-gh)   |
+| 6.  **`Authenticate GitHub_Desktop` Using Personal-Access-Tokens**                                             | >> [` CHECK CONTENT `](#authenticate-github_desktop-using-personal-access-tokens-pat)               |
 </div>
 <br>
 
@@ -206,3 +206,21 @@
 
 ---
 <br>
+
+## Authenticate GitHub_Desktop Using Personal-Access-Tokens (PAT)
+  - Open `GitHub_Desktop`.
+  - Browse `File` >> Click on `Options...` o/r Use shortcut `Ctrl + ,`.<br>
+    ![GitHub_Desktop>>File>>Options....](https://github.com/user-attachments/assets/4f1f7d1e-a95a-47cf-b9fc-68ef8dded11e)
+    <br>
+  - Under Accounts >> Click on `Sign In`.<br>
+    ![Options>>Accounts>>Sign In](https://github.com/user-attachments/assets/5fc1abba-8e75-4d08-b1d6-319170f08f77)
+    <br>
+  - You will be redirected to the Sign In web page after clicking on the `Continue with browser` Button.<br>
+    ![Redirect_To_SignIn_Webpage](https://github.com/user-attachments/assets/892be788-c582-4f00-891f-47ee5dfeaaff)
+    <br>
+  - `Sign In` to Your `GitHub Account` >> Enter `Email/Username` in the `Username Field` >> Enter `Personal-Access-Token` in the `Password Field`.<br>
+    ![Sign_In with PAT](https://github.com/user-attachments/assets/fa59c19b-579e-45c4-88d1-2200aee6007f)
+    <br>
+  - **Congratulations! Your account has been authenticated successfully!** >> Click `Open GithubDesktop.exe` for redirecting to GitHub_Desktop.<br>
+    ![Redirecting Github_Desktop](https://github.com/user-attachments/assets/807f3edc-20e2-404b-95f1-0c01288397f3)
+    <br>
