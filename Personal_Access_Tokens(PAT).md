@@ -120,6 +120,9 @@
   - Click on `Regenrate token` to regenerate a New Token-Code for the Selected Token.<br>
     ![Classic_Token>>Regenerate_Token](https://github.com/user-attachments/assets/57317b4e-51b2-41de-b05f-72b6302a89f6)
     <br>
+  - Set `New Expiration-Date` if required (Optional) >> Click on `Regenrate token`.<br>
+    ![Classic_Token>>Set Expiration>>Regenerate_Token](https://github.com/user-attachments/assets/448ffd51-ecc6-4979-ad3d-b00ecc58f179)
+    <br>
   - Copy and Securely save your **Regenerated Personal-Access-Token** now, as you won’t be able to View it Again!<br>
     ![Classic_Token>>Token Regenerated](https://github.com/user-attachments/assets/67dab367-aa5c-475d-8339-6ce96330c738)
     <br>
@@ -127,6 +130,12 @@
 <br>
 
 ### Updating an Existing Classic-Token :
+  - Visit [`GitHub Web-Interface`](https://github.com/).
+  - Click on Your `Profile-Picture` at the TOP-Right Corner >> Click on `Settings` >> Scroll Down and Click on `Developer Settings` >> Inside Developer Settings, Click on `Personal Access Tokens` >> Select `Tokens (classic)`.
+  - Click on the `Name-Of-The-Token` for which you want to Update Permissions and Details.<br>
+    ![Classic_Token>>Click on Name-Of-The-Token](https://github.com/user-attachments/assets/101214c0-4201-4044-aa45-58bcf6dd6257)
+    <br>
+  - `Change Token-Name` by replacing the Existing-Name in the `Note` Field. (Optional)
 
 <br>
 
