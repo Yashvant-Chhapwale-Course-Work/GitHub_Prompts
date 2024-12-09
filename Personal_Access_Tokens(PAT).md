@@ -135,7 +135,15 @@
   - Click on the `Name-Of-The-Token` for which you want to Update Permissions and Details.<br>
     ![Classic_Token>>Click on Name-Of-The-Token](https://github.com/user-attachments/assets/101214c0-4201-4044-aa45-58bcf6dd6257)
     <br>
-  - `Change Token-Name` by replacing the Existing-Name in the `Note` Field. (Optional)
+  - `Change Token-Name` by replacing the Existing-Name in the `Note` Field. (Optional)<br>
+    ![Classic_Token>>Update_Token_Name/Note](https://github.com/user-attachments/assets/435287c4-83a9-434d-8d91-b5d4f6c79a63)
+    <br>
+  - `Update / Add / Remove Permissions or Scope` of the Token.<br>
+    ![Classic_Token>>Update_Token_Permissions/Scope](https://github.com/user-attachments/assets/8be793ac-c3cd-4bba-b443-50a03ca8b18f)
+    <br>
+  - Click `Update token`.<br>
+    ![Classic_Token>>Click on Update_Token](https://github.com/user-attachments/assets/ba8814f1-ea6c-4a63-8f31-9c3e7f1b5ccc)
+    <br>
 
 <br>
 
