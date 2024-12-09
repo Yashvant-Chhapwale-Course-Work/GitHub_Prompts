@@ -322,7 +322,7 @@
   - Click on Your `Profile-Picture` at the TOP-Right Corner >> Click on `Settings` >> Scroll Down and Click on `Developer Settings` >> Inside Developer Settings, Click on `Personal Access Tokens` >> Select the `Category` under which you want to Delete Tokens (`Tokens (classic)` or `Fine-grained tokens`).<br>
     ![GitHub>>Settings>>Developer_Settings>>Personal-Access-Tokens>>Select the Category](https://github.com/user-attachments/assets/b9acd947-2001-497e-9f1b-77dbc82b8cc2) 
     <br>
-  - Click `Delete` Button besides the **Name-Of-The-Token** which you want to Remove.<br>
+  - Click `Delete` Button corresponding to **Name-Of-The-Token** which you want to Remove.<br>
     ![Fine-Grained_Token>>Delete_Token](https://github.com/user-attachments/assets/00dd1e28-432d-4221-b9de-c645315ea581)<br>
     <div align="center">
      
