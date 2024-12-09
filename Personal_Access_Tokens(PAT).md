@@ -112,6 +112,17 @@
 <br>
 
 ### Regenerating the Existing Classic-Tokens :
+  - Visit [`GitHub Web-Interface`](https://github.com/).
+  - Click on Your `Profile-Picture` at the TOP-Right Corner >> Click on `Settings` >> Scroll Down and Click on `Developer Settings` >> Inside Developer Settings, Click on `Personal Access Tokens` >> Select `Tokens (classic)`.
+  - Click on the `Name-Of-The-Token` which you want to Regenerate.<br>
+    ![Classic_Token>>Click on Name-Of-The-Token](https://github.com/user-attachments/assets/101214c0-4201-4044-aa45-58bcf6dd6257)
+    <br>
+  - Click on `Regenrate token` to regenerate a New Token-Code for the Selected Token.<br>
+    ![Classic_Token>>Regenerate_Token](https://github.com/user-attachments/assets/57317b4e-51b2-41de-b05f-72b6302a89f6)
+    <br>
+  - Copy and Securely save your **Regenerated Personal-Access-Token** now, as you won’t be able to View it Again!<br>
+    ![Classic_Token>>Token Regenerated](https://github.com/user-attachments/assets/f758c3b2-22b5-45f8-b68e-21813750480d)
+    <br>
 
 <br>
 
