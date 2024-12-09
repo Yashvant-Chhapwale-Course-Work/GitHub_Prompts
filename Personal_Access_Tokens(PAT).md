@@ -9,11 +9,11 @@
 |-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | 1 .  **An Overview on Personal-Access-Tokens (PAT)**                                                            | >> [` CHECK CONTENT `](#what-is-a-personal-access-token-or-pat)                                     |
 | 2 .  **Generate A `Classic Personal-Access-Token (PAT)` using GitHub Web-Interface**                            | >> [` CHECK CONTENT `](#generating-classic-token-using-github-web-interface-)                       |
-| 3 .  **`Regenrating` an Existing `Classic Personal-Access-Token (PAT)`**                                       | >> [` CHECK CONTENT `](#regenerating-an-existing-classic-tokens-)                                    |
-| 4 .  **`Updating` an Existing `Classic Personal-Access-Token (PAT)`**                                          | >> [` CHECK CONTENT `](#updating-an-existing-classic-tokens-)                                        |
+| 3 .  **`Regenrating` an Existing `Classic Personal-Access-Token (PAT)`**                                       | >> [` CHECK CONTENT `](#regenerating-an-existing-classic-token-)                                     |
+| 4 .  **`Updating` an Existing `Classic Personal-Access-Token (PAT)`**                                          | >> [` CHECK CONTENT `](#updating-an-existing-classic-token-)                                         |
 | 5 .  **Generate A `Fine-Grained Personal-Access-Token (PAT)` using GitHub Web-Interface**                       | >> [` CHECK CONTENT `](#generating-fine_grained-token-using-github-web-interface-)                  |
-| 6 .  **`Regenrating` an Existing `Fine_Grained Personal-Access-Token (PAT)`**                                  | >> [` CHECK CONTENT `](#regenerating-an-existing-fine_grained-tokens-)                               |
-| 7 .  **`Updating` an Existing `Fine_Grained Personal-Access-Token (PAT)`**                                     | >> [` CHECK CONTENT `](#updating-an-existing-fine_grained-tokens-)                                   |
+| 6 .  **`Regenrating` an Existing `Fine_Grained Personal-Access-Token (PAT)`**                                  | >> [` CHECK CONTENT `](#regenerating-an-existing-fine_grained-token-)                                |
+| 7 .  **`Updating` an Existing `Fine_Grained Personal-Access-Token (PAT)`**                                     | >> [` CHECK CONTENT `](#updating-an-existing-fine_grained-token-)                                    |
 | 8 .  **Configure Git to use `Personal-Access-Tokens for Authentication in the Git_CLI`**                        | >> [` CHECK CONTENT `](#using-personal-access-tokens-pat-for-authentication-in-the-git_cli)         |
 | 9 .  **Configure Git to use `Personal-Access-Tokens for Authentication in the GitHub_CLI (gh)`**                | >> [` CHECK CONTENT `](#using-personal-access-tokens-pat-for-authentication-in-the-github_cli-gh)   |
 | 10.  **`Authenticate GitHub_Desktop` Using Personal-Access-Tokens**                                             | >> [` CHECK CONTENT `](#authenticate-github_desktop-using-personal-access-tokens-pat)               |
@@ -111,7 +111,7 @@
     `Alert!:` Make sure to Copy and Securely save your Personal-Access-Token now, as you won’t be able to View it Again!
 <br>
 
-### Regenerating an Existing Classic-Tokens :
+### Regenerating an Existing Classic-Token :
   - Visit [`GitHub Web-Interface`](https://github.com/).
   - Click on Your `Profile-Picture` at the TOP-Right Corner >> Click on `Settings` >> Scroll Down and Click on `Developer Settings` >> Inside Developer Settings, Click on `Personal Access Tokens` >> Select `Tokens (classic)`.
   - Click on the `Name-Of-The-Token` which you want to Regenerate.<br>
@@ -126,7 +126,7 @@
 
 <br>
 
-### Updating an Existing Classic-Tokens :
+### Updating an Existing Classic-Token :
 
 <br>
 
@@ -203,11 +203,11 @@
      `Alert!:` Make sure to Copy and Securely save your Personal-Access-Token now, as you won’t be able to View it Again!
 <br>
 
-### Regenerating an Existing Fine_Grained-Tokens :
+### Regenerating an Existing Fine_Grained-Token :
 
 <br>
 
-### Updating an Existing Fine_Grained-Tokens :
+### Updating an Existing Fine_Grained-Token :
 
 <br>
 
