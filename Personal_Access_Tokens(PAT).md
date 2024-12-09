@@ -328,6 +328,7 @@
      
      **OR**
     </div>
+    
     ![Classic_Token>>Delete_Token](https://github.com/user-attachments/assets/f948453c-d775-45d6-abda-3a25361ea4d8)<br>
   - A Pop-Up Window will appear >> Click the `I understand, delete this token` Button in the Pop-Up.<br>
     ![Delete_Token>>Click on I-understand-delete-this-token](https://github.com/user-attachments/assets/f637b773-4d5d-4770-8c51-22e6ede0b5a8)
