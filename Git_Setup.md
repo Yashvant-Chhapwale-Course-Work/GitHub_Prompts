@@ -239,7 +239,7 @@ ___________________________________________________
     ![Redirect_To_SignIn_Webpage](https://github.com/user-attachments/assets/892be788-c582-4f00-891f-47ee5dfeaaff)
     <br>
   - `Sign In` to Your `GitHub Account`<br>
-    ![SignIn_WebPage](https://github.com/user-attachments/assets/c5cd19e3-8a31-44b8-beb2-c9e620281d40)
+    ![SignIn_WebPage](https://github.com/user-attachments/assets/c5cd19e3-8a31-44b8-beb2-c9e620281d40)<br>
     [`Note:` It is recommended that you use `Personal-Access-Tokens` instead of **Passwords** in the `Password Field`. Visit [`Personal-Access-Tokens(PAT) Guide`](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Personal_Access_Tokens(PAT).md) for more information on this Topic.]
     <br>
   - Click `Open GithubDesktop.exe` for redirecting to GitHub_Desktop.<br>
