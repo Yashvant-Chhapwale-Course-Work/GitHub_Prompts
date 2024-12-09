@@ -17,6 +17,7 @@
 | 8 .  **Configure Git to use `Personal-Access-Tokens for Authentication in the Git_CLI`**                        | >> [` CHECK CONTENT `](#using-personal-access-tokens-pat-for-authentication-in-the-git_cli)         |
 | 9 .  **Configure Git to use `Personal-Access-Tokens for Authentication in the GitHub_CLI (gh)`**                | >> [` CHECK CONTENT `](#using-personal-access-tokens-pat-for-authentication-in-the-github_cli-gh)   |
 | 10.  **`Authenticate GitHub_Desktop` Using Personal-Access-Tokens**                                             | >> [` CHECK CONTENT `](#authenticate-github_desktop-using-personal-access-tokens-pat)               |
+| 11.  **`Deleting` Personal-Access-Tokens**                                                                        | >> [` CHECK CONTENT `](#delete-personal-access-tokens-pat)                                          |
 </div>
 <br>
 
@@ -309,6 +310,23 @@
     <br>
   - **Congratulations! Your account has been authenticated successfully!** >> Click `Open GithubDesktop.exe` for redirecting to GitHub_Desktop.<br>
     ![Redirecting Github_Desktop](https://github.com/user-attachments/assets/807f3edc-20e2-404b-95f1-0c01288397f3)
+    <br>
+
+<br>
+
+---
+<br>
+
+## Deleting Personal-Access-Tokens
+  - Visit [`GitHub Web-Interface`](https://github.com/).
+  - Click on Your `Profile-Picture` at the TOP-Right Corner >> Click on `Settings` >> Scroll Down and Click on `Developer Settings` >> Inside Developer Settings, Click on `Personal Access Tokens` >> Select the `Category` under which you want to Delete Tokens (`Tokens (classic)` or `Fine-grained tokens`).<br>
+    ![GitHub>>Settings>>Developer_Settings>>Personal-Access-Tokens>>Select the Category](https://github.com/user-attachments/assets/b9acd947-2001-497e-9f1b-77dbc82b8cc2) 
+    <br>
+  - Click `Delete` Button besides the **Name-Of-The-Token** which you want to Remove.<br>
+    ![Fine-Grained_Token>>Delete_Token](https://github.com/user-attachments/assets/00dd1e28-432d-4221-b9de-c645315ea581)<br>
+    ![Classic_Token>>Delete_Token](https://github.com/user-attachments/assets/f948453c-d775-45d6-abda-3a25361ea4d8)<br>
+  - A Pop-Up Window will appear >> Click the `I understand, delete this token` Button in the Pop-Up.<br>
+    ![Delete_Token>>Click on I-understand-delete-this-token](https://github.com/user-attachments/assets/f637b773-4d5d-4770-8c51-22e6ede0b5a8)
     <br>
 
 <br>
