@@ -218,7 +218,7 @@
   - You will be redirected to the Sign In web page after clicking on the `Continue with browser` Button.<br>
     ![Redirect_To_SignIn_Webpage](https://github.com/user-attachments/assets/892be788-c582-4f00-891f-47ee5dfeaaff)
     <br>
-  - `Sign In` to Your `GitHub Account` >> Enter `Email/Username` in the `Username Field` >> Enter `Personal-Access-Token` in the `Password Field`.<br>
+  - `Sign In` to Your `GitHub Account` >> Enter `Email/Username` in the `Username Field` >> Enter `Personal-Access-Token` in the `Password Field` >> Click `Sign in`.<br>
     ![Sign_In with PAT](https://github.com/user-attachments/assets/fa59c19b-579e-45c4-88d1-2200aee6007f)
     <br>
   - **Congratulations! Your account has been authenticated successfully!** >> Click `Open GithubDesktop.exe` for redirecting to GitHub_Desktop.<br>
