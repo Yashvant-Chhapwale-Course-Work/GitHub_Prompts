@@ -317,7 +317,7 @@
 ---
 <br>
 
-## Deleting Personal-Access-Tokens
+## Deleting Personal-Access-Tokens (PAT)
   - Visit [`GitHub Web-Interface`](https://github.com/).
   - Click on Your `Profile-Picture` at the TOP-Right Corner >> Click on `Settings` >> Scroll Down and Click on `Developer Settings` >> Inside Developer Settings, Click on `Personal Access Tokens` >> Select the `Category` under which you want to Delete Tokens (`Tokens (classic)` or `Fine-grained tokens`).<br>
     ![GitHub>>Settings>>Developer_Settings>>Personal-Access-Tokens>>Select the Category](https://github.com/user-attachments/assets/b9acd947-2001-497e-9f1b-77dbc82b8cc2) 
