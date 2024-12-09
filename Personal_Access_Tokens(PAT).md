@@ -141,7 +141,7 @@
   - `Update / Add / Remove Permissions or Scope` of the Token.<br>
     ![Classic_Token>>Update_Token_Permissions/Scope](https://github.com/user-attachments/assets/8be793ac-c3cd-4bba-b443-50a03ca8b18f)
     <br>
-  - Click `Update token`.<br>
+  - Scroll Down >> Click `Update token`.<br>
     ![Classic_Token>>Click on Update_Token](https://github.com/user-attachments/assets/ba8814f1-ea6c-4a63-8f31-9c3e7f1b5ccc)
     <br>
 
@@ -244,14 +244,20 @@
   - Click on the `Name-Of-The-Token` for which you want to Update Permissions and Details.<br>
     ![Fine-Grained_Token>>Click on Name-Of-The-Token](https://github.com/user-attachments/assets/3732a23c-36a2-44f2-941b-65e7e755cd7d)
     <br>
-  - `Change Token-Name` by replacing the Existing-Name in the `Note` Field. (Optional)<br>
-    ![Classic_Token>>Update_Token_Name/Note](https://github.com/user-attachments/assets/435287c4-83a9-434d-8d91-b5d4f6c79a63)
+  - To Change/Update Token-Name and Token-Description, Click on the `Edit` Button besides the Token-Name at the Top. (Optional)<br>
+    ![Fine-Grained_Token>>Edit_Token-Name>>Update Token-Description](https://github.com/user-attachments/assets/59103578-11f5-4b21-813a-e3a3aa8a039c)
     <br>
-  - `Update / Add / Remove Permissions or Scope` of the Token.<br>
-    ![Classic_Token>>Update_Token_Permissions/Scope](https://github.com/user-attachments/assets/8be793ac-c3cd-4bba-b443-50a03ca8b18f)
+  - Enter `New Token-Name` and Update `Token-Description` below it >> Click `Save`. (Optional)<br>
+    ![Fine-Grained_Token>>Edit_Token-Name>>Update Token-Description>>Save](https://github.com/user-attachments/assets/3c7e4527-9845-4355-9a46-b373c7403a57)
     <br>
-  - Click `Update token`.<br>
-    ![Classic_Token>>Click on Update_Token](https://github.com/user-attachments/assets/ba8814f1-ea6c-4a63-8f31-9c3e7f1b5ccc)
+  - Scroll Down >> Click `Edit` besides `Access on <Username>` Heading.<br>
+    ![Fine-Grained_Token>>Edit Acess/Permissions](https://github.com/user-attachments/assets/91bd312b-759a-4c9c-abca-6b4c1c546203)
+    <br>
+  - `Update / Add / Remove Permissions` for the Token.<br>
+    ![Fine-Grained_Token>>Update_Token_Permissions](https://github.com/user-attachments/assets/c56fa20b-93e5-4f81-92f2-d140d7e24979)
+    <br>
+  - Scroll Down >> Click `Update`.<br>
+    ![Fine-Grained_Token>>Click on Update](https://github.com/user-attachments/assets/a4ffda40-c804-4bba-80eb-d9b93abc9b84)
     <br>
     
 <br>
