@@ -17,7 +17,7 @@
 | 8 .  **Configure Git to use `Personal-Access-Tokens for Authentication in the Git_CLI`**                        | >> [` CHECK CONTENT `](#using-personal-access-tokens-pat-for-authentication-in-the-git_cli)         |
 | 9 .  **Configure Git to use `Personal-Access-Tokens for Authentication in the GitHub_CLI (gh)`**                | >> [` CHECK CONTENT `](#using-personal-access-tokens-pat-for-authentication-in-the-github_cli-gh)   |
 | 10.  **`Authenticate GitHub_Desktop` Using Personal-Access-Tokens**                                             | >> [` CHECK CONTENT `](#authenticate-github_desktop-using-personal-access-tokens-pat)               |
-| 11.  **`Deleting` Personal-Access-Tokens**                                                                        | >> [` CHECK CONTENT `](#delete-personal-access-tokens-pat)                                          |
+| 11.  **`Deleting` Personal-Access-Tokens**                                                                        | >> [` CHECK CONTENT `](#deleting-personal-access-tokens-pat)                                          |
 </div>
 <br>
 
