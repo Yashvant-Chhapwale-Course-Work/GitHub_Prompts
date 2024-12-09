@@ -5,14 +5,18 @@
  
 ### TABLE OF CONTENT
  
-| TITLE                                                                                                          | SECTION_LINK                                                                                        |
-|----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| 1.  **An Overview on Personal-Access-Tokens (PAT)**                                                            | >> [` CHECK CONTENT `](#what-is-a-personal-access-token-or-pat)                                     |
-| 2.  **Generate A `Classic Personal-Access-Token (PAT)` using GitHub Web-Interface**                            | >> [` CHECK CONTENT `](#generating-classic-token-using-github-web-interface-)                       |
-| 3.  **Generate A `Fine-Grained Personal-Access-Token (PAT)` using GitHub Web-Interface**                       | >> [` CHECK CONTENT `](#generating-fine_grained-token-using-github-web-interface-)                  |
-| 4.  **Configure Git to use `Personal-Access-Tokens for Authentication in the Git_CLI`**                        | >> [` CHECK CONTENT `](#using-personal-access-tokens-pat-for-authentication-in-the-git_cli)         |
-| 5.  **Configure Git to use `Personal-Access-Tokens for Authentication in the GitHub_CLI (gh)`**                | >> [` CHECK CONTENT `](#using-personal-access-tokens-pat-for-authentication-in-the-github_cli-gh)   |
-| 6.  **`Authenticate GitHub_Desktop` Using Personal-Access-Tokens**                                             | >> [` CHECK CONTENT `](#authenticate-github_desktop-using-personal-access-tokens-pat)               |
+| TITLE                                                                                                           | SECTION_LINK                                                                                        |
+|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| 1 .  **An Overview on Personal-Access-Tokens (PAT)**                                                            | >> [` CHECK CONTENT `](#what-is-a-personal-access-token-or-pat)                                     |
+| 2 .  **Generate A `Classic Personal-Access-Token (PAT)` using GitHub Web-Interface**                            | >> [` CHECK CONTENT `](#generating-classic-token-using-github-web-interface-)                       |
+| 3 .  **`Regenrating` the Existing `Classic Personal-Access-Token (PAT)`**                                       | >> [` CHECK CONTENT `](#regenerating-the-existing-classic-tokens-)                                  |
+| 4 .  **`Updating` the Existing `Classic Personal-Access-Token (PAT)`**                                          | >> [` CHECK CONTENT `](#updating-the-existing-classic-tokens-)                                      |
+| 5 .  **Generate A `Fine-Grained Personal-Access-Token (PAT)` using GitHub Web-Interface**                       | >> [` CHECK CONTENT `](#generating-fine_grained-token-using-github-web-interface-)                  |
+| 6 .  **`Regenrating` the Existing `Fine_Grained Personal-Access-Token (PAT)`**                                  | >> [` CHECK CONTENT `](#regenerating-the-existing-fine_grained-tokens-)                             |
+| 7 .  **`Updating` the Existing `Fine_Grained Personal-Access-Token (PAT)`**                                     | >> [` CHECK CONTENT `](#updating-the-existing-fine_grained-tokens-)                                 |
+| 8 .  **Configure Git to use `Personal-Access-Tokens for Authentication in the Git_CLI`**                        | >> [` CHECK CONTENT `](#using-personal-access-tokens-pat-for-authentication-in-the-git_cli)         |
+| 9 .  **Configure Git to use `Personal-Access-Tokens for Authentication in the GitHub_CLI (gh)`**                | >> [` CHECK CONTENT `](#using-personal-access-tokens-pat-for-authentication-in-the-github_cli-gh)   |
+| 10.  **`Authenticate GitHub_Desktop` Using Personal-Access-Tokens**                                             | >> [` CHECK CONTENT `](#authenticate-github_desktop-using-personal-access-tokens-pat)               |
 </div>
 <br>
 
@@ -45,14 +49,14 @@
     - [**`Fine Grained Personal-Access-Tokens`**](#fine-grained-personal-access-tokens)
 <br>
 
-### Classic Personal-Access-Tokens:
+### [Classic Personal-Access-Tokens](#classic-personal-access-tokens-pat):
   - Classic Tokens provide `Account-Wide Access`.
   - Classic Tokens offer `Broad, Predefined scopes with Limited Granularity`.
   - Classic Tokens `Cannot Limit Access to Specific Repositories`.
   - Classic Tokens are `Less Secure` due to their Broad Access.
 <br>
 
-### Fine Grained Personal-Access-Tokens:
+### [Fine Grained Personal-Access-Tokens](#fine_grained-personal-access-tokens-pat):
   - Fine-Grained Tokens provide `Repository-Specific Access`.
   - Fine-grained Tokens allow `Precise Control over Permissions at the Repository and Action Level`.
   - Fine-grained Tokens are `More Secure` with Tailored Access to Resources.
@@ -62,7 +66,7 @@
 ---
 <br>
 
-## Create A Personal-Access-Token (PAT) Using GitHub Web-Interface
+## Classic Personal-Access-Tokens (PAT)
 ### Generating Classic-Token Using [GitHub Web-Interface](https://github.com/) :
   - Visit [`GitHub Web-Interface`](https://github.com/).
   - Click on Your `Profile-Picture` at the TOP-Right Corner.<br>
@@ -107,6 +111,18 @@
     `Alert!:` Make sure to Copy and Securely save your Personal-Access-Token now, as you won’t be able to View it Again!
 <br>
 
+### Regenerating the Existing Classic-Tokens :
+
+<br>
+
+### Updating the Existing Classic-Tokens :
+
+<br>
+
+---
+<br>
+
+## Fine_Grained Personal-Access-Tokens (PAT)
 ### Generating Fine_Grained-Token Using [GitHub Web-Interface](https://github.com/) :
   - Visit [`GitHub Web-Interface`](https://github.com/).
   - Click on Your `Profile-Picture` at the TOP-Right Corner.<br>
@@ -176,6 +192,14 @@
      `Alert!:` Make sure to Copy and Securely save your Personal-Access-Token now, as you won’t be able to View it Again!
 <br>
 
+### Regenerating the Existing Fine_Grained-Tokens :
+
+<br>
+
+### Updating the Existing Fine_Grained-Tokens :
+
+<br>
+
 ---
 <br>
 
@@ -224,3 +248,8 @@
   - **Congratulations! Your account has been authenticated successfully!** >> Click `Open GithubDesktop.exe` for redirecting to GitHub_Desktop.<br>
     ![Redirecting Github_Desktop](https://github.com/user-attachments/assets/807f3edc-20e2-404b-95f1-0c01288397f3)
     <br>
+
+<br>
+
+---
+<br>
