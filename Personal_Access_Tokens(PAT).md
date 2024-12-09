@@ -242,7 +242,7 @@
   - Visit [`GitHub Web-Interface`](https://github.com/).
   - Click on Your `Profile-Picture` at the TOP-Right Corner >> Click on `Settings` >> Scroll Down and Click on `Developer Settings` >> Inside Developer Settings, Click on `Personal Access Tokens` >> Select `Fine-grained tokens`.
   - Click on the `Name-Of-The-Token` for which you want to Update Permissions and Details.<br>
-    ![Classic_Token>>Click on Name-Of-The-Token](https://github.com/user-attachments/assets/101214c0-4201-4044-aa45-58bcf6dd6257)
+    ![Fine-Grained_Token>>Click on Name-Of-The-Token](https://github.com/user-attachments/assets/3732a23c-36a2-44f2-941b-65e7e755cd7d)
     <br>
   - `Change Token-Name` by replacing the Existing-Name in the `Note` Field. (Optional)<br>
     ![Classic_Token>>Update_Token_Name/Note](https://github.com/user-attachments/assets/435287c4-83a9-434d-8d91-b5d4f6c79a63)
