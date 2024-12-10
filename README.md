@@ -10,13 +10,14 @@
 
 <div align="center">
  
-| TITLE                                                                                                          | SECTION_LINK                                                                                                                                          |
-|----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.  **Git Setup_And_Configuration Instructions**                                                               | >> [` CHECK CONTENT `](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Setup.md)                                       |  
-| 2.  **Personal Acess Tokens (PAT)**                                                                            | >> [` CHECK CONTENT `](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Personal_Access_Tokens(PAT).md)                     |
-| 3.  **Git Repository Initialization**                                                                          | >> [` CHECK CONTENT `](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Repo_Initialization.md)                         |
-| 4.  **Git Branches**                                                                                           | >> [` CHECK CONTENT `](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Branches.md)                                    |
-| 5.  **Initialize-Commit-And-Push Requests**                                                                    | >> [` CHECK CONTENT `](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Initialize_Commit_and_Push.md)                      |
+| TITLE                                                                                                          | SECTION_LINK                                                                                                                                                       |
+|----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.  **Git Setup_And_Configuration Instructions**                                                               | >> [` CHECK CONTENT `](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Setup.md)                                                    |  
+| 2.  **Personal Acess Tokens (PAT)**                                                                            | >> [` CHECK CONTENT `](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Personal_Access_Tokens(PAT).md)                                  |
+| 3.  **Git-Credential-Manager (GCM) and Credential-Helper (CH)**                                                | >> [` CHECK CONTENT `](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git-Credential-Manager%20(GCM)%20and%20Credential-Helper(CH).md) |
+| 4.  **Git Repository Initialization**                                                                          | >> [` CHECK CONTENT `](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Repo_Initialization.md)                                      |
+| 5.  **Git Branches**                                                                                           | >> [` CHECK CONTENT `](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Branches.md)                                                 |
+| 6.  **Initialize-Commit-And-Push Requests**                                                                    | >> [` CHECK CONTENT `](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Initialize_Commit_and_Push.md)                                   |
 </div>
 
 ---
