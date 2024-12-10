@@ -294,11 +294,14 @@
 ### Refresh Personal-Access-Tokens (PAT) using GitHub_CLI (gh) :
   - The `gh auth refresh` command in the GitHub CLI is used to `Update or Refresh your Authentication Credentials`.
   - It can `Add New Scopes`, `Revalidate Tokens`, or `Synchronize Token Permissions` for GitHub or GitHub Enterprise accounts.
+
+<br>
 <div align="center">
  
 ______________________________________________________
 
 </div>
+<br>
 
   - **`To Synchronize or Revalidate Tokens :`**
     - Open `Command-Prompt` or `Git-Bash` Terminal.
@@ -340,11 +343,12 @@ ______________________________________________________
     - Verify whether the `GitHub_Account` and `Token_Scopes` have been Synchronized / Revalidated Successfully.<br>
       ![Screenshot 2024-12-10 074419](https://github.com/user-attachments/assets/bdce09bc-3515-401c-ad0e-efc202b6e2a9)
       <br>
-<div align="center">
- 
-______________________________________________________
 
+<br>      
+<div align="center">
+______________________________________________________
 </div>
+<br>
 
   - **`To Add or Remove Permissions/Scope :`**
     - Open `Command-Prompt` or `Git-Bash` Terminal.
