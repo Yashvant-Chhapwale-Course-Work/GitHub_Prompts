@@ -297,7 +297,28 @@
 <div align="center">
 ______________________________________________________
 </div>
-    
+
+  - **`To Revalidate or Synchronize Tokens`**
+    - Paste the `gh auth refresh` command to `Revalidate Tokens or Synchronize Permissions`.<br>
+      ```
+      gh auth refresh
+      ```
+      <br>
+    - Copy the `8-Digit Aplha Numeric Code` >> Press `Enter` to redirect to GitHub Sign_In Page.<br>
+      ![gh auth refresh>>Copy-the-Code>>Press Enter](https://github.com/user-attachments/assets/ede5e6bf-03fd-4d13-becb-c800325fcfd0)
+      <br>
+    - Continue With an Exisiting Account to `Synchronize Permissions` >> Click `Continue` besides the Account with which you want to Continue.<br>
+      ![Continue with Existing_Account>>Synchronize_Permissions](https://github.com/user-attachments/assets/1b2c6be1-866e-4958-8060-f33932d6cd5f)
+      <br>
+      <div align="center">
+       
+      **OR**
+      </div>
+
+      Click `Use a different account` to `Revalidate Tokens` >> Enter `Username` in the `Username Field` and `Personal-Access-Token` in the `Password Field` >> Click `Sign in`.<br>
+      ![Use a different account>>Revalidate_Tokens](https://github.com/user-attachments/assets/c5fdcdcd-13bb-4f55-a78d-e63ba937ce8d)
+      <br>
+    -   
 <br>
 
 ---
