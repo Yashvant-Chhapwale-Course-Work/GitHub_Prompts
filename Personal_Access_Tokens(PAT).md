@@ -295,7 +295,9 @@
   - The `gh auth refresh` command in the GitHub CLI is used to `Update or Refresh your Authentication Credentials`.
   - It can `Add New Scopes`, `Revalidate Tokens`, or `Synchronize Token Permissions` for GitHub or GitHub Enterprise accounts.
 <div align="center">
+ 
 ______________________________________________________
+
 </div>
 
   - **`To Synchronize or Revalidate Tokens :`**
@@ -339,7 +341,9 @@ ______________________________________________________
       ![Screenshot 2024-12-10 074419](https://github.com/user-attachments/assets/bdce09bc-3515-401c-ad0e-efc202b6e2a9)
       <br>
 <div align="center">
+ 
 ______________________________________________________
+
 </div>
 
   - **`To Add or Remove Permissions/Scope :`**
@@ -355,7 +359,7 @@ ______________________________________________________
       **OR**
       </div>
 
-      Paste the Following Command to `Remove Scopes/Permissions` to the Token.<br>
+      Paste the Following Command to `Remove Scopes/Permissions` from the Token.<br>
       ```
       gh auth refresh -h HOSTNAME -r "SCOPES TO BE REMOVED"
       ```
