@@ -357,7 +357,7 @@ ______________________________________________________
       ```
       gh auth refresh -h HOSTNAME -s "SCOPES TO BE ADDED"
       ```
-      `Note:` Replace `HOSTNAME` with your preferred host (`github.com`, `github.enterprise.com`) >> Replace `SCOPES TO BE ADDED` with the required `Scopes/Permissions`.
+      `Note:` Replace `HOSTNAME` with your preferred host (`github.com`, `github.enterprise.com`) >> Replace `"SCOPES TO BE ADDED"` with the required `"Scopes/Permissions"`.
       <br>
       <div align="center">
        
@@ -368,7 +368,7 @@ ______________________________________________________
       ```
       gh auth refresh -h HOSTNAME -r "SCOPES TO BE REMOVED"
       ```
-      `Note:` Replace `HOSTNAME` with your preferred host (`github.com`, `github.enterprise.com`) >> Replace `SCOPES TO BE REMOVED` with the `Scopes/Permissions` which are to be removed.
+      `Note:` Replace `HOSTNAME` with your preferred host (`github.com`, `github.enterprise.com`) >> Replace `"SCOPES TO BE REMOVED"` with the `"Scopes/Permissions"` which are to be removed.
       <br>
     - Copy the `8-Digit Aplha Numeric Code` >> Press `Enter` to redirect to GitHub Sign_In Page.<br>
       ![Add Scopes>>Copy Code>>Press Enter](https://github.com/user-attachments/assets/5b00bfc5-3a0c-4b22-be39-da68d4cb86d9)
