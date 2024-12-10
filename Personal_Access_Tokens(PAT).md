@@ -410,14 +410,14 @@ ______________________________________________________
       ```
       <br>
     - Verify whether the `Token_Scopes` have been Updated Successfully.<br>
-      ![Verify Scopes_Addition](https://github.com/user-attachments/assets/d8991673-fa5b-45a3-9222-9ee2e3bb1eff)
+      ![Verify Scopes_Addition](https://github.com/user-attachments/assets/c8cb46e6-3cfc-444a-b70d-e3d264a53ec4)
       <br>
       <div align="center">
        
       **OR**
       </div>
       
-      ![Verify Scopes_Removal](https://github.com/user-attachments/assets/34da1ada-078e-4918-84cd-14336ec00253)
+      ![Verify Scopes_Removal](https://github.com/user-attachments/assets/d6299c76-2851-48c9-b1bd-47355b3a8ebb)
       <br>
 <br>
 
