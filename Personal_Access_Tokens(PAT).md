@@ -318,7 +318,9 @@ ______________________________________________________
       Click `Use a different account` to `Revalidate Tokens` >> Enter `Username` in the `Username Field` and `Personal-Access-Token` in the `Password Field` >> Click `Sign in`.<br>
       ![Use a different account>>Revalidate_Tokens](https://github.com/user-attachments/assets/c5fdcdcd-13bb-4f55-a78d-e63ba937ce8d)
       <br>
-    -   
+    - Enter the `8-Digit Alpha-Numeric CODE` copied from your Terminal<br>   
+      ![GitHub_SignIn>>Enter_Authentication_CODE](https://github.com/user-attachments/assets/2583347d-7fd9-4445-99bd-15e2c9cc297f)
+      <br>  
 <br>
 
 ---
