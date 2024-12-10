@@ -298,7 +298,7 @@
 ______________________________________________________
 </div>
 
-  - **`To Synchronize or Revalidate Tokens`**
+  - **`To Synchronize or Revalidate Tokens :`**
     - Open `Command-Prompt` or `Git-Bash` Terminal.
     - Paste the `gh auth refresh` command to `Revalidate Tokens or Synchronize Permissions`.<br>
       ```
@@ -342,8 +342,25 @@ ______________________________________________________
 ______________________________________________________
 </div>
 
-  - **`To Add or Remove Permissions/Scope`**
-    - hi
+  - **`To Add or Remove Permissions/Scope :`**
+    - Open `Command-Prompt` or `Git-Bash` Terminal.
+    - Paste the Following Command to `Add Scopes/Permissions` to the Token.<br>
+      ```
+      gh auth refresh -h HOSTNAME -s "SCOPES TO BE ADDED"
+      ```
+      `Note:` Replace `HOSTNAME` with your preferred host (`github.com`, `github.enterprise.com`) >> Replace `SCOPES TO BE ADDED` with the required `Scopes/Permissions`.
+      <br>
+      <div align="center">
+       
+      **OR**
+      </div>
+
+      Paste the Following Command to `Remove Scopes/Permissions` to the Token.<br>
+      ```
+      gh auth refresh -h HOSTNAME -r "SCOPES TO BE REMOVED"
+      ```
+      `Note:` Replace `HOSTNAME` with your preferred host (`github.com`, `github.enterprise.com`) >> Replace `SCOPES TO BE REMOVED` with the required `Scopes/Permissions`.
+      <br>
 <br>
 
 ---
