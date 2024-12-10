@@ -298,7 +298,8 @@
 ______________________________________________________
 </div>
 
-  - **`To Revalidate or Synchronize Tokens`**
+  - **`To Synchronize or Revalidate Tokens`**
+    - Open `Command-Prompt` or `Git-Bash` Terminal.
     - Paste the `gh auth refresh` command to `Revalidate Tokens or Synchronize Permissions`.<br>
       ```
       gh auth refresh
@@ -318,9 +319,31 @@ ______________________________________________________
       Click `Use a different account` to `Revalidate Tokens` >> Enter `Username` in the `Username Field` and `Personal-Access-Token` in the `Password Field` >> Click `Sign in`.<br>
       ![Use a different account>>Revalidate_Tokens](https://github.com/user-attachments/assets/c5fdcdcd-13bb-4f55-a78d-e63ba937ce8d)
       <br>
-    - Enter the `8-Digit Alpha-Numeric CODE` copied from your Terminal<br>   
+    - Enter the `8-Digit Alpha-Numeric CODE` copied from your Terminal >> Click `Continue`.<br>   
       ![GitHub_SignIn>>Enter_Authentication_CODE](https://github.com/user-attachments/assets/2583347d-7fd9-4445-99bd-15e2c9cc297f)
-      <br>  
+      <br>
+    - Click `Authorize GitHub` to `Synchronize or Revalidate Tokens`.<br>
+      ![Authorize-GitHub](https://github.com/user-attachments/assets/f7fb521b-acf6-4454-93e8-9502697e38a0)
+      <br>
+    - An `Authorization-Success-Widget` will be displayed.<br>
+      ![Revalidation/Synchronization Successful](https://github.com/user-attachments/assets/a252645a-be07-4040-9d94-bacecf19f190)
+      <br>
+
+  - **`To Verify Authorization Status`**
+    - Paste the following command to `Verify Authorization Status`.<br>
+      ```
+      gh auth status
+      ```
+      <br>
+    - Verify whether the `GitHub_Account` and `Token_Scopes` have been Synchronized / Revalidated Successfully.<br>
+      ![Screenshot 2024-12-10 074419](https://github.com/user-attachments/assets/bdce09bc-3515-401c-ad0e-efc202b6e2a9)
+      <br>
+<div align="center">
+______________________________________________________
+</div>
+
+  - **`To Add or Remove Permissions/Scope`**
+    - 
 <br>
 
 ---
