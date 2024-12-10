@@ -393,14 +393,14 @@ ______________________________________________________
       ![Scopes Addition/Removal Successful](https://github.com/user-attachments/assets/a252645a-be07-4040-9d94-bacecf19f190)
       <br>
     - Return back to the Terminal.<br>
-      ![Scopes Added>>Authentication Successful](https://github.com/user-attachments/assets/aae62709-caf8-4e70-965c-c8013a82b79b)
+      ![Scopes Added>>Authentication Successful](https://github.com/user-attachments/assets/83e9a991-b5c1-4181-8e3b-96895fca9cbb)
       <br>
       <div align="center">
        
       **OR**
       </div>
       
-      ![Remove Scopes>>Copy the Code>>Press Enter](https://github.com/user-attachments/assets/e668844d-f8e0-488c-b5f4-266a5b1e3c6a)
+      ![Scopes Removed>>Authentication Successful](https://github.com/user-attachments/assets/8b518fee-e8c3-4d49-9d84-34ce3918c119)
       <br>
 
   - **`To Verify Authorization Status`**
