@@ -331,6 +331,9 @@ ______________________________________________________
     - An `Authorization-Success-Widget` will be displayed.<br>
       ![Revalidation/Synchronization Successful](https://github.com/user-attachments/assets/a252645a-be07-4040-9d94-bacecf19f190)
       <br>
+    - Return back to the Terminal.<br>
+      ![Authentication_Successful](https://github.com/user-attachments/assets/99cb204f-c8ff-480a-9128-bc18abe2e2d0)
+      <br>
 
   - **`To Verify Authorization Status`**
     - Paste the following command to `Verify Authorization Status`.<br>
@@ -377,7 +380,45 @@ ______________________________________________________
       
       ![Remove Scopes>>Copy the Code>>Press Enter](https://github.com/user-attachments/assets/e668844d-f8e0-488c-b5f4-266a5b1e3c6a)
       <br>
-    - 
+    - Click `Continue` besides the Account for which you want to Add or Remove Scopes/Permissions.<br>
+      ![Continue with Existing_Account](https://github.com/user-attachments/assets/1b2c6be1-866e-4958-8060-f33932d6cd5f)
+      <br>
+    - Enter the `8-Digit Alpha-Numeric CODE` copied from your Terminal >> Click `Continue`.<br>   
+      ![GitHub_SignIn>>Enter_Authentication_CODE](https://github.com/user-attachments/assets/2583347d-7fd9-4445-99bd-15e2c9cc297f)
+      <br>
+    - Click `Authorize GitHub` to `Synchronize or Revalidate Tokens`.<br>
+      ![Authorize-GitHub](https://github.com/user-attachments/assets/f7fb521b-acf6-4454-93e8-9502697e38a0)
+      <br>
+    - An `Authorization-Success-Widget` will be displayed.<br>
+      ![Scopes Addition/Removal Successful](https://github.com/user-attachments/assets/a252645a-be07-4040-9d94-bacecf19f190)
+      <br>
+    - Return back to the Terminal.<br>
+      ![Scopes Added>>Authentication Successful](https://github.com/user-attachments/assets/aae62709-caf8-4e70-965c-c8013a82b79b)
+      <br>
+      <div align="center">
+       
+      **OR**
+      </div>
+      
+      ![Remove Scopes>>Copy the Code>>Press Enter](https://github.com/user-attachments/assets/e668844d-f8e0-488c-b5f4-266a5b1e3c6a)
+      <br>
+
+  - **`To Verify Authorization Status`**
+    - Paste the following command to `Verify Authorization Status`.<br>
+      ```
+      gh auth status
+      ```
+      <br>
+    - Verify whether the `Token_Scopes` have been Updated Successfully.<br>
+      ![Verify Scopes_Addition](https://github.com/user-attachments/assets/d8991673-fa5b-45a3-9222-9ee2e3bb1eff)
+      <br>
+      <div align="center">
+       
+      **OR**
+      </div>
+      
+      ![Verify Scopes_Removal](https://github.com/user-attachments/assets/34da1ada-078e-4918-84cd-14336ec00253)
+      <br>
 <br>
 
 ---
