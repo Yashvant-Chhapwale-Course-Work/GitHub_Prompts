@@ -371,14 +371,14 @@ ______________________________________________________
       `Note:` Replace `HOSTNAME` with your preferred host (`github.com`, `github.enterprise.com`) >> Replace `SCOPES TO BE REMOVED` with the `Scopes/Permissions` which are to be removed.
       <br>
     - Copy the `8-Digit Aplha Numeric Code` >> Press `Enter` to redirect to GitHub Sign_In Page.<br>
-      ![Add Scopes>>Copy the Code>>Press Enter](https://github.com/user-attachments/assets/30f20f9c-9ab3-4d37-a392-9ff4dd6bf964)
+      ![Add Scopes>>Copy Code>>Press Enter](https://github.com/user-attachments/assets/5b00bfc5-3a0c-4b22-be39-da68d4cb86d9)
       <br>
       <div align="center">
        
       **OR**
       </div>
       
-      ![Remove Scopes>>Copy the Code>>Press Enter](https://github.com/user-attachments/assets/e668844d-f8e0-488c-b5f4-266a5b1e3c6a)
+      ![Remove Scopes>>Copy Code>>Press Enter](https://github.com/user-attachments/assets/a710c108-f47d-47b7-b7d1-703d26616421)
       <br>
     - Click `Continue` besides the Account for which you want to Add or Remove Scopes/Permissions.<br>
       ![Continue with Existing_Account](https://github.com/user-attachments/assets/1b2c6be1-866e-4958-8060-f33932d6cd5f)
