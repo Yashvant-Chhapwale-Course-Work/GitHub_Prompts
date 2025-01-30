@@ -311,7 +311,7 @@ You can enhance Git operations in VS Code by downloading the following extension
     <br>
   - `GitLens -- Git supercharged`:
     - Publisher: **GitKraken**
-    - Description:Enhances the built-in Git capabilities of VS Code by providing advanced features:
+    - Description:Enhances the built-in Git capabilities of VS Code by providing advanced features.
     - Functions:
       - See who made changes and why.
       - Explore commits and branches in detail.
