@@ -21,9 +21,29 @@
 ## **What is a Credential_Helper (CH) ?**
 - A `Git Credential-Helper (CH)` is a tool that remembers your Git **username** and **password** or **personal-access-token (PAT)** so you don’t have to type them every time you **push**, **pull**, or **clone** from a Remote Git Repository (like `GitHub`). 
 - Git has different types of helpers. Some common ones are:
-  - [`cache`](#git-cache)
-  - [`store`](#git-store)
-  - [`manager`](#git-credential-manager-gcm)
+  - [`cache`](#git_cache)
+  - [`store`](#git_store)
+  - [`manager`](#git_credential_manager-gcm)
 
-- **Git Cache:**
-  - 
+- **Git Cache:**  
+<br>
+
+---
+<br>
+
+# Git_Cache:
+<br>
+
+---
+<br>
+
+# Git_Store:
+<br>
+
+---
+<br>
+
+#Git_Credential_Manager (GCM):
+<br>
+
+---
