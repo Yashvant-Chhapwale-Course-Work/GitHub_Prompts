@@ -8,10 +8,9 @@
 | TITLE                                                                                                           | SECTION_LINK                                                                                        |
 |-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | 1. **An Overview `Credential-Helper (CH)`**                                                                     | >> [` CHECK CONTENT `](#what-is-a-credential_helper-ch)                                             |
-| 2. **Generate A `Classic Personal-Access-Token (PAT)` using GitHub Web-Interface**                              | >> [` CHECK CONTENT `](#git_cache)                                                                  |
-| 3. **`Regenrating` an Existing `Classic Personal-Access-Token (PAT)`**                                          | >> [` CHECK CONTENT `](#git_store)                                                                  |
-| 4. **`Updating` an Existing `Classic Personal-Access-Token (PAT)`**                                             | >> [` CHECK CONTENT `](#git-credential-manager-gcm)                                                 |
-
+| 2. **Git `Cache`**                                                                                              | >> [` CHECK CONTENT `](#git_cache)                                                                  |
+| 3. **Git `Store`**                                                                                              | >> [` CHECK CONTENT `](#git_store)                                                                  |
+| 4. **Git `Credential-Manager` (GCM)**                                                                           | >> [` CHECK CONTENT `](#git-credential-manager-gcm)                                                 |
 </div>
 <br>
 
