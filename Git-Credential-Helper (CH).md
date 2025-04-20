@@ -30,19 +30,19 @@
 ---
 <br>
 
-# Git_Cache:
+## Git_Cache:
 <br>
 
 ---
 <br>
 
-# Git_Store:
+## Git_Store:
 <br>
 
 ---
 <br>
 
-# Git_Credential_Manager (GCM):
+## Git_Credential_Manager (GCM):
 <br>
 
 ---
