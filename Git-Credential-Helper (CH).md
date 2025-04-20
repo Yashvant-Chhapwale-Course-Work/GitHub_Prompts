@@ -1,4 +1,4 @@
-# Git-Credential-Manager (GCM) And Credential-Helper (CH)
+# Git-Credential-Helper (CH)
 ---
 <br>
 <div align="center">
