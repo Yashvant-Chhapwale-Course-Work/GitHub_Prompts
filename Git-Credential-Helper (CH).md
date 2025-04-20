@@ -8,9 +8,9 @@
 | TITLE                                                                                                           | SECTION_LINK                                                                                        |
 |-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | 1. **An Overview `Credential-Helper (CH)`**                                                                     | >> [` CHECK CONTENT `](#what-is-a-credential_helper-ch)                                             |
-| 2. **Generate A `Classic Personal-Access-Token (PAT)` using GitHub Web-Interface**                              | >> [` CHECK CONTENT `](#generating-classic-token-using-github-web-interface-)                       |
-| 3. **`Regenrating` an Existing `Classic Personal-Access-Token (PAT)`**                                          | >> [` CHECK CONTENT `](#regenerating-an-existing-classic-token-)                                    |
-| 4. **`Updating` an Existing `Classic Personal-Access-Token (PAT)`**                                             | >> [` CHECK CONTENT `](#updating-an-existing-classic-token-)                                        |
+| 2. **Generate A `Classic Personal-Access-Token (PAT)` using GitHub Web-Interface**                              | >> [` CHECK CONTENT `](#git_cache)                                                                  |
+| 3. **`Regenrating` an Existing `Classic Personal-Access-Token (PAT)`**                                          | >> [` CHECK CONTENT `](#git_store)                                                                  |
+| 4. **`Updating` an Existing `Classic Personal-Access-Token (PAT)`**                                             | >> [` CHECK CONTENT `](#git-credential-manager-gcm)                                                 |
 
 </div>
 <br>
@@ -43,7 +43,7 @@
 ---
 <br>
 
-#Git_Credential_Manager (GCM):
+# Git_Credential_Manager (GCM):
 <br>
 
 ---
