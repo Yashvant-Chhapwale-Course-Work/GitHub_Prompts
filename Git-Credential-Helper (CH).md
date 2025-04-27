@@ -30,7 +30,7 @@
   - It stores your **Git_Credentials** in `Memory (RAM)` for a **short time**, so you don’t have to type them again during that session.
 <br>
 
-### [Git Cache:](#git_store)
+### [Git Store:](#git_store)
   - Git `Store` saves your credentials in a `Plain-Text` format.
   - It stores the **Git_Credentials** in a `Text File`, so that you don't have to type them again.
 <br>
