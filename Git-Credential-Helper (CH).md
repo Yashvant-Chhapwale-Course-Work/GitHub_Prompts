@@ -25,17 +25,17 @@
   - [`manager`](#git_credential_manager-gcm)
 <br>
 
-- [**Git Cache:**](#git_cache)
+- **Git Cache:**
   - Git `Cache` is a temporary `Memory-Based` **Credential_Helper** for Git.
   - It stores your **Git_Credentials** in `Memory (RAM)` for a **short time**, so you don’t have to type them again during that session.
 <br>
 
-- [**Git Store:**](#git_store)
+- **Git Store:**
   - Git `Store` saves your credentials in a `Plain-Text` format.
   - It stores the **Git_Credentials** in a `Text File`, so that you don't have to type them again.
 <br>
 
-- [**Git Credential Manager:**](#git_credential_manager-gcm)
+- **Git Credential Manager:**
   - Git `Credential_Manager` (GCM) securely stores your credentials using your `System’s Secure_Storage` (like `Windows_Credential_Manager` or `macOS Keychain`).
   - It encrypts and manages your **Git_Credentials** safely, allowing you to stay logged in without manually entering them again.
 <br>
