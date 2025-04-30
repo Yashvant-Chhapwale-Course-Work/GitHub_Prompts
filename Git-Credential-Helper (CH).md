@@ -53,12 +53,19 @@
 
 ### How to Use Git_Credential_Cache ? 
 - Open your Terminal or Command Prompt.
-  - Open your terminal or command prompt.
-  - Paste the following Command in Terminal to `Begin Authentication`.
-    ```
-    gh auth login
-    ```
-  - Click or Press Enter for **`GitHub.com`** under `Where do you use GitHub?` >> Click or Press Enter for **`HTTPS`** under `What is your preferred protocol for Git operations on this host?` >> Enter `Y` or `Yes` for `Authenticate Git with your GitHub credentials?` >> Click or Press Enter for **`Login with a Browser`** under `How would you like to authenticate GitHub CLI?`<br>
+- Initialize changes to your files and **COMMIT** them.<br>
+  ![git add .>>git commit -m "Test Commit 1.0"](https://github.com/user-attachments/assets/a9d38e1d-f533-4cdc-9d6c-0783dc4a9901)
+  <br>
+- Before **PUSH**ing the changes, paste the following command in your **Terminal:**
+  ```
+  git config credential.helper cache
+  ```
+- Now, **PUSH** the **COMMITs** using the following command:
+  ```
+  git push -u origin main
+  ```
+  `Note:` Replace `main` with your `BRANCH_NAME` to avoid any errors. [`Learn more about Branches`](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Branches.md)<br>
+- <br>
     ![gh auth login](https://github.com/user-attachments/assets/6d5c76f3-c055-4756-872d-a1b5cf4bb141)
     <br>
   - Copy the **`8-Digit Alpha-Numeric CODE`** under `First copy your one-time code:` >> **`Press Enter`** to proceed to the Sign In webpage.<br>
