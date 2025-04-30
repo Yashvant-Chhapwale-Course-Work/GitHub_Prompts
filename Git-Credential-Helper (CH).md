@@ -49,6 +49,7 @@
 - If you push again within the `Cache_Timeout Window`, you won't be asked again for **Credentials**. After the `Cache_Timeout` expires or you close the **Terminal**, the `Cache` is cleared.
 - **By Default** the **`Cache_Timeout`** is **`15 Minutes`**.
 - It is also known as `credenital-cache` helper in **Git**.
+- **`NOTE:`** **This method is DEPRECATED and NOT USED ANYMORE as better and secured options are available.**
 <br>
 
 ### How to Use Git_Credential_Cache ? 
