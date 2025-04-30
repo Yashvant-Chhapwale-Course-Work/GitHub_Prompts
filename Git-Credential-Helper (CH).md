@@ -44,6 +44,11 @@
 <br>
 
 ## Git_Cache:
+### What is Git_Credential_Cache or Git_Cache ?
+- Git `Cache` temporarily stores your **GitHub (or other Git server) Credentials** in **Memory (RAM)** so you don’t have to re-enter them repeatedly during short sessions.
+- If you push again within the `Cache_Timeout Window`, you won't be asked again for **Credentials**. After the `Cache_Timeout` expires or you close the **Terminal**, the `Cache` is cleared.
+- **By Default** the **`Cache_Timeout`** is **`15 Minutes`**.
+- It is also known as `credenital-cache` helper in **Git**.
 <br>
 
 ---
