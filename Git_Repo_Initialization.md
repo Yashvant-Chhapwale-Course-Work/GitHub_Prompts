@@ -43,7 +43,7 @@
     ```
     git remote add origin https://github.com/USERNAME/REPOSITORY-NAME
     ```
-    `Note:` Substitute 'USERNAME' with your 'GitHub_Username' and 'REPOSITORY-NAME' with your 'Remote Repository_Name`.
+    `Note:` Substitute **'USERNAME'** with your **'GitHub_Username'** and **'REPOSITORY-NAME'** with your **'Remote Repository_Name'**.
   - Use the `add` Command to `Stage` any Unstaged (New) Changes >> Use the `commit` Command to `Save` the Staged Changes to the Repository.
     ```
     git add .
@@ -73,7 +73,7 @@
     ```
     gh repo create DEMO-GITHUB-REPOSITORY --public
     ```
-    `Note:` Substitute 'DEMO-GITHUB-REPOSITORY' with your `Repository-Name` and '--public' with your `Preferred Visibility Flag (--private / --public)`.
+    `Note:` Substitute **'DEMO-GITHUB-REPOSITORY'** with your `Repository-Name` and **'--public'** with your `Preferred Visibility Flag (--private / --public)`.
   - Follow Steps For [`Initializing a Local Repository and Linking it with the Above Remote_Repository`](#repository-initialization--using-git_cli--recommended).
 
 <br>
@@ -168,20 +168,5 @@
     ```
     git remote remove origin
     ```
-  - <br>
-    ![GitHub_Desktop>>New_Repository](https://github.com/user-attachments/assets/0bae54da-c3de-400d-8901-b0440684e2bf)
-    <br>
-  - Set `Repository_NAME` >> Set `Repository_DESCRIPTION` (Optional) >> Select a `Path` on your Local Machine where the Git_Repository should be created >> Customize `.gitignore` (Optional) >> Choose an appropriate `LICENSE` for your work (Optional).
-  - After Performing above steps Click on `Create Repository` to Initialize and Create a Github_Repository.<br>
-    ![GitHub_Desktop>>Create_Repository](https://github.com/user-attachments/assets/6bf01418-cf4c-4ddb-b14d-5cf48b8f2475)
-    <br>
-  - This Repository is currently only available on your Local Machine. Click on `Publish repository` to make it available on your GitHub _Account.<br>
-    ![Github_Desktop>>Publish_Repository](https://github.com/user-attachments/assets/44b52764-c714-433a-8d81-3cad977ee14e)
-    <br>
-  - Provide the `REPOSITORY_NAME` and a `REPOSITORY_DESCRIPTION (Optional)` >> Click on `Publish Repository` to publish the Repository on your GitHub_Account.<br>
-    ![Github_Desktop>>Publish_Repostiory>>Enter_Name_And_Description](https://github.com/user-attachments/assets/8a91e346-562d-49d5-8320-2d631f3f6b79)<br>
-    [`Note`: Uncheck the `Keep this code private` Option to make the Repository Public. `By Default, GitHub_Desktop sets the Repository to Private` when publishing from your Local Machine.]
-<br>
-
 ---
 
