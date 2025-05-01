@@ -23,7 +23,7 @@
 ## What do we mean by a Remote Repository?
   - A `Remote_Repository` in **Git** is a version of your project that's hosted on the Internet or another Network, typically on a platform like **GitHub**,**GitLab**,etc.
   - Unlike the `Local_Repository` which is on your **Own Device** (ex: **Computer**), the `Remote_Repository` is stored somewhere else — usually on the **Cloud**.
-  - Learn how to **Initialize** a `Remote_Repository` from [**`Here`**](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Repo_Initialization.md#repository-initialization--using-github_website--recommended)
+  - Learn how to **Initialize** a `Remote_Repository` from [**`Here`**](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Repo_Initialization.md#repository-initialization--using-github_website--recommended).
   
 ---
 <br>
