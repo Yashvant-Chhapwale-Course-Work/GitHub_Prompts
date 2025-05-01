@@ -32,7 +32,7 @@
   - Create a `Demo Commit File` in the Local Repository Folder to make the `First Commit`, so that the repository can be published to GitHub.<br>
     ![VSCode>>Demo Commit File](https://github.com/user-attachments/assets/0f7f0742-fd4d-451a-9e67-0c0185ffae24)
     <br>
-  - Create a `Remote GitHub Repository` By Following the Steps for [`Repository Initialization Using Github_Web-Interface`](#repository-initialization--using-github_website-).
+  - Create a `Remote GitHub Repository` By Following the Steps for [`Repository Initialization Using Github_Web-Interface`](#repository-initialization--using-github_website--recommended).
   - Copy the `URL` for this `GitHub Repository`:<br>
     ![Copy_URL _from_Address_Bar](https://github.com/user-attachments/assets/c7453c89-51af-4bfe-bd31-76d62add8563)
     <br> <div align="center">**OR**</div> <br>
