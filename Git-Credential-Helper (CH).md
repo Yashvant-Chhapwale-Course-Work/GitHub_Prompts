@@ -42,6 +42,9 @@
   - It encrypts and manages your **Git_Credentials** safely, allowing you to stay logged in without manually entering them again.
 <br>
 
+### [Git Credential Manager Core:](#git_credential_manager_core-gcm-core-or-gcmc) [RECOMMENDED FOR WINDOWS]
+<br>
+
 ---
 <br>
 
