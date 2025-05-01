@@ -57,7 +57,7 @@
 - Initialize changes to your files and **COMMIT** them.<br>
   ![git add .>>git commit -m "Test Commit 1.0"](https://github.com/user-attachments/assets/a9d38e1d-f533-4cdc-9d6c-0783dc4a9901)
   <br>
-- Before **PUSH**ing the changes, paste the following command in your **Terminal:**
+- Before **PUSH**ing the changes, paste the following command in your **Terminal** to enable `Git_Credential_Cache`:
   ```
   git config credential.helper cache
   ```
@@ -67,7 +67,9 @@
   ```
   `Note:` Replace `main` with your `BRANCH_NAME` to avoid any errors. [`Learn more about Branches`](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Branches.md)
   <br>
-- <br>
+- A Dialogbox will appear asking permission for authenticating GitHub. Click `Allow` to **Sign In** using GitHub.
+  ![Click Allow>>GitHub_Sign In](https://github.com/user-attachments/assets/e7ee6e0f-2123-48a7-b943-4c5c92319952)
+-  
     ![gh auth login](https://github.com/user-attachments/assets/6d5c76f3-c055-4756-872d-a1b5cf4bb141)
     <br>
   - Copy the **`8-Digit Alpha-Numeric CODE`** under `First copy your one-time code:` >> **`Press Enter`** to proceed to the Sign In webpage.<br>
