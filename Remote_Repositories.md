@@ -10,11 +10,7 @@
 | 1.  **What do we mean by a `Remote_Repository`?**                                                              | >> [` CHECK CONTENT `](#what-do-we-mean-by-a-remote_repository)                               |
 | 2.  **Link `Local_Repository` To `Remote_Repository`**                                                         | >> [` CHECK CONTENT `](#link-local_repository-to-remote_repository)                           |
 | 3.  **Verify the `Linked` Remote_Repository**                                                                  | >> [` CHECK CONTENT `](#verify-the-linked-remote_repository)                                  |
-| 3.  **Create A Repository Using GitHub_Web_Interface**                                                         | >> [` CHECK CONTENT `](#repository-initialization--using-github_website--recommended)         |
-| 4.  **Create A Repository Using GitHub_Desktop**                                                               | >> [` CHECK CONTENT `](#repository-initialization--using-github_desktop-)                     |
-| 5.  **Create A Repository Using VSCode Source_Control Tool**                                                   | >> [` CHECK CONTENT `](#repository-initialization--using-vscode-source-control-)              |
-| 6.  **Remove / Unlink Remote Repository From Local Repository**                                                | >> [` CHECK CONTENT `](#unlink-remote-repository-from-local-repository)                       |
-| 6.  **Remove / Unlink `Remote Repository` From `Local Repository`**                                            | >> [` CHECK CONTENT `](#unlink-remote-repository-from-local-repository)                       |
+| 4.  **Remove / Unlink `Remote Repository` From `Local Repository`**                                            | >> [` CHECK CONTENT `](#unlink-remote-repository-from-local-repository)                       |
 </div>
 
 ---
@@ -67,4 +63,7 @@
     ```
     git remote remove origin
     ```
+<br>
+
 ---
+<br>
