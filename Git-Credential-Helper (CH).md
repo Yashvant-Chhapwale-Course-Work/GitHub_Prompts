@@ -95,9 +95,16 @@
 <br>
 
 ### Advantages:
+- Credentials are stored in **RAM** only, not on disk making it **Safer** than `Plain-Text` Storage (i.e `Git_Credential_Store`).
+- Useful for **Short-Lived** Tasks as you can **Specify** how long the credentials stay in Memory(i.e, Specify `Timeouts`).
+- During the `Timeout_Window`, repeated **Git_Commands** (e.g., `PUSH`, `Fetch`, `Pull`) won't ask for your Credentials again.
+- Git cache works **natively** and **reliably** on `Unix`/`Linux`/`macOS` because it uses `Unix Domain Sockets` and spawns a **Local Daemon** automatically.
 <br>
 
 ### Disadvantages:
+- The cache helper was built for `Unix-like Systems`; it **does not Work Properly** on `Windows` as there is no `Native_Cache_Daemon` on **Windows**.
+- The `Cache_Daemon` stores Credentials only in **RAM**, therefore, once the **`Timeout` Expires, System Reboots, or the Daemon Stops**, you'll be **Prompted** again.
+- Unlike `manager-core` or `store`, **Git** will forget credentials after you restart your computer.
 <br>
 
 ---
