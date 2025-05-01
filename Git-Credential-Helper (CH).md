@@ -85,8 +85,20 @@
 <br>
 
 ### How to Specify (Increase or Decrease) Timeouts for Git_Cache ?
-- 
+- **By Default** the **`Cache_Timeout`** is **`15 Minutes`**.
+- We can use the following **Command** to **Configure** the `Timeout_Period` for `Git_Credential_Cache`**:** 
+  ```
+  git config --global credential.helper 'cache --timeout=3600'
+  ```
+  `NOTE:` This command sets the `Timeout` to `1hr i.e, 3600sec`. Similarly, the `Timeout` can be adjusted to `15min i.e, 90sec`, `2hr i.e, 7200sec`, etc.
 <br>
+
+### Advantages:
+<br>
+
+### Disadvantages:
+<br>
+
 ---
 <br>
 
