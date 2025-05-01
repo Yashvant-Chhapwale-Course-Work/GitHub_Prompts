@@ -65,7 +65,7 @@
     git remote set-url origin https://github.com/NEW_USERNAME/NEW_REPOSITORY-NAME
     ```
     `Note:` Substitute **'NEW_USERNAME'** with your **'Updated_GitHub_Username'** and **'NEW_REPOSITORY-NAME'** with your **'Updated_Remote Repository_Name'** `OR` **PASTE** your `Updated_Repository_URL` instead.
-    ![git remote -v](https://github.com/user-attachments/assets/d8166b6a-b4fb-4e9a-94cd-e08b653d0d9b)
+    ![git remote set-url origin](https://github.com/user-attachments/assets/80430af0-77ba-4b45-a068-c074fe99906c)
 <br>
 
 ---
