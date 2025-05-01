@@ -60,10 +60,11 @@
 
 ## Updating the Remote_Repository_URL
   - Open your **Terminal** or **Command Prompt**.
-  - Use the following Command in the Terminal to **Verify** the `Linked Remote_Repository`.
+  - Use the following Command to Set / Change the `Remote_Repository_URL`.
     ```
-    git remote -v
+    git remote set-url origin https://github.com/NEW_USERNAME/NEW_REPOSITORY-NAME
     ```
+    `Note:` Substitute **'NEW_USERNAME'** with your **'Updated_GitHub_Username'** and **'NEW_REPOSITORY-NAME'** with your **'Updated_Remote Repository_Name'** `OR` **PASTE** your `Updated_Repository_URL` instead.
     ![git remote -v](https://github.com/user-attachments/assets/d8166b6a-b4fb-4e9a-94cd-e08b653d0d9b)
 <br>
 
