@@ -51,19 +51,11 @@
 
 ## Verify the Linked Remote_Repository
   - Open your **Terminal** or **Command Prompt**.
-  - Ensure that the **Terminal** is pointed to the **Correct** `Local_Repository` **Directory**.<br>
-    ![Local_Repository_Directory](https://github.com/user-attachments/assets/c8a96d54-ca05-4760-8f5d-3e200f4f4c3d)
-  - Copy the `URL` for your `Remote_GitHub_Repository`:<br>
-    ![Copy_URL_from_Address_Bar](https://github.com/user-attachments/assets/c7453c89-51af-4bfe-bd31-76d62add8563)
-    <br> <div align="center">**OR**</div> <br>
-    ![GitHub_Website>>Code<>>>Local>>Copy URL](https://github.com/user-attachments/assets/6484b66b-f33a-404e-b4c2-9b7b2c6d1015)
-    <br>
-  - Use the following Command in the Terminal to `Link` the `Remote Repository` to your `Local Repository`.
+  - Use the following Command in the Terminal to **Verify** the `Linked Remote_Repository`.
     ```
-    git remote add origin https://github.com/USERNAME/REPOSITORY-NAME
+    git remote -v
     ```
-    `Note:` Substitute **'USERNAME'** with your **'GitHub_Username'** and **'REPOSITORY-NAME'** with your **'Remote Repository_Name'** `OR` **PASTE** your `Repository_URL` instead.<br>
-  - Verify the **Linked** `Remote_Repository` by following the Steps enlisted [**`Here`**](#verify-the-linked-remote_repository).
+    ![git remote -v](https://github.com/user-attachments/assets/d8166b6a-b4fb-4e9a-94cd-e08b653d0d9b)
 <br>
 
 ---
