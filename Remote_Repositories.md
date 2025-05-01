@@ -43,7 +43,7 @@
     git remote add origin https://github.com/USERNAME/REPOSITORY-NAME
     ```
     `Note:` Substitute **'USERNAME'** with your **'GitHub_Username'** and **'REPOSITORY-NAME'** with your **'Remote Repository_Name'** `OR` **PASTE** your `Repository_URL` instead.<br>
-  - Verify the **Linked** `Remote_Repository` by following the Steps enlisted [**`Here`**](#verify-the-linked-remote_repository)
+  - Verify the **Linked** `Remote_Repository` by following the Steps enlisted [**`Here`**](#verify-the-linked-remote_repository).
 <br>
 
 ---
@@ -63,7 +63,7 @@
     git remote add origin https://github.com/USERNAME/REPOSITORY-NAME
     ```
     `Note:` Substitute **'USERNAME'** with your **'GitHub_Username'** and **'REPOSITORY-NAME'** with your **'Remote Repository_Name'** `OR` **PASTE** your `Repository_URL` instead.<br>
-  - Verify the **Linked** `Remote_Repository` by following the Steps enlisted [**`Here`**](#verify-the-linked-remote_repository)
+  - Verify the **Linked** `Remote_Repository` by following the Steps enlisted [**`Here`**](#verify-the-linked-remote_repository).
 <br>
 
 ---
