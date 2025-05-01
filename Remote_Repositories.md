@@ -63,6 +63,12 @@
     ```
     git remote remove origin
     ```
+ - You can Check whether the `Remote_Repository` has been removed by running the following command in your **Terminal:**
+   ```
+   git remote -v
+   ```
+   ![git remote remove origin](https://github.com/user-attachments/assets/e9b34cac-0b20-422e-a451-fde9e4f8977b)<br>
+   `Note:` On Running the above Command, we should get **Null / No Result** in the **Terminal**, as shown in the figure above, if the `Remote-Repository` has been **Removed Successfully**.
 <br>
 
 ---
