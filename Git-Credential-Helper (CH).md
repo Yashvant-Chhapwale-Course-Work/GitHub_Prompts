@@ -11,6 +11,8 @@
 | 2. **Git `Cache`**                                                                                              | >> [` CHECK CONTENT `](#git_cache)                                                                  |
 | 3. **Git `Store`**                                                                                              | >> [` CHECK CONTENT `](#git_store)                                                                  |
 | 4. **Git `Credential-Manager` (GCM)**                                                                           | >> [` CHECK CONTENT `](#git_credential_manager-gcm)                                                 |
+| 5. **Git `Credential-Manager-Core` (GCM Core or GCMC)**                                                         | >> [` CHECK CONTENT `](#git_credential_manager_core-gcm-core-or-gcmc)                               |
+
 </div>
 <br>
 
@@ -117,6 +119,12 @@
 <br>
 
 ## Git_Credential_Manager (GCM):
+<br>
+
+---
+<br>
+
+## Git_Credential_Manager_Core (GCM Core or GCMC):
 <br>
 
 ---
