@@ -43,7 +43,8 @@
     ```
     git remote add origin https://github.com/USERNAME/REPOSITORY-NAME
     ```
-    `Note:` Substitute **'USERNAME'** with your **'GitHub_Username'** and **'REPOSITORY-NAME'** with your **'Remote Repository_Name'**. [`Learn more about Managing Remote_Repositories`](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Remote_Repositories.md)
+    `Note:` Substitute **'USERNAME'** with your **'GitHub_Username'** and **'REPOSITORY-NAME'** with your **'Remote Repository_Name'**.<br>
+    [`Learn more about Managing Remote_Repositories`](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Remote_Repositories.md)
   - Use the `add` Command to `Stage` any Unstaged (New) Changes >> Use the `commit` Command to `Save` the Staged Changes to the Repository.
     ```
     git add .
