@@ -63,7 +63,7 @@
     ```
     git remote remove origin
     ```
- - You can Check whether the `Remote_Repository` has been removed by running the following command in your **Terminal:**
+ - You can Check whether the `Remote_Repository` has been removed by running the following **Command** in your **Terminal:**
    ```
    git remote -v
    ```
