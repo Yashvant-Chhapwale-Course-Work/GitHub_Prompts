@@ -84,6 +84,9 @@
   **Hence, we have successfully implemented `Git_Credential_Cache`!**
 <br>
 
+### How to Specify (Increase or Decrease) Timeouts for Git_Cache ?
+- 
+<br>
 ---
 <br>
 
