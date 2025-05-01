@@ -30,15 +30,16 @@
 <br>
 
 ## Link Local_Repository To Remote_Repository
-  - A `Remote_Repository` in **Git** is a version of your project that's hosted on the Internet or another Network, typically on a platform like **GitHub**,**GitLab**,etc.
-  - Unlike the `Local_Repository` which is on your **Own Device** (ex: **Computer**), the `Remote_Repository` is stored somewhere else — usually on the **Cloud**.
+  - Open your **Terminal** or **Command Prompt**.
+  - Ensure that the **Terminal** is pointed to the **Correct `Local_Repository` Directory**.
   - Learn how to **Initialize** a `Remote_Repository` from [**`Here`**](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Repo_Initialization.md#repository-initialization--using-github_website--recommended).
-  
+<br>
+
 ---
 <br>
 
 ## Unlink Remote Repository from Local Repository
-  - Open you Terminal or Command Prompt.
+  - Open your **Terminal** or **Command Prompt**.
   - Paste the following **Command** in the **Terminal:**
     ```
     git remote remove origin
