@@ -36,7 +36,7 @@
   - Copy the `URL` for your `Remote_GitHub_Repository`:<br>
     ![Copy_URL_from_Address_Bar](https://github.com/user-attachments/assets/c7453c89-51af-4bfe-bd31-76d62add8563)
     <br> <div align="center">**OR**</div> <br>
-    ![GitHub_Website>>Code<>>>`Code<>`>>Copy URL](https://github.com/user-attachments/assets/6484b66b-f33a-404e-b4c2-9b7b2c6d1015)
+    ![GitHub_Website>>Code<>>>Local>>Copy URL](https://github.com/user-attachments/assets/6484b66b-f33a-404e-b4c2-9b7b2c6d1015)
     <br>
   - Use the following Command in the Terminal to `Link` the `Remote Repository` to your `Local Repository`.
     ```
