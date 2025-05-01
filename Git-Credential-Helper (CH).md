@@ -25,7 +25,7 @@
   - [`manager`](#git_credential_manager-gcm)
 <br>
 
- ### [Git Cache:](#git_cache)
+ ### [Git Cache:](#git_cache) [NOT RECOMMENDED FOR WINDOWS]
   - Git `Cache` is a temporary `Memory-Based` **Credential_Helper** for Git.
   - It stores your **Git_Credentials** in `Memory (RAM)` for a **short time**, so you don’t have to type them again during that session.
 <br>
@@ -35,7 +35,7 @@
   - It stores the **Git_Credentials** in a `Text File`, so that you don't have to type them again.
 <br>
 
-### [Git Credential Manager:](#git_credential_manager-gcm)
+### [Git Credential Manager:](#git_credential_manager-gcm) [RECOMMENDED FOR WINDOWS]
   - Git `Credential_Manager` (GCM) securely stores your credentials using your `System’s Secure_Storage` (like `Windows_Credential_Manager` or `macOS Keychain`).
   - It encrypts and manages your **Git_Credentials** safely, allowing you to stay logged in without manually entering them again.
 <br>
@@ -102,7 +102,7 @@
 <br>
 
 ### Disadvantages:
-- The cache helper was built for `Unix-like Systems`; it **does not Work Properly** on `Windows` as there is no `Native_Cache_Daemon` on **Windows**.
+- The cache helper was built for `Unix-like Systems`. It **does not Work Properly** on `Windows`, as the `Native_Cache_Daemon` is **Absent** for **Windows**.
 - The `Cache_Daemon` stores Credentials only in **RAM**, therefore, once the **`Timeout` Expires, System Reboots, or the Daemon Stops**, you'll be **Prompted** again.
 - Unlike `manager-core` or `store`, **Git** will forget credentials after you restart your computer.
 <br>
