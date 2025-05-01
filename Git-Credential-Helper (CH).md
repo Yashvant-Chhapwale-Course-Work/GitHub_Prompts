@@ -69,27 +69,19 @@
   <br>
 - A Dialogbox will appear asking permission for authenticating GitHub. Click `Allow` to **Sign In** using GitHub.
   ![Click Allow>>GitHub_Sign In](https://github.com/user-attachments/assets/e7ee6e0f-2123-48a7-b943-4c5c92319952)
--  
-    ![gh auth login](https://github.com/user-attachments/assets/6d5c76f3-c055-4756-872d-a1b5cf4bb141)
-    <br>
-  - Copy the **`8-Digit Alpha-Numeric CODE`** under `First copy your one-time code:` >> **`Press Enter`** to proceed to the Sign In webpage.<br>
-    ![gh auth login >> Redirect_to_GitHub_SignIn](https://github.com/user-attachments/assets/4281cdcf-2c4c-4409-9be0-2a24282cf6ce)
-    <br>
-  - Enter your `GitHub Username` and `Password`.<br>
-    ![GitHub_SignIn](https://github.com/user-attachments/assets/5b560390-fbfb-4380-b0bb-1313b72782a3)
-    <br> Replace **`GITHUB USERNAME / EMAIL ID`** with **`Your Github Username`** or **`Your Github_Email Account`**.
-  - Enter the `8-Digit Alpha-Numeric CODE` copied from your Terminal<br>   
-    ![GitHub_SignIn>>Enter_Authentication_CODE](https://github.com/user-attachments/assets/2583347d-7fd9-4445-99bd-15e2c9cc297f)
-    <br>
-  - Enter `Authorize GitHub` to grant permission for the GitHub CLI to access your account.<br>
-    ![GitHub_SignIn>>Authorize GitHub for GitHub_CLI](https://github.com/user-attachments/assets/96c1ae6e-5b00-4742-848e-c9facda86cdf)
-    <br>
-  - An `Authorization-Success-Widget` will be displayed.<br>
-    ![GitHub_Auth_Success](https://github.com/user-attachments/assets/83687506-019b-46a8-97dc-910e05db4c9c)
-    <br>
-  - Return to Terminal.<br>
-    ![gh auth login>>success](https://github.com/user-attachments/assets/a2627600-78f9-4302-953c-7bcd07bd031d)
-    <br>
+- Enter your `GitHub Username` and `Password`.<br>
+  ![GitHub_SignIn](https://github.com/user-attachments/assets/5b560390-fbfb-4380-b0bb-1313b72782a3)
+  <br> Replace **`GITHUB USERNAME / EMAIL ID`** with **`Your Github Username`** or **`Your Github_Email Account`**.
+- Once the **Authentication** is completed, `Git_Cache` stores the credentials and completes the `PUSH` Operation.    
+  ![git push -u origin main](https://github.com/user-attachments/assets/7daa9aa9-9e7a-4849-adc3-5c018fed5ee8)
+  <br>
+  <br>
+- To **Verify** whether `Git_Cache` is wotking, **Logout** of your **GitHub Account** from `gh_CLI` as well as `VS_Code` and **PUSH** a Demo_Commit as follows:  
+  ![VS_Code>>GitHub Sign Out](https://github.com/user-attachments/assets/9642abf4-4d76-4492-bb7e-8949ecb065ae)<br>
+  ![gh auth logout>>git push -u origin main](https://github.com/user-attachments/assets/d8de196c-31c8-4ad7-9c74-5e224fc966ce)
+- As Observed, the `PUSH` Operation is carried out successfully even when GitHub was not Authenticated, also it did not ask for the Credentials again.
+  <br>
+  **Hence, we have successfully implemented `Git_Credential_Cache`!**
 <br>
 
 ---
