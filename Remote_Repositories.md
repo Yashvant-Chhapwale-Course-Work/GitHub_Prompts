@@ -31,7 +31,7 @@
 
 ## Link Local_Repository To Remote_Repository
   - Open your **Terminal** or **Command Prompt**.
-  - Ensure that the **Terminal** is pointed to the **Correct `Local_Repository` Directory**.
+  - Ensure that the **Terminal** is pointed to the **Correct** `Local_Repository` **Directory**.
   - Learn how to **Initialize** a `Remote_Repository` from [**`Here`**](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Repo_Initialization.md#repository-initialization--using-github_website--recommended).
 <br>
 
