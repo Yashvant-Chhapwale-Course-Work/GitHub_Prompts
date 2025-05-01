@@ -163,8 +163,12 @@
 <br>
 
 ## Unlink Remote Repository from Local Repository
-  - Open `Github_Desktop`.
-  - Browse `File` >> Click on `New repository...` o/r Use Shortcut ` Ctrl + N `.<br>
+  - Open you Terminal or Command Prompt.
+  - Paste the following **Command** in the **Terminal:**
+    ```
+    git remote remove origin
+    ```
+  - <br>
     ![GitHub_Desktop>>New_Repository](https://github.com/user-attachments/assets/0bae54da-c3de-400d-8901-b0440684e2bf)
     <br>
   - Set `Repository_NAME` >> Set `Repository_DESCRIPTION` (Optional) >> Select a `Path` on your Local Machine where the Git_Repository should be created >> Customize `.gitignore` (Optional) >> Choose an appropriate `LICENSE` for your work (Optional).
