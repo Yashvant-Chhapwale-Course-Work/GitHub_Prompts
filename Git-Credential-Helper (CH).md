@@ -139,11 +139,14 @@
   git push -u origin main
   ```
   `Note:` Replace `main` with your `BRANCH_NAME` to avoid any errors. [`Learn more about Branches`](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Branches.md)
-   ![Test Commit 2.0](https://github.com/user-attachments/assets/d3cf170e-1701-4c64-8d2c-4a1067a3314f)
-  <br>
+  ![Test Commit 2.0](https://github.com/user-attachments/assets/47bdc2f0-b03b-4fa1-a06d-3f5df2385c73)  <br>
+- Enter your `GitHub_USERNAME` and `Repository Personal_Access_Token(PAT)` as shown;
 - ![Enter USERNAME](https://github.com/user-attachments/assets/85d57f5e-3df9-490b-a356-cf54f1fc98eb)<br>
-  ![Enter USERNAME](https://github.com/user-attachments/assets/85d57f5e-3df9-490b-a356-cf54f1fc98eb)<br>
-  A Dialogbox will appear asking permission for authenticating GitHub. Click `Allow` to **Sign In** using GitHub.
+  ![Enter PASSWORD](https://github.com/user-attachments/assets/85d57f5e-3df9-490b-a356-cf54f1fc98eb)<br>
+  <div align="center">
+   
+   **OR**</div>
+  A Dialogbox will appear asking permission for authenticating GitHub. Click `Allow` to **Sign In** using GitHub;
   ![Click Allow>>GitHub_Sign In](https://github.com/user-attachments/assets/e7ee6e0f-2123-48a7-b943-4c5c92319952)
 - Enter your `GitHub Username` and `Password`.<br>
   ![GitHub_SignIn](https://github.com/user-attachments/assets/5b560390-fbfb-4380-b0bb-1313b72782a3)
