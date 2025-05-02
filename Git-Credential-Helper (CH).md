@@ -130,9 +130,8 @@
 - Credentials are **Saved Permanently** and remain available across **sessions** and **reboots**, unlike the Temporary `Credential_Cache` Helper.
 - **By Default** the **`Credentials`** are stored at `C:\Users\USERNAME\.git-credentials` or `~/.git-credentials` .
 - It is also known as `credenital-store` helper in **Git**.
-- **`NOTE:`** **This method is DEPRECATED and NOT USED ANYMORE as better and secured options are available.**
 - **`NOTE:`** **It is mandatory to use a `Personal Access Token (PAT)` instead of your account password for `Git_Store`, as GitHub no longer supports password-based authentication.**
-
+- **`NOTE:`** **This method is DEPRECATED and NOT USED ANYMORE as better and secured options are available.**
 <br>
 
 ### How to Use Git_Credential_Store ? 
