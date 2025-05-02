@@ -27,25 +27,25 @@
   - [`manager`](#git_credential_manager-gcm)
 <br>
 
- ### [Git Cache:](#git_cache) [NOT RECOMMENDED FOR WINDOWS]
-  - Git `Cache` is a temporary `Memory-Based` **Credential_Helper** for Git.
-  - It stores your **Git_Credentials** in `Memory (RAM)` for a **short time**, so you don’t have to type them again during that session.
+### [Git Cache:](#git_cache) [NOT RECOMMENDED FOR WINDOWS]
+- Git `Cache` is a temporary `Memory-Based` **Credential_Helper** for Git.
+- It stores your **Git_Credentials** in `Memory (RAM)` for a **short time**, so you don’t have to type them again during that session.
 <br>
 
 ### [Git Store:](#git_store)
-  - Git `Store` saves your credentials in a `Plain-Text` format.
-  - It stores the **Git_Credentials** in a `Text File`, so that you don't have to type them again.
+- Git `Store` saves your credentials in a `Plain-Text` format.
+- It stores the **Git_Credentials** in a `Text File`, so that you don't have to type them again.
 <br>
 
 ### [Git Credential Manager:](#git_credential_manager-gcm) [RECOMMENDED FOR WINDOWS]
-  - `Git_Credential_Manager (GCM)` was introduced around `2015` for `Windows` to support **Token-Based (OAuth, PAT) Login Flows** instead of just basic Username/Password.
-  - Git `Credential_Manager` (GCM) securely stores your credentials using your `System’s Secure_Storage` (like `Windows_Credential_Manager`).
-  - It encrypts and manages your **Git_Credentials** safely, allowing you to stay logged in without manually entering them again.
+- `Git_Credential_Manager (GCM)` was introduced around `2015` for `Windows` to support **Token-Based (OAuth, PAT) Login Flows** instead of just basic Username/Password.
+- Git `Credential_Manager` (GCM) securely stores your credentials using your `System’s Secure_Storage` (like `Windows_Credential_Manager`).
+- It encrypts and manages your **Git_Credentials** safely, allowing you to stay logged in without manually entering them again.
 <br>
 
 ### [Git Credential Manager Core:](#git_credential_manager_core-gcm-core-or-gcmc) [RECOMMENDED FOR WINDOWS]
-  - `Git_Credential_Manager_Core (GCMC)` was introduced in `2020` with **Cross-Platform Support**(like `Windows`, `macOS`, `Linux`, etc).
-  - It is similar to `Git_Credential_Manager`, but `Git_Credential_Manager_Core` is a **faster, more secure, and actively maintained** with support for modern authentication methods like `OAuth` and `Browser-Based` Login.
+- `Git_Credential_Manager_Core (GCMC)` was introduced in `2020` with **Cross-Platform Support**(like `Windows`, `macOS`, `Linux`, etc).
+- It is similar to `Git_Credential_Manager`, but `Git_Credential_Manager_Core` is a **faster, more secure, and actively maintained** with support for modern authentication methods like `OAuth` and `Browser-Based` Login.
 <br>
 
 ---
@@ -119,6 +119,15 @@
 <br>
 
 ## Git_Store:
+### What is Git_Credential_Store or Git_Store ?
+- Git `Store` is a **Credential_Helper** that saves your **Git Credentials** in `Plain_Text` on your **Local Disk**, so you don’t need to re-enter them for Future Git_Operations.
+- Credentials are **Saved Permanently** and remain available across **sessions** and **reboots**, unlike the Temporary `Credential_Cache` Helper.
+- **By Default** the **`Credentials`** are stored at `C:\Users\USERNAME\.git-credentials` or `~/.git-credentials` .
+- It is also known as `credenital-store` helper in **Git**.
+- **`NOTE:`** **This method is DEPRECATED and NOT USED ANYMORE as better and secured options are available.**
+<br>
+
+### How to Use Git_Credential_Store ? 
 <br>
 
 ---
