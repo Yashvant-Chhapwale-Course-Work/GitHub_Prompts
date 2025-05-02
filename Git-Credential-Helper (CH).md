@@ -130,17 +130,16 @@
 ### How to Use Git_Credential_Store ? 
 - Open your Terminal or Command Prompt.
 - Initialize changes to your files and **COMMIT** them.<br>
- ![Test_Commit_2.0](https://github.com/user-attachments/assets/3af01a4b-9bab-4afd-ba90-461cf6e9f0b1)
- <br>
 - Before **PUSH**ing the changes, paste the following command in your **Terminal** to enable `Git_Credential_Cache`:
   ```
-  git config credential.helper cache
+  git config credential.helper store
   ```
 - Now, **PUSH** the **COMMITs** using the following command:
   ```
   git push -u origin main
   ```
   `Note:` Replace `main` with your `BRANCH_NAME` to avoid any errors. [`Learn more about Branches`](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Branches.md)
+   ![Test_Commit_2.0](https://github.com/user-attachments/assets/3af01a4b-9bab-4afd-ba90-461cf6e9f0b1)
   <br>
 - ![Enter USERNAME](https://github.com/user-attachments/assets/85d57f5e-3df9-490b-a356-cf54f1fc98eb)<br>
   ![Enter USERNAME](https://github.com/user-attachments/assets/85d57f5e-3df9-490b-a356-cf54f1fc98eb)<br>
