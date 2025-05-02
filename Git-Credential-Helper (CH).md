@@ -128,7 +128,60 @@
 <br>
 
 ### How to Use Git_Credential_Store ? 
+- Open your Terminal or Command Prompt.
+- Initialize changes to your files and **COMMIT** them.<br>
+  ![git add .>>git commit -m "Test Commit 1.0"](https://github.com/user-attachments/assets/a9d38e1d-f533-4cdc-9d6c-0783dc4a9901)
+  <br>
+- Before **PUSH**ing the changes, paste the following command in your **Terminal** to enable `Git_Credential_Cache`:
+  ```
+  git config credential.helper cache
+  ```
+- Now, **PUSH** the **COMMITs** using the following command:
+  ```
+  git push -u origin main
+  ```
+  `Note:` Replace `main` with your `BRANCH_NAME` to avoid any errors. [`Learn more about Branches`](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Branches.md)
+  <br>
+- A Dialogbox will appear asking permission for authenticating GitHub. Click `Allow` to **Sign In** using GitHub.
+  ![Click Allow>>GitHub_Sign In](https://github.com/user-attachments/assets/e7ee6e0f-2123-48a7-b943-4c5c92319952)
+- Enter your `GitHub Username` and `Password`.<br>
+  ![GitHub_SignIn](https://github.com/user-attachments/assets/5b560390-fbfb-4380-b0bb-1313b72782a3)
+  <br> Replace **`GITHUB USERNAME / EMAIL ID`** with **`Your Github Username`** or **`Your Github_Email Account`**.
+- Once the **Authentication** is completed, `Git_Cache` stores the credentials and completes the `PUSH` Operation.    
+  ![git push -u origin main](https://github.com/user-attachments/assets/7daa9aa9-9e7a-4849-adc3-5c018fed5ee8)
+  <br>
+  <br>
+- To **Verify** whether `Git_Cache` is wotking, **Logout** of your **GitHub Account** from `gh_CLI` as well as `VS_Code` and **PUSH** a Demo_Commit as follows:  
+  ![VS_Code>>GitHub Sign Out](https://github.com/user-attachments/assets/9642abf4-4d76-4492-bb7e-8949ecb065ae)<br>
+  ![gh auth logout>>git push -u origin main](https://github.com/user-attachments/assets/d8de196c-31c8-4ad7-9c74-5e224fc966ce)
+- As Observed, the `PUSH` Operation is carried out successfully even when GitHub was not Authenticated, also it did not ask for the Credentials again.
+  <br>
+  
+  **Hence, we have successfully implemented `Git_Credential_Store`!**
 <br>
+
+### How to Specify (Increase or Decrease) Timeouts for Git_Cache ?
+- **By Default** the **`Cache_Timeout`** is **`15 Minutes`**.
+- We can use the following **Command** to **Configure** the `Timeout_Period` for `Git_Credential_Cache`**:** 
+  ```
+  git config --global credential.helper 'cache --timeout=3600'
+  ```
+  `NOTE:` This command sets the `Timeout` to `1hr i.e, 3600sec`. Similarly, the `Timeout` can be adjusted to `15min i.e, 90sec`, `2hr i.e, 7200sec`, etc.
+<br>
+
+### Advantages:
+- Credentials are stored in **RAM** only, not on disk making it **Safer** than `Plain-Text` Storage (i.e `Git_Credential_Store`).
+- Useful for **Short-Lived** Tasks as you can **Specify** how long the credentials stay in Memory(i.e, Specify `Timeouts`).
+- During the `Timeout_Window`, repeated **Git_Commands** (e.g., `PUSH`, `Fetch`, `Pull`) won't ask for your Credentials again.
+- Git cache works **natively** and **reliably** on `Unix`/`Linux`/`macOS` because it uses `Unix Domain Sockets` and spawns a **Local Daemon** automatically.
+<br>
+
+### Disadvantages:
+- The cache helper was built for `Unix-like Systems`. It **does not Work Properly** on `Windows`, as the `Native_Cache_Daemon` is **Absent** for **Windows**.
+- The `Cache_Daemon` stores Credentials only in **RAM**, therefore, once the **`Timeout` Expires, System Reboots, or the Daemon Stops**, you'll be **Prompted** again.
+- Unlike `manager-core` or `store`, **Git** will forget credentials after you restart your computer.
+<br>
+
 
 ---
 <br>
