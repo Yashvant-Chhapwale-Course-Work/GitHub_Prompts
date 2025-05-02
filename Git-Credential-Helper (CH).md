@@ -139,7 +139,7 @@
   git push -u origin main
   ```
   `Note:` Replace `main` with your `BRANCH_NAME` to avoid any errors. [`Learn more about Branches`](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Branches.md)
-   ![Test_Commit_2.0](https://github.com/user-attachments/assets/3af01a4b-9bab-4afd-ba90-461cf6e9f0b1)
+   ![Test Commit 2.0](https://github.com/user-attachments/assets/d3cf170e-1701-4c64-8d2c-4a1067a3314f)
   <br>
 - ![Enter USERNAME](https://github.com/user-attachments/assets/85d57f5e-3df9-490b-a356-cf54f1fc98eb)<br>
   ![Enter USERNAME](https://github.com/user-attachments/assets/85d57f5e-3df9-490b-a356-cf54f1fc98eb)<br>
@@ -149,7 +149,7 @@
   ![GitHub_SignIn](https://github.com/user-attachments/assets/5b560390-fbfb-4380-b0bb-1313b72782a3)
   <br> Replace **`GITHUB USERNAME / EMAIL ID`** with **`Your Github Username`** or **`Your Github_Email Account`**.
 - Once the **Authentication** is completed, `Git_Cache` stores the credentials and completes the `PUSH` Operation.    
-  ![git push -u origin main](https://github.com/user-attachments/assets/7daa9aa9-9e7a-4849-adc3-5c018fed5ee8)
+  ![Test_Commit_2.0>>git push -u origin main](https://github.com/user-attachments/assets/3af01a4b-9bab-4afd-ba90-461cf6e9f0b1)
   <br>
   <br>
 - To **Verify** whether `Git_Cache` is wotking, **Logout** of your **GitHub Account** from `gh_CLI` as well as `VS_Code` and **PUSH** a Demo_Commit as follows:  
