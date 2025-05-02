@@ -76,8 +76,8 @@
   `Note:` Replace `main` with your `BRANCH_NAME` to avoid any errors. [`Learn more about Branches`](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Branches.md)
   <br>
 - A Dialogbox will appear asking permission for authenticating GitHub. Click `Allow` to **Sign In** using GitHub.
-  ![Click Allow>>GitHub_Sign In](https://github.com/user-attachments/assets/e7ee6e0f-2123-48a7-b943-4c5c92319952)
-- Enter your `GitHub_USERNAME` and `Password`.<br>
+  ![Click Allow>>GitHub_Sign In](https://github.com/user-attachments/assets/e7ee6e0f-2123-48a7-b943-4c5c92319952)<br>
+  Enter your `GitHub_USERNAME` and `Password`.<br>
   ![GitHub_SignIn](https://github.com/user-attachments/assets/5b560390-fbfb-4380-b0bb-1313b72782a3)
   <br> Replace **`GITHUB USERNAME / EMAIL ID`** with **`Your Github Username`** or **`Your Github_Email Account`**.
 - Once the **Authentication** is completed, `Git_Cache` stores the credentials and completes the `PUSH` Operation.    
