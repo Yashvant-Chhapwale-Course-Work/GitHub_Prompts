@@ -130,7 +130,7 @@
 ### How to Use Git_Credential_Store ? 
 - Open your Terminal or Command Prompt.
 - Initialize changes to your files and **COMMIT** them.<br>
-- Before **PUSH**ing the changes, paste the following command in your **Terminal** to enable `Git_Credential_Cache`:
+- Before **PUSH**ing the changes, paste the following command in your **Terminal** to enable `Git_Credential_Store`:
   ```
   git config credential.helper store
   ```
