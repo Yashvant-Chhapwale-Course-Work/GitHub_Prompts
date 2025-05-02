@@ -84,8 +84,8 @@
   ![git push -u origin main](https://github.com/user-attachments/assets/7daa9aa9-9e7a-4849-adc3-5c018fed5ee8)
   <br>
   <br>
-- To **Verify** whether `Git_Cache` is working, **Logout** of your **GitHub Account** from `gh_CLI` as well as `VS_Code` and **PUSH** a Demo_Commit as follows:  
-  ![VS_Code>>GitHub Sign Out](https://github.com/user-attachments/assets/9642abf4-4d76-4492-bb7e-8949ecb065ae)<br>
+- To **Verify** whether `Git_Cache` is working, **Logout** of your **GitHub Account** from `gh_CLI` as well as `VS_Code` (If Signed_In) and **PUSH** a Demo_Commit as follows:  
+  ![VS_Code>>GitHub>>Sign Out](https://github.com/user-attachments/assets/33af3792-0f3f-4a47-8ad7-77341fba9497)<br>
   ![gh auth logout>>git push -u origin main](https://github.com/user-attachments/assets/d8de196c-31c8-4ad7-9c74-5e224fc966ce)
 - As Observed, the `PUSH` Operation is carried out successfully even when GitHub was not Authenticated, also it did not ask for the Credentials again.
   <br>
@@ -152,8 +152,8 @@
   ![Test_Commit_2.0>>git push -u origin main](https://github.com/user-attachments/assets/3af01a4b-9bab-4afd-ba90-461cf6e9f0b1)
   <br>
   <br>
-- To **Verify** whether `Git_Cache` is wotking, **Logout** of your **GitHub Account** from `gh_CLI` as well as `VS_Code` and **PUSH** a Demo_Commit as follows:  
-  ![VS_Code>>GitHub Sign Out](https://github.com/user-attachments/assets/9642abf4-4d76-4492-bb7e-8949ecb065ae)<br>
+- To **Verify** whether `Git_Cache` is working, **Logout** of your **GitHub Account** from `gh_CLI` as well as `VS_Code` (If Signed_In) and **PUSH** a Demo_Commit as follows:  
+  ![VS_Code>>GitHub>>Sign Out](https://github.com/user-attachments/assets/33af3792-0f3f-4a47-8ad7-77341fba9497)<br>
   ![gh auth logout>>git push -u origin main](https://github.com/user-attachments/assets/d8de196c-31c8-4ad7-9c74-5e224fc966ce)
 - As Observed, the `PUSH` Operation is carried out successfully even when GitHub was not Authenticated, also it did not ask for the Credentials again.
   <br>
