@@ -159,8 +159,10 @@
   ![GitHub_SignIn](https://github.com/user-attachments/assets/5b560390-fbfb-4380-b0bb-1313b72782a3)<br>
   Replace **`GitHub_USERNAME / EMAIL ID`** with **`Your Github Username`** or **`Your Github_Email Account`**.<br>
   `Note:` It is mandatory to use a `Personal Access Token (PAT)` instead of your **account password** for `Git_Store`, as GitHub no longer supports **password-based authentication**.
-- Once the **Authentication** is completed, `Git_Cache` stores the credentials and completes the `PUSH` Operation.    
+- Once the **Authentication** is completed, `Git_Store` stores the credentials in `.git-credentials` File and completes the `PUSH` Operation.    
   ![Test_Commit_2.0>>git push -u origin main](https://github.com/user-attachments/assets/3af01a4b-9bab-4afd-ba90-461cf6e9f0b1)<br>
+  `Git_Store` saves the **Credentials** at `C:\Users\USERNAME\.git-credentials`
+  ![~\.git-credentials](https://github.com/user-attachments/assets/e480a6be-61d8-4461-97b2-cd98d67f3185)<br>
 - To **Verify** whether `Git_Cache` is working, **Logout** of your **GitHub Account** from `gh_CLI` as well as `VS_Code` (If Signed_In) and **PUSH** a Demo_Commit as follows:  
   ![VS_Code>>GitHub>>Sign Out](https://github.com/user-attachments/assets/33af3792-0f3f-4a47-8ad7-77341fba9497)<br>
   ![gh auth logout>>git push -u origin main](https://github.com/user-attachments/assets/d8de196c-31c8-4ad7-9c74-5e224fc966ce)
