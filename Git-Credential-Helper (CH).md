@@ -162,7 +162,7 @@
   `Note:` It is mandatory to use a `Personal Access Token (PAT)` instead of your **account password** for `Git_Store`, as GitHub no longer supports **password-based authentication**.
 - Once the **Authentication** is completed, `Git_Store` stores the credentials in `.git-credentials` File and completes the `PUSH` Operation.    
   ![Test_Commit_2.0>>git push -u origin main](https://github.com/user-attachments/assets/3af01a4b-9bab-4afd-ba90-461cf6e9f0b1)<br>
-  `Git_Store` saves the **Credentials** at `C:\Users\USERNAME\.git-credentials`
+  `Git_Store` saves the **Credentials** at `C:\Users\USERNAME\.git-credentials`. You can also **Save** your **Credentials** in a [`Custom Directory`](#how-toseta-custom-directory-for-git_Credential_store-) of your choice.
   ![~\.git-credentials](https://github.com/user-attachments/assets/e480a6be-61d8-4461-97b2-cd98d67f3185)<br>
 - To **Verify** whether `Git_Cache` is working, **Logout** of your **GitHub Account** from `gh_CLI` as well as `VS_Code` (If Signed_In) and **PUSH** a Demo_Commit as follows:  
   ![VS_Code>>GitHub>>Sign Out](https://github.com/user-attachments/assets/33af3792-0f3f-4a47-8ad7-77341fba9497)<br>
@@ -174,12 +174,28 @@
   **Hence, we have successfully implemented `Git_Credential_Store`!**
 <br>
 
-### How to Set a Custom Location for Git_Credential_Store ?
+### How to Set a Custom Directory for Git_Credential_Store ?
 - **By Default** the **`Credentials`** are stored at `C:/Users/USERNAME/.git-credentials` or `~/.git-credentials`.
 - We can use the following **Command** to **Specify** the `Location` for `Git_Credential_Store File`**:** 
   ```
-  git config credential.helper "store --file=PATH\TO\CUSTOM_CREDENTIAL_FILE"
+  git config credential.helper "store --file=PATH:/TO/CUSTOM/GIT-STORE_CREDENTIAL_FILE"
   ```
+- Again, **STAGE** a **Demo_COMMIT** and **PUSH** them to the Remote_Repository.
+- As the **PATH** for `Git_Store_File` was **Updated** you will be asked to,
+  Enter your `GitHub_USERNAME` and `Repository Personal_Access_Token (PAT)` as shown:
+  ![Enter USERNAME](https://github.com/user-attachments/assets/85d57f5e-3df9-490b-a356-cf54f1fc98eb)<br>
+  ![Enter PAT](https://github.com/user-attachments/assets/42780948-ae0d-4c57-aa47-6e7be53b4f03)<br>
+  `Note:` It is mandatory to use a `Personal Access Token (PAT)` instead of your **account password** for `Git_Store`, as GitHub no longer supports **password-based authentication**.
+  <div align="center">
+   
+   **OR**</div>
+  A Dialogbox will appear asking permission for authenticating GitHub. Click `Allow` to **Sign In** using GitHub:
+  ![Click Allow>>GitHub_Sign In](https://github.com/user-attachments/assets/e7ee6e0f-2123-48a7-b943-4c5c92319952)<br>
+  Enter your `GitHub Username` and `Personal_Access_Token (PAT)`.<br>
+  ![GitHub_SignIn](https://github.com/user-attachments/assets/f18fff08-2bc5-425f-9a3a-e16d2f2bf99a)<br>
+  Replace **`GitHub_USERNAME / EMAIL ID`** with **`Your Github Username`** or **`Your Github_Email Account`**.<br>
+  `Note:` It is mandatory to use a `Personal Access Token (PAT)` instead of your **account password** for `Git_Store`, as GitHub no longer supports **password-based authentication**.
+- 
 <br>
 
 ### Advantages:
