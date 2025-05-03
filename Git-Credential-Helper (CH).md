@@ -112,7 +112,16 @@
 
 ### How to Update or Reset Credentials in Git_Cache ?
 - There is **no direct** `Git_Command` to **clear** the `Cache`, but the `Cache` **expires automatically** after the `Timeout`.
-- You can either **Wait** for `Git_Cache` to `Timeout` or Use the following Command to 
+- You can either **Wait** for `Git_Cache` to `Timeout` or Use the following Command to manually `Timeout` the `Cache`:
+  ```
+  git config --global credential.helper 'cache --timeout=30'
+  ```
+- This will **reset** the `Timeout` to `30sec`, after which the `Cache` will forget the credentials, then repeat the Steps for [**Setting Credentials in `Git_Cache`**](#how-to-use-git_credential_cache-).
+- Don't Forget to reset the `Timeout` from `30sec` or the **Updated Credentials** will also **expire** after **30 seconds** pass.<br>
+  Use the following Command to **Reset** the `Timeout` to **Default**:
+  ```
+  git config --global credential.helper 'cache --timeout=90'
+  ```
 <br>
 
 ### Advantages:
