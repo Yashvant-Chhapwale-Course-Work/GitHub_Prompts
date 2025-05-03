@@ -198,9 +198,21 @@
 - Once the **Authentication** is completed, `Git_Store` stores the credentials at the `New_Custom_File_Path` and completes the `PUSH` Operation.    
   ![Test Commit 2.2>>git push -u origin main](https://github.com/user-attachments/assets/36656527-358b-43ee-b0e7-6a6d8813c479)<br>
   ![~/.my-git-credentials](https://github.com/user-attachments/assets/66821fb3-a4d5-443a-bbe7-f71fea827069)<br>
-- To **Verify** whether `Git_Cache` is working, **Logout** of your **GitHub Account** from `gh_CLI` as well as `VS_Code` (If Signed_In) and **PUSH** a Demo_Commit as follows:  
-  ![VS_Code>>GitHub>>Sign Out](https://github.com/user-attachments/assets/33af3792-0f3f-4a47-8ad7-77341fba9497)<br>
-  ![Test Commit 2.1>>git push -u origin main](https://github.com/user-attachments/assets/39a28051-be22-4a4d-b90c-88949172e8bf)<br>
+- To **Verify** whether `Git_Store` is working, **Logout** of your **GitHub Account** from `gh_CLI` as well as `VS_Code` (If Signed_In).
+- ![VS_Code>>GitHub>>Sign Out](https://github.com/user-attachments/assets/33af3792-0f3f-4a47-8ad7-77341fba9497)<br>
+  Also, **Remove** the Older `Credential_Store_Files` (like `.git-credentials`) by using the following **Command:**
+  ```
+  rm C:/Users/USERNAME/.git-credentials
+  ```
+  <div align="center">
+   
+   **OR**</div>
+  ```
+  rm ~/.git-credentials
+  ```
+  After performing the above Step, **PUSH** a **Demo_COMMIT** and Observe:
+  ![Test Commit 2.3>>git push -u origin main](https://github.com/user-attachments/assets/b409ed8c-3a58-4e38-9497-82fa3c91d648)
+- If the `PUSH` Operation is performed successfully without asking for **Credentials** again, then we can assume that `Git_Store` has successfully recognised the `New_Custom_File_Path`. 
 <br>
 
 ### Advantages:
