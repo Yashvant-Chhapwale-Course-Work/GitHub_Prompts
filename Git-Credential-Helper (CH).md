@@ -130,7 +130,7 @@
 ### What is Git_Credential_Store or Git_Store ?
 - Git `Store` is a **Credential_Helper** that saves your **Git Credentials** in `Plain_Text` on your **Local Disk**, so you don’t need to re-enter them for Future Git_Operations.
 - Credentials are **Saved Permanently** and remain available across **sessions** and **reboots**, unlike the Temporary `Credential_Cache` Helper.
-- **By Default** the **`Credentials`** are stored at `C:/Users/USERNAME/.git-credentials` or `~/.git-credentials` .
+- **By Default** the **`Credentials`** are stored at `C:/Users/USERNAME/.git-credentials` or `~/.git-credentials`.
 - It is also known as `credenital-store` helper in **Git**.
 - **`NOTE:`** **It is mandatory to use a `Personal Access Token (PAT)` instead of your account password for `Git_Store`, as GitHub no longer supports password-based authentication.**
 - **`NOTE:`** **This method is DEPRECATED and NOT USED ANYMORE as better and secured options are available.**
@@ -225,6 +225,17 @@
   ![Test Commit 2.3>>git push -u origin main](https://github.com/user-attachments/assets/b409ed8c-3a58-4e38-9497-82fa3c91d648)
 - If the `PUSH` Operation is performed successfully without asking for **Credentials** again, then we can assume that `Git_Store` has successfully recognised the `New_Custom_File_Path`. 
 <br>
+
+### How to Update Credentials Stored in Git_Credential_Store:
+- First, **Remove** the Credentials stored by `Git_Store` at the specified **PATH** using the following Command:
+  ```
+  rm PATH:/TO/.credential-file
+  ```
+  By **Default**, `Git_Store` saves Credentials at `C:/Users/USERNAME/.git-credentials` or `~/.git-credentials`. In this case use the following Command:
+  ```
+  rm ~/.git-credentials
+  ```
+- Once the `Credential_File` has been removed, repeat the steps for [**Setting Credentials in `Git_Store`**](#how-to-use-git_credential_store-). 
 
 ### Advantages:
 - `Credentials` are stored **Locally**, requiring **No Network Authentication** each time.
