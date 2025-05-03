@@ -103,7 +103,7 @@
 - **By Default** the **`Cache_Timeout`** is **`15 Minutes`**.
 - We can use the following **Command** to **Configure** the `Timeout_Period` for `Git_Credential_Cache`**:** 
   ```
-  git config --global credential.helper 'cache --timeout=3600'
+  git config credential.helper 'cache --timeout=3600'
   ```
   `NOTE:` This command sets the `Timeout` to `1hr i.e, 3600sec`. Similarly, the `Timeout` can be adjusted to `15min i.e, 90sec`, `2hr i.e, 7200sec`, etc.
 <br>
@@ -128,7 +128,7 @@
 ### What is Git_Credential_Store or Git_Store ?
 - Git `Store` is a **Credential_Helper** that saves your **Git Credentials** in `Plain_Text` on your **Local Disk**, so you don’t need to re-enter them for Future Git_Operations.
 - Credentials are **Saved Permanently** and remain available across **sessions** and **reboots**, unlike the Temporary `Credential_Cache` Helper.
-- **By Default** the **`Credentials`** are stored at `C:\Users\USERNAME\.git-credentials` or `~/.git-credentials` .
+- **By Default** the **`Credentials`** are stored at `C:/Users/USERNAME/.git-credentials` or `~/.git-credentials` .
 - It is also known as `credenital-store` helper in **Git**.
 - **`NOTE:`** **It is mandatory to use a `Personal Access Token (PAT)` instead of your account password for `Git_Store`, as GitHub no longer supports password-based authentication.**
 - **`NOTE:`** **This method is DEPRECATED and NOT USED ANYMORE as better and secured options are available.**
@@ -174,13 +174,12 @@
   **Hence, we have successfully implemented `Git_Credential_Store`!**
 <br>
 
-### How to Specify (Increase or Decrease) Timeouts for Git_Cache ?
-- **By Default** the **`Cache_Timeout`** is **`15 Minutes`**.
-- We can use the following **Command** to **Configure** the `Timeout_Period` for `Git_Credential_Cache`**:** 
+### How to Set a Custom Location for Git_Credential_Store ?
+- **By Default** the **`Credentials`** are stored at `C:/Users/USERNAME/.git-credentials` or `~/.git-credentials`.
+- We can use the following **Command** to **Specify** the `Location` for `Git_Credential_Store File`**:** 
   ```
-  git config --global credential.helper 'cache --timeout=3600'
+  git config credential.helper "store --file=PATH\TO\CUSTOM_CREDENTIAL_FILE"
   ```
-  `NOTE:` This command sets the `Timeout` to `1hr i.e, 3600sec`. Similarly, the `Timeout` can be adjusted to `15min i.e, 90sec`, `2hr i.e, 7200sec`, etc.
 <br>
 
 ### Advantages:
