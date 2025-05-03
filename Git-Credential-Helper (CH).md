@@ -113,6 +113,7 @@
 ### How to Update or Reset Credentials in Git_Cache ?
 - There is **no direct** `Git_Command` to **clear** the `Cache`, but the `Cache` **expires automatically** after the `Timeout`.
 - You can either **Wait** for `Git_Cache` to `Timeout` or Use the following Command to 
+<br>
 
 ### Advantages:
 - Credentials are stored in **RAM** only, not on disk making it **Safer** than `Plain-Text` Storage (i.e `Git_Credential_Store`).
