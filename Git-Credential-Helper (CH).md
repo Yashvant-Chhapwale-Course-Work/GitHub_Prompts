@@ -214,7 +214,7 @@
   ```
   rm ~/.git-credentials
   ```
-  `Note:` Use **Caution** with this Step, as Older `Credential_Store_Files` (such as `.git-credentials`) may be Configured as `--global` and **shared** across **Multiple Repositories**.
+  `Note:` Use **Caution** with this Step, as Older `Credential_Store_Files` (such as `.git-credentials`) may be Configured as `--global` and **shared** across **Multiple Repositories**.<br>
   After performing the above Step, **PUSH** a **Demo_COMMIT** and Observe:
   ![Test Commit 2.3>>git push -u origin main](https://github.com/user-attachments/assets/b409ed8c-3a58-4e38-9497-82fa3c91d648)
 - If the `PUSH` Operation is performed successfully without asking for **Credentials** again, then we can assume that `Git_Store` has successfully recognised the `New_Custom_File_Path`. 
