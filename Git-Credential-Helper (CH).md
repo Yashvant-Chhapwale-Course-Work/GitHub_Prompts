@@ -100,6 +100,7 @@
   **Hence, we have successfully implemented `Git_Credential_Cache`!**
 <br>
 
+
 ### How to Specify (Increase or Decrease) Timeouts for Git_Cache ?
 - **By Default** the **`Cache_Timeout`** is **`15 Minutes`**.
 - We can use the following **Command** to **Configure** the `Timeout_Period` for `Git_Credential_Cache`**:** 
@@ -179,6 +180,7 @@
   
   **Hence, we have successfully implemented `Git_Credential_Store`!**
 <br>
+
 
 ### How to Set a Custom Directory for Git_Credential_Store ?
 - **By Default** the **`Credentials`** are stored at `C:/Users/USERNAME/.git-credentials` or `~/.git-credentials`.
