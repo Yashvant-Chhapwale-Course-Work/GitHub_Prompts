@@ -267,7 +267,57 @@
 <br>
 
 ## Git_Credential_Manager (GCM):
+### What is Git_Credential_Manager or GCM ?
+- `Git_Credential_Manager (GCM)` is the **Older Version** of the `Git_Credential_Manager_Core` **Helper** designed specifically for `Windows`.
+- It integrates with the `System's Secure_Storage` i.e, `Windows_Credential_Manager` in `Windows` for storing your **Credentials**.
+- It is also simply called as the `manager` **Helper**.
+- Now-a-days, the `manager` helper is no longer maintained as it is being replaced by `Git_Credential_Manager_Core (i.e, manager-core)` which provides **Cross_Platform Support** and is **Compatible with Modern Authentication Methods**.
+- If you stay on `manager`, it will still work, but you may hit **compatibility issues** with **Modern Authentication** in the **Future**.
+<br>
 
+### How to Use Git_Credential_Manager or GCM ? 
+- Open your Terminal or Command Prompt.
+- Initialize changes to your files and **COMMIT** them.<br>
+- Before **PUSH**ing the changes, paste the following command in your **Terminal** to enable `Git_Credential_Store`:
+  ```
+  git config credential.helper store
+  ```
+- Now, **PUSH** the **COMMITs** using the following command:
+  ```
+  git push -u origin main
+  ```
+  `Note:` Replace `main` with your `BRANCH_NAME` to avoid any errors. [`Learn more about Branches`](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Branches.md)
+  ![Test Commit 2.0](https://github.com/user-attachments/assets/47bdc2f0-b03b-4fa1-a06d-3f5df2385c73)<br>
+- Enter your `GitHub_USERNAME` and `Repository Personal_Access_Token (PAT)` as shown:
+  ![Enter USERNAME](https://github.com/user-attachments/assets/85d57f5e-3df9-490b-a356-cf54f1fc98eb)<br>
+  ![Enter PAT](https://github.com/user-attachments/assets/42780948-ae0d-4c57-aa47-6e7be53b4f03)<br>
+  `Note:` It is mandatory to use a `Personal Access Token (PAT)` instead of your **account password** for `Git_Store`, as GitHub no longer supports **password-based authentication**.
+  <div align="center">
+   
+   **OR**</div>
+  A Dialogbox will appear asking permission for authenticating GitHub. Click `Allow` to **Sign In** using GitHub:
+  ![Click Allow>>GitHub_Sign In](https://github.com/user-attachments/assets/e7ee6e0f-2123-48a7-b943-4c5c92319952)<br>
+  Enter your `GitHub Username` and `Personal_Access_Token (PAT)`.<br>
+  ![GitHub_SignIn](https://github.com/user-attachments/assets/f18fff08-2bc5-425f-9a3a-e16d2f2bf99a)<br>
+  Replace **`GitHub_USERNAME / EMAIL ID`** with **`Your Github Username`** or **`Your Github_Email Account`**.<br>
+  `Note:` It is mandatory to use a `Personal Access Token (PAT)` instead of your **account password** for `Git_Store`, as GitHub no longer supports **password-based authentication**.
+- Once the **Authentication** is completed, `Git_Store` stores the credentials in `.git-credentials` File and completes the `PUSH` Operation.    
+  ![Test_Commit_2.0>>git push -u origin main](https://github.com/user-attachments/assets/3af01a4b-9bab-4afd-ba90-461cf6e9f0b1)<br>
+  `Git_Store` saves the **Credentials** at `C:\Users\USERNAME\.git-credentials`. You can also **Save** your **Credentials** in a [`Custom Directory`](#how-to-set-a-custom-directory-for-git_credential_store-) of your choice.
+  ![~\.git-credentials](https://github.com/user-attachments/assets/e480a6be-61d8-4461-97b2-cd98d67f3185)<br>
+  **`FORMAT`** for **Credentials** stored in `.git-credentials` file:
+  ```
+  https://USERNAME:PAT@github.com
+  ```
+- To **Verify** whether `Git_Store` is working, **Logout** of your **GitHub Account** from `gh_CLI` as well as `VS_Code` (If Signed_In) and **PUSH** a Demo_Commit as follows:  
+  ![VS_Code>>GitHub>>Sign Out](https://github.com/user-attachments/assets/33af3792-0f3f-4a47-8ad7-77341fba9497)<br>
+  ![gh auth logout](https://github.com/user-attachments/assets/f8489fd9-4831-4771-85b2-6f3492d471e8)<br>
+  ![Test Commit 2.1>>git push -u origin main](https://github.com/user-attachments/assets/39a28051-be22-4a4d-b90c-88949172e8bf)<br>
+- As Observed, the `PUSH` Operation is carried out successfully even when GitHub was not Authenticated, also it  
+  did not ask for the Credentials again.
+  <br>
+  
+  **Hence, we have successfully implemented `Git_Credential_Store`!**
 <br>
 
 ---
