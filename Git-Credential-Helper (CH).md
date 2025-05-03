@@ -25,6 +25,7 @@
   - [`cache`](#git_cache)
   - [`store`](#git_store)
   - [`manager`](#git_credential_manager-gcm)
+  - [`manager-core`](#git_credential_manager_core-gcm-core-or-gcmc)
 <br>
 
 ### [Git Cache:](#git_cache) [NOT RECOMMENDED FOR WINDOWS]
