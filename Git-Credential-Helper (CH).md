@@ -236,6 +236,7 @@
   rm ~/.git-credentials
   ```
 - Once the `Credential_File` has been removed, repeat the steps for [**Setting Credentials in `Git_Store`**](#how-to-use-git_credential_store-). 
+<br>
 
 ### Advantages:
 - `Credentials` are stored **Locally**, requiring **No Network Authentication** each time.
