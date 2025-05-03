@@ -110,6 +110,10 @@
   `NOTE:` This command sets the `Timeout` to `1hr i.e, 3600sec`. Similarly, the `Timeout` can be adjusted to `15min i.e, 90sec`, `2hr i.e, 7200sec`, etc.
 <br>
 
+### How to Update or Reset Credentials in Git_Cache ?
+- There is **no direct** `Git_Command` to **clear** the `Cache`, but the `Cache` **expires automatically** after the `Timeout`.
+- You can either **Wait** for `Git_Cache` to `Timeout` or Use the following Command to 
+
 ### Advantages:
 - Credentials are stored in **RAM** only, not on disk making it **Safer** than `Plain-Text` Storage (i.e `Git_Credential_Store`).
 - Useful for **Short-Lived** Tasks as you can **Specify** how long the credentials stay in Memory(i.e, Specify `Timeouts`).
@@ -253,6 +257,7 @@
 <br>
 
 ## Git_Credential_Manager (GCM):
+
 <br>
 
 ---
