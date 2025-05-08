@@ -67,16 +67,17 @@
   - `Local Settings` are stored in the **Repository's** `.git/config` file.<br>
     ![.git/config](https://github.com/user-attachments/assets/cb2b571e-3a54-46b9-bad6-2aac95c48a4b)<br>
   - The `.git` folder is **usually** `Hidden`. To **View** or **Access** it, follow these **Steps**:<br>
-    ➤ First, use the following **Commands** in your `Terminal` to access the `.git` Folder:
-    ```
-    cd .git
-    ls
-    ```
-    Also, we can use the following **Command** to **Verify** the `Hidden` Files for a `Specific_Repository`:
+    ➤ 
+    You can use the following **Command** in your `Terminal` to **Verify** the `Hidden` Files for a `Specific_Repository`:
     ```
     ls -hidden
     ```
     ![ls -hidden](https://github.com/user-attachments/assets/9386d27e-7029-4338-872a-d90aa5ccede7)<br>
+    Then, use the following **Commands** in your `Terminal` to access the **hidden** `.git` Folder:
+    ```
+    cd .git
+    ls
+    ```
     ➤ Then `Hold Ctrl + Left_Click` on the `config` file **listed** by the `ls` **Command**.<br>
     ![cd .git >> ls](https://github.com/user-attachments/assets/dc14ddbd-2c4b-466c-b4d9-93e7d90a62ac)<br>
     ➤ This **action** opens the `config` file, where you can view the `Current_Repository's` **Settings**, including its **Configuration** for **Remotes, Branches, and other Git-Specific options**.<br>
