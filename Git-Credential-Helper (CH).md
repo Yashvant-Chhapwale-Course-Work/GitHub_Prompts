@@ -60,8 +60,23 @@
   - **Local (` no flag, --global ❌`)**
 - **`Global (--global):`**
   - This **Scope** is used with git config to **Set**, **View**, or **Unset** the `Credential_Helper (CH)` for all **Git_Repositories** under your **User_Account**.
+  - `Global Settings` are stored in `~/.gitconfig` or `C:/Users/USERNAME/.gitconfig` file.<br>
+    ![~/.gitconfig](https://github.com/user-attachments/assets/dfd1af82-fd40-48ad-8700-bfb156954c45)<br>
 - **`Local (no flag, --global ❌):`**
-  - This **Scope** is used to **Set**, **View**, or **Unset** the `Credential_Helper (CH)` for the **Current Git_Repository** only.  
+  - This **Scope** is used to **Set**, **View**, or **Unset** the `Credential_Helper (CH)` for the **Current Git_Repository** only.
+  - `Local Settings` are stored in the **Repository's** `.git/config` file.<br>
+    ![.git/config](https://github.com/user-attachments/assets/cb2b571e-3a54-46b9-bad6-2aac95c48a4b)<br>
+  - The `.git` folder is **usually** `Hidden`. To **View** or **Access** it, follow these **Steps**:<br>
+    ➤ First, use the following **Commands** in your `Terminal` to access the `.git` Folder:
+    ```
+    cd .git
+    ls
+    ```
+    ➤ Then `Hold Ctrl + Left_Click` on the `config` file **listed** by the `ls` **Command**.<br>
+    ![cd .git >> ls](https://github.com/user-attachments/assets/dc14ddbd-2c4b-466c-b4d9-93e7d90a62ac)<br>
+    ➤ This **action** opens the `config` file, where you can view the `Current_Repository's` **Settings**, including its **Configuration** for **Remotes, Branches, and other Git-Specific options**.<br>
+    ![`config` file](https://github.com/user-attachments/assets/147850fb-915f-4a5f-87f9-d7e2dd1b48fc)<br>
+      
 
 ---
 <br>
