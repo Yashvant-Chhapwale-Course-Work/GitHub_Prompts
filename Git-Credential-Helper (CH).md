@@ -8,7 +8,7 @@
 | TITLE                                                                                                           | SECTION_LINK                                                                                        |
 |-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | 1. **An Overview `Credential-Helper (CH)`**                                                                     | >> [` CHECK CONTENT `](#what-is-a-credential_helper-ch)                                             |
-| 2. **An Overview `Credential-Helper (CH)`**                                                                     | >> [` CHECK CONTENT `](#what-is-a-credential_helper-ch)                                             |
+| 2. **Set / Switch_Between `Credential-Helpers (CHs)`**                                                         | >> [` CHECK CONTENT `](#set--switch_between-credential_helpers-chs)                               |
 | 3. **Git `Cache`**                                                                                              | >> [` CHECK CONTENT `](#git_cache)                                                                  |
 | 4. **Git `Store`**                                                                                              | >> [` CHECK CONTENT `](#git_store)                                                                  |
 | 5. **Git `Credential-Manager` (GCM)**                                                                           | >> [` CHECK CONTENT `](#git_credential_manager-gcm)                                                 |
@@ -49,6 +49,12 @@
 - `Git_Credential_Manager_Core (GCMC)` was introduced in `2020` with **Cross-Platform Support**(like `Windows`, `macOS`, `Linux`, etc).
 - It is similar to `Git_Credential_Manager`, but `Git_Credential_Manager_Core` is a **faster, more secure, and actively maintained** with support for modern authentication methods like `OAuth` and `Browser-Based` Login.
 <br>
+
+---
+<br>
+
+# Set / Switch_Between Credential-Helpers (CHs):
+- 
 
 ---
 <br>
