@@ -72,6 +72,11 @@
     cd .git
     ls
     ```
+    Also, we can use the following **Command** to **Verify** the `Hidden` Files for a `Specific_Repository`:
+    ```
+    ls -hidden
+    ```
+    ![ls -hidden](https://github.com/user-attachments/assets/9386d27e-7029-4338-872a-d90aa5ccede7)<br>
     ➤ Then `Hold Ctrl + Left_Click` on the `config` file **listed** by the `ls` **Command**.<br>
     ![cd .git >> ls](https://github.com/user-attachments/assets/dc14ddbd-2c4b-466c-b4d9-93e7d90a62ac)<br>
     ➤ This **action** opens the `config` file, where you can view the `Current_Repository's` **Settings**, including its **Configuration** for **Remotes, Branches, and other Git-Specific options**.<br>
