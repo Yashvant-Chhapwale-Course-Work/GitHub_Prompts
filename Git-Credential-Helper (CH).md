@@ -54,6 +54,10 @@
 <br>
 
 ## Set / Switch_Between Credential-Helpers (CHs):
+###  Credential Helper Scope:
+- Git `Credential_Helper (CH)` mainly supports two **Configuration_Scopes**:
+  - **`Global (--global):`**  This **Scope**is used with git config to **Set**, **View**, or **Unset** the `Credential_Helper (CH)` for all **Git_Repositories** under your **User_Account**.
+  - **`Local (no flag, --global ❌):`**  This **Scope**is used to **Set**, **View**, or **Unset** the `Credential_Helper (CH)` for the **Current Git_Repository** only.
 - 
 
 ---
