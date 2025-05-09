@@ -149,7 +149,9 @@
   `Note:` The `--system` Flag modifies the `System-Level Git_Configuration`, which requires **Administrative Privileges**.<br>
   To execute this command, **Right-Click on `Command_Prompt (cmd)`** and **Select `Run as administrator`** before running it.<br>
   ![CMD >> Run as administrator](https://github.com/user-attachments/assets/6330e372-c422-4b71-976e-6b60c8327b10)<br>
-- To **Confirm** whether the `Credential_Helper (CH)` has been successfully removed, run the following **Command** in your `Terminal`:
+  Without **Administrative Privileges** the **Command** returns **`Error`** as follows:<br>
+  ![`--system --unset` Error](https://github.com/user-attachments/assets/4f027592-b347-4767-9434-260e5a18475c)<br>
+- To **Confirm** whether the `Credential_Helpers (CHs)` have been successfully removed, run the following **Command** in your `Terminal`:
   ```
   git config --list --show-origin | findstr credential.helper
   ```
