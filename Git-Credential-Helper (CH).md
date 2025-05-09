@@ -122,7 +122,7 @@
   git config --list --show-origin | findstr credential.helper
   ```
   `Note:` The `--show-origin` Flag in `Git` is used with `git config . . .` to display where each **Configuration Value** is **defined** i.e., the **File** in which the **Configuration** is **stored**.<br>
-  ![git config --list --show-origin | findstr credential.helper](https://github.com/user-attachments/assets/3da2446f-2233-4097-ab92-10ffc1aa313b)<br>
+  ![git config --list --show-origin | findstr credential.helper](https://github.com/user-attachments/assets/7c71157a-9a60-4308-b3cf-5746b6cf3e96)<br>
 <br>
 
 ---
