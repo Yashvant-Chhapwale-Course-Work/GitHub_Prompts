@@ -85,7 +85,17 @@
 <br>
 
 ### How to Set / Switch_Between Credential_Helpers ?
-- 
+- Use the following **Command** in your `Terminal` to `Set` / `Switch_Between` different `Credential_Helpers (CHs)`:
+  ➤ For **Specific Repository**:
+  ```
+  git config credential.helper <HELPER-NAME>
+  ```
+  ➤ To **Configure** a `Credential_Helper` for all your **Git_Repositories** (`--global`):
+  ```
+  git config --global credential.helper <HELPER-NAME>
+  ```
+- **`NOTE:`** **Switch** the `HELPER-NAME` with one of the **available** `Credential_Helper Options` (`cache`, `store`, `manager`, `manager-core`)
+  
 <br>
 
 ---
