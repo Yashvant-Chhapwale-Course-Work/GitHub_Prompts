@@ -86,7 +86,7 @@
 <br>
 
 ### How to Set / Switch_Between Credential_Helpers ?
-- Use the following **Command** in your `Terminal` to `Set` / `Switch_Between` different `Credential_Helpers (CHs)`:
+- Use the following **Command** in your `Terminal` to `Set` / `Switch_Between` different `Credential_Helpers (CHs)`:<br>
   ➤ For **Specific Repository**:
   ```
   git config credential.helper <HELPER-NAME>
