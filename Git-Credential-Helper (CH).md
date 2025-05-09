@@ -132,7 +132,7 @@
 <br>
 
 ## Unset / Remove Credential_Helpers (CHs):
-### How to Set / Switch_Between Credential_Helpers ?
+### How to Unset Credential_Helpers at various Levels of Scope ?
 - To **Delete** a **previously configured** `Credential_Helper (CH)` from the specified **Git_Configuration Scope**, we use the `--unset` Flag. 
 - Use the following **Command** in your `Terminal` to `Unset` the `Local Credential_Helper (CH)`:
   ```
