@@ -8,11 +8,12 @@
 | TITLE                                                                                                           | SECTION_LINK                                                                                        |
 |-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | 1. **An Overview `Credential-Helper (CH)`**                                                                     | >> [` CHECK CONTENT `](#what-is-a-credential_helper-ch)                                             |
-| 2. **Set / Switch_Between `Credential-Helpers (CHs)`**                                                         | >> [` CHECK CONTENT `](#set--switch_between-credential_helpers-chs)                               |
-| 3. **Git `Cache`**                                                                                              | >> [` CHECK CONTENT `](#git_cache)                                                                  |
-| 4. **Git `Store`**                                                                                              | >> [` CHECK CONTENT `](#git_store)                                                                  |
-| 5. **Git `Credential-Manager` (GCM)**                                                                           | >> [` CHECK CONTENT `](#git_credential_manager-gcm)                                                 |
-| 6. **Git `Credential-Manager-Core` (GCM Core or GCMC)**                                                         | >> [` CHECK CONTENT `](#git_credential_manager_core-gcm-core-or-gcmc)                               |
+| 2. **Set / Switch_Between `Credential-Helpers (CHs)`**                                                          | >> [` CHECK CONTENT `](#set--switch_between-credential_helpers-chs)                                 |
+| 3. **Unset / Remove `Credential-Helpers (CHs)`**                                                                | >> [` CHECK CONTENT `](#unset--remove-credential_helpers-chs)                                       |
+| 4. **Git `Cache`**                                                                                              | >> [` CHECK CONTENT `](#git_cache)                                                                  |
+| 5. **Git `Store`**                                                                                              | >> [` CHECK CONTENT `](#git_store)                                                                  |
+| 6. **Git `Credential-Manager` (GCM)**                                                                           | >> [` CHECK CONTENT `](#git_credential_manager-gcm)                                                 |
+| 7. **Git `Credential-Manager-Core` (GCM Core or GCMC)**                                                         | >> [` CHECK CONTENT `](#git_credential_manager_core-gcm-core-or-gcmc)                               |
 
 </div>
 <br>
@@ -123,6 +124,15 @@
   ```
   `Note:` The `--show-origin` Flag in `Git` is used with `git config . . .` to display where each **Configuration Value** is **defined** i.e., the **File** in which the **Configuration** is **stored**.<br>
   ![git config --list --show-origin | findstr credential.helper](https://github.com/user-attachments/assets/7c71157a-9a60-4308-b3cf-5746b6cf3e96)<br>
+<br>
+
+---
+<br>
+
+## Unset / Remove Credential_Helpers (CHs):
+### How to Set / Switch_Between Credential_Helpers ?
+- Use the following **Command** in your `Terminal` to `Set` / `Switch_Between` different `Credential_Helpers (CHs)`:
+  
 <br>
 
 ---
