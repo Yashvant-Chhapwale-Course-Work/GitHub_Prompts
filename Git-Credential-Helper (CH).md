@@ -90,12 +90,14 @@
   ```
   git config credential.helper <HELPER-NAME>
   ```
+  **`NOTE:`** **Switch** the `HELPER-NAME` with one of the **available** `Credential_Helper Options` (`cache`, `store`, `manager`, `manager-core`)<br>
+  ![git config credential.helper manager](https://github.com/user-attachments/assets/4977872e-df25-4135-a4b1-f9cbeaa8403e)<br>
   ➤ To **Configure** a `Credential_Helper` for all your **Git_Repositories** (`--global`):
   ```
   git config --global credential.helper <HELPER-NAME>
   ```
-- **`NOTE:`** **Switch** the `HELPER-NAME` with one of the **available** `Credential_Helper Options` (`cache`, `store`, `manager`, `manager-core`)
-  
+  **`NOTE:`** **Switch** the `HELPER-NAME` with one of the **available** `Credential_Helper Options` (`cache`, `store`, `manager`, `manager-core`)<br>
+  ![git config --global credential.helper manager-core](https://github.com/user-attachments/assets/f4908aab-3436-4540-863f-56929ff43f0f)<br> 
 <br>
 
 ---
