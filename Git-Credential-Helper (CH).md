@@ -100,6 +100,31 @@
   ![git config --global credential.helper manager-core](https://github.com/user-attachments/assets/f4908aab-3436-4540-863f-56929ff43f0f)<br> 
 <br>
 
+### How to View Configured Git Credential_Helpers (CHs) ?
+- Use the following **Command** to **View** the `Local Credential_Helper` i.e, `Credential_Helper` for **Current_Repository**:
+  ```
+  git config credential.helper
+  ```
+  ![git config credential.helper](https://github.com/user-attachments/assets/db5106df-a21a-4571-9a7a-c01aa8e2f179)<br>
+- Use the following **Command** to **View** the `Global Credential_Helper`:
+  ```
+  git config --global credential.helper
+  ```
+  ![git config --global credential.helper](https://github.com/user-attachments/assets/232f9b2a-be19-4e83-9b1d-fa797bf113cf)<br>
+- Use the following **Command** to **View** the `System-Level Credential_Helper` **(For Windows)**:
+  ```
+  git config --system credential.helper
+  ```
+  `Note:` This **Command** reads from the `System Git_Configuration (.gitconfig)` File, typically under `C:/Program Files/Git/etc/gitconfig`.<br>
+  ![git config --system credential.helper](https://github.com/user-attachments/assets/754ce668-c649-46b6-9ca9-76e45de27597)<br>
+- Use the following **Command** to **View** the `Credential_Helper Configuration at all Levels (Scopes)` **(For Windows)**:
+  ```
+  git config --list --show-origin | findstr credential.helper
+  ```
+  `Note:` The `--show-origin` Flag in `Git` is used with `git config . . .` to display where each **Configuration Value** is **defined** i.e., the **File** in which the **Configuration** is **stored**.<br>
+  ![git config --list --show-origin | findstr credential.helper](https://github.com/user-attachments/assets/3da2446f-2233-4097-ab92-10ffc1aa313b)<br>
+<br>
+
 ---
 <br>
 
