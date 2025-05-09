@@ -59,6 +59,7 @@
 - Git `Credential_Helper (CH)` mainly supports two **Configuration_Scopes**:
   - **Global (`--global`)**
   - **Local (` no flag, --global ❌`)**
+  - **System-Level**
 - **`Global (--global):`**
   - This **Scope** is used with git config to **Set**, **View**, or **Unset** the `Credential_Helper (CH)` for all **Git_Repositories** under your **User_Account**.
   - `Global Settings` are stored in `~/.gitconfig` or `C:/Users/USERNAME/.gitconfig` file.<br>
@@ -83,6 +84,7 @@
     ![cd .git >> ls](https://github.com/user-attachments/assets/dc14ddbd-2c4b-466c-b4d9-93e7d90a62ac)<br>
     ➤ This **action** opens the `config` file, where you can view the `Current_Repository's` **Settings**, including its **Configuration** for **Remotes, Branches, and other Git-Specific options**.<br>
     ![`config` file](https://github.com/user-attachments/assets/147850fb-915f-4a5f-87f9-d7e2dd1b48fc)<br>
+- 
 <br>
 
 ### How to Set / Switch_Between Credential_Helpers ?
@@ -131,7 +133,23 @@
 
 ## Unset / Remove Credential_Helpers (CHs):
 ### How to Set / Switch_Between Credential_Helpers ?
-- Use the following **Command** in your `Terminal` to `Set` / `Switch_Between` different `Credential_Helpers (CHs)`:
+- To **Delete** a **previously configured** `Credential_Helper (CH)` from the specified **Git_Configuration Scope**, we use the `--unset` Flag. 
+- Use the following **Command** in your `Terminal` to `Unset` the `Local Credential_Helper (CH)`:
+  ```
+  git config --unset credential.helper
+  ```
+- Use the following **Command** in your `Terminal` to `Unset` the `Global Credential_Helper (CH)`:
+  ```
+  git config --global --unset credential.helper
+  ```
+- Use the following **Command** in your `Terminal` to `Unset` the `System-Level Credential_Helper (CH)`:
+  ```
+  git config --system --unset credential.helper
+  ```
+- To **Confirm** whether the `Credential_Helper (CH)` has been successfully removed, run the following **Command** in your `Terminal`:
+  ```
+  git config --list --show-origin | findstr credential.helper
+  ```
   
 <br>
 
