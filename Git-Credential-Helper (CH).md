@@ -146,11 +146,15 @@
   ```
   git config --system --unset credential.helper
   ```
+  `Note:` The `--system` Flag modifies the `System-Level Git_Configuration`, which requires **Administrative Privileges**.<br>
+  To execute this command, **Right-Click on `Command_Prompt (cmd)`** and **Select `Run as administrator`** before running it.<br>
+  ![CMD >> Run as administrator](https://github.com/user-attachments/assets/6330e372-c422-4b71-976e-6b60c8327b10)<br>
 - To **Confirm** whether the `Credential_Helper (CH)` has been successfully removed, run the following **Command** in your `Terminal`:
   ```
   git config --list --show-origin | findstr credential.helper
   ```
-  
+  ![git config --unset](https://github.com/user-attachments/assets/4e469630-3304-4d6f-b05e-f1d1cc2ace49)<br>
+  If this **Command** gives **No Output**, as shown above, it means the `Credential_Helper (CH)` is not **Set** at any **Level** (`local`, `global`, or `system`) — so it has been successfully **Unset**.
 <br>
 
 ---
