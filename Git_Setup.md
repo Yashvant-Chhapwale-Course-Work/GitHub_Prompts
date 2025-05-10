@@ -42,7 +42,7 @@
       <br>
     - Click `New` >> Add the path to your `Git bin` folder (e.g., C:\Program Files\Git\bin\git.exe).
     - `Click OK` to Save.<br>
-      ![Edit_Environment_Variable>>New>>OK](https://github.com/user-attachments/assets/15fe7218-fb0f-48d9-981a-b88021c12b77)
+      ![Edit_Environment_Variable>>New>>OK](https://github.com/user-attachments/assets/7026d4b9-5eff-4f15-b2fa-1bc11c7ee06b)
       <br>
       
 <div align="center">
