@@ -323,7 +323,7 @@ You can enhance Git operations in VS Code by downloading the following extension
 ---
 <br>
 
-**`NOTE:`** It is **recommended** to configure each platform and tool mentioned above to prevent Collaboration Issues and ensure proper Git_Account Identification.
+**`NOTE:`** It is **recommended** to configure each platform and tool mentioned above to prevent `Collaboration Issues` and ensure proper `Git_Account` **Authentication**.
 <br>
 
 ---
