@@ -120,7 +120,7 @@
   git config --system credential.helper <HELPER-NAME>
   ```
   **`NOTE:`** **Switch** the `HELPER-NAME` with one of the **available** `Credential_Helper Options` (`cache`, `store`, `manager`, `manager-core`)<br>
-  ![git config --system credential.helper manager-core](https://github.com/user-attachments/assets/f4908aab-3436-4540-863f-56929ff43f0f)<br>
+  ![git config --system credential.helper manager](https://github.com/user-attachments/assets/afb5d82c-0f00-4fd4-9b99-d963815f2ac2)<br>
   To execute this command, **Right-Click on `Command_Prompt (cmd) / Terminal`** and **Select `Run as administrator`** before running it as you require `Administrative Privileges` for `System-Level` **Scope**.<br>
   ![CMD >> Run as administrator](https://github.com/user-attachments/assets/6330e372-c422-4b71-976e-6b60c8327b10)<br>
 <br>
