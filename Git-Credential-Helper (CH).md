@@ -94,22 +94,6 @@
   - This **Scope** refers to **Configurations** that apply to **All Users** in a **System**, unlike the `--global` **Scope** which applies only to the `Current User_Account` across all their **Git_Repositories**.
   - `System Git_Configurations` are typically stored  in `C:\Program Files\Git\etc\gitconfig` file.<br>
     ![etc\gitconfig](https://github.com/user-attachments/assets/03c2ca4f-6452-48e7-b6d3-c09f8cf0c579)<br>
-  - The `.git` folder is **usually** `Hidden`. To **View** or **Access** it, follow these **Steps**:<br>
-    ➤ 
-    You can use the following **Command** in your `Terminal` to **Verify** the `Hidden` Files for a `Specific_Repository`:
-    ```
-    ls -hidden
-    ```
-    ![ls -hidden](https://github.com/user-attachments/assets/9386d27e-7029-4338-872a-d90aa5ccede7)<br>
-    Then, use the following **Commands** in your `Terminal` to access the **hidden** `.git` Folder:
-    ```
-    cd .git
-    ls
-    ```
-    ➤ Then `Hold Ctrl + Left_Click` on the `config` file **listed** by the `ls` **Command**.<br>
-    ![cd .git >> ls](https://github.com/user-attachments/assets/dc14ddbd-2c4b-466c-b4d9-93e7d90a62ac)<br>
-    ➤ This **action** opens the `config` file, where you can view the `Current_Repository's` **Settings**, including its **Configuration** for **Remotes, Branches, and other Git-Specific options**.<br>
-    ![`config` file](https://github.com/user-attachments/assets/147850fb-915f-4a5f-87f9-d7e2dd1b48fc)<br>
 <br>
 
 ### How to Set / Switch_Between Credential_Helpers ?
