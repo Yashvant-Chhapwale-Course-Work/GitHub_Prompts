@@ -16,7 +16,7 @@
 | 7.  **Configure Git Credentials [For VSCode with `GitHub Pull Requests Extension`]**                           | >> [` CHECK CONTENT `](#if-github-pull-requests-extension-is-enabled)                         |
 | 8.  **Configure Git Credentials [For VSCode without `GitHub Pull Requests Extension`]**                        | >> [` CHECK CONTENT `](#if-github-pull-requests-extension-is-not-enabled)                     |
 | 9.  **GitHub Extensions For VSCode**                                                                           | >> [` CHECK CONTENT `](#vscode-extensions)                                                    |
-| 10. **Update Git & GitHub_CLI (gh) [For Windows]**                                                             | >> [` CHECK CONTENT `](#update-git-&-gitHub-cli-gh-for-windows)                               |
+| 10. **Update Git & GitHub_CLI (gh) [For Windows]**                                                             | >> [` CHECK CONTENT `](#update-git--gitHub-cli-gh-for-windows)                               |
 </div>
 
 ---
