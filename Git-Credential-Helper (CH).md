@@ -96,6 +96,7 @@
     ![etc\gitconfig](https://github.com/user-attachments/assets/03c2ca4f-6452-48e7-b6d3-c09f8cf0c579)<br>
 <br>
 
+
 ### How to Set / Switch_Between Credential_Helpers ?
 - Use the following **Command** in your `Terminal` to `Set` / `Switch_Between` different `Credential_Helpers (CHs)`:<br>
   ➤ For **Specific Repository**:
@@ -104,13 +105,26 @@
   ```
   **`NOTE:`** **Switch** the `HELPER-NAME` with one of the **available** `Credential_Helper Options` (`cache`, `store`, `manager`, `manager-core`)<br>
   ![git config credential.helper manager](https://github.com/user-attachments/assets/4977872e-df25-4135-a4b1-f9cbeaa8403e)<br>
+  <br>
+  
   ➤ To **Configure** a `Credential_Helper` for all your **Git_Repositories** (`--global`):
   ```
   git config --global credential.helper <HELPER-NAME>
   ```
   **`NOTE:`** **Switch** the `HELPER-NAME` with one of the **available** `Credential_Helper Options` (`cache`, `store`, `manager`, `manager-core`)<br>
-  ![git config --global credential.helper manager-core](https://github.com/user-attachments/assets/f4908aab-3436-4540-863f-56929ff43f0f)<br> 
+  ![git config --global credential.helper manager-core](https://github.com/user-attachments/assets/f4908aab-3436-4540-863f-56929ff43f0f)<br>
+  <br>
+  
+  ➤ To **Configure** a `Credential_Helper` for **All Users** in a **System**:<br>
+  ```
+  git config --system credential.helper <HELPER-NAME>
+  ```
+  **`NOTE:`** **Switch** the `HELPER-NAME` with one of the **available** `Credential_Helper Options` (`cache`, `store`, `manager`, `manager-core`)<br>
+  ![git config --system credential.helper manager-core](https://github.com/user-attachments/assets/f4908aab-3436-4540-863f-56929ff43f0f)<br>
+  To execute this command, **Right-Click on `Command_Prompt (cmd) / Terminal`** and **Select `Run as administrator`** before running it as you require `Administrative Privileges` for `System-Level` **Scope**.<br>
+  ![CMD >> Run as administrator](https://github.com/user-attachments/assets/6330e372-c422-4b71-976e-6b60c8327b10)<br>
 <br>
+
 
 ### How to View Configured Git Credential_Helpers (CHs) ?
 - Use the following **Command** to **View** the `Local Credential_Helper` i.e, `Credential_Helper` for **Current_Repository**:
@@ -156,7 +170,7 @@
   git config --system --unset credential.helper
   ```
   `Note:` The `--system` Flag modifies the `System-Level Git_Configuration`, which requires **Administrative Privileges**.<br>
-  To execute this command, **Right-Click on `Command_Prompt (cmd)`** and **Select `Run as administrator`** before running it.<br>
+  To execute this command, **Right-Click on `Command_Prompt (cmd) / Terminal`** and **Select `Run as administrator`** before running it.<br>
   ![CMD >> Run as administrator](https://github.com/user-attachments/assets/6330e372-c422-4b71-976e-6b60c8327b10)<br>
   Without **Administrative Privileges** the **Command** returns **`Error`** as follows:<br>
   ![`--system --unset` Error](https://github.com/user-attachments/assets/4f027592-b347-4767-9434-260e5a18475c)<br>
