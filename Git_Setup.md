@@ -335,12 +335,23 @@ You can enhance Git operations in VS Code by downloading the following extension
 - **Download** the **Latest** `Git_Installer`for `Windows`.
 - **Run** the **New** `Git_Installer`.
 - The `Installer` will **Update** your current `Git_Version` while **preserving your settings**.
+- Use the following **Command** to verify the **Updated** `Git_Version`:
+  ```
+  git --version
+  ```
+  ![git --version](https://github.com/user-attachments/assets/192a07d1-8906-4d17-bb01-c2147df5dc1e)
+<br>
 
 ### Update GitHub_CLI (gh):
 -  Visit the **Official** [`GitHub_CLI Releases`](https://cli.github.com/) Page.
 -  Download the appropriate `.msi Installer` for your System.
 -  **Run** the `Installer`.
 -  The `Installer` will automatically **Update** the `GitHub_CLI (gh)` to the **Latest** `gh_Version`.
+-  - Use the following **Command** to verify the **Updated** `gh_Version`:
+  ```
+  gh --version
+  ```
+  ![gh --version](https://github.com/user-attachments/assets/17220fb3-ca55-4382-b165-21067ec22050)
 <br>
 
 ---
