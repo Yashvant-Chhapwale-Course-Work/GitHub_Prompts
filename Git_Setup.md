@@ -38,7 +38,7 @@
       ![System_Properties>>Advanced_TAB>>Environment Variables](https://github.com/user-attachments/assets/d86361a7-cd10-4e8b-af90-cdd894be1fad)
       <br>
     - Under `User Variables` >> click on the `PATH` variable >> click `Edit`.<br>
-      ![Environment Variables>>User_Variables>>PATH>>Edit](https://github.com/user-attachments/assets/f445bae0-49cd-4174-9715-e7de4c22fe43)
+      ![Environment Variables>>User_Variables>>PATH>>Edit](https://github.com/user-attachments/assets/75efdd80-b9fc-49bf-aa48-8231ca5b773f)
       <br>
     - Click `New` >> Add the path to your `Git bin` folder (e.g., C:\Program Files\Git\bin\git.exe).
     - `Click OK` to Save.<br>
