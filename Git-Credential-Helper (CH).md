@@ -429,7 +429,7 @@
   ![GitHub_SignIn](https://github.com/user-attachments/assets/5b560390-fbfb-4380-b0bb-1313b72782a3)<br>
   3. Click on `Authorize git-ecosystem` to **Authorize** `Git Ecosystem (Git-Credential-Manager)` to **Store** and **Access** your **Credentials**.
   ![Authorize git-ecosystem](https://github.com/user-attachments/assets/53f93484-d809-41a9-ad4a-b8e77000263f)<br>
-  4. The `manager` will store your **Credentials** in the **Native Credential_Storage_System** of your **Operating_System** (For **Windows:** [`Windows Credential Manager`](#where-does-git_credential_manager-or-gcm-save-the-credentials-)).
+  4. The `manager` will store your **Credentials** in the **Native Credential_Storage_System** of your **Operating_System** (For **Windows:** [`Windows Credential Manager`](#where-does-git_credential_manager-or-gcm-store-saved-credentials-)).
   5. Once the **Credentials** are securely stored in the `Credential_Storage_System`, the `PUSH` Operation proceeds successfully.<br>
   ![Test_Commit_3.0>>git push -u origin main](https://github.com/user-attachments/assets/b57b3305-e12f-43fd-a349-990fe0aa0b5d)<br>
   <br>
@@ -446,7 +446,7 @@
   ![Authorize git-ecosystem](https://github.com/user-attachments/assets/012ff7e9-e975-4978-85dd-c24e4f29a3ff)<br>
   6. A `Confirmation_Widget` will appear indicating **successful Authentication** for your `User_Account`.<br>
   ![SigIn_Successful](https://github.com/user-attachments/assets/5de8db9e-2129-4c0e-a0fe-3e39bd86bfdf)<br>
-  7. The `manager` will store your **Credentials** in the **Native Credential_Storage_System** of your **Operating_System** (For **Windows:** [`Windows Credential Manager`](#where-does-git_credential_manager-or-gcm-save-the-credentials-)).
+  7. The `manager` will store your **Credentials** in the **Native Credential_Storage_System** of your **Operating_System** (For **Windows:** [`Windows Credential Manager`](#where-does-git_credential_manager-or-gcm-store-saved-credentials-)).
   8. Once the **Credentials** are securely stored in the `Credential_Storage_System`, the `PUSH` Operation proceeds successfully.<br>
   ![Test_Commit_3.0.1>>git push -u origin main](https://github.com/user-attachments/assets/35a8f64c-4b3b-4cc9-b021-b260a48f55f4)<br>
   <br>
@@ -454,7 +454,7 @@
 - **For `Token_Based Authentication`**<br>
   1. Enter your `Personal Access Token (PAT)` under `Token` **Section** >> Click on `Sign in`.<br>
   ![Git Prompt >> Token (PAT) >> Enter `PAT` >> Click on `Sign in`](https://github.com/user-attachments/assets/445da934-b995-473c-89c8-5f79891d1b18)<br>
-  2. The `manager` will store your **Credentials / Tokens** in the **Native Credential_Storage_System** of your **Operating_System** (For **Windows:** [`Windows Credential Manager`](#where-does-git_credential_manager-or-gcm-save-the-credentials-)).
+  2. The `manager` will store your **Credentials / Tokens** in the **Native Credential_Storage_System** of your **Operating_System** (For **Windows:** [`Windows Credential Manager`](#where-does-git_credential_manager-or-gcm-store-saved-credentials-)).
   3. Once the **Credentials / Tokens** are securely stored in the `Credential_Storage_System`, the `PUSH` Operation proceeds successfully.<br>
   ![Test_Commit_3.0.2>>git push -u origin main](https://github.com/user-attachments/assets/d984d1f9-c0c6-4628-8e8c-0aecacaee78e)<br>
   <br>
@@ -469,7 +469,7 @@
   **Hence, we have successfully implemented `Git_Credential_Manager (GCM)`!**
 <br>
 
-### Where does Git_Credential_Manager or GCM save the Credentials ? 
+### Where does Git_Credential_Manager or GCM store saved Credentials ? 
 
 <br>
 
