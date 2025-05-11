@@ -427,9 +427,24 @@
   1. Click on the `Sign in with your Browser` **Button** under `Browser/Device` **Section**. This will **redirect** you to the `GitHub Authentication` **Page**.
   2. Enter your `GitHub_USERNAME` and `PASSWORD` OR `Personal_Access_Token (PAT)`.<br>
   ![GitHub_SignIn](https://github.com/user-attachments/assets/5b560390-fbfb-4380-b0bb-1313b72782a3)<br>
-  3. The `manager` will store your **Credentials** the **Native Credential_Storage_System** of your **Operating_System** (For **Windows:** `Windows Credential Manager`).
+  3. The `manager` will store your **Credentials** in the **Native Credential_Storage_System** of your **Operating_System** (For **Windows:** `Windows Credential Manager`).
   4. Once the **Credentials** are securely stored in the `Credential_Storage_System`, the `PUSH` Operation proceeds successfully.<br>
   ![Test_Commit_3.0>>git push -u origin main](https://github.com/user-attachments/assets/b57b3305-e12f-43fd-a349-990fe0aa0b5d)<br>
+
+- **For `Sign in with a Code:`**<br>
+  1. Click on the `Sign in with your Browser` **Button** under `Browser/Device` **Section**. This will **redirect** you to the `GitHub Authentication` **Page**.
+  2. Enter your `GitHub_USERNAME` and `PASSWORD` OR `Personal_Access_Token (PAT)`.<br>
+  ![GitHub_SignIn](https://github.com/user-attachments/assets/5b560390-fbfb-4380-b0bb-1313b72782a3)<br>
+  3. The `manager` will store your **Credentials** in the **Native Credential_Storage_System** of your **Operating_System** (For **Windows:** `Windows Credential Manager`).
+  4. Once the **Credentials** are securely stored in the `Credential_Storage_System`, the `PUSH` Operation proceeds successfully.<br>
+  ![Test_Commit_3.0>>git push -u origin main](https://github.com/user-attachments/assets/b57b3305-e12f-43fd-a349-990fe0aa0b5d)<br>
+
+- **For `Token_Based Authentication`**<br>
+  1. Enter your `Personal Access Token (PAT)` under `Token` **Section** >> Click on `Sign in`.<br>
+  ![Git Prompt >> Token (PAT) >> Enter `PAT` >> Click on `Sign in`](https://github.com/user-attachments/assets/445da934-b995-473c-89c8-5f79891d1b18)<br>
+  2. The `manager` will store your **Credentials / Tokens** in the **Native Credential_Storage_System** of your **Operating_System** (For **Windows:** `Windows Credential Manager`).
+  3. Once the **Credentials / Tokens** are securely stored in the `Credential_Storage_System`, the `PUSH` Operation proceeds successfully.<br>
+  ![Test_Commit_3.0.2>>git push -u origin main](https://github.com/user-attachments/assets/d984d1f9-c0c6-4628-8e8c-0aecacaee78e)<br>
   
   A Dialogbox will appear asking permission for authenticating GitHub. Click `Allow` to **Sign In** using GitHub:
   ![Click Allow>>GitHub_Sign In](https://github.com/user-attachments/assets/e7ee6e0f-2123-48a7-b943-4c5c92319952)<br>
