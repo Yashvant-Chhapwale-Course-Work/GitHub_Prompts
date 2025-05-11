@@ -411,17 +411,19 @@
 ### How to Use Git_Credential_Manager or GCM ? 
 - Open your Terminal or Command Prompt.
 - Initialize changes to your files and **COMMIT** them.<br>
-- Before **PUSH**ing the changes, paste the following command in your **Terminal** to enable `Git_Credential_Store`:
+- Before **PUSH**ing the changes, paste the following command in your **Terminal** to enable `Git_Credential_Manager`:
   ```
-  git config credential.helper store
+  git config credential.helper manager
   ```
 - Now, **PUSH** the **COMMITs** using the following command:
   ```
   git push -u origin main
   ```
   `Note:` Replace `main` with your `BRANCH_NAME` to avoid any errors. [`Learn more about Branches`](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Branches.md)
-  ![Test Commit 2.0](https://github.com/user-attachments/assets/47bdc2f0-b03b-4fa1-a06d-3f5df2385c73)<br>
-- Enter your `GitHub_USERNAME` and `Repository Personal_Access_Token (PAT)` as shown:
+- A `Git_Prompt` will appear, asking you to **Choose** an **Authentication Method** (Using `Browser/Device` or `Token (i.e, PAT)`):
+  ![Git Prompt >> Browser/Device](https://github.com/user-attachments/assets/12dfb7aa-2723-4e83-8a3d-cb09ba701cc2)<br>
+  ![Git Prompt >> Token (PAT)](https://github.com/user-attachments/assets/3e857c74-39e7-4035-9dae-8e02c0350b8d)<br>
+- 
   ![Enter USERNAME](https://github.com/user-attachments/assets/85d57f5e-3df9-490b-a356-cf54f1fc98eb)<br>
   ![Enter PAT](https://github.com/user-attachments/assets/42780948-ae0d-4c57-aa47-6e7be53b4f03)<br>
   `Note:` It is mandatory to use a `Personal Access Token (PAT)` instead of your **account password** for `Git_Store`, as GitHub no longer supports **password-based authentication**.
@@ -442,7 +444,7 @@
   ```
   https://USERNAME:PAT@github.com
   ```
-- To **Verify** whether `Git_Store` is working, **Logout** of your **GitHub Account** from `gh_CLI` as well as `VS_Code` (If Signed_In) and **PUSH** a Demo_Commit as follows:  
+- To **Verify** whether `Git_Manager` is working, **Logout** of your **GitHub Account** from `gh_CLI` as well as `VS_Code` (If Signed_In) and **PUSH** a Demo_Commit as follows:  
   ![VS_Code>>GitHub>>Sign Out](https://github.com/user-attachments/assets/33af3792-0f3f-4a47-8ad7-77341fba9497)<br>
   ![gh auth logout](https://github.com/user-attachments/assets/f8489fd9-4831-4771-85b2-6f3492d471e8)<br>
   ![Test Commit 2.1>>git push -u origin main](https://github.com/user-attachments/assets/39a28051-be22-4a4d-b90c-88949172e8bf)<br>
