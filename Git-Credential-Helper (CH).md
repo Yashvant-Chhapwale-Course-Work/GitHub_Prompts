@@ -473,7 +473,21 @@
 <br>
 
 ### Where does Git_Credential_Manager or GCM store saved Credentials ? 
+- The `Git_Credential_Manager (GCM)` uses the  **Native Credential_Storage_System** of your **Operating_System** to store the `User_Credentials` for **Future `Authentication_Requests`**.
+- **`For Windows:`**
+  - You can find the **Saved Credentials** in the `Windows_Credential_Manager`.
+  - Open `Control Panel` >> Go To `User Accounts`.<br>
+  ![CP>>User_Accounts](https://github.com/user-attachments/assets/0ad0a143-c50b-49bc-be59-c5dd0a82b846)<br>
+  - Then, **Click** on `Manage Windows Credentials` under the `Credential Manager` **Section**.<br>
+  ![CP>>User_Accounts>>Manage_Windows_Credentials](https://github.com/user-attachments/assets/404c0560-05ee-4283-a261-19a8c6ff8094)<br>
+  - Now, **Select** the `Windows Credentials` **Section** to access the `Saved Credentials`.<br>
+  ![CP>>User_Accounts>>Manage_Windows_Credentials>>Windows_Credentials](https://github.com/user-attachments/assets/3c93ab7a-03e0-4ca2-bcb3-ec9e367ef549)<br>
+  - You can find the `Saved Credentials` listed under `git:https://github.com` under `Windows Credentials`.<br>
+  ![CP>>User_Accounts>>Manage_Windows_Credentials>>Windows_Credentials>>`git:https://github.com`](https://github.com/user-attachments/assets/21e5769f-a59e-423a-a53b-47336ef62615)<br>
+<br>
 
+### How to Erase Credentials stored in Git_Credential_Manager (GCM) [For Windows] ?
+` 
 <br>
 
 ---
