@@ -438,7 +438,7 @@
 - **For `Sign in with a Code:`**<br>
   1. Click on the `Sign in with a Code` **Button** under `Browser/Device` **Section**.
   2. A **Secure** `8-Digit Alpha-Numeric Code` will be displayed in the `Prompt`. **Copy** the `Code` >> **Click** on `Link` **provided below the Code**. This will **redirect** you to the `GitHub Authentication` **Page**.<br>
-  ![Git Prompt >> Sign in with a Code](https://github.com/user-attachments/assets/9f97aed9-c4e0-47df-9a26-79a250c40a5c)
+  ![Git Prompt >> Sign in with a Code](https://github.com/user-attachments/assets/0dc0eb4d-e595-4efd-82ea-2e81cc9cf210)<br>
   3. Enter your `GitHub_USERNAME` and `PASSWORD` OR `Personal_Access_Token (PAT)`.<br>
   ![GitHub_SignIn](https://github.com/user-attachments/assets/5b560390-fbfb-4380-b0bb-1313b72782a3)<br>
   4. Then, Enter the `8-Digit Alpha-Numeric CODE` copied from the Prompt.<br>   
