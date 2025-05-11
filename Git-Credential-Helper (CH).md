@@ -524,6 +524,21 @@
 
 <br>
 
+### Advantages:
+- Stores **Credentials** securely using your **OS's Native_Vault** (ex: `Windows Credential Manager`).
+- Supports `GitHub`, `Azure Repos`, and other `Git_Hosting Services` with `GUI-Based Authentication`.
+- **Avoids repeated Authentication** by securely caching `Tokens` (like `PATs` or `OAuth Tokens`).
+- **Compatible** with most `Modern Git_Versions` on `Windows`.
+- No need to store credentials `Manually` or in `Plain_Text`.
+<br>
+
+### Disadvantages:
+- `Git_Credential_Manager (GCM)` is `Windows-0nly` and **deprecated** in favor of `manager-core`.
+- **Lacks** `Cross-Platform Support` for `Linux` and `macOS`, Unlike `manager-core`.
+- **May not receive** `Updates` or `Fixes`, since it's **replaced** by the newer `GCM-Core`.
+- Requires `Manual Install` if not bundled with `Git`.
+<br>
+
 ---
 <br>
 
