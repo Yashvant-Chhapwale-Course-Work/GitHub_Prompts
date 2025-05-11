@@ -487,7 +487,48 @@
 <br>
 
 ### How to Erase Credentials stored in Git_Credential_Manager (GCM) [For Windows] ?
-` 
+- **`Using Command_Prompt (CMD):`**
+  - Use the following **Commands** in `Command Prompt` to `Erase` the `Saved Credentials`:
+    ```
+    echo protocol=https> temp.txt
+    echo host=github.com>> temp.txt
+    type temp.txt | git credential-manager erase
+    del temp.txt
+    ```
+  - **`echo protocol=https> temp.txt`**: This **Line Of Code** creates a `Temp.txt` File and **Prints** `protocol=https` inside it.
+  - **`echo host=github.com>> temp.txt`**: This **Line Of Code** is used to **Append** `host=github.com` in the **Second Line** of the `Temp.txt` File.
+  - **`type temp.txt | git credential-manager erase`**: This **Line Of Code** then, **Feeds** the `Temp.txt` File to the `Credential_Eraser`.
+  - **`del temp.txt`**: This **Line Of Code** is used for **Clean Up** purposes and to **Remove** the `Temp.txt` File, as it is no longer required after the `ERASE` Operation.
+<div align="center">
+   
+**OR**</div>
+- **`Using Powershell:`**
+  - Use the following **Commands** in `Command Prompt` to `Erase` the `Saved Credentials`:
+    ```
+    echo protocol=https> temp.txt
+    echo host=github.com>> temp.txt
+    type temp.txt | git credential-manager erase
+    del temp.txt
+    ```
+  - **`echo protocol=https> temp.txt`**: This **Line Of Code** creates a `Temp.txt` File and **Prints** `protocol=https` inside it.
+  - **`echo host=github.com>> temp.txt`**: This **Line Of Code** is used to **Append** `host=github.com` in the **Second Line** of the `Temp.txt` File.
+  - **`type temp.txt | git credential-manager erase`**: This **Line Of Code** then, **Feeds** the `Temp.txt` File to the `Credential_Eraser`.
+  - **`del temp.txt`**: This **Line Of Code** is used for **Clean Up** purposes and to **Remove** the `Temp.txt` File, as it is no longer required after the `ERASE` Operation.
+<div align="center">
+   
+**OR**</div>
+- **`Using Windows_Credentials:`**
+  - Use the following **Commands** in `Command Prompt` to `Erase` the `Saved Credentials`:
+    ```
+    echo protocol=https> temp.txt
+    echo host=github.com>> temp.txt
+    type temp.txt | git credential-manager erase
+    del temp.txt
+    ```
+  - **`echo protocol=https> temp.txt`**: This **Line Of Code** creates a `Temp.txt` File and **Prints** `protocol=https` inside it.
+  - **`echo host=github.com>> temp.txt`**: This **Line Of Code** is used to **Append** `host=github.com` in the **Second Line** of the `Temp.txt` File.
+  - **`type temp.txt | git credential-manager erase`**: This **Line Of Code** then, **Feeds** the `Temp.txt` File to the `Credential_Eraser`.
+  - **`del temp.txt`**: This **Line Of Code** is used for **Clean Up** purposes and to **Remove** the `Temp.txt` File, as it is no longer required after the `ERASE` Operation. 
 <br>
 
 ---
