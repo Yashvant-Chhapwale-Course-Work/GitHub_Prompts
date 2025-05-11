@@ -427,39 +427,38 @@
   1. Click on the `Sign in with your Browser` **Button** under `Browser/Device` **Section**. This will **redirect** you to the `GitHub Authentication` **Page**.
   2. Enter your `GitHub_USERNAME` and `PASSWORD` OR `Personal_Access_Token (PAT)`.<br>
   ![GitHub_SignIn](https://github.com/user-attachments/assets/5b560390-fbfb-4380-b0bb-1313b72782a3)<br>
-  3. The `manager` will store your **Credentials** in the **Native Credential_Storage_System** of your **Operating_System** (For **Windows:** `Windows Credential Manager`).
-  4. Once the **Credentials** are securely stored in the `Credential_Storage_System`, the `PUSH` Operation proceeds successfully.<br>
+  3. Click on `Authorize git-ecosystem` to **Authorize** `Git Ecosystem (Git-Credential-Manager)` to **Store** and **Access** your **Credentials**.
+  ![Authorize git-ecosystem](https://github.com/user-attachments/assets/53f93484-d809-41a9-ad4a-b8e77000263f)<br>
+  4. The `manager` will store your **Credentials** in the **Native Credential_Storage_System** of your **Operating_System** (For **Windows:** `Windows Credential Manager`).
+  5. Once the **Credentials** are securely stored in the `Credential_Storage_System`, the `PUSH` Operation proceeds successfully.<br>
   ![Test_Commit_3.0>>git push -u origin main](https://github.com/user-attachments/assets/b57b3305-e12f-43fd-a349-990fe0aa0b5d)<br>
-
+  <br>
+ 
 - **For `Sign in with a Code:`**<br>
-  1. Click on the `Sign in with your Browser` **Button** under `Browser/Device` **Section**. This will **redirect** you to the `GitHub Authentication` **Page**.
-  2. Enter your `GitHub_USERNAME` and `PASSWORD` OR `Personal_Access_Token (PAT)`.<br>
+  1. Click on the `Sign in with a Code` **Button** under `Browser/Device` **Section**.
+  2. A **Secure** `8-Digit Alpha-Numeric Code` will be displayed in the `Prompt`. **Copy** the `Code` >> **Click** on `Link` **provided below the Code**. This will **redirect** you to the `GitHub Authentication` **Page**.<br>
+  ![Git Prompt >> Sign in with a Code](https://github.com/user-attachments/assets/9f97aed9-c4e0-47df-9a26-79a250c40a5c)
+  3. Enter your `GitHub_USERNAME` and `PASSWORD` OR `Personal_Access_Token (PAT)`.<br>
   ![GitHub_SignIn](https://github.com/user-attachments/assets/5b560390-fbfb-4380-b0bb-1313b72782a3)<br>
-  3. The `manager` will store your **Credentials** in the **Native Credential_Storage_System** of your **Operating_System** (For **Windows:** `Windows Credential Manager`).
-  4. Once the **Credentials** are securely stored in the `Credential_Storage_System`, the `PUSH` Operation proceeds successfully.<br>
-  ![Test_Commit_3.0>>git push -u origin main](https://github.com/user-attachments/assets/b57b3305-e12f-43fd-a349-990fe0aa0b5d)<br>
-
+  4. Then, Enter the `8-Digit Alpha-Numeric CODE` copied from the Prompt.<br>   
+  ![GitHub_SignIn>>Enter_Authentication_CODE](https://github.com/user-attachments/assets/2583347d-7fd9-4445-99bd-15e2c9cc297f)<br>
+  5. Click on `Authorize git-ecosystem` to **Authorize** `Git Ecosystem (Git-Credential-Manager)` to **Store** and **Access** your **Credentials**.<br>
+  ![Authorize git-ecosystem](https://github.com/user-attachments/assets/012ff7e9-e975-4978-85dd-c24e4f29a3ff)<br>
+  6. A `Confirmation_Widget` will appear indicating **successful Authentication** for your `User_Account`.<br>
+  ![SigIn_Successful](https://github.com/user-attachments/assets/5de8db9e-2129-4c0e-a0fe-3e39bd86bfdf)<br>
+  7. The `manager` will store your **Credentials** in the **Native Credential_Storage_System** of your **Operating_System** (For **Windows:** `Windows Credential Manager`).
+  8. Once the **Credentials** are securely stored in the `Credential_Storage_System`, the `PUSH` Operation proceeds successfully.<br>
+  ![Test_Commit_3.0.1>>git push -u origin main](https://github.com/user-attachments/assets/35a8f64c-4b3b-4cc9-b021-b260a48f55f4)<br>
+  <br>
+  
 - **For `Token_Based Authentication`**<br>
   1. Enter your `Personal Access Token (PAT)` under `Token` **Section** >> Click on `Sign in`.<br>
   ![Git Prompt >> Token (PAT) >> Enter `PAT` >> Click on `Sign in`](https://github.com/user-attachments/assets/445da934-b995-473c-89c8-5f79891d1b18)<br>
   2. The `manager` will store your **Credentials / Tokens** in the **Native Credential_Storage_System** of your **Operating_System** (For **Windows:** `Windows Credential Manager`).
   3. Once the **Credentials / Tokens** are securely stored in the `Credential_Storage_System`, the `PUSH` Operation proceeds successfully.<br>
   ![Test_Commit_3.0.2>>git push -u origin main](https://github.com/user-attachments/assets/d984d1f9-c0c6-4628-8e8c-0aecacaee78e)<br>
+  <br>
   
-  A Dialogbox will appear asking permission for authenticating GitHub. Click `Allow` to **Sign In** using GitHub:
-  ![Click Allow>>GitHub_Sign In](https://github.com/user-attachments/assets/e7ee6e0f-2123-48a7-b943-4c5c92319952)<br>
-  Enter your `GitHub Username` and `Personal_Access_Token (PAT)`.<br>
-  ![GitHub_SignIn](https://github.com/user-attachments/assets/f18fff08-2bc5-425f-9a3a-e16d2f2bf99a)<br>
-  Replace **`GitHub_USERNAME / EMAIL ID`** with **`Your Github Username`** or **`Your Github_Email Account`**.<br>
-  `Note:` It is mandatory to use a `Personal Access Token (PAT)` instead of your **account password** for `Git_Store`, as GitHub no longer supports **password-based authentication**.
-- Once the **Authentication** is completed, `Git_Store` stores the credentials in `.git-credentials` File and completes the `PUSH` Operation.    
-  ![Test_Commit_2.0>>git push -u origin main](https://github.com/user-attachments/assets/3af01a4b-9bab-4afd-ba90-461cf6e9f0b1)<br>
-  `Git_Store` saves the **Credentials** at `C:\Users\USERNAME\.git-credentials`. You can also **Save** your **Credentials** in a [`Custom Directory`](#how-to-set-a-custom-directory-for-git_credential_store-) of your choice.
-  ![~\.git-credentials](https://github.com/user-attachments/assets/e480a6be-61d8-4461-97b2-cd98d67f3185)<br>
-  **`FORMAT`** for **Credentials** stored in `.git-credentials` file:
-  ```
-  https://USERNAME:PAT@github.com
-  ```
 - To **Verify** whether `Git_Manager` is working, **Logout** of your **GitHub Account** from `gh_CLI` as well as `VS_Code` (If Signed_In) and **PUSH** a Demo_Commit as follows:  
   ![VS_Code>>GitHub>>Sign Out](https://github.com/user-attachments/assets/33af3792-0f3f-4a47-8ad7-77341fba9497)<br>
   ![gh auth logout](https://github.com/user-attachments/assets/f8489fd9-4831-4771-85b2-6f3492d471e8)<br>
@@ -468,7 +467,7 @@
   did not ask for the Credentials again.
   <br>
   
-  **Hence, we have successfully implemented `Git_Credential_Store`!**
+  **Hence, we have successfully implemented `Git_Credential_Manager`!**
 <br>
 
 ---
