@@ -461,7 +461,6 @@
   
 - To **Verify** whether `Git_Manager` is working, **Logout** of your **GitHub Account** from `gh_CLI` as well as `VS_Code` (If Signed_In) and **PUSH** a Demo_Commit as follows:  
   ![VS_Code>>GitHub>>Sign Out](https://github.com/user-attachments/assets/33af3792-0f3f-4a47-8ad7-77341fba9497)<br>
-  ![gh auth logout](https://github.com/user-attachments/assets/f8489fd9-4831-4771-85b2-6f3492d471e8)<br>
   ![Test Commit 3.1>>git push -u origin main](https://github.com/user-attachments/assets/31a734f4-a8e2-4f16-9799-f08b2491ab6e)<br>
 - As Observed, the `PUSH` Operation is carried out successfully even when GitHub was not Authenticated, also it  
   did not ask for the Credentials again.
