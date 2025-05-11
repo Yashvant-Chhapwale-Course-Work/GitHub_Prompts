@@ -217,7 +217,7 @@
    **OR**</div>
   A Dialogbox will appear asking permission for authenticating GitHub. Click `Allow` to **Sign In** using GitHub:
   ![Click Allow>>GitHub_Sign In](https://github.com/user-attachments/assets/e7ee6e0f-2123-48a7-b943-4c5c92319952)<br>
-  Enter your `GitHub Username` and `PASSWORD` OR `Personal_Access_Token (PAT)`.<br>
+  Enter your `GitHub_USERNAME` and `PASSWORD` OR `Personal_Access_Token (PAT)`.<br>
   ![GitHub_SignIn](https://github.com/user-attachments/assets/5b560390-fbfb-4380-b0bb-1313b72782a3)<br>
   Replace **`GitHub_USERNAME / EMAIL ID`** with **`Your Github Username`** or **`Your Github_Email Account`**.<br>
 - Once the **Authentication** is completed, `Git_Cache` stores the credentials and completes the `PUSH` Operation.    
@@ -305,7 +305,7 @@
    **OR**</div>
   A Dialogbox will appear asking permission for authenticating GitHub. Click `Allow` to **Sign In** using GitHub:
   ![Click Allow>>GitHub_Sign In](https://github.com/user-attachments/assets/e7ee6e0f-2123-48a7-b943-4c5c92319952)<br>
-  Enter your `GitHub Username` and `Personal_Access_Token (PAT)`.<br>
+  Enter your `GitHub_USERNAME` and `Personal_Access_Token (PAT)`.<br>
   ![GitHub_SignIn](https://github.com/user-attachments/assets/f18fff08-2bc5-425f-9a3a-e16d2f2bf99a)<br>
   Replace **`GitHub_USERNAME / EMAIL ID`** with **`Your Github Username`** or **`Your Github_Email Account`**.<br>
   `Note:` It is mandatory to use a `Personal Access Token (PAT)` instead of your **account password** for `Git_Store`, as GitHub no longer supports **password-based authentication**.
@@ -423,13 +423,14 @@
 - A `Git_Prompt` will appear, asking you to **Choose** an **Authentication Method** (Using `Browser/Device` or `Token (i.e, PAT)`):
   ![Git Prompt >> Browser/Device](https://github.com/user-attachments/assets/12dfb7aa-2723-4e83-8a3d-cb09ba701cc2)<br>
   ![Git Prompt >> Token (PAT)](https://github.com/user-attachments/assets/3e857c74-39e7-4035-9dae-8e02c0350b8d)<br>
-- 
-  ![Enter USERNAME](https://github.com/user-attachments/assets/85d57f5e-3df9-490b-a356-cf54f1fc98eb)<br>
-  ![Enter PAT](https://github.com/user-attachments/assets/42780948-ae0d-4c57-aa47-6e7be53b4f03)<br>
-  `Note:` It is mandatory to use a `Personal Access Token (PAT)` instead of your **account password** for `Git_Store`, as GitHub no longer supports **password-based authentication**.
-  <div align="center">
-   
-   **OR**</div>
+- **For `Sign in with your Browser:`**<br>
+  1. Click on the `Sign in with your Browser` **Button** under `Browser/Device` **Section**. This will **redirect** you to the `GitHub Authentication` **Page**.
+  2. Enter your `GitHub_USERNAME` and `PASSWORD` OR `Personal_Access_Token (PAT)`.<br>
+  ![GitHub_SignIn](https://github.com/user-attachments/assets/5b560390-fbfb-4380-b0bb-1313b72782a3)<br>
+  3. The `manager` will store your **Credentials** the **Native Credential_Storage_System** of your **Operating_System** (For **Windows:** `Windows Credential Manager`).
+  4. Once the **Credentials** are securely stored in the `Credential_Storage_System`, the `PUSH` Operation proceeds successfully.<br>
+  ![Test_Commit_3.0>>git push -u origin main](https://github.com/user-attachments/assets/b57b3305-e12f-43fd-a349-990fe0aa0b5d)<br>
+  
   A Dialogbox will appear asking permission for authenticating GitHub. Click `Allow` to **Sign In** using GitHub:
   ![Click Allow>>GitHub_Sign In](https://github.com/user-attachments/assets/e7ee6e0f-2123-48a7-b943-4c5c92319952)<br>
   Enter your `GitHub Username` and `Personal_Access_Token (PAT)`.<br>
