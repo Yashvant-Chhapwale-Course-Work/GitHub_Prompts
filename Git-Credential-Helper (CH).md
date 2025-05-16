@@ -190,7 +190,7 @@
 - Git `Cache` temporarily stores your **GitHub (or other Git server) Credentials** in **Memory (RAM)** so you don’t have to re-enter them repeatedly during short sessions.
 - If you push again within the `Cache_Timeout Window`, you won't be asked again for **Credentials**. After the `Cache_Timeout` expires or you close the **Terminal**, the `Cache` is cleared.
 - **By Default** the **`Cache_Timeout`** is **`15 Minutes`**.
-- It is also known as `credenital-cache` helper in **Git**.
+- It is also known as `credenital-cache` helper in **Git Configuration**.
 - **`NOTE:`** **This method is DEPRECATED and NOT USED ANYMORE as better and secured options are available.**
 <br>
 
@@ -278,7 +278,7 @@
 - Git `Store` is a **Credential_Helper** that saves your **Git Credentials** in `Plain_Text` on your **Local Disk**, so you don’t need to re-enter them for Future Git_Operations.
 - Credentials are **Saved Permanently** and remain available across **sessions** and **reboots**, unlike the Temporary `Credential_Cache` Helper.
 - **By Default** the **`Credentials`** are stored at `C:/Users/USERNAME/.git-credentials` or `~/.git-credentials`.
-- It is also known as `credenital-store` helper in **Git**.
+- It is also known as `credential-store` helper in **Git Configuration**.
 - **`NOTE:`** **It is mandatory to use a `Personal Access Token (PAT)` instead of your account password for `Git_Store`, as GitHub no longer supports password-based authentication.**
 - **`NOTE:`** **This method is DEPRECATED and NOT USED ANYMORE as better and secured options are available.**
 <br>
@@ -403,8 +403,8 @@
 ### What is Git_Credential_Manager or GCM ?
 - `Git_Credential_Manager (GCM)` is the **Older Version** of the `Git_Credential_Manager_Core` **Helper** designed specifically for `Windows`.
 - It integrates with the `System's Secure_Storage` i.e, `Windows_Credential_Manager` in `Windows` for storing your **Credentials**.
-- It is also simply called as the `manager` **Helper**.
-- Now-a-days, the `manager` helper is no longer maintained as it is being replaced by `Git_Credential_Manager_Core (i.e, manager-core)` which provides **Cross_Platform Support** and is **Compatible with Modern Authentication Methods**.
+- It is also simply called as the `credential-manager` **Helper** in **Git Configuration**.
+- Now-a-days, the `manager` helper is **no longer maintained** as it is being replaced by `Git_Credential_Manager_Core (i.e, manager-core)` which provides **Cross_Platform Support** and is **Compatible with Modern Authentication Methods**.
 - If you stay on `manager`, it will still work, but you may hit **compatibility issues** with **Modern Authentication** in the **Future**.
 <br>
 
@@ -543,6 +543,78 @@
 <br>
 
 ## Git_Credential_Manager_Core (GCM Core or GCMC):
+### What is Git_Credential_Manager_Core or GCM-Core ?
+- `Git_Credential_Manager_Core (GCM-Core)` is the **Modern Replacement** for the older `Git_Credential_Manager (GCM)` **Helper**.
+- It is a `Cross-Platform` **Credential Helper** developed by `Microsoft`, designed to work seamlessly on diverse platforms such as `Windows`, `macOS`, and `Linux`.
+- It is also simply called as the `credential-manager-core` **Helper** in **Git Configuration**.
+- Compared to the **older** `manager`, it provides improved **security**, **reliability**, and **compatibility** with **Modern Services** like `GitHub`, `Azure DevOps`, `GitLab` and others.
+- The `GCM-Core` is **actively maintained** and **recommended** for all Users to avoid issues with outdated Authentication mechanisms.
+<br>
+
+### How to Use Git_Credential_Manager_Core or GCM-Core ? 
+- Open your Terminal or Command Prompt.
+- Initialize changes to your files and **COMMIT** them.<br>
+- Before **PUSH**ing the changes, paste the following command in your **Terminal** to enable `Git_Credential_Manager_Core`:
+  ```
+  git config credential.helper manager
+  ```
+- Now, **PUSH** the **COMMITs** using the following command:
+  ```
+  git push -u origin main
+  ```
+  `Note:` Replace `main` with your `BRANCH_NAME` to avoid any errors. [`Learn more about Branches`](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Branches.md)
+- A `Git_Prompt` will appear, asking you to **Choose** an **Authentication Method** (Using `Browser/Device` or `Token (i.e, PAT)`):
+  ![Git Prompt >> Browser/Device](https://github.com/user-attachments/assets/12dfb7aa-2723-4e83-8a3d-cb09ba701cc2)<br>
+  ![Git Prompt >> Token (PAT)](https://github.com/user-attachments/assets/3e857c74-39e7-4035-9dae-8e02c0350b8d)<br>
+- **For `Sign in with your Browser:`**<br>
+  1. Click on the `Sign in with your Browser` **Button** under `Browser/Device` **Section**. This will **redirect** you to the `GitHub Authentication` **Page**.
+  2. Enter your `GitHub_USERNAME` and `PASSWORD` OR `Personal_Access_Token (PAT)`.<br>
+  ![GitHub_SignIn](https://github.com/user-attachments/assets/5b560390-fbfb-4380-b0bb-1313b72782a3)<br>
+  3. Click on `Authorize git-ecosystem` to **Authorize** `Git Ecosystem (Git-Credential-Manager)` to **Store** and **Access** your **Credentials**.
+  ![Authorize git-ecosystem](https://github.com/user-attachments/assets/53f93484-d809-41a9-ad4a-b8e77000263f)<br>
+  4. The `manager` will store your **Credentials** in the **Native Credential_Storage_System** of your **Operating_System**.<br>
+  (For **Windows:** [`Windows Credential Manager`](#where-does-git_credential_manager-or-gcm-store-saved-credentials-)).
+  5. Once the **Credentials** are securely stored in the `Credential_Storage_System`, the `PUSH` Operation proceeds successfully.<br>
+  ![Test_Commit_3.0>>git push -u origin main](https://github.com/user-attachments/assets/b57b3305-e12f-43fd-a349-990fe0aa0b5d)<br>
+  <br>
+ 
+- **For `Sign in with a Code:`**<br>
+  1. Click on the `Sign in with a Code` **Button** under `Browser/Device` **Section**.
+  2. A **Secure** `8-Digit Alpha-Numeric Code` will be displayed in the `Prompt`. **Copy** the `Code` >> **Click** on `Link` **provided below the Code**. This will **redirect** you to the `GitHub Authentication` **Page**.<br>
+  ![Git Prompt >> Sign in with a Code](https://github.com/user-attachments/assets/0dc0eb4d-e595-4efd-82ea-2e81cc9cf210)<br>
+  3. Enter your `GitHub_USERNAME` and `PASSWORD` OR `Personal_Access_Token (PAT)`.<br>
+  ![GitHub_SignIn](https://github.com/user-attachments/assets/5b560390-fbfb-4380-b0bb-1313b72782a3)<br>
+  4. Then, Enter the `8-Digit Alpha-Numeric CODE` copied from the Prompt.<br>   
+  ![GitHub_SignIn>>Enter_Authentication_CODE](https://github.com/user-attachments/assets/2583347d-7fd9-4445-99bd-15e2c9cc297f)<br>
+  5. Click on `Authorize git-ecosystem` to **Authorize** `Git Ecosystem (Git-Credential-Manager)` to **Store** and **Access** your **Credentials**.<br>
+  ![Authorize git-ecosystem](https://github.com/user-attachments/assets/012ff7e9-e975-4978-85dd-c24e4f29a3ff)<br>
+  6. A `Confirmation_Widget` will appear indicating **successful Authentication** for your `User_Account`.<br>
+  ![SigIn_Successful](https://github.com/user-attachments/assets/5de8db9e-2129-4c0e-a0fe-3e39bd86bfdf)<br>
+  7. The `manager` will store your **Credentials** in the **Native Credential_Storage_System** of your **Operating_System**.<br>
+  (For **Windows:** [`Windows Credential Manager`](#where-does-git_credential_manager-or-gcm-store-saved-credentials-)).
+  8. Once the **Credentials** are securely stored in the `Credential_Storage_System`, the `PUSH` Operation proceeds successfully.<br>
+  ![Test_Commit_3.0.1>>git push -u origin main](https://github.com/user-attachments/assets/35a8f64c-4b3b-4cc9-b021-b260a48f55f4)<br>
+  <br>
+  
+- **For `Token_Based Authentication`**<br>
+  1. Enter your `Personal Access Token (PAT)` under `Token` **Section** >> Click on `Sign in`.<br>
+  ![Git Prompt >> Token (PAT) >> Enter `PAT` >> Click on `Sign in`](https://github.com/user-attachments/assets/445da934-b995-473c-89c8-5f79891d1b18)<br>
+  2. The `manager` will store your **Credentials / Tokens** in the **Native Credential_Storage_System** of your **Operating_System**.<br>
+  (For **Windows:** [`Windows Credential Manager`](#where-does-git_credential_manager-or-gcm-store-saved-credentials-)).
+  3. Once the **Credentials / Tokens** are securely stored in the `Credential_Storage_System`, the `PUSH` Operation proceeds successfully.<br>
+  ![Test_Commit_3.0.2>>git push -u origin main](https://github.com/user-attachments/assets/d984d1f9-c0c6-4628-8e8c-0aecacaee78e)<br>
+  <br>
+  
+- To **Verify** whether `Git_Credential_Manager (GCM)` is working, **Logout** of your **GitHub Account** from `gh_CLI` as well as `VS_Code` (If Signed_In) and **PUSH** a Demo_Commit as follows:  
+  ![VS_Code>>GitHub>>Sign Out](https://github.com/user-attachments/assets/33af3792-0f3f-4a47-8ad7-77341fba9497)<br>
+  ![Test Commit 3.1>>git push -u origin main](https://github.com/user-attachments/assets/31a734f4-a8e2-4f16-9799-f08b2491ab6e)<br>
+- As Observed, the `PUSH` Operation is carried out successfully even when GitHub was not Authenticated, also it  
+  did not ask for the Credentials again.
+  <br>
+  
+  **Hence, we have successfully implemented `Git_Credential_Manager_Core (GCM-Core)`!**
+<br>
+
 <br>
 
 ---
