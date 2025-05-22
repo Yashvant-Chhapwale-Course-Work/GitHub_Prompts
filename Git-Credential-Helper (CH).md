@@ -411,10 +411,10 @@
 ### Git_Credential_Manager_Core (GCM Core or GCMC):
 - `Git_Credential_Manager_Core (GCM-Core)` is the **Modern Replacement** for the older `Git_Credential_Manager (GCM)` **Helper**.
 - It is a `Cross-Platform` **Credential Helper** developed by `Microsoft`, designed to work seamlessly on diverse platforms such as `Windows`, `macOS`, and `Linux`.
-- Starting with `Git_Credential_Manager_Core version 2.0.0` **(released in `March_2021`)**, the project formerly known as `Git_Credential_Manager_Core (GCMC)` was renamed and unified as simply `Git_Credential_Manager (GCM)`, making `manager-core` and `manager` effectively to exist as the **Same Project** under a **Single Name**.
+- Starting with `Git_Credential_Manager_Core version 2.0.0` **(released in `March_2021`)**, the project formerly known as `Git_Credential_Manager_Core (GCMC)`, was renamed and unified as simply `Git_Credential_Manager (GCM)` making `manager-core` and `manager` effectively to exist as the **Same Project** under a **Single Name**.
 - As of `August_2022 (v2.3.0)`, the `git-credential-manager-core` / `manager-core` **Symlinks** were **removed**. unifying `manager` and `manager-core` into a **Single Executable** i.e, `git-credential-manager.exe`.
 - **Git** now officially comes bundled with `Git_Credential_Manager_Core (GCM-Core)`, which has been **renamed** and **streamlined** under the unified name `Git_Credential_Manager (GCM)`.
-- In other words, the **Older** `manager` has been replaced by **Updated** `manager-core Versions`, but continues to use the same `manager Naming Convention` for **consistency**.
+- In other words, the **Older** `manager` has been replaced by **Updated** `manager-core Versions`, but continues to use the same `manager` **Naming Convention** for **consistency**.
 
 ### How to Use Git_Credential_Manager or GCM (essentially Git_Credential_Manager_Core (GCMC)) ? 
 - Open your Terminal or Command Prompt.
