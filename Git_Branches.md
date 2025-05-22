@@ -8,7 +8,7 @@
 | TITLE                                                                                                          | SECTION_LINK                                                                                  |
 |----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | 1.  **What do we mean by `Branches`?**                                                                         | >> [` CHECK CONTENT `](#what-are-branches-in-github-)                                         |
-| 2.  **Git Version Verificaton**                                                                                | >> [` CHECK CONTENT `](#version-verification)                                                 |
+| 2.  **Create a Branch**                                                                                        | >> [` CHECK CONTENT `](#create-a-branch)                                                      |
 | 3.  **Configure Git Credentials Using Git_CLI**                                                                | >> [` CHECK CONTENT `](#configure-git-using-git_cli)                                          |
 | 4.  **Configure Git Credentials Using Git_CLI [For a Specific Repository / Project]**                          | >> [` CHECK CONTENT `](#configure-git-for-a-specific-repositoryproject-using-git_cli)         |
 | 5.  **Configure Git Credentials Using GitHub_CLI (gh)**                                                        | >> [` CHECK CONTENT `](#configure-git-using-github_cli-gh)                                    |
@@ -32,3 +32,13 @@
   - **`feature`:** It is used to **Build** a **New Feature**. It is created from `develop` and merged back when done.
   - **`release`:** used to **Prepare** a **New Version** of the project before it's deployed. The `release` branch is merged into `main` (**for production**) and also into `develop` (**to keep future work in sync**).
   - **`hotfix`:** It is used for quickly **Fixing Urgent Issues** in the project.
+<br>
+
+---
+<br>
+
+## Create a Branch
+<br>
+
+---
+<br>
