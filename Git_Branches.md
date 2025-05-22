@@ -7,7 +7,7 @@
  
 | TITLE                                                                                                          | SECTION_LINK                                                                                  |
 |----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| 1.  **What do we mean by `Branches`?**                                                                         | >> [` CHECK CONTENT `](#what-do-we-mean-by-branches-)                                          |
+| 1.  **What do we mean by `Branches`?**                                                                         | >> [` CHECK CONTENT `](#what-are-branches-in-github-)                                         |
 | 2.  **Git Version Verificaton**                                                                                | >> [` CHECK CONTENT `](#version-verification)                                                 |
 | 3.  **Configure Git Credentials Using Git_CLI**                                                                | >> [` CHECK CONTENT `](#configure-git-using-git_cli)                                          |
 | 4.  **Configure Git Credentials Using Git_CLI [For a Specific Repository / Project]**                          | >> [` CHECK CONTENT `](#configure-git-for-a-specific-repositoryproject-using-git_cli)         |
@@ -22,7 +22,7 @@
 ---
 <br>
 
-## What do we mean by Branches ?
+## What are Branches in GitHub ?
   - [`Download VSCode`](https://code.visualstudio.com/)
   - [`Download Git`](https://git-scm.com/)
   - [`Create GitHub Account`](https://github.com/signup)
