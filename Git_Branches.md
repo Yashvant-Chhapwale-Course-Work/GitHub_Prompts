@@ -23,8 +23,12 @@
 <br>
 
 ## What are Branches in GitHub ?
-  - [`Download VSCode`](https://code.visualstudio.com/)
-  - [`Download Git`](https://git-scm.com/)
-  - [`Create GitHub Account`](https://github.com/signup)
-  - [`Download GitHub_CLI`](https://cli.github.com/) [Optional but Recommended]
-
+- `Branches` are **Individual Lines of Development** within a `GitHub_repository`.
+- They allow you to work on `changes`, `new_features` or `bug_fixes` separately from the **Main_Codebase**.
+- **Multiple** `Branches` can exist at the same time, supporting **Collaborative** and **Parallel Development**.
+- **Types of Branches:**
+  - **`main` (or `master`):** It is the **Main Branch** of your project. Contains the **final**, **stable** Code.
+  - **`develop`:** It is used to **Combine** all **New Work** (`features`, `fixes`). **Acts** like a `Testing_Area` before updating the `main` branch.
+  - **`feature`:** It is used to **Build** a **New Feature**. It is created from `develop` and merged back when done.
+  - **`release`:** used to **Prepare** a **New Version** of the project before it's deployed. The `release` branch is merged into `main` (**for production**) and also into `develop` (**to keep future work in sync**).
+  - **`hotfix`:** It is used for quickly **Fixing Urgent Issues** in the project.
