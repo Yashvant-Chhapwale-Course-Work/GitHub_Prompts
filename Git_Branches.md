@@ -50,6 +50,7 @@
   ```
   The **`-b` Flag** indicates `Git` to **Create a New Branch**.<br>
   `Note:` Switch `BRANCH_NAME` with your desired **Branch-Name** (Ex: `main`, `develop`,etc or Other)
+<br>
 
 ### Switch to a Branch:
 - Open your `Terminal`.
@@ -58,6 +59,7 @@
   git checkout BRANCH_NAME
   ```
   `Note:` Switch `BRANCH_NAME` with your **existing Branch-Name** (Ex: `main`, `develop`,etc or Other)
+<br>
 
 ###  Create anf Switch to a Branch Simultaneously:
 - Open your `Terminal`.
@@ -67,7 +69,6 @@
   ```
   The **`-b` Flag** indicates `Git` to **Create a New Branch**.<br>
   `Note:` Switch `BRANCH_NAME` with your desired **Branch-Name** (Ex: `main`, `develop`,etc or Other)  
-
 <br>
 
 ---
