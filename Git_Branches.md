@@ -8,7 +8,7 @@
 | TITLE                                                                                                          | SECTION_LINK                                                                                  |
 |----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | 1.  **What do we mean by `Branches`?**                                                                         | >> [` CHECK CONTENT `](#what-are-branches-in-github-)                                         |
-| 2.  **Create a Branch**                                                                                        | >> [` CHECK CONTENT `](#create-a-branch)                                                      |
+| 2.  **Create and Switch Branches**                                                                             | >> [` CHECK CONTENT `](#create-and-switch-branches)                                           |
 | 3.  **Configure Git Credentials Using Git_CLI**                                                                | >> [` CHECK CONTENT `](#configure-git-using-git_cli)                                          |
 | 4.  **Configure Git Credentials Using Git_CLI [For a Specific Repository / Project]**                          | >> [` CHECK CONTENT `](#configure-git-for-a-specific-repositoryproject-using-git_cli)         |
 | 5.  **Configure Git Credentials Using GitHub_CLI (gh)**                                                        | >> [` CHECK CONTENT `](#configure-git-using-github_cli-gh)                                    |
@@ -37,7 +37,37 @@
 ---
 <br>
 
-## Create a Branch
+## Create and Switch Branches
+### Create a Branch:
+- Open your `Terminal`.
+- Paste the following **Command** in your `Terminal` to **Create a New Branch:**
+  ```
+  git branch BRANCH_NAME
+  ```
+  or
+  ```
+  git -b BRANCH_NAME
+  ```
+  The **`-b` Flag** indicates `Git` to **Create a New Branch**.<br>
+  `Note:` Switch `BRANCH_NAME` with your desired **Branch-Name** (Ex: `main`, `develop`,etc or Other)
+
+### Switch to a Branch:
+- Open your `Terminal`.
+- Paste the following **Command** in your `Terminal` to **Switch to an Existing Branch:**
+  ```
+  git checkout BRANCH_NAME
+  ```
+  `Note:` Switch `BRANCH_NAME` with your **existing Branch-Name** (Ex: `main`, `develop`,etc or Other)
+
+###  Create anf Switch to a Branch Simultaneously:
+- Open your `Terminal`.
+- Paste the following **Command** in your `Terminal` to **Create and Switch to a Branch Simultanoeusly:**
+  ```
+  git checkout -b BRANCH_NAME
+  ```
+  The **`-b` Flag** indicates `Git` to **Create a New Branch**.<br>
+  `Note:` Switch `BRANCH_NAME` with your desired **Branch-Name** (Ex: `main`, `develop`,etc or Other)  
+
 <br>
 
 ---
