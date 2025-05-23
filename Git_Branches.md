@@ -8,7 +8,7 @@
 | TITLE                                                                                                          | SECTION_LINK                                                                                  |
 |----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | 1.  **What do we mean by `Branches`?**                                                                         | >> [` CHECK CONTENT `](#what-are-branches-in-github-)                                         |
-| 2.  **Create and Switch Branches**                                                                             | >> [` CHECK CONTENT `](#create-and-switch-branches)                                           |
+| 2.  **Create and Switch Branches [For Local Branches]**                                                        | >> [` CHECK CONTENT `](#create-and-switch-branches-for-local-branches)                        |
 | 3.  **Configure Git Credentials Using Git_CLI**                                                                | >> [` CHECK CONTENT `](#configure-git-using-git_cli)                                          |
 | 4.  **Configure Git Credentials Using Git_CLI [For a Specific Repository / Project]**                          | >> [` CHECK CONTENT `](#configure-git-for-a-specific-repositoryproject-using-git_cli)         |
 | 5.  **Configure Git Credentials Using GitHub_CLI (gh)**                                                        | >> [` CHECK CONTENT `](#configure-git-using-github_cli-gh)                                    |
@@ -37,7 +37,7 @@
 ---
 <br>
 
-## Create and Switch Branches
+## Create and Switch Branches [For Local Branches]
 ### Create a Branch:
 - Open your `Terminal`.
 - Paste the following **Command** in your `Terminal` to **Create a New Branch:**
