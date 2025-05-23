@@ -63,13 +63,12 @@
 <br>
 
 ## Create and Switch Branches [For Remote Branches]
-### Create a Branch:
-- Open your `Terminal`.
-- Paste the following **Command** in your `Terminal` to **Create a New Branch:**
-  ```
-  git branch BRANCH_NAME
-  ```
-  `Note:` Switch `BRANCH_NAME` with your desired **Branch-Name** (Ex: `main`, `develop`,etc or Other)
+### Create a Remote Branch:
+- Go To your `Github_Repository`.
+- **Click** on the `Scrolldown_Menu for Branches` to **Create** a `New Branch` in the Project:
+  ![Scrolldown_Menu for Branches](https://github.com/user-attachments/assets/7910d3ca-1aa1-4a80-aa0d-c9aab3212865) 
+- Enter the `NEW_BRANCH_NAME` and **Click** on `Create NEW_BRANCH_NAME from main`:
+  ![Create NEW_BRANCH_NAME from main](https://github.com/user-attachments/assets/745925ff-9303-4f09-8fcb-e7b9cc09402f)
 <br>
 
 ### Switch to a Branch:
