@@ -61,7 +61,7 @@
   `Note:` Switch `BRANCH_NAME` with your **existing Branch-Name** (Ex: `main`, `develop`,etc or Other)
 <br>
 
-###  Create anf Switch to a Branch Simultaneously:
+###  Create and Switch to a Branch Simultaneously:
 - Open your `Terminal`.
 - Paste the following **Command** in your `Terminal` to **Create and Switch to a Branch Simultanoeusly:**
   ```
