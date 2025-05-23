@@ -9,7 +9,7 @@
 |----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | 1.  **What do we mean by `Branches`?**                                                                         | >> [` CHECK CONTENT `](#what-are-branches-in-github-)                                         |
 | 2.  **Create and Switch Branches [For Local Branches]**                                                        | >> [` CHECK CONTENT `](#create-and-switch-branches-for-local-branches)                        |
-| 3.  **Create and Switch Branches [For Local Branches]**                                                        | >> [` CHECK CONTENT `](#create-and-switch-branches-for-local-branches)                        |
+| 3.  **Create and Switch Branches [For Remote Branches]**                                                       | >> [` CHECK CONTENT `](#create-and-switch-branches-for-remote-branches)                       |
 </div>
 
 ---
@@ -31,6 +31,38 @@
 <br>
 
 ## Create and Switch Branches [For Local Branches]
+### Create a Branch:
+- Open your `Terminal`.
+- Paste the following **Command** in your `Terminal` to **Create a New Branch:**
+  ```
+  git branch BRANCH_NAME
+  ```
+  `Note:` Switch `BRANCH_NAME` with your desired **Branch-Name** (Ex: `main`, `develop`,etc or Other)
+<br>
+
+### Switch to a Branch:
+- Open your `Terminal`.
+- Paste the following **Command** in your `Terminal` to **Switch to an Existing Branch:**
+  ```
+  git checkout BRANCH_NAME
+  ```
+  `Note:` Switch `BRANCH_NAME` with your **existing Branch-Name** (Ex: `main`, `develop`,etc or Other)
+<br>
+
+###  Create and Switch to a Branch Simultaneously:
+- Open your `Terminal`.
+- Paste the following **Command** in your `Terminal` to **Create and Switch to a Branch Simultanoeusly:**
+  ```
+  git checkout -b BRANCH_NAME
+  ```
+  The **`-b` Flag** indicates `Git` to **Create a New Branch**.<br>
+  `Note:` Switch `BRANCH_NAME` with your desired **Branch-Name** (Ex: `main`, `develop`,etc or Other)  
+<br>
+
+---
+<br>
+
+## Create and Switch Branches [For Remote Branches]
 ### Create a Branch:
 - Open your `Terminal`.
 - Paste the following **Command** in your `Terminal` to **Create a New Branch:**
