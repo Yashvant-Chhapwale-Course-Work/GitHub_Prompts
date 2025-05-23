@@ -66,9 +66,11 @@
 ### Create a Remote Branch:
 - Go To your `Github_Repository`.
 - **Click** on the `Scrolldown_Menu for Branches` to **Create** a `New Branch` in the Project:
-  ![Scrolldown_Menu for Branches](https://github.com/user-attachments/assets/7910d3ca-1aa1-4a80-aa0d-c9aab3212865) 
+  ![Scrolldown_Menu for Branches](https://github.com/user-attachments/assets/7910d3ca-1aa1-4a80-aa0d-c9aab3212865)<br> 
 - Enter the `NEW_BRANCH_NAME` and **Click** on `Create NEW_BRANCH_NAME from main`:
-  ![Create NEW_BRANCH_NAME from main](https://github.com/user-attachments/assets/745925ff-9303-4f09-8fcb-e7b9cc09402f)
+  ![Create NEW_BRANCH_NAME from main](https://github.com/user-attachments/assets/745925ff-9303-4f09-8fcb-e7b9cc09402f)<br>
+- The **Newly Created Branch** will be displayed in the `Scrolldown_Menu for Branches` as follows:
+  ![New Branch](https://github.com/user-attachments/assets/95211ee7-ae29-47c7-8131-3759b838c282)<br>  
 <br>
 
 ### Switch to a Branch:
