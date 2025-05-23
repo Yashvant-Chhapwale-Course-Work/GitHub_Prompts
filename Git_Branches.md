@@ -44,11 +44,6 @@
   ```
   git branch BRANCH_NAME
   ```
-  or
-  ```
-  git -b BRANCH_NAME
-  ```
-  The **`-b` Flag** indicates `Git` to **Create a New Branch**.<br>
   `Note:` Switch `BRANCH_NAME` with your desired **Branch-Name** (Ex: `main`, `develop`,etc or Other)
 <br>
 
