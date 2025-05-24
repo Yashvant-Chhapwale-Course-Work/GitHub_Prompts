@@ -158,7 +158,7 @@
 
 ### Create a Local_Branch and Link it to an Existing or New Remote_Branch:
 - Open your `Terminal`.
-- Paste the following **Command** in your `Terminal` for **Creating & Linking** `Local_Branch` to **New or Exisitng** `Remote_Branch`:
+- Paste the following **Command** in your `Terminal` for **Creating & Linking** `Local_Branch` to **New or Exisitng** `Remote_Branch` or **Updating** the `Upstream` for an `Exisitng Local_Branch`:
   ```
   git checkout -b LOCAL_BRANCH origin/REMOTE_BRANCH
   ```
