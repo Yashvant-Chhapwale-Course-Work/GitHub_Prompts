@@ -68,7 +68,8 @@
 - **Navigate** to your `Github_Repository`.
 - **Click** on the `Branch Dropdown_Menu` to **Create** a `New Branch` in the Project:
   ![Branch Dropdown_Menu](https://github.com/user-attachments/assets/7910d3ca-1aa1-4a80-aa0d-c9aab3212865)<br>
-- **Select** the `Branch` (`SELECTED_BRANCH`) from which you want to **Create** a `NEW_BRANCH`.
+- **Select** the `Branch` (`SELECTED_BRANCH`) from which you want to **Create** a `NEW_BRANCH`.<br>
+  Basically, this will `Clone` the contents of `SELECTED_BRANCH` and **Create** a `NEW_BRANCH` with them.<br> 
 - Enter the `NEW_BRANCH_NAME` and **Click** on `Create NEW_BRANCH_NAME from SELECTED_BRANCH`:
   ![Create NEW_BRANCH from SELECTED_BRANCH](https://github.com/user-attachments/assets/430db745-f33f-4495-b1e6-2cb4d2289bd5)<br>
 - The **Newly Created Branch** will be displayed in the `Branch Dropdown_Menu` as follows:
