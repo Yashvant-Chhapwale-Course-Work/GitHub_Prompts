@@ -27,23 +27,23 @@
     ```
     git init
     ```
-    ![git init](https://github.com/user-attachments/assets/8842b3bd-c3b8-43d5-9a50-c437d24150f0)
+    ![git init](https://github.com/user-attachments/assets/8842b3bd-c3b8-43d5-9a50-c437d24150f0)<br>
     <br>
   - Create a `Demo Commit File` in the Local Repository Folder to make the `First Commit`, so that the repository can be published to GitHub.<br>
-    ![VSCode>>Demo Commit File](https://github.com/user-attachments/assets/0f7f0742-fd4d-451a-9e67-0c0185ffae24)
+    ![VSCode>>Demo Commit File](https://github.com/user-attachments/assets/0f7f0742-fd4d-451a-9e67-0c0185ffae24)<br>
     <br>
   - Create a `Remote GitHub Repository` By Following the Steps for [`Repository Initialization Using Github_Web-Interface`](#repository-initialization--using-github_website--recommended).
   - Copy the `URL` for this `GitHub Repository`:<br>
-    ![Copy_URL_from_Address_Bar](https://github.com/user-attachments/assets/c7453c89-51af-4bfe-bd31-76d62add8563)
+    ![Copy_URL_from_Address_Bar](https://github.com/user-attachments/assets/c7453c89-51af-4bfe-bd31-76d62add8563)<br>
     <br> <div align="center">**OR**</div> <br>
-    ![GitHub_Website>>Code<>>>Local>>Copy URL](https://github.com/user-attachments/assets/6484b66b-f33a-404e-b4c2-9b7b2c6d1015)
+    ![GitHub_Website>>Code<>>>Local>>Copy URL](https://github.com/user-attachments/assets/6484b66b-f33a-404e-b4c2-9b7b2c6d1015)<br>
     <br>
   - Use the following Command in the Terminal to `Link` the `Remote Repository` to your `Local Repository`.
     ```
     git remote add origin https://github.com/USERNAME/REPOSITORY-NAME
     ```
     `Note:` Substitute **'USERNAME'** with your **'GitHub_Username'** and **'REPOSITORY-NAME'** with your **'Remote Repository_Name'** `OR` **PASTE** your `Repository_URL` instead.<br>
-    [`Learn more about Managing Remote_Repositories`](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Remote_Repositories.md)
+    [`Learn more about Managing Remote_Repositories`](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Remote_Repositories.md)<br>
   - Use the `add` Command to `Stage` any Unstaged (New) Changes >> Use the `commit` Command to `Save` the Staged Changes to the Repository.
     ```
     git add .
@@ -53,15 +53,16 @@
     ```
     git push -u origin master
     ```
-    ![git push -u origin](https://github.com/user-attachments/assets/296259f7-fae7-452e-b9d8-edeba8748d98)
-    <br>
     `Note:` Replace `master` with your `BRANCH_NAME` to avoid any errors. [`Learn more about Branches`](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Branches.md)<br>
-    
+    The `-u` **Flag** is shorthand for `--set-upstream`. It is used to **Set** the `Remote_Branch` (`main`) that your `Local_Branch`(`main`) is Tracking.<br>
+    It tells `Git`:
+    - Where to `pull from` when you **Run** `git pull`.
+    - Where to `push to` when you **Run** `git push`.
+    ![git push -u origin](https://github.com/user-attachments/assets/296259f7-fae7-452e-b9d8-edeba8748d98)<br>
     <br>
+
     
     **Congratulations! You have successfully `Initialized a Local Repository` and `Linked it with a Remote Repository` using Git_CLI!!**
-    
-
 <br>
 
 ---
@@ -75,7 +76,6 @@
     ```
     `Note:` Substitute **'DEMO-GITHUB-REPOSITORY'** with your `Repository-Name` and **'--public'** with your `Preferred Visibility Flag (--private / --public)`.
   - Follow Steps For [`Initializing a Local Repository and Linking it with the Above Remote_Repository`](#repository-initialization--using-git_cli--recommended).
-
 <br>
 
 ---
@@ -99,10 +99,6 @@
     - **Description:** `Restricted to specific users or teams.` Only authorized users can view or access the contents.
     - **Access Control:** Collaborators or organization members with explicit access can contribute.
     - **Use Cases:** Proprietary projects, sensitive work, internal collaboration.
-
-
-
-
 <br>
 
 ---
