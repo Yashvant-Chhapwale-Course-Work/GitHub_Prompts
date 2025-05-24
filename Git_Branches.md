@@ -152,7 +152,7 @@
   ![Linking Existing Local and Remote Branches](https://github.com/user-attachments/assets/6c5caf1f-ee77-4945-bef7-e78b1b403ab9)
 <br>
 
-### Fetch Branches from Local_Repository:
+### Create a Local Branch and Link it to an Existing Remote Branch:
 - Open your `Terminal`.
 - Paste the following **Command** in your `Terminal` to **Fetch** all the `Branches` on your `Local_Repository`:
   ```
