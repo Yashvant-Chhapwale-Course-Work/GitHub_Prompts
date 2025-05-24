@@ -152,7 +152,7 @@
   ![Linking Existing Local and Remote Branches](https://github.com/user-attachments/assets/6c5caf1f-ee77-4945-bef7-e78b1b403ab9)
 <br>
 
-### Create a Local Branch and Link it to an Existing Remote Branch:
+### Create a Local_Branch and Link it to an Existing or New Remote_Branch:
 - Open your `Terminal`.
 - Paste the following **Command** in your `Terminal` to **Fetch** all the `Branches` on your `Local_Repository`:
   ```
@@ -160,18 +160,6 @@
   ```
 - The **Command** will display the `Local_Branches` from your `Local_Repository`:
   ![git branch](https://github.com/user-attachments/assets/a9c760f3-ae7d-44df-9033-6d722f65ff7b)<br>
-<br>
-
-### Fetch All Branches:
-- Open your `Terminal`.
-- Paste the following **Command** in your `Terminal` to **Fetch** all the `Local_Branches` as well as `Remote_Branches`:
-  ```
-  git fetch
-  git branch -a
-  ```
-  `Note:` The `fetch` **Command** is required to return the **Latest** List of `Remote_Branches`.
-- The **Command** will display the `Local & Remote Branches` known to your `Local Repository`:
-  ![git fetch>>git branch -a](https://github.com/user-attachments/assets/fb92eddc-dc07-4983-be65-71a60e106790)<br>
 <br>
 
 ---
