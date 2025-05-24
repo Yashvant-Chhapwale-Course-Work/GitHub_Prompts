@@ -175,16 +175,20 @@
   git add .
   git commit -m "COMMIT MESSAGE"
   ```
+  ![`Demo_Commit` Changes](https://github.com/user-attachments/assets/8c0e2e10-ffd8-47ff-99d4-8a50ed030a92)<br>
+  ![git add . >> git commit -m "Demo Commit"](https://github.com/user-attachments/assets/ea22b4a7-67ef-43aa-9a4c-9a202a87d2a4)<br>
 - Paste the following **Command** in your `Terminal` for **Linking** an **Exisitng** `Local_Branch` to a **Newly_Created** `Remote_Branch` (i.e, `PUSH` the `Local_Branch Commits` to the `Remote_Branch` on the `Remote_Repository`):
   ```
   git push -u origin LOCAL_BRANCH
   ```
-- The above **Command** performs the following **Tasks:**
-  - Automatically **Creates** a **New** `Local_Branch` instance.
-  - Switches to the **Newly Created** `Local_Branch`.
-  - **Establishes** an `Upstream-Link` for the `Local_Branch` to track the `Remote_Branch`.<br>
-- ![**Create and Link** `Local Branch` to an **Existing or New** `Remote Branch`](https://github.com/user-attachments/assets/a7c1b2ff-1c40-4e6c-bd85-7e99c2a3683b)<br>
-- `Note:` If the **Command** finds the `REMOTE_BRANCH` on the `origin` (i.e, `Remote_Repository`), then it **Links** it to the `LOCAL_BRANCH`. Otherwise, it **Creates** the **Specified** `REMOTE_BRAMCH` on the `Remote_Repository` and **Links** it to the `LOCAL_BRANCH`.
+  `Note:`
+  - The `-u` **Flag** is shorthand for `--set-upstream`. It is used to **Set** the `Remote_Branch` that your `LOCAL_BRANCH` is **Tracking**.<br>
+    It tells `Git`:
+    - Where to `pull from` when you **Run** `git pull`.
+    - Where to `push to` when you **Run** `git push`.<br>
+  - The `origin` refers to the `Remote_Repository` where the `Remote_Branch` is to be **Established**.
+  - Basically, it `PUSHes` your existing `Local_Branch` to the `Remote (Origin)` and **Creates** a New `Remote_Branch` **(if it Doesn't Already Exist)**.
+- ![git push -u origin develop](https://github.com/user-attachments/assets/c7f5b832-d797-48b6-a156-63c88a61076e)
 <br>
 
 ---
