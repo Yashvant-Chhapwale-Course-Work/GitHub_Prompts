@@ -200,7 +200,7 @@
 
 ## Tracking Upstream Status for Local Branch:
 ### What is meant by Upstream for a Local_Branch in Git ?  
-- `Upstream` in **Git** refers to the `Remote_Branch` that a `Local_Branch` is set to **Track** or **Follow**.
+- `Upstream` in **Git** refers to the `Remote_Branch` that a `Local_Branch` is Set to **Track** or **Follow**.
 - It is the `Branch` on the `Remote_Repository` from which your `Local_Branch` **FETCHes / PULLs Changes** from and to which it **PUSHes Commits** to, by default.
 - Tracking Relationship: When you create a local branch that tracks a remote branch, that remote branch is called the upstream branch. It is like a reference point for your local branch.
 - Default Source for Pulls: When you run git pull without any arguments, Git knows which branch to pull changes from because the local branch has an upstream branch configured.
