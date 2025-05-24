@@ -24,7 +24,7 @@
   - **`main` (or `master`):** It is the **Main Branch** of your project. Contains the **final**, **stable** Code.
   - **`develop`:** It is used to **Combine** all **New Work** (`features`, `fixes`). **Acts** like a `Testing_Area` before updating the `main` branch.
   - **`feature`:** It is used to **Build** a **New Feature**. It is created from `develop` and merged back when done.
-  - **`release`:** used to **Prepare** a **New Version** of the project before it's deployed. The `release` branch is merged into `main` (**for production**) and also into `develop` (**to keep future work in sync**).
+  - **`release`:** It is used to **Prepare** a **New Version** of the project before it's deployed. The `release` branch is merged into `main` (**for production**) and also into `develop` (**to keep future work in sync**).
   - **`hotfix`:** It is used for quickly **Fixing Urgent Issues** in the project.
 <br>
 
@@ -67,8 +67,9 @@
 ### Create a Remote Branch:
 - **Navigate** to your `Github_Repository`.
 - **Click** on the `Branch Dropdown_Menu` to **Create** a `New Branch` in the Project:
-  ![Branch Dropdown_Menu](https://github.com/user-attachments/assets/7910d3ca-1aa1-4a80-aa0d-c9aab3212865)<br> 
-- Enter the `NEW_BRANCH_NAME` and **Click** on `Create NEW_BRANCH_NAME from main`:
+  ![Branch Dropdown_Menu](https://github.com/user-attachments/assets/7910d3ca-1aa1-4a80-aa0d-c9aab3212865)<br>
+- **Select** the `Branch` from which you want to **Create** a `NEW_BRANCH`
+- Enter the `NEW_BRANCH_NAME` and **Click** on `Create NEW_BRANCH_NAME from SELECTED_BRANCH`:
   ![Create NEW_BRANCH_NAME from main](https://github.com/user-attachments/assets/745925ff-9303-4f09-8fcb-e7b9cc09402f)<br>
 - The **Newly Created Branch** will be displayed in the `Branch Dropdown_Menu` as follows:
   ![New Branch](https://github.com/user-attachments/assets/95211ee7-ae29-47c7-8131-3759b838c282)<br>  
@@ -93,7 +94,7 @@
 - Paste the following **Command** in your `Terminal` to **Fetch** all the `Branches` from a `Remote_Repository`:
   ```
   git fetch
-  git btranch -r
+  git branch -r
   ```
 <br>
 
