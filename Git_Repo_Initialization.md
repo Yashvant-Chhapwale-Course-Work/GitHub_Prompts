@@ -59,8 +59,9 @@
       - Where to `pull from` when you **Run** `git pull`.
       - Where to `push to` when you **Run** `git push`.<br>
     - The `origin` refers to the `Remote_Repository` where the `Remote_Branch` is to be **Established**.
-    - Also, Replace `master` with your `BRANCH_NAME` to avoid any errors. [`Learn more about Branches`](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Branches.md)<br>
-  <br>  
+    - Also, Replace `master` with your `BRANCH_NAME` to avoid any errors. [`Learn more about Branches`](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Branches.md)<br> 
+  <br> 
+  
   ![git push -u origin](https://github.com/user-attachments/assets/296259f7-fae7-452e-b9d8-edeba8748d98)<br>
   <br>
 
