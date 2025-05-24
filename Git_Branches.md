@@ -105,7 +105,7 @@
 
 ### Fetch Branches from Local_Repository:
 - Open your `Terminal`.
-- Paste the following **Command** in your `Terminal` to **Fetch** all the `Branches` from a `Remote_Repository`:
+- Paste the following **Command** in your `Terminal` to **Fetch** all the `Branches` on your `Local_Repository`:
   ```
   git branch 
   ```
@@ -113,5 +113,14 @@
   ![git branch](https://github.com/user-attachments/assets/a9c760f3-ae7d-44df-9033-6d722f65ff7b)<br>
 <br>
 
+### Fetch All Branches:
+- Open your `Terminal`.
+- Paste the following **Command** in your `Terminal` to **Fetch** all the `Local_Branches` as well as `Remote_Branches`:
+  ```
+  git branch -a
+  ```
+- The **Command** will display the `Local_Branches` from your `Local_Repository`:
+  ![git branch](https://github.com/user-attachments/assets/a9c760f3-ae7d-44df-9033-6d722f65ff7b)<br>
+<br>
 ---
 <br>
