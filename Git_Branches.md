@@ -131,15 +131,16 @@
 <br>
 
 ## Linking Local and Remote Branches
-### Fetch Branches from Remote_Repository:
+### Linking Existing Local and Remote Branches:
 - Open your `Terminal`.
-- Paste the following **Command** in your `Terminal` to **Fetch** all the `Branches` from a `Remote_Repository`:
+- Paste the following **Command** in your `Terminal` for **Linking** the **Existing **`Local and Remote Branches`:
   ```
-  git fetch
-  git branch -r
+  git branch --set-upstream-to=origin/REMOTE_BRANCH LOCAL_BRANCH
   ```
-  `fetch:` This **Command** is used to **Download** the latest `commits`, `branches`, and `tags` from the `Remote_Repository` without merging or modifying your working directory.<br>
-  `-r:` This **Flag** is used to **List** all `remote-tracking branches` (from `Remote_Repository`) that your `Local_Repository` knows about.
+  `Note:` The `--set-upstream-to` sets the `Remote_Branch` that your `Local_Branch` is **Tracking**.<br>
+  It tells `Git`:<br>
+  - Where to `pull from` when you **Run** `git pull`
+  - Where to `push to` when you **Run** `git push`
 - The **Command** will display the `Remote_Branches` in the format: `origin/branch-name`
   ![git fetch>>git branch -r](https://github.com/user-attachments/assets/86f100ff-ffbc-41d4-9091-7b625f554f6f)<br>
   `Note:` The `fetch` **Command** fetches Updates from the `Remote_Repository`, but it doesn’t automatically `prune (remove)` **References** to **Branches** that **no longer exist** on the `Remote_Repository`, from your `Local_Repository`. Hence, you may also see **References** of **Deleted** `Remote_Branches` being displayed.
