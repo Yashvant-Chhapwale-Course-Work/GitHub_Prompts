@@ -99,7 +99,8 @@
   `fetch:` This **Command** is used to **Download** the latest `commits`, `branches`, and `tags` from the `Remote_Repository` without merging or modifying your working directory.<br>
   `-r:` This **Flag** is used to **List** all `remote-tracking branches` (from `Remote_Repository`) that your `Local_Repository` knows about.
 - The **Command** will display the `Remote_Branches` in the format: `origin/branch-name`
-  
+  ![git fetch>>git branch -r](https://github.com/user-attachments/assets/86f100ff-ffbc-41d4-9091-7b625f554f6f)<br>
+  `Note:` The `fetch` **Command** fetches Updates from the `Remote_Repository`, but it doesn’t automatically `prune (remove)` **References** to **Branches** that **no longer exist** on the `Remote_Repository`.
 <br>
 
 ### Switching a Remote Branch:
