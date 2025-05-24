@@ -54,7 +54,7 @@
     git push -u origin master
     ```
     `Note:` Replace `master` with your `BRANCH_NAME` to avoid any errors. [`Learn more about Branches`](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Branches.md)<br>
-    The `-u` **Flag** is shorthand for `--set-upstream`. It is used to **Set** the `Remote_Branch` (`main`) that your `Local_Branch`(`main`) is Tracking.<br>
+    The `-u` **Flag** is shorthand for `--set-upstream`. It is used to **Set** the `Remote_Branch` (`master`) that your `Local_Branch`(`master`) is Tracking.<br>
     It tells `Git`:
     - Where to `pull from` when you **Run** `git pull`.
     - Where to `push to` when you **Run** `git push`.
