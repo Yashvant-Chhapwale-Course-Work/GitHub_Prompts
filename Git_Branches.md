@@ -135,7 +135,7 @@
 ### Linking Existing Local and Remote Branches:
 - **Following Command can also be used to `Update Upstream` for an `Existing Local_Branch`!**
 - Open your `Terminal`.
-- Paste the following **Command** in your `Terminal` for **Linking** the **Existing **`Local and Remote Branches`:
+- Paste the following **Command** in your `Terminal` for **Linking** the **Existing** `Local and Remote Branches` or **Updating** the `Upstream` for an `Exisitng Local_Branch`:
   ```
   git branch --set-upstream-to=origin/REMOTE_BRANCH LOCAL_BRANCH
   ```
@@ -158,7 +158,7 @@
 
 ### Create a Local_Branch and Link it to an Existing or New Remote_Branch:
 - Open your `Terminal`.
-- Paste the following **Command** in your `Terminal` for **Creating & Linking** `Local_Branch` to **New or Exisitng** `Remote_Branch` or **Updating** the `Upstream` for an `Exisitng Local_Branch`:
+- Paste the following **Command** in your `Terminal` for **Creating & Linking** `Local_Branch` to **New or Exisitng** `Remote_Branch`:
   ```
   git checkout -b LOCAL_BRANCH origin/REMOTE_BRANCH
   ```
