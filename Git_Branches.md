@@ -141,9 +141,15 @@
    It tells `Git`:<br>
   - Where to `pull from` when you **Run** `git pull`
   - Where to `push to` when you **Run** `git push`
-- The **Command** will display the `Remote_Branches` in the format: `origin/branch-name`
-  ![git fetch>>git branch -r](https://github.com/user-attachments/assets/86f100ff-ffbc-41d4-9091-7b625f554f6f)<br>
-  `Note:` The `fetch` **Command** fetches Updates from the `Remote_Repository`, but it doesn’t automatically `prune (remove)` **References** to **Branches** that **no longer exist** on the `Remote_Repository`, from your `Local_Repository`. Hence, you may also see **References** of **Deleted** `Remote_Branches` being displayed.
+- Use the following **Command** to **Switch** to the **Respective** `Local Branch`:
+  ```
+  git checkout LOCAL_BRANCH
+  ```
+- Finally, Use this **Command** to Confirm the `Linking_Status`:
+  ```
+  git status
+  ```
+  ![Linking Existing Local and Remote Branches](https://github.com/user-attachments/assets/6c5caf1f-ee77-4945-bef7-e78b1b403ab9)
 <br>
 
 ### Fetch Branches from Local_Repository:
