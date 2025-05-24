@@ -64,22 +64,22 @@
 
 ## Create and Switch Branches [For Remote Branches]
 ### Create a Remote Branch:
-- Go To your `Github_Repository`.
-- **Click** on the `Scrolldown_Menu for Branches` to **Create** a `New Branch` in the Project:
-  ![Scrolldown_Menu for Branches](https://github.com/user-attachments/assets/7910d3ca-1aa1-4a80-aa0d-c9aab3212865)<br> 
+- **Navigate** to your `Github_Repository`.
+- **Click** on the `Branch Dropdown_Menu` to **Create** a `New Branch` in the Project:
+  ![Branch Dropdown_Menu](https://github.com/user-attachments/assets/7910d3ca-1aa1-4a80-aa0d-c9aab3212865)<br> 
 - Enter the `NEW_BRANCH_NAME` and **Click** on `Create NEW_BRANCH_NAME from main`:
   ![Create NEW_BRANCH_NAME from main](https://github.com/user-attachments/assets/745925ff-9303-4f09-8fcb-e7b9cc09402f)<br>
 - The **Newly Created Branch** will be displayed in the `Scrolldown_Menu for Branches` as follows:
   ![New Branch](https://github.com/user-attachments/assets/95211ee7-ae29-47c7-8131-3759b838c282)<br>  
 <br>
 
-### Switch to a Branch:
-- Open your `Terminal`.
-- Paste the following **Command** in your `Terminal` to **Switch to an Existing Branch:**
-  ```
-  git checkout BRANCH_NAME
-  ```
-  `Note:` Switch `BRANCH_NAME` with your **existing Branch-Name** (Ex: `main`, `develop`,etc or Other)
+### Switching a Remote Branch:
+- **Navigate** to your `Github_Repository`.
+- **Click** on the `Branch Dropdown_Menu` to **View** a `Existing Branches` in the Project:
+  ![Branch Dropdown_Menu](https://github.com/user-attachments/assets/7910d3ca-1aa1-4a80-aa0d-c9aab3212865)<br>
+- **Click** on the `Branch` to which you want to `Switch` to.
+  ![Switching the Remote Branch](https://github.com/user-attachments/assets/6cfa19db-267e-4f38-bbbf-b0043b1bb14c)<br>
+- The Repository_Page now shows the **Selected** `Branch's` Files:
 <br>
 
 ---
