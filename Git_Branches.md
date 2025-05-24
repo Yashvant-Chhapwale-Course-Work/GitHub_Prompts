@@ -200,26 +200,15 @@
 
 ## Tracking Upstream Status for Local Branch:
 ### What is meant by Upstream for a Local_Branch in Git ?  
-- Open your `Terminal`.
-- Paste the following **Command** in your `Terminal` for **Linking** the **Existing** `Local and Remote Branches` or **Updating** the `Upstream` for an `Exisitng Local_Branch`:
-  ```
-  git branch --set-upstream-to=origin/REMOTE_BRANCH LOCAL_BRANCH
-  ```
-  `Note:`
-  - The `--set-upstream-to` sets the `Remote_Branch` that your `Local_Branch` is **Tracking**.<br>
-    It tells `Git`:<br>
-    - Where to `pull from` when you **Run** `git pull`
-    - Where to `push to` when you **Run** `git push`
-  - Also, Replace the `LOCAL_BRANCH` with your desired `Local-Branch-Name` and `REMOTE_BRANCH` with the `Remote-Branch-Name` to which you want to **Link** with. 
-- Use the following **Command** to **Switch** to the **Respective** `Local Branch`:
-  ```
-  git checkout LOCAL_BRANCH
-  ```
-- Finally, Use this **Command** to **Verify** the `Linking_Status`:
-  ```
-  git status
-  ```
-  ![Linking **Existing** `Local and Remote Branches`](https://github.com/user-attachments/assets/6c5caf1f-ee77-4945-bef7-e78b1b403ab9)<br>
+- `Upstream` in **Git** refers to the `Remote_Branch` that a `Local_Branch` is set to **Track** or **Follow**.
+- It is the `Branch` on the `Remote_Repository` from which your `Local_Branch` **FETCHes / PULLs Changes** from and to which it **PUSHes Commits** to, by default.
+- Tracking Relationship: When you create a local branch that tracks a remote branch, that remote branch is called the upstream branch. It is like a reference point for your local branch.
+- Default Source for Pulls: When you run git pull without any arguments, Git knows which branch to pull changes from because the local branch has an upstream branch configured.
+- Default Target for Pushes: Similarly, when you run git push without specifying where to push, Git pushes your local commits to the upstream branch.
+- Helps in Synchronization: The upstream branch is useful for synchronization — it helps you know what you are tracking remotely and whether your local branch is ahead, behind, or diverged compared to it.
+<br>
+
+### Tracking
 <br>
 
 ### Create a Local_Branch and Link it to an Existing or New Remote_Branch:
