@@ -138,7 +138,7 @@
   git branch --set-upstream-to=origin/REMOTE_BRANCH LOCAL_BRANCH
   ```
   `Note:` The `--set-upstream-to` sets the `Remote_Branch` that your `Local_Branch` is **Tracking**.<br>
-  It tells `Git`:<br>
+   It tells `Git`:<br>
   - Where to `pull from` when you **Run** `git pull`
   - Where to `push to` when you **Run** `git push`
 - The **Command** will display the `Remote_Branches` in the format: `origin/branch-name`
