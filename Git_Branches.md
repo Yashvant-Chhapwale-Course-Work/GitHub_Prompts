@@ -88,14 +88,13 @@
 <br>
 
 ## Fetching Branches
-### Create a Remote Branch:
-- **Navigate** to your `Github_Repository`.
-- **Click** on the `Branch Dropdown_Menu` to **Create** a `New Branch` in the Project:
-  ![Branch Dropdown_Menu](https://github.com/user-attachments/assets/7910d3ca-1aa1-4a80-aa0d-c9aab3212865)<br> 
-- Enter the `NEW_BRANCH_NAME` and **Click** on `Create NEW_BRANCH_NAME from main`:
-  ![Create NEW_BRANCH_NAME from main](https://github.com/user-attachments/assets/745925ff-9303-4f09-8fcb-e7b9cc09402f)<br>
-- The **Newly Created Branch** will be displayed in the `Branch Dropdown_Menu` as follows:
-  ![New Branch](https://github.com/user-attachments/assets/95211ee7-ae29-47c7-8131-3759b838c282)<br>  
+### Fetch Branches from Remote_Repository:
+- Open your `Terminal`.
+- Paste the following **Command** in your `Terminal` to **Fetch** all the `Branches` from a `Remote_Repository`:
+  ```
+  git fetch
+  git btranch -r
+  ```
 <br>
 
 ### Switching a Remote Branch:
