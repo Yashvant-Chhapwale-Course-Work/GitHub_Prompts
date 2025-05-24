@@ -100,7 +100,7 @@
   `-r:` This **Flag** is used to **List** all `remote-tracking branches` (from `Remote_Repository`) that your `Local_Repository` knows about.
 - The **Command** will display the `Remote_Branches` in the format: `origin/branch-name`
   ![git fetch>>git branch -r](https://github.com/user-attachments/assets/86f100ff-ffbc-41d4-9091-7b625f554f6f)<br>
-  `Note:` The `fetch` **Command** fetches Updates from the `Remote_Repository`, but it doesn’t automatically `prune (remove)` **References** to **Branches** that **no longer exist** on the `Remote_Repository`.
+  `Note:` The `fetch` **Command** fetches Updates from the `Remote_Repository`, but it doesn’t automatically `prune (remove)` **References** to **Branches** that **no longer exist** on the `Remote_Repository`, from your `Local_Repository`. Hence, you may also see **References** of **Deleted** `Remote_Branches` being displayed.
 <br>
 
 ### Switching a Remote Branch:
