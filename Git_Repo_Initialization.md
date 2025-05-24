@@ -63,8 +63,8 @@
     ![git push -u origin](https://github.com/user-attachments/assets/296259f7-fae7-452e-b9d8-edeba8748d98)<br>
   <br>
 
-    
-    **Congratulations! You have successfully `Initialized a Local Repository` and `Linked it with a Remote Repository` using Git_CLI!!**
+  
+  **Congratulations! You have successfully `Initialized a Local Repository` and `Linked it with a Remote Repository` using Git_CLI!!**
 <br>
 
 ---
