@@ -68,9 +68,9 @@
 - **Navigate** to your `Github_Repository`.
 - **Click** on the `Branch Dropdown_Menu` to **Create** a `New Branch` in the Project:
   ![Branch Dropdown_Menu](https://github.com/user-attachments/assets/7910d3ca-1aa1-4a80-aa0d-c9aab3212865)<br>
-- **Select** the `Branch` from which you want to **Create** a `NEW_BRANCH`
+- **Select** the `Branch` (`SELECTED_BRANCH`) from which you want to **Create** a `NEW_BRANCH`.
 - Enter the `NEW_BRANCH_NAME` and **Click** on `Create NEW_BRANCH_NAME from SELECTED_BRANCH`:
-  ![Create NEW_BRANCH_NAME from main](https://github.com/user-attachments/assets/745925ff-9303-4f09-8fcb-e7b9cc09402f)<br>
+  ![Create NEW_BRANCH from SELECTED_BRANCH](https://github.com/user-attachments/assets/430db745-f33f-4495-b1e6-2cb4d2289bd5)<br>
 - The **Newly Created Branch** will be displayed in the `Branch Dropdown_Menu` as follows:
   ![New Branch](https://github.com/user-attachments/assets/95211ee7-ae29-47c7-8131-3759b838c282)<br>  
 <br>
@@ -96,6 +96,10 @@
   git fetch
   git branch -r
   ```
+  `fetch:` This **Command** is used to **Download** the latest `commits`, `branches`, and `tags` from the `Remote_Repository` without merging or modifying your working directory.<br>
+  `-r:` This **Flag** is used to **List** all `remote-tracking branches` (from `Remote_Repository`) that your `Local_Repository` knows about.
+- The **Command** will display the `Remote_Branches` in the format: `origin/branch-name`
+  
 <br>
 
 ### Switching a Remote Branch:
