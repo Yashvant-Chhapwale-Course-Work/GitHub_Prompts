@@ -118,10 +118,11 @@
 - Open your `Terminal`.
 - Paste the following **Command** in your `Terminal` to **Fetch** all the `Local_Branches` as well as `Remote_Branches`:
   ```
+  git fetch
   git branch -a
   ```
 - The **Command** will display the `Local_Branches` from your `Local_Repository`:
-  ![git branch](https://github.com/user-attachments/assets/a9c760f3-ae7d-44df-9033-6d722f65ff7b)<br>
+  ![git fetch>>git branch -a](https://github.com/user-attachments/assets/fb92eddc-dc07-4983-be65-71a60e106790)<br>
 <br>
 ---
 <br>
