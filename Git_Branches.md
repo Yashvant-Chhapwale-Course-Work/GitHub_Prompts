@@ -137,10 +137,12 @@
   ```
   git branch --set-upstream-to=origin/REMOTE_BRANCH LOCAL_BRANCH
   ```
-  `Note:` The `--set-upstream-to` sets the `Remote_Branch` that your `Local_Branch` is **Tracking**.<br>
-   It tells `Git`:<br>
-  - Where to `pull from` when you **Run** `git pull`
-  - Where to `push to` when you **Run** `git push`
+  `Note:`
+  - The `--set-upstream-to` sets the `Remote_Branch` that your `Local_Branch` is **Tracking**.<br>
+    It tells `Git`:<br>
+    - Where to `pull from` when you **Run** `git pull`
+    - Where to `push to` when you **Run** `git push`
+  - Also, Replace the `LOCAL_BRANCH` with your desired `Local-Branch-Name` and `REMOTE_BRANCH` with the `Remote-Branch-Name` to which you want to **Link** with. 
 - Use the following **Command** to **Switch** to the **Respective** `Local Branch`:
   ```
   git checkout LOCAL_BRANCH
@@ -149,17 +151,21 @@
   ```
   git status
   ```
-  ![Linking Existing Local and Remote Branches](https://github.com/user-attachments/assets/6c5caf1f-ee77-4945-bef7-e78b1b403ab9)
+  ![Linking **Existing** `Local and Remote Branches`](https://github.com/user-attachments/assets/6c5caf1f-ee77-4945-bef7-e78b1b403ab9)<br>
 <br>
 
 ### Create a Local_Branch and Link it to an Existing or New Remote_Branch:
 - Open your `Terminal`.
-- Paste the following **Command** in your `Terminal` to **Fetch** all the `Branches` on your `Local_Repository`:
+- Paste the following **Command** in your `Terminal` for **Creating & Linking** `Local_Branch` to **New or Exisitng** `Remote_Branch`:
   ```
-  git branch 
+  git checkout -b LOCAL_BRANCH origin/REMOTE_BRANCH
   ```
-- The **Command** will display the `Local_Branches` from your `Local_Repository`:
-  ![git branch](https://github.com/user-attachments/assets/a9c760f3-ae7d-44df-9033-6d722f65ff7b)<br>
+- The above **Command** performs the following **Tasks:**
+  - Automatically **Creates** a **New** `Local_Branch` instance.
+  - Switches to the **Newly Created** `Local_Branch`.
+  - **Establishes** an `Upstream-Link` for the `Local_Branch` to track the `Remote_Branch`.
+ ![**Create and Link** `Local Branch` to an **Existing or New** `Remote Branch`](https://github.com/user-attachments/assets/a7c1b2ff-1c40-4e6c-bd85-7e99c2a3683b)<br>
+ - `Note:` If the **Command** finds the `REMOTE_BRANCH` on the `origin` (i.e, `Remote_Repository`), then it **Links** it to the `LOCAL_BRANCH`. Otherwise, it **Creates** the **Specified** `REMOTE_BRAMCH` on the `Remote_Repository` and **Links** it to the `LOCAL_BRANCH`.
 <br>
 
 ---
