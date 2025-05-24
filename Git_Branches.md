@@ -76,10 +76,11 @@
 ### Switching a Remote Branch:
 - **Navigate** to your `Github_Repository`.
 - **Click** on the `Branch Dropdown_Menu` to **View** a `Existing Branches` in the Project:
-  ![Branch Dropdown_Menu](https://github.com/user-attachments/assets/7910d3ca-1aa1-4a80-aa0d-c9aab3212865)<br>
+  ![Branches Dropdown_Menu](https://github.com/user-attachments/assets/3ed22315-5d47-4e54-9db1-4465bbf5dec0)<br>
 - **Click** on the `Branch` to which you want to `Switch` to.
   ![Switching the Remote Branch](https://github.com/user-attachments/assets/6cfa19db-267e-4f38-bbbf-b0043b1bb14c)<br>
 - The Repository_Page now shows the **Selected** `Branch's` Files:
+  ![Switched_Remote_Branch](https://github.com/user-attachments/assets/80087b3f-df2e-4f6e-ac8a-ddaf68748e21)<br>
 <br>
 
 ---
