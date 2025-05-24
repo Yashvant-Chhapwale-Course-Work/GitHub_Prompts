@@ -168,6 +168,25 @@
 - `Note:` If the **Command** finds the `REMOTE_BRANCH` on the `origin` (i.e, `Remote_Repository`), then it **Links** it to the `LOCAL_BRANCH`. Otherwise, it **Creates** the **Specified** `REMOTE_BRAMCH` on the `Remote_Repository` and **Links** it to the `LOCAL_BRANCH`.
 <br>
 
+### Pushing an Existing Local_Branch to the Origin (i.e, New Remote_Branch on a Remote_Repository):
+- Open your `Terminal`.
+- Use the following **Command** to `Initialize` and `COMMIT` **Demo_Commits** on the `Local_Repository`:
+  ```
+  git add .
+  git commit -m "COMMIT MESSAGE"
+  ```
+- Paste the following **Command** in your `Terminal` for **Linking** an **Exisitng** `Local_Branch` to a **Newly_Created** `Remote_Branch` (i.e, `PUSH` the `Local_Branch Commits` to the `Remote_Branch` on the `Remote_Repository`):
+  ```
+  git push -u origin LOCAL_BRANCH
+  ```
+- The above **Command** performs the following **Tasks:**
+  - Automatically **Creates** a **New** `Local_Branch` instance.
+  - Switches to the **Newly Created** `Local_Branch`.
+  - **Establishes** an `Upstream-Link` for the `Local_Branch` to track the `Remote_Branch`.<br>
+- ![**Create and Link** `Local Branch` to an **Existing or New** `Remote Branch`](https://github.com/user-attachments/assets/a7c1b2ff-1c40-4e6c-bd85-7e99c2a3683b)<br>
+- `Note:` If the **Command** finds the `REMOTE_BRANCH` on the `origin` (i.e, `Remote_Repository`), then it **Links** it to the `LOCAL_BRANCH`. Otherwise, it **Creates** the **Specified** `REMOTE_BRAMCH` on the `Remote_Repository` and **Links** it to the `LOCAL_BRANCH`.
+<br>
+
 ---
 <br>
 
