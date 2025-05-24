@@ -11,6 +11,7 @@
 | 2.  **Create and Switch Branches [For `Local_Branches`]**                                                      | >> [` CHECK CONTENT `](#create-and-switch-branches-for-local-branches)                        |
 | 3.  **Create and Switch Branches [For `Remote_Branches`]**                                                     | >> [` CHECK CONTENT `](#create-and-switch-branches-for-remote-branches)                       |
 | 4.  **Fetch `Branches` for a `GitHub_Repository`**                                                             | >> [` CHECK CONTENT `](#fetching-branches)                                                    |
+| 5.  **Linking `Local_Branches` to `Remote_Branches`**                                                          | >> [` CHECK CONTENT `](#linking-local-and-remote-branches)                                    |
 </div>
 
 ---
@@ -121,9 +122,51 @@
   git fetch
   git branch -a
   ```
-- The **Command** will display the `Local_Branches` from your `Local_Repository`:
+  `Note:` The `fetch` **Command** is required to return the **Latest** List of `Remote_Branches`.
+- The **Command** will display the `Local & Remote Branches` known to your `Local Repository`:
   ![git fetch>>git branch -a](https://github.com/user-attachments/assets/fb92eddc-dc07-4983-be65-71a60e106790)<br>
 <br>
 
 ---
 <br>
+
+## Linking Local and Remote Branches
+### Fetch Branches from Remote_Repository:
+- Open your `Terminal`.
+- Paste the following **Command** in your `Terminal` to **Fetch** all the `Branches` from a `Remote_Repository`:
+  ```
+  git fetch
+  git branch -r
+  ```
+  `fetch:` This **Command** is used to **Download** the latest `commits`, `branches`, and `tags` from the `Remote_Repository` without merging or modifying your working directory.<br>
+  `-r:` This **Flag** is used to **List** all `remote-tracking branches` (from `Remote_Repository`) that your `Local_Repository` knows about.
+- The **Command** will display the `Remote_Branches` in the format: `origin/branch-name`
+  ![git fetch>>git branch -r](https://github.com/user-attachments/assets/86f100ff-ffbc-41d4-9091-7b625f554f6f)<br>
+  `Note:` The `fetch` **Command** fetches Updates from the `Remote_Repository`, but it doesn’t automatically `prune (remove)` **References** to **Branches** that **no longer exist** on the `Remote_Repository`, from your `Local_Repository`. Hence, you may also see **References** of **Deleted** `Remote_Branches` being displayed.
+<br>
+
+### Fetch Branches from Local_Repository:
+- Open your `Terminal`.
+- Paste the following **Command** in your `Terminal` to **Fetch** all the `Branches` on your `Local_Repository`:
+  ```
+  git branch 
+  ```
+- The **Command** will display the `Local_Branches` from your `Local_Repository`:
+  ![git branch](https://github.com/user-attachments/assets/a9c760f3-ae7d-44df-9033-6d722f65ff7b)<br>
+<br>
+
+### Fetch All Branches:
+- Open your `Terminal`.
+- Paste the following **Command** in your `Terminal` to **Fetch** all the `Local_Branches` as well as `Remote_Branches`:
+  ```
+  git fetch
+  git branch -a
+  ```
+  `Note:` The `fetch` **Command** is required to return the **Latest** List of `Remote_Branches`.
+- The **Command** will display the `Local & Remote Branches` known to your `Local Repository`:
+  ![git fetch>>git branch -a](https://github.com/user-attachments/assets/fb92eddc-dc07-4983-be65-71a60e106790)<br>
+<br>
+
+---
+<br>
+
