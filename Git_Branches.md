@@ -149,7 +149,7 @@
   ```
   git checkout LOCAL_BRANCH
   ```
-- Finally, Use this **Command** to Confirm the `Linking_Status`:
+- Finally, Use this **Command** to **Verify** the `Linking_Status`:
   ```
   git status
   ```
