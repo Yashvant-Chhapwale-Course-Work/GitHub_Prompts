@@ -103,14 +103,14 @@
   `Note:` The `fetch` **Command** fetches Updates from the `Remote_Repository`, but it doesn’t automatically `prune (remove)` **References** to **Branches** that **no longer exist** on the `Remote_Repository`, from your `Local_Repository`. Hence, you may also see **References** of **Deleted** `Remote_Branches` being displayed.
 <br>
 
-### Switching a Remote Branch:
-- **Navigate** to your `Github_Repository`.
-- **Click** on the `Branch Dropdown_Menu` to **View** the `Existing Branches` in the Project:
-  ![Branches Dropdown_Menu](https://github.com/user-attachments/assets/3ed22315-5d47-4e54-9db1-4465bbf5dec0)<br>
-- **Select** the `Branch` which you want to `Switch` to.
-  ![Switching the Remote Branch](https://github.com/user-attachments/assets/6cfa19db-267e-4f38-bbbf-b0043b1bb14c)<br>
-- The Repository_Page now display the **Files** from the `Selected_Remote_Branch`:
-  ![Selected_Remote_Branch](https://github.com/user-attachments/assets/80087b3f-df2e-4f6e-ac8a-ddaf68748e21)<br>
+### Fetch Branches from Local_Repository:
+- Open your `Terminal`.
+- Paste the following **Command** in your `Terminal` to **Fetch** all the `Branches` from a `Remote_Repository`:
+  ```
+  git branch 
+  ```
+- The **Command** will display the `Local_Branches` from your `Local_Repository`:
+  ![git branch](https://github.com/user-attachments/assets/a9c760f3-ae7d-44df-9033-6d722f65ff7b)<br>
 <br>
 
 ---
