@@ -12,6 +12,7 @@
 | 3.  **Create and Switch Branches [For `Remote_Branches`]**                                                     | >> [` CHECK CONTENT `](#create-and-switch-branches-for-remote-branches)                       |
 | 4.  **Fetch `Branches` for a `GitHub_Repository`**                                                             | >> [` CHECK CONTENT `](#fetching-branches)                                                    |
 | 5.  **Linking `Local_Branches` to `Remote_Branches`**                                                          | >> [` CHECK CONTENT `](#linking-local-and-remote-branches)                                    |
+| 6.  **Update `Upstream` for an Existing `Local_Branch`**                                                       | >> [` CHECK CONTENT `](#linking-existing-local-and-remote-branch)                             |
 </div>
 
 ---
@@ -132,6 +133,7 @@
 
 ## Linking Local and Remote Branches
 ### Linking Existing Local and Remote Branches:
+- **Following Command can also be used to `Update Upstream` for an `Existing Local_Branch`!**
 - Open your `Terminal`.
 - Paste the following **Command** in your `Terminal` for **Linking** the **Existing **`Local and Remote Branches`:
   ```
