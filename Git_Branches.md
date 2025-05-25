@@ -95,26 +95,24 @@
 <br>
 
 ## Rename Existing Local and Remote Branches:
-### Create a Remote Branch:
-- **Navigate** to your `Github_Repository`.
-- **Click** on the `Branch Dropdown_Menu` to **Create** a `New Branch` in the Project:
-  ![Branch Dropdown_Menu](https://github.com/user-attachments/assets/7910d3ca-1aa1-4a80-aa0d-c9aab3212865)<br>
-- **Select** the `Branch` (`SELECTED_BRANCH`) from which you want to **Create** a `NEW_BRANCH`.<br>
-  Basically, this will `Clone` the contents of `SELECTED_BRANCH` and **Create** a `NEW_BRANCH` with them.<br> 
-- Enter the `NEW_BRANCH_NAME` and **Click** on `Create NEW_BRANCH_NAME from SELECTED_BRANCH`:
-  ![Create NEW_BRANCH from SELECTED_BRANCH](https://github.com/user-attachments/assets/430db745-f33f-4495-b1e6-2cb4d2289bd5)<br>
-- The **Newly Created Branch** will be displayed in the `Branch Dropdown_Menu` as follows:
-  ![New Branch](https://github.com/user-attachments/assets/95211ee7-ae29-47c7-8131-3759b838c282)<br>  
-<br>
+### Rename an Existing Local_Branch:
+- Open your `Terminal`.
+- Paste the following **Command** in your `Terminal` to **Fetch** all the `Branches` from a `Remote_Repository`:
+  ```
+  git branch -m OLD_BRANCH_NAME NEW_BRANCH_NAME
+  ```
+  `Note:` Replace `OLD_BRANCH_NAME` with `Exisitng Local_Branch_Name` and `NEW_BRANCH_NAME` with the `New Local_Branch_Name` that you want to give to that `Existing Local_Branch`.<br>
+  ![Rename Existing Local_Branch](https://github.com/user-attachments/assets/8713d2da-68b7-4ae3-9880-8fd10fe19fe1)<br>
+<br>'
 
-### Switching a Remote Branch:
-- **Navigate** to your `Github_Repository`.
-- **Click** on the `Branch Dropdown_Menu` to **View** the `Existing Branches` in the Project:
-  ![Branches Dropdown_Menu](https://github.com/user-attachments/assets/3ed22315-5d47-4e54-9db1-4465bbf5dec0)<br>
-- **Select** the `Branch` which you want to `Switch` to.
-  ![Switching the Remote Branch](https://github.com/user-attachments/assets/6cfa19db-267e-4f38-bbbf-b0043b1bb14c)<br>
-- The Repository_Page now display the **Files** from the `Selected_Remote_Branch`:
-  ![Selected_Remote_Branch](https://github.com/user-attachments/assets/80087b3f-df2e-4f6e-ac8a-ddaf68748e21)<br>
+### Rename an Existing Remote_Branch:
+- Open your `Terminal`.
+- Paste the following **Command** in your `Terminal` to **Fetch** all the `Branches` from a `Remote_Repository`:
+  ```
+  git branch -m OLD_BRANCH_NAME NEW_BRANCH_NAME
+  ```
+  `Note:` Replace `OLD_BRANCH_NAME` with `Exisitng Local_Branch_Name` and `NEW_BRANCH_NAME` with the `New Local_Branch_Name` that you want to give to that `Existing Local_Branch`.<br>
+  ![Rename Existing Local_Branch](https://github.com/user-attachments/assets/8713d2da-68b7-4ae3-9880-8fd10fe19fe1)<br>
 <br>
 
 ---
