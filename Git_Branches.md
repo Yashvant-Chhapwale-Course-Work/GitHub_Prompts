@@ -113,7 +113,7 @@
   ![Branches Dropdown_Menu >> View all Branches](https://github.com/user-attachments/assets/78fb69b5-9da5-40a9-ab6f-3453bccc6676)<br>
 - **Click** the `Three Dots (...)` besides the `Remote_Branch` which you want to **Rename** and **Select** `🖉 Rename Branch`:
   ![View All Branches >> Click `Three Dots (...)` >> Select `🖉 Rename Branch`](https://github.com/user-attachments/assets/eb30dfb9-728e-4ac8-bd55-3cc6e4a1aece)<br>
-- **Enter** the  `New Remote_Branch_Name` and **Click** on the `Rename Branch` **Button**:
+- **Enter** the  `New Remote_Branch_Name` and **Click** on the `Rename Branch` **Button**:<br>
   ![Enter `New_Remote_Branch_Name` >> Click `Rename Branch` Button](https://github.com/user-attachments/assets/623def82-c4ee-42a3-8e35-1dfe88ce4f64)<br>
 - The **Renamed** `Remote_Branch` will now appear in the `Branch Dropdown_Menu` successfully.
   ![Remote_Branch Renamed Successfully](https://github.com/user-attachments/assets/88282e35-e706-4a58-9252-66fc10118df9)<br>
