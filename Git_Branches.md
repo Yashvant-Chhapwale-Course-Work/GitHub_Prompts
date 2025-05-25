@@ -278,7 +278,7 @@
 <br>
 
 ## Deleting Local and Remote Branches:
-### Deleting Local Branches (If the Branch is Fully Merged with the Main_Branch / Safe Delete):
+### Deleting Local_Branches (If the Branch is Fully Merged with the Main_Branch / Safe Delete):
 - Open your `Terminal`.
 - Paste the following **Command** in your `Terminal` to **Delete** a **Fully Merged** `Local_Branch`:
   ```
@@ -289,9 +289,20 @@
   - The `-d` **Flag** indicates **Git** to `DELETE` the `Local_Branch` only if it has been **Fully Merged** into the `Current_Branch` or any `Upstream_Branch`.
 <br>
 
-### Deleting Local Branches (If the Branch is Not Merged with the Main_Branch / Force Delete):
+### Deleting Local_Branches (If the Branch is Not Merged with the Main_Branch / Force Delete):
 - Open your `Terminal`.
 - Paste the following **Command** in your `Terminal` to **Delete** an **Unmerged** `Local_Branch`:
+  ```
+  git branch -D LOCAL_BRANCH
+  ```
+  `Note:` 
+  - Replace `LOCAL_BRANCH` with the `Local_Branch_Name` to be **Deleted**.
+  - The `-D` **Flag** indicates **Git** to `Force_DELETE` the `Local_Branch` even if it hasn't been **Merged**. 
+<br>
+
+### Deleting Remote_Branches:
+- Open your `Terminal`.
+- Paste the following **Command** in your `Terminal` to **Delete** a **Specific** `Remote_Branch`:
   ```
   git branch -D LOCAL_BRANCH
   ```
