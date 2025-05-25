@@ -10,7 +10,7 @@
 | 1.  **What do we mean by `Branches`?**                                                                         | >> [` CHECK CONTENT `](#what-are-branches-in-github-)                                         |
 | 2.  **Create and Switch Branches [For `Local_Branches`]**                                                      | >> [` CHECK CONTENT `](#create-and-switch-branches-for-local-branches)                        |
 | 3.  **Create and Switch Branches [For `Remote_Branches`]**                                                     | >> [` CHECK CONTENT `](#create-and-switch-branches-for-remote-branches)                       |
-| 4.  **Rename `Branches`**                                                                                      | >> [` CHECK CONTENT `](##rename-existing-local-and-remote-branches)                           |
+| 4.  **Rename `Branches`**                                                                                      | >> [` CHECK CONTENT `](#rename-existing-local-and-remote-branches)                           |
 | 5.  **Fetch `Branches` for a `GitHub_Repository`**                                                             | >> [` CHECK CONTENT `](#fetching-branches)                                                    |
 | 6.  **Linking `Local_Branches` to `Remote_Branches`**                                                          | >> [` CHECK CONTENT `](#linking-local-and-remote-branches)                                    |
 | 7.  **Update `Upstream` for an Existing `Local_Branch`**                                                       | >> [` CHECK CONTENT `](#linking-existing-local-and-remote-branches)                           |
