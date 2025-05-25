@@ -106,14 +106,19 @@
 <br>
 
 ### Rename an Existing Remote_Branch:
-- Open your `Terminal`.
-- Paste the following **Command** in your `Terminal` to **Fetch** all the `Branches` from a `Remote_Repository`:
-  ```
-  git branch -m OLD_BRANCH_NAME NEW_BRANCH_NAME
-  ```
-  `Note:` Replace `OLD_BRANCH_NAME` with `Exisitng Local_Branch_Name` and `NEW_BRANCH_NAME` with the `New Local_Branch_Name` that you want to give to that `Existing Local_Branch`.<br>
-  ![Rename Existing Local_Branch](https://github.com/user-attachments/assets/8713d2da-68b7-4ae3-9880-8fd10fe19fe1)<br>
-<br>
+- **Navigate** to your `Github_Repository`.
+- **Click** on the `Branch Dropdown_Menu`:
+  ![Branches Dropdown_Menu](https://github.com/user-attachments/assets/3ed22315-5d47-4e54-9db1-4465bbf5dec0)<br>
+- **Click** on `View all Branches` to **View** all **Existing** `Remote_Branches`.
+  ![Branches Dropdown_Menu >> View all Branches](https://github.com/user-attachments/assets/78fb69b5-9da5-40a9-ab6f-3453bccc6676)<br>
+- **Click** the `Three Dots (...)` besides the `Remote_Branch` which you want to **Rename** and **Select** `🖉 Rename Branch`:
+  ![View All Branches >> Click `Three Dots (...)` >> Select `🖉 Rename Branch`](https://github.com/user-attachments/assets/eb30dfb9-728e-4ac8-bd55-3cc6e4a1aece)<br>
+- **Enter** the  `New Remote_Branch_Name` and **Click** on the `Rename Branch` **Button**:
+  ![Enter `New_Remote_Branch_Name` >> Click `Rename Branch` Button](https://github.com/user-attachments/assets/623def82-c4ee-42a3-8e35-1dfe88ce4f64)<br>
+- The **Renamed** `Remote_Branch` will now appear in the `Branch Dropdown_Menu` successfully.
+  ![Remote_Branch Renamed Successfully](https://github.com/user-attachments/assets/88282e35-e706-4a58-9252-66fc10118df9)<br>
+- 
+ <br>
 
 ---
 <br>
