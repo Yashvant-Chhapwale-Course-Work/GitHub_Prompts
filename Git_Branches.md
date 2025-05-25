@@ -117,7 +117,14 @@
   ![Enter `New_Remote_Branch_Name` >> Click `Rename Branch` Button](https://github.com/user-attachments/assets/623def82-c4ee-42a3-8e35-1dfe88ce4f64)<br>
 - The **Renamed** `Remote_Branch` will now appear in the `Branch Dropdown_Menu` successfully.
   ![Remote_Branch Renamed Successfully](https://github.com/user-attachments/assets/88282e35-e706-4a58-9252-66fc10118df9)<br>
-- 
+- **Note** that the **Corresponding **`Local_Branch` is still **Set** to **Track** the `Older Remote_Branch_Name`!
+  ![git status >> `Local_Branch` Set to Track `Older Remote_Branch_Name`](https://github.com/user-attachments/assets/950f3f58-e48d-49b8-9713-13c0580593d7)<br>
+- Use the following **Command** to Update the `Upstream_Branch` (i.e, `Remote_Branch_Name`) for that **Corresponding** `Local_Branch`:
+  ```
+  git branch --set-upstream-to=origin/NEW_REMOTE_BRANCH_NAME LOCAL_BRANCH
+  ```
+  `Note:` **Replace** the `NEW_REMOTE_BRANCH_NAME` with the `Updated Remote_Branch` and `LOCAL_BRANCH` with the `Corresponding Local_Branch`.
+  ![git status >> `Local_Branch` Set to Track `Updated Remote_Branch_Name`](https://github.com/user-attachments/assets/b2132dc3-b25b-4803-ae29-cacd067c0ee7)<br>
  <br>
 
 ---
