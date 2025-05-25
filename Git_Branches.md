@@ -103,7 +103,7 @@
   ```
   `Note:` Replace `OLD_BRANCH_NAME` with `Exisitng Local_Branch_Name` and `NEW_BRANCH_NAME` with the `New Local_Branch_Name` that you want to give to that `Existing Local_Branch`.<br>
   ![Rename Existing Local_Branch](https://github.com/user-attachments/assets/8713d2da-68b7-4ae3-9880-8fd10fe19fe1)<br>
-<br>'
+<br>
 
 ### Rename an Existing Remote_Branch:
 - Open your `Terminal`.
