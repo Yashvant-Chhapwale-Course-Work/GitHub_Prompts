@@ -10,10 +10,11 @@
 | 1.  **What do we mean by `Branches`?**                                                                         | >> [` CHECK CONTENT `](#what-are-branches-in-github-)                                         |
 | 2.  **Create and Switch Branches [For `Local_Branches`]**                                                      | >> [` CHECK CONTENT `](#create-and-switch-branches-for-local-branches)                        |
 | 3.  **Create and Switch Branches [For `Remote_Branches`]**                                                     | >> [` CHECK CONTENT `](#create-and-switch-branches-for-remote-branches)                       |
-| 4.  **Fetch `Branches` for a `GitHub_Repository`**                                                             | >> [` CHECK CONTENT `](#fetching-branches)                                                    |
-| 5.  **Linking `Local_Branches` to `Remote_Branches`**                                                          | >> [` CHECK CONTENT `](#linking-local-and-remote-branches)                                    |
-| 6.  **Update `Upstream` for an Existing `Local_Branch`**                                                       | >> [` CHECK CONTENT `](#linking-existing-local-and-remote-branches)                           |
-| 7.  **Track `Upstream` Status for `Local_Branch`**                                                             | >> [` CHECK CONTENT `](#tracking-upstream-status-for-local-branch)                            |
+| 4.  **Rename `Branches`**                                                                                      | >> [` CHECK CONTENT `](##rename-existing-local-and-remote-branches)                           |
+| 5.  **Fetch `Branches` for a `GitHub_Repository`**                                                             | >> [` CHECK CONTENT `](#fetching-branches)                                                    |
+| 6.  **Linking `Local_Branches` to `Remote_Branches`**                                                          | >> [` CHECK CONTENT `](#linking-local-and-remote-branches)                                    |
+| 7.  **Update `Upstream` for an Existing `Local_Branch`**                                                       | >> [` CHECK CONTENT `](#linking-existing-local-and-remote-branches)                           |
+| 8.  **Track `Upstream` Status for `Local_Branch`**                                                             | >> [` CHECK CONTENT `](#tracking-upstream-status-for-local-branch)                            |
 
 </div>
 
@@ -68,6 +69,32 @@
 <br>
 
 ## Create and Switch Branches [For Remote Branches]
+### Create a Remote Branch:
+- **Navigate** to your `Github_Repository`.
+- **Click** on the `Branch Dropdown_Menu` to **Create** a `New Branch` in the Project:
+  ![Branch Dropdown_Menu](https://github.com/user-attachments/assets/7910d3ca-1aa1-4a80-aa0d-c9aab3212865)<br>
+- **Select** the `Branch` (`SELECTED_BRANCH`) from which you want to **Create** a `NEW_BRANCH`.<br>
+  Basically, this will `Clone` the contents of `SELECTED_BRANCH` and **Create** a `NEW_BRANCH` with them.<br> 
+- Enter the `NEW_BRANCH_NAME` and **Click** on `Create NEW_BRANCH_NAME from SELECTED_BRANCH`:
+  ![Create NEW_BRANCH from SELECTED_BRANCH](https://github.com/user-attachments/assets/430db745-f33f-4495-b1e6-2cb4d2289bd5)<br>
+- The **Newly Created Branch** will be displayed in the `Branch Dropdown_Menu` as follows:
+  ![New Branch](https://github.com/user-attachments/assets/95211ee7-ae29-47c7-8131-3759b838c282)<br>  
+<br>
+
+### Switching a Remote Branch:
+- **Navigate** to your `Github_Repository`.
+- **Click** on the `Branch Dropdown_Menu` to **View** the `Existing Branches` in the Project:
+  ![Branches Dropdown_Menu](https://github.com/user-attachments/assets/3ed22315-5d47-4e54-9db1-4465bbf5dec0)<br>
+- **Select** the `Branch` which you want to `Switch` to.
+  ![Switching the Remote Branch](https://github.com/user-attachments/assets/6cfa19db-267e-4f38-bbbf-b0043b1bb14c)<br>
+- The Repository_Page now display the **Files** from the `Selected_Remote_Branch`:
+  ![Selected_Remote_Branch](https://github.com/user-attachments/assets/80087b3f-df2e-4f6e-ac8a-ddaf68748e21)<br>
+<br>
+
+---
+<br>
+
+## Rename Existing Local and Remote Branches:
 ### Create a Remote Branch:
 - **Navigate** to your `Github_Repository`.
 - **Click** on the `Branch Dropdown_Menu` to **Create** a `New Branch` in the Project:
