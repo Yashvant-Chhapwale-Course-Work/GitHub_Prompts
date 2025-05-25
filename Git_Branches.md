@@ -10,11 +10,12 @@
 | 1.  **What do we mean by `Branches`?**                                                                         | >> [` CHECK CONTENT `](#what-are-branches-in-github-)                                         |
 | 2.  **Create and Switch Branches [For `Local_Branches`]**                                                      | >> [` CHECK CONTENT `](#create-and-switch-branches-for-local-branches)                        |
 | 3.  **Create and Switch Branches [For `Remote_Branches`]**                                                     | >> [` CHECK CONTENT `](#create-and-switch-branches-for-remote-branches)                       |
-| 4.  **Rename `Branches`**                                                                                      | >> [` CHECK CONTENT `](#rename-existing-local-and-remote-branches)                           |
+| 4.  **Rename `Branches`**                                                                                      | >> [` CHECK CONTENT `](#rename-existing-local-and-remote-branches)                            |
 | 5.  **Fetch `Branches` for a `GitHub_Repository`**                                                             | >> [` CHECK CONTENT `](#fetching-branches)                                                    |
 | 6.  **Linking `Local_Branches` to `Remote_Branches`**                                                          | >> [` CHECK CONTENT `](#linking-local-and-remote-branches)                                    |
 | 7.  **Update `Upstream` for an Existing `Local_Branch`**                                                       | >> [` CHECK CONTENT `](#linking-existing-local-and-remote-branches)                           |
 | 8.  **Track `Upstream` Status for `Local_Branch`**                                                             | >> [` CHECK CONTENT `](#tracking-upstream-status-for-local-branch)                            |
+| 9.  **Delete `Local and Remote Branches`**                                                                     | >> [` CHECK CONTENT `](#deleting-local-and-remote-branches)                                   |
 
 </div>
 
@@ -271,6 +272,32 @@
   - Status of your `Local_Branch` (**ahead**, **behind** or **diverged**) with respect to the `Upstream_Branch`.
   - The **Latest** `Commit_Message` from each `Local_Branch`.
 - ![git branch -vv](https://github.com/user-attachments/assets/c0c8c5b3-e637-4347-8290-cb83c2ec6327)<br>
+<br>
+
+---
+<br>
+
+## Deleting Local and Remote Branches:
+### Deleting Local Branches (If the Branch is Fully Merged with the Main_Branch / Safe Delete):
+- Open your `Terminal`.
+- Paste the following **Command** in your `Terminal` to **Delete** a **Fully Merged** `Local_Branch`:
+  ```
+  git branch -d LOCAL_BRANCH
+  ```
+  `Note:`
+  - Replace `LOCAL_BRANCH` with the `Local_Branch_Name` to be **Deleted**.
+  - The `-d` **Flag** indicates **Git** to `DELETE` the `Local_Branch` only if it has been **Fully Merged** into the `Current_Branch` or any `Upstream_Branch`.
+<br>
+
+### Deleting Local Branches (If the Branch is Not Merged with the Main_Branch / Force Delete):
+- Open your `Terminal`.
+- Paste the following **Command** in your `Terminal` to **Delete** an **Unmerged** `Local_Branch`:
+  ```
+  git branch -D LOCAL_BRANCH
+  ```
+  `Note:` 
+  - Replace `LOCAL_BRANCH` with the `Local_Branch_Name` to be **Deleted**.
+  - The `-D` **Flag** indicates **Git** to `Force_DELETE` the `Local_Branch` even if it hasn't been **Merged**. 
 <br>
 
 ---
