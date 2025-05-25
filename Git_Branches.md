@@ -202,10 +202,14 @@
 ### What is meant by Upstream for a Local_Branch in Git ?  
 - `Upstream` in **Git** refers to the `Remote_Branch` that a `Local_Branch` is Set to **Track** or **Follow**.
 - It is the `Branch` on the `Remote_Repository` from which your `Local_Branch` **FETCHes / PULLs Changes** from and to which it **PUSHes Commits** to, by default.
-- **`Tracking Relationship:`** When you **Create** a `Local_Branch` to **Track** a `Remote_Branch`, then that `Remote_Branch` is the `Upstream_Branch`. It's like a `Reference_Point` on the `Remote_Repository` for your `Local_Branch`.
-- **`Default_Source for PULLs:`** When you **Run** `git pull` without any **Arguments**, **Git** knows which `Branch` to `PULL` changes from because the `Local_Branch` has an `Upstream_Branch` **Configured**.
-- **`Default_Target for PUSHes:`** Similarly, when you **Run** `git push` **without specifying** where to `PUSH`, **Git** `PUSHes` your `Local_Commits` to the **Configured** `Upstream_Branch`.
-- **`Synchronization:`** The `Upstream_Branch` is useful for **Synchronization**, as it helps you to know which `Branch` is being **Tracked Remotely** and whether your `Local_Branch` is **ahead**, **behind**, or **diverged** compared to it.
+- **`Tracking Relationship:`** <br>
+When you **Create** a `Local_Branch` to **Track** a `Remote_Branch`, then that `Remote_Branch` is the `Upstream_Branch`. It's like a `Reference_Point` on the `Remote_Repository` for your `Local_Branch`.
+- **`Default_Source for PULLs:`** <br>
+When you **Run** `git pull` without any **Arguments**, **Git** knows which `Branch` to `PULL` changes from because the `Local_Branch` has an `Upstream_Branch` **Configured**.
+- **`Default_Target for PUSHes:`** <br>
+Similarly, when you **Run** `git push` **without specifying** where to `PUSH`, **Git** `PUSHes` your `Local_Commits` to the **Configured** `Upstream_Branch`.
+- **`Synchronization:`** <br>
+The `Upstream_Branch` is useful for **Synchronization**, as it helps you to know which `Branch` is being **Tracked Remotely** and whether your `Local_Branch` is **ahead**, **behind**, or **diverged** compared to it.
 <br>
 
 ### Tracking
