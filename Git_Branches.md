@@ -202,10 +202,10 @@
 ### What is meant by Upstream for a Local_Branch in Git ?  
 - `Upstream` in **Git** refers to the `Remote_Branch` that a `Local_Branch` is Set to **Track** or **Follow**.
 - It is the `Branch` on the `Remote_Repository` from which your `Local_Branch` **FETCHes / PULLs Changes** from and to which it **PUSHes Commits** to, by default.
-- Tracking Relationship: When you create a local branch that tracks a remote branch, that remote branch is called the upstream branch. It is like a reference point for your local branch.
-- Default Source for Pulls: When you run git pull without any arguments, Git knows which branch to pull changes from because the local branch has an upstream branch configured.
-- Default Target for Pushes: Similarly, when you run git push without specifying where to push, Git pushes your local commits to the upstream branch.
-- Helps in Synchronization: The upstream branch is useful for synchronization — it helps you know what you are tracking remotely and whether your local branch is ahead, behind, or diverged compared to it.
+- **`Tracking Relationship:`** When you **Create** a `Local_Branch` to **Track** a `Remote_Branch`, then that `Remote_Branch` is the `Upstream_Branch`. It's like a `Reference_Point` on the `Remote_Repository` for your `Local_Branch`.
+- **`Default_Source for PULLs:`** When you **Run** `git pull` without any **Arguments**, **Git** knows which `Branch` to `PULL` changes from because the `Local_Branch` has an `Upstream_Branch` **Configured**.
+- **`Default_Target for PUSHes:`** Similarly, when you **Run** `git push` **without specifying** where to `PUSH`, **Git** `PUSHes` your `Local_Commits` to the **Configured** `Upstream_Branch`.
+- **`Synchronization:`** The `Upstream_Branch` is useful for **Synchronization**, as it helps you to know which `Branch` is being **Tracked Remotely** and whether your `Local_Branch` is **ahead**, **behind**, or **diverged** compared to it.
 <br>
 
 ### Tracking
