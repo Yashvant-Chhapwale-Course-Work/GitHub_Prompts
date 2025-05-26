@@ -343,7 +343,13 @@
    **OR**
 </div>
 
-- 
+- Open your `Terminal`.
+- Paste the following **Command** in your `Terminal` to **Prune** a `Remote_Branch_Reference` from your `Local_Repository`:
+  ```
+  git remote prune origin
+  ```
+  `Note:` The `--prune` **Flag** tells **Git** to **Remove** `References` to `Remote_Branches` that have been **Deleted on the Remote_Server**.<br>
+  ![git fetch --prune](https://github.com/user-attachments/assets/1b356e0a-1618-41b0-8459-d40cb2373e27)<br>
 <br>
 
 ---
