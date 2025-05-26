@@ -304,11 +304,11 @@
 - Open your `Terminal`.
 - Paste the following **Command** in your `Terminal` to **Delete** a **Specific** `Remote_Branch`:
   ```
-  git branch -D LOCAL_BRANCH
+  git push origin --delete REMOTE_BRANCH
   ```
-  `Note:` 
-  - Replace `LOCAL_BRANCH` with the `Local_Branch_Name` to be **Deleted**.
-  - The `-D` **Flag** indicates **Git** to `Force_DELETE` the `Local_Branch` even if it hasn't been **Merged**. 
+  `Note:` Replace `REMOTE_BRANCH` with the `Remote_Branch` which you want to **Delete**.<br>
+  ![git push origin --delete REMOTE_BRANCH](https://github.com/user-attachments/assets/092bb5b1-f308-40dd-9203-532324186d59)
+
 <br>
 
 ---
