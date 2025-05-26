@@ -335,9 +335,15 @@
   ```
   git fetch --prune
   ```
-  `Note:`
-  - Replace `LOCAL_BRANCH` with the `Local_Branch_Name` to be **Deleted**.
-  - The `-d` **Flag** indicates **Git** to `DELETE` the `Local_Branch` only if it has been **Fully Merged** into the `Current_Branch` or any `Upstream_Branch`.
+  `Note:` The `--prune` **Flag** tells **Git** to **Remove** `References` to `Remote_Branches` that have been **Deleted on the Remote_Server**.<br>
+  ![git fetch --prune](https://github.com/user-attachments/assets/1b356e0a-1618-41b0-8459-d40cb2373e27)<br>
+
+<div align="center"> 
+ 
+   **OR**
+</div>
+
+- 
 <br>
 
 ---
