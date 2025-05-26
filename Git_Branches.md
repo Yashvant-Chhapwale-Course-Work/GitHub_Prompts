@@ -319,7 +319,10 @@
   ![Branches Dropdown_Menu](https://github.com/user-attachments/assets/3ed22315-5d47-4e54-9db1-4465bbf5dec0)<br>
 - **Click** on `View all Branches` to **View** all **Existing** `Remote_Branches`.
   ![Branches Dropdown_Menu >> View all Branches](https://github.com/user-attachments/assets/78fb69b5-9da5-40a9-ab6f-3453bccc6676)<br>
-- 
+- **Click** on the `🗑️` (`Delete Branch`) **Icon** besides the `Remote_Branch` which you want to `Delete`.  
+  ![View all Branches >> `🗑️` Delete Branch](https://github.com/user-attachments/assets/8d20b664-2cc0-4122-a80d-c6e64e42464c)<br>
+- The **Deleted** `Remote_Branch` will be **no longer displayed** in the `Branch Dropdown_Menu`.
+  ![Branch `Deleted` Successfully](https://github.com/user-attachments/assets/7bf2c0bd-580b-4353-8677-753304980ef1)<br>
 <br>
 
 ---
