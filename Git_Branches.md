@@ -311,7 +311,7 @@
   
 <div align="center"> 
  
-      **OR**
+   **OR**
 </div>
 
 - Navigate to your `GitHub_Repository`.
