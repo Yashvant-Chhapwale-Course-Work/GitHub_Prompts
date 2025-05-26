@@ -331,9 +331,9 @@
 ## Pruning Stale Remote_Branch_References:
 ### Prune Stale Remote_Branch_References from Local_Repository:
 - Open your `Terminal`.
-- Paste the following **Command** in your `Terminal` to **Delete** a **Fully Merged** `Local_Branch`:
+- Paste the following **Command** in your `Terminal` to **Prune** a `Remote_Branch_Reference` from your `Local_Repository`:
   ```
-  git branch -d LOCAL_BRANCH
+  git fetch --prune
   ```
   `Note:`
   - Replace `LOCAL_BRANCH` with the `Local_Branch_Name` to be **Deleted**.
