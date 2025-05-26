@@ -315,6 +315,11 @@
 </div>
 
 - Navigate to your `GitHub_Repository`.
+- **Click** on the `Branch Dropdown_Menu`:
+  ![Branches Dropdown_Menu](https://github.com/user-attachments/assets/3ed22315-5d47-4e54-9db1-4465bbf5dec0)<br>
+- **Click** on `View all Branches` to **View** all **Existing** `Remote_Branches`.
+  ![Branches Dropdown_Menu >> View all Branches](https://github.com/user-attachments/assets/78fb69b5-9da5-40a9-ab6f-3453bccc6676)<br>
+- 
 <br>
 
 ---
