@@ -309,7 +309,8 @@
   `Note:` Replace `REMOTE_BRANCH` with the `Remote_Branch` which you want to **Delete**.<br>
   ![git push origin --delete REMOTE_BRANCH](https://github.com/user-attachments/assets/092bb5b1-f308-40dd-9203-532324186d59)<br>
   
-<div align="center">      
+<div align="center"> 
+ 
       **OR**
 </div>
 
