@@ -343,11 +343,11 @@ You can enhance Git operations in VS Code by downloading the following extension
 <br>
 
 ### Update GitHub_CLI (gh):
--  Visit the **Official** [`GitHub_CLI Releases`](https://github.com/cli/cli/releases) Page.
--  Download the appropriate `.msi Installer` for your System.
--  **Run** the `Installer`.
--  The `Installer` will automatically **Update** the `GitHub_CLI (gh)` to the **Latest** `gh_Version`.
--  - Use the following **Command** to verify the **Updated** `gh_Version`:
+- Visit the **Official** [`GitHub_CLI Releases`](https://github.com/cli/cli/releases) Page.
+- Download the appropriate `.msi Installer` for your System.
+- **Run** the `Installer`.
+- The `Installer` will automatically **Update** the `GitHub_CLI (gh)` to the **Latest** `gh_Version`.
+- Use the following **Command** to verify the **Updated** `gh_Version`:
   ```
   gh --version
   ```
