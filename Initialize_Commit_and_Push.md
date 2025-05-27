@@ -7,7 +7,7 @@
  
 | TITLE                                                                                                           | SECTION_LINK                                                                                  |
 |-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| 1 .  **What do we mean by `Branches`?**                                                                         | >> [` CHECK CONTENT `](#what-are-branches-in-github-)                                         |
+| 1 .  **What are `Unstaged_Chnages`?**                                                                           | >> [` CHECK CONTENT `](#what-are-unstaged_changes-)                                            |
 | 2 .  **Create and Switch Branches [For `Local_Branches`]**                                                      | >> [` CHECK CONTENT `](#create-and-switch-branches-for-local-branches)                        |
 | 3 .  **Create and Switch Branches [For `Remote_Branches`]**                                                     | >> [` CHECK CONTENT `](#create-and-switch-branches-for-remote-branches)                       |
 | 4 .  **Rename `Branches`**                                                                                      | >> [` CHECK CONTENT `](#rename-existing-local-and-remote-branches)                            |
@@ -22,3 +22,9 @@
 ---
 <br>
 
+## What are Unstaged_Changes ?
+
+<br>
+
+---
+<br>
