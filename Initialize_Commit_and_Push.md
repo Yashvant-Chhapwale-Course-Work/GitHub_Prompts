@@ -42,6 +42,7 @@
   git add FILENAME
   ```
   `Note:` Replace `FILENAME` with the `Modified File's Name`.
+  ![git add FILENAME](https://github.com/user-attachments/assets/8968b76f-fede-4570-866a-c5070409e633)
 <br>
 
 ### Staging All Modifications
@@ -50,6 +51,7 @@
   ```
   git add .
   ```
+  ![git add .](https://github.com/user-attachments/assets/95236627-7eae-48c5-88dd-59db93b9a06b)
 <br>
 
 ---
