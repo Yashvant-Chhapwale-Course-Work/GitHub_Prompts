@@ -54,13 +54,16 @@
   ![git add .](https://github.com/user-attachments/assets/95236627-7eae-48c5-88dd-59db93b9a06b)
 <br>
 
-### Staging Modifications using VS_Code
-- Navigate to the `VS_Code Source_Control` **Tool**.
-- 
+### Staging Modifications Using VS_Code
+- Open the `Source_Control Tool` in `VS_Code`.
+- Under the `Changes_Section`, you will see a **List of Files** that have been `Modified` but remain `Unstaged`.
+- **Click** on the `+` Icon on the **Right_Side** of any `Listed Modified_File` to `Stage` that **File**.<br>
 <div align="center"> 
  
    **OR**
-</div>
+</div>  
+
+**Click** on the `+` Icon at the **Top** of the `Changes_List` in the `Changes_Section` to `Stage` all the `Unstaged_Changes`.<br>
 
 ---
 <br>
