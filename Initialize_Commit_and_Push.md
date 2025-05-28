@@ -9,6 +9,8 @@
 |-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | 1 .  **What are `Unstaged_Chnages`?**                                                                           | >> [` CHECK CONTENT `](#what-are-unstaged_changes-)                                           |
 | 2 .  **Initializing & `Staging` the `Unstaged_Changes`**                                                        | >> [` CHECK CONTENT `](#staging-modifications)                                                |
+| 3 .  **`Unstaging` the `Staged_Changes`**                                                                       | >> [` CHECK CONTENT `](#unstaging-the-staged_modifications)                                   |
+
 </div>
 
 ---
@@ -29,13 +31,13 @@
 ---
 <br>
 
-## Staging Modifications:
+## Staging Modifications
 - `Staging` refers to the process of `Adding Modified_Files` to the `Staging_Area` in **Git**, preparing them to be included in the next `COMMIT`.
 - The `Staging_Area` in **Git** is an `Intermediate_Space` where changes are gathered before `COMMITing` them to the `Remote_Repository`. It allows you to **review** and **organize** which **specific modifications** you want to include in the next `COMMIT`. 
 - This step is done using the `git add` **Command**, which allows you to **selectively** decide which **Modifications** should be recorded in the `Version_History`.
 <br>
 
-### Staging Specific Files
+### Staging Specific Files:
 - Open your `Terminal`.
 - You can `Stage` a **Specific Modified_File** using the following **Command**:
   ```
@@ -45,7 +47,7 @@
   ![git add FILENAME](https://github.com/user-attachments/assets/8968b76f-fede-4570-866a-c5070409e633)
 <br>
 
-### Staging All Modifications
+### Staging All Modifications:
 - Open your `Terminal`.
 - You can `Stage` all **Modifications** using the following **Command**:
   ```
@@ -54,7 +56,51 @@
   ![git add .](https://github.com/user-attachments/assets/95236627-7eae-48c5-88dd-59db93b9a06b)
 <br>
 
-### Staging Modifications Using VS_Code
+### Staging Modifications Using VS_Code:
+- Open the `Source_Control Tool` in `VS_Code`.
+- Under the `Changes_Section`, you will see a **List of Files** that have been `Modified` but remain `Unstaged`.
+- **Click** on the `+` Icon on the **Right_Side** of any `Listed Modified_File` to `Stage Changes` to that **File**.<br>
+  ![VS_Code Source_Control >> Stage Changes (`+`)](https://github.com/user-attachments/assets/bf5badcd-8f6d-47a9-8713-109f6e0d7d3e)<br>
+  <div align="center"> 
+ 
+     **OR**
+  </div>  
+
+  **Click** on the `+` Icon at the **Top** of the `Changes_List` in the `Changes_Section` to `Stage all Changes`.<br>
+  ![VS_Code Source_Control >> Stage all Changes (`+`)](https://github.com/user-attachments/assets/ee5db5fe-5861-4847-ac94-d38e1fbf110d)<br>
+- After `Staging` the `Modified_Files` they will appear under the `Staged Changes _ Section` as follows:<br>
+  ![VS_Code Source_Control >> Staged Changes _ Section](https://github.com/user-attachments/assets/d91f9d27-b8e7-4d2b-8782-20a66ab60b32)<br>
+<br>
+
+---
+<br>
+
+## Unstaging the Staged_Modifications
+- `Staging` refers to the process of `Adding Modified_Files` to the `Staging_Area` in **Git**, preparing them to be included in the next `COMMIT`.
+- The `Staging_Area` in **Git** is an `Intermediate_Space` where changes are gathered before `COMMITing` them to the `Remote_Repository`. It allows you to **review** and **organize** which **specific modifications** you want to include in the next `COMMIT`. 
+- This step is done using the `git add` **Command**, which allows you to **selectively** decide which **Modifications** should be recorded in the `Version_History`.
+<br>
+
+### Staging Specific Files:
+- Open your `Terminal`.
+- You can `Stage` a **Specific Modified_File** using the following **Command**:
+  ```
+  git add FILENAME
+  ```
+  `Note:` Replace `FILENAME` with the `Modified File's Name`.
+  ![git add FILENAME](https://github.com/user-attachments/assets/8968b76f-fede-4570-866a-c5070409e633)
+<br>
+
+### Staging All Modifications:
+- Open your `Terminal`.
+- You can `Stage` all **Modifications** using the following **Command**:
+  ```
+  git add .
+  ```
+  ![git add .](https://github.com/user-attachments/assets/95236627-7eae-48c5-88dd-59db93b9a06b)
+<br>
+
+### Staging Modifications Using VS_Code:
 - Open the `Source_Control Tool` in `VS_Code`.
 - Under the `Changes_Section`, you will see a **List of Files** that have been `Modified` but remain `Unstaged`.
 - **Click** on the `+` Icon on the **Right_Side** of any `Listed Modified_File` to `Stage Changes` to that **File**.<br>
