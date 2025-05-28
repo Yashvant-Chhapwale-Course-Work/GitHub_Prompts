@@ -44,7 +44,21 @@
 <br>
 
 ### Staging Specific Files
+- Open your `Terminal`.
+- You can `Stage` a **Specific Modified_File** using the following **Command**:
+  ```
+  git add FILENAME
+  ```
+  `Note:` Replace `FILENAME` with the `Modified File's Name`.
+<br>
 
+### Staging All Modifications
+- Open your `Terminal`.
+- You can `Stage` all **Modifications** using the following **Command**:
+  ```
+  git add .
+  ```
+<br>
 
 ---
 <br>
