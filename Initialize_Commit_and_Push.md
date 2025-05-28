@@ -93,7 +93,7 @@
 
 ### Staging All Modifications:
 - Open your `Terminal`.
-- You can `Stage` all **Modifications** using the following **Command**:
+- You can `Stage` all/multiple **Modifications** using the following **Command**:
   ```
   git add .
   ```
