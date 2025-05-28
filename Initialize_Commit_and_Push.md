@@ -69,7 +69,7 @@
   **Click** on the `+` Icon at the **Top** of the `Changes_List` in the `Changes_Section` to `Stage all Changes`.<br>
   ![VS_Code Source_Control >> Stage all Changes (`+`)](https://github.com/user-attachments/assets/ee5db5fe-5861-4847-ac94-d38e1fbf110d)<br>
 - After `Staging` the `Modified_Files` they will appear under the `Staged Changes _ Section` as follows:<br>
-  ![VS_Code Source_Control >> Staged Changes _ Section](https://github.com/user-attachments/assets/d91f9d27-b8e7-4d2b-8782-20a66ab60b32)<br>
+  ![VS_Code Source_Control >> Staged Changes _ Section](https://github.com/user-attachments/assets/7849e88d-5364-448b-a959-a950e052100a)<br>
 <br>
 
 ---
