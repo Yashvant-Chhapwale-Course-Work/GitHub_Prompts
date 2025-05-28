@@ -54,6 +54,14 @@
   ![git add .](https://github.com/user-attachments/assets/95236627-7eae-48c5-88dd-59db93b9a06b)
 <br>
 
+### Staging Modifications using VS_Code
+- Navigate to the `VS_Code Source_Control` **Tool**.
+- 
+<div align="center"> 
+ 
+   **OR**
+</div>
+
 ---
 <br>
 
