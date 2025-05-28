@@ -58,13 +58,14 @@
 - Open the `Source_Control Tool` in `VS_Code`.
 - Under the `Changes_Section`, you will see a **List of Files** that have been `Modified` but remain `Unstaged`.
 - **Click** on the `+` Icon on the **Right_Side** of any `Listed Modified_File` to `Stage` that **File**.<br>
-<div align="center"> 
+  ![VS_Code Source_Control >> Stage Changes (`+`)](https://github.com/user-attachments/assets/ff240b25-6472-45b5-b06a-737817457e60)<br>
+  <div align="center"> 
  
-   **OR**
-</div>  
+     **OR**
+  </div>  
 
-**Click** on the `+` Icon at the **Top** of the `Changes_List` in the `Changes_Section` to `Stage` all the `Unstaged_Changes`.<br>
-
+  **Click** on the `+` Icon at the **Top** of the `Changes_List` in the `Changes_Section` to `Stage` all the `Unstaged_Changes`.<br>
+  ![VS_Code Source_Control >> Stage all Changes (`+`)](https://github.com/user-attachments/assets/acf3b8e1-3bbb-46fd-b715-c24563272d98)<br>
 ---
 <br>
 
