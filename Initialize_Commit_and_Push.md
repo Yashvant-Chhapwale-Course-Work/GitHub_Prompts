@@ -150,10 +150,9 @@
 
 ### Commiting the Staged_Changes Using VS_Code Source_Control Tool:
 - Open the `Source_Control Tool` in `VS_Code`.
-- Click the `✔ Commit` Button to `COMMIT` the **Files** listed under the `Staged Changes _ Section`.<br>
-  ![VS_Code Source_Control >> Click `✔ Commit` Button](https://github.com/user-attachments/assets/8fbe46f5-a385-4775-8494-8bd258b420fd)<br>
-- The `Unstaged_Changes` will now appear back under the `Changes_Section` as follows:<br>
-  ![VS_Code Source_Control >> Changes_Section](https://github.com/user-attachments/assets/7ac6cc17-27c0-413f-93ec-77bbfea58833)<br>
+- Enter a `"COMMIT_MESSAGE"` in the `Input Box` and Click the `✔ Commit` Button to `COMMIT` the **Files** listed under the `Staged Changes _ Section`.<br>
+  ![VS_Code Source_Control >> Enter `COMMIT MESSAGE` >> Click `✔ Commit` Button](https://github.com/user-attachments/assets/54724371-c840-48e7-b791-c3df343c365e)<br>
+- The `Staged_Changes` have been `Recorded / Commited` successfully!
 <br>
   
 ---
