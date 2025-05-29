@@ -11,8 +11,7 @@
 | 2 .  **Initializing & `Staging` the `Unstaged_Changes`**                                                        | >> [` CHECK CONTENT `](#staging-modifications)                                                |
 | 3 .  **`Unstaging` the `Staged_Changes`**                                                                       | >> [` CHECK CONTENT `](#unstaging-the-staged_modifications)                                   |
 | 4 .  **`Commit` the `Staged_Changes`**                                                                          | >> [` CHECK CONTENT `](#commit-the-staged_modifications)                                      |
-
-
+| 5 .  **`Pushing` the `Commits`**                                                                                | >> [` CHECK CONTENT `](#pushing-commits-to-the-remote_repository)                             |
 </div>
 
 ---
@@ -126,6 +125,39 @@
 <br>
 
 ## Commit the Staged_Modifications
+- A `COMMIT` in **Git** is a **Snapshot** of the `Staged_Changes` at a specific point in time.
+- It **Records** the `Staged_Changes` currently present in the **Git** `Staging_Area` into the `Repository’s Commit_History`.
+- Note that , only `Staged_Changes` can be included in the `COMMIT`.
+<br>
+
+### Commiting the Staged_Changes:
+- Open your `Terminal`.
+- Use the following **Command** to `COMMIT` the **Files** in the `Staging_Area`:
+  ```
+  git commit -m "COMMIT_MESSAGE"
+  ```
+  `Note:` Replace `COMMIT_MESSAGE` with an **appropriate** `Title / Message` to identify each `COMMIT`.<br>
+  ![git add hello.txt >> git commit -m "Demo Commit"](https://github.com/user-attachments/assets/5059a791-bfd6-424f-a136-ac672a28d45d)<br>
+   <div align="center"> 
+ 
+     **OR**
+  </div> 
+
+  ![git add . >> git commit -m "Demo Commit"](https://github.com/user-attachments/assets/a5ed2a7d-d7ab-4874-9cbb-3e0e0c048cb4)<br>
+  <br>
+<br>
+
+### Commiting the Staged_Changes Using VS_Code Source_Control Tool:
+- Open the `Source_Control Tool` in `VS_Code`.
+- Enter a `"COMMIT_MESSAGE"` in the `Input Box` and Click the `✔ Commit` Button to `COMMIT` the **Files** listed under the `Staged Changes _ Section`.<br>
+  ![VS_Code Source_Control >> Enter `COMMIT MESSAGE` >> Click `✔ Commit` Button](https://github.com/user-attachments/assets/54724371-c840-48e7-b791-c3df343c365e)<br>
+- The `Staged_Changes` have been `Recorded / Commited` successfully!
+<br>
+  
+---
+<br>
+
+## Pushing Commits to the Remote_Repository
 - A `COMMIT` in **Git** is a **Snapshot** of the `Staged_Changes` at a specific point in time.
 - It **Records** the `Staged_Changes` currently present in the **Git** `Staging_Area` into the `Repository’s Commit_History`.
 - Note that , only `Staged_Changes` can be included in the `COMMIT`.
