@@ -126,31 +126,26 @@
 <br>
 
 ## Commit the Staged_Modifications
-- `Unstaging` the `Staged_Modifications` refers to the process of **Removing Changes** from the **Git** `Staging_Area` while keeping those changes **intact** in the `Working Directory`.
-- This allows you to **Continue Editing or Selectively Stage Files** again later without Losing any Changes.
-- It simply **Removes** Files from the `Staging_Area`, so they **won’t be included** in the next `COMMIT` unless `Staged` again.
+- A `COMMIT` in **Git** is a **Snapshot** of the `Staged_Changes` at a specific point in time.
+- It **Records** the `Staged_Changes` currently present in the **Git** `Staging_Area` into the `Repository’s Commit_History`.
+- Note that , only `Staged_Changes` can be included in the `COMMIT`.
 <br>
 
-### Unstaging a Specific Staged_File:
+### Commiting the Staged_Changes:
 - Open your `Terminal`.
-- You can `Unstage` a **Specific File** from the `Staging_Area` using the following **Command**:
+- Use the following **Command** to `COMMIT` the **Files** in the `Staging_Area:
   ```
-  git restore --staged FILENAME
+  git commit -m "COMMIT_MESSAGE"
   ```
-  `Note:` Replace `FILENAME` with the `Staged File's Name` which you want to `Unstage`.<br>
-  The `--staged` **Flag** is used for **Targeting** Specific Files that are currently in the `Staging_Area`.
-  ![git restore --staged FILENAME](https://github.com/user-attachments/assets/3c9900bc-9412-48f3-aad2-04095e4616f0)<br>
-<br>
+  `Note:` Replace `COMMIT_MESSAGE` with an **appropriate** `Title / Message` to identify each `COMMIT`.<br>
+  ![git add hello.txt >> git commit -m "Demo Commit"](https://github.com/user-attachments/assets/5059a791-bfd6-424f-a136-ac672a28d45d)<br>
+   <div align="center"> 
+ 
+     **OR**
+  </div> 
 
-### Unstaging All Staged_Files:
-- Open your `Terminal`.
-- You can `Unstage` all/multiple **Files** from the `Staging_Area` using the following **Command**:
-  ```
-  git restore --staged .
-  ```
-  `Note:` The `.` refers to all `Staged_Files` in the **Git's** `Staging_Area` for `Current_Repository`.<br>
-  The `--staged` **Flag** is used for **Targeting** Files that are currently in the `Staging_Area`.
-  ![git restore --staged .](https://github.com/user-attachments/assets/0f8b6499-0851-42b4-93d6-c7526405e831)<br>
+  ![git add . >> git commit -m "Demo Commit"](https://github.com/user-attachments/assets/a5ed2a7d-d7ab-4874-9cbb-3e0e0c048cb4)<br>
+  <br>
 <br>
 
 ### Unstaging Files Using VS_Code Source_Control Tool:
