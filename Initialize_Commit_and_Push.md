@@ -88,7 +88,8 @@
   ```
   git restore --staged FILENAME
   ```
-  `Note:` Replace `FILENAME` with the `Staged File's Name` which you want to `Unstage`.
+  `Note:` Replace `FILENAME` with the `Staged File's Name` which you want to `Unstage`.<br>
+  The `--staged` **Flag** is used for **Targeting** Specific Files that are currently in the `Staging_Area`.
   ![git restore --staged FILENAME](https://github.com/user-attachments/assets/3c9900bc-9412-48f3-aad2-04095e4616f0)<br>
 <br>
 
@@ -98,8 +99,9 @@
   ```
   git restore --staged .
   ```
-  `Note:` The `.` refers to all `Staged_Files` in the **Git's** `Staging_Area` for `Current_Repository`.
-  ![git add .](https://github.com/user-attachments/assets/95236627-7eae-48c5-88dd-59db93b9a06b)
+  `Note:` The `.` refers to all `Staged_Files` in the **Git's** `Staging_Area` for `Current_Repository`.<br>
+  The `--staged` **Flag** is used for **Targeting** Files that are currently in the `Staging_Area`.
+  ![git restore --staged .](https://github.com/user-attachments/assets/0f8b6499-0851-42b4-93d6-c7526405e831)<br>
 <br>
 
 ### Unstaging Files Using VS_Code Source_Control Tool:
