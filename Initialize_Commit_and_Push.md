@@ -107,14 +107,14 @@
 ### Unstaging Files Using VS_Code Source_Control Tool:
 - Open the `Source_Control Tool` in `VS_Code`.
 - Under the `Staged Changes _ Section`, you will see a **List of Files** that have been `Staged` in the **Git's** `Staging_Area`.
-- **Click** on the `-` Icon on the **Right_Side** of any `Listed Modified_File` to `Stage Changes` to that **File**.<br>
+- **Click** on the `-` Icon on the **Right_Side** of any `Listed Staged_File` to `Unstage` that **File**.<br>
   ![VS_Code Source_Control >> Stage Changes (`+`)](https://github.com/user-attachments/assets/bf5badcd-8f6d-47a9-8713-109f6e0d7d3e)<br>
   <div align="center"> 
  
      **OR**
   </div>  
 
-  **Click** on the `+` Icon at the **Top** of the `Changes_List` in the `Changes_Section` to `Stage all Changes`.<br>
+  **Click** on the `-` Icon at the **Top** of the `Staged_List` in the `Staged Changes _ Section` to `Unstage all Staged_Files`.<br>
   ![VS_Code Source_Control >> Stage all Changes (`+`)](https://github.com/user-attachments/assets/ee5db5fe-5861-4847-ac94-d38e1fbf110d)<br>
 ---
 <br>
