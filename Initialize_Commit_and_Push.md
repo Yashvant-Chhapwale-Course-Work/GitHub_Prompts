@@ -89,7 +89,7 @@
   git restore --staged FILENAME
   ```
   `Note:` Replace `FILENAME` with the `Staged File's Name` which you want to `Unstage`.
-  ![git restore --staged FILENAME](https://github.com/user-attachments/assets/3c9900bc-9412-48f3-aad2-04095e4616f0)c5070409e633)<br>
+  ![git restore --staged FILENAME](https://github.com/user-attachments/assets/3c9900bc-9412-48f3-aad2-04095e4616f0)<br>
 <br>
 
 ### Unstaging All Staged_Files:
