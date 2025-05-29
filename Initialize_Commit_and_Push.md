@@ -165,18 +165,36 @@
 
 ### Pushing Local_Commits:
 - Open your `Terminal`.
-- Use the following **Command** to `PUSH` the `Local_Commits` to the `Remote_Repository`:
+- **Use the following **Commands** to `PUSH` the `Local_Commits` to the `Remote_Repository`:**<br>
+  Use this **Command** if the `Remote_Tracking Branch` is not Set and you need to **define** it. This **Command** is generally used for `Pushing the First Commit` from a `Local_Repository` to a `Remote_Repository`. 
   ```
   git push -u origin main
   ```
-  `Note:` Replace `COMMIT_MESSAGE` with an **appropriate** `Title / Message` to identify each `COMMIT`.<br>
-  ![git add hello.txt >> git commit -m "Demo Commit"](https://github.com/user-attachments/assets/5059a791-bfd6-424f-a136-ac672a28d45d)<br>
+  `Note:` 
+  - The `-u` **Flag** is shorthand for `--set-upstream`. It is used to **Set** the `Remote_Branch` that your `LOCAL_BRANCH` is **Tracking**.<br>
+    It tells `Git`:
+    - Where to `pull from` when you **Run** `git pull`.
+    - Where to `push to` when you **Run** `git push`.
+  - The `origin` refers to the `Remote_Repository` where the `Remote_Branch` is to be **Established**.
+  - [Learn more about Git_Branches](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Branches.md).
+  ![git push -u origin main](https://github.com/user-attachments/assets/56d8424e-edcf-4d71-83b6-dea2ef50d353)<br>
    <div align="center"> 
  
      **OR**
   </div> 
+  <br>
+  
+  Use this **Command** if the `Remote_Tracking Branch` is already **defined** for and **tracked** by the `Local_Repository` (specifically, `Current Local_Branch`).
+  ```
+  git push
+  ```
+  ![git add hello.txt >> git commit -m "Demo Commit" >> git push](https://github.com/user-attachments/assets/91ca65da-9130-4520-8b4f-ce96819eca23)<br>
+  <div align="center"> 
+ 
+     **OR**
+  </div> 
 
-  ![git add . >> git commit -m "Demo Commit"](https://github.com/user-attachments/assets/a5ed2a7d-d7ab-4874-9cbb-3e0e0c048cb4)<br>
+  ![git add . >> git commit -m "Demo Commit" >> git push](https://github.com/user-attachments/assets/9d2f32ba-f140-4cfc-bb99-573c197f68b1)<br>
   <br>
 <br>
 
