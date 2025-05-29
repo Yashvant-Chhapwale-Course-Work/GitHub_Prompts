@@ -44,7 +44,7 @@
   git add FILENAME
   ```
   `Note:` Replace `FILENAME` with the `Modified File's Name`.
-  ![git add FILENAME](https://github.com/user-attachments/assets/8968b76f-fede-4570-866a-c5070409e633)
+  ![git add FILENAME](https://github.com/user-attachments/assets/8968b76f-fede-4570-866a-c5070409e633)<br>
 <br>
 
 ### Staging All Modifications:
@@ -54,7 +54,7 @@
   git add .
   ```
   `Note:` The `.` refers to all `Modified_Files` in the `Current Directory` and its `SubDirectories`.
-  ![git add .](https://github.com/user-attachments/assets/95236627-7eae-48c5-88dd-59db93b9a06b)
+  ![git add .](https://github.com/user-attachments/assets/95236627-7eae-48c5-88dd-59db93b9a06b)<br>
 <br>
 
 ### Staging Modifications Using VS_Code Source_Control Tool:
@@ -89,7 +89,7 @@
   git restore --staged FILENAME
   ```
   `Note:` Replace `FILENAME` with the `Staged File's Name` which you want to `Unstage`.
-  ![git add FILENAME](https://github.com/user-attachments/assets/8968b76f-fede-4570-866a-c5070409e633)
+  ![git restore --staged FILENAME](https://github.com/user-attachments/assets/3c9900bc-9412-48f3-aad2-04095e4616f0)c5070409e633)<br>
 <br>
 
 ### Unstaging All Staged_Files:
