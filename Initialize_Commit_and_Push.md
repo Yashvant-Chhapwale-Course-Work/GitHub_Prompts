@@ -198,11 +198,12 @@
   <br>
 <br>
 
-### Commiting the Staged_Changes Using VS_Code Source_Control Tool:
+### Pushing the Commits Using VS_Code Source_Control Tool:
 - Open the `Source_Control Tool` in `VS_Code`.
-- Enter a `"COMMIT_MESSAGE"` in the `Input Box` and Click the `✔ Commit` Button to `COMMIT` the **Files** listed under the `Staged Changes _ Section`.<br>
-  ![VS_Code Source_Control >> Enter `COMMIT MESSAGE` >> Click `✔ Commit` Button](https://github.com/user-attachments/assets/54724371-c840-48e7-b791-c3df343c365e)<br>
-- The `Staged_Changes` have been `Recorded / Commited` successfully!
+- Click the `↻ Sync Changes` Button to `PUSH` the `Local_Commits` to the `Remote_Repository`.<br>
+  ![VS_Code Source_Control >> Enter `COMMIT MESSAGE` >> Click `✔ Commit` Button >> Click `↻ Sync Changes` Button](https://github.com/user-attachments/assets/db250dd5-29c8-45f8-8bf3-94d06e6deb74)<br>
+- You can track the `PUSHed COMMITs` through the `Graph / Commit_Tree` displayed at the **Bottom** of the `VS_Code Source_Control Tool`.
+  ![VS_Code Source_Control Tool >> Graph / Commit_Tree](https://github.com/user-attachments/assets/c0bbc6a5-ba9c-4c01-ace6-8b6f1a90b879)<br>
 <br>
   
 ---
