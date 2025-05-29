@@ -148,18 +148,10 @@
   <br>
 <br>
 
-### Unstaging Files Using VS_Code Source_Control Tool:
+### Commiting the Staged_Changes Using VS_Code Source_Control Tool:
 - Open the `Source_Control Tool` in `VS_Code`.
-- Under the `Staged Changes _ Section`, you will see a **List of Files** that have been `Staged` in the **Git's** `Staging_Area`.
-- **Click** on the `-` Icon on the **Right_Side** of any `Listed Staged_File` to `Unstage` that **File**.<br>
-  ![VS_Code Source_Control >> Unstage Changes (`-`)](https://github.com/user-attachments/assets/c28ceae4-f053-477f-8f1a-def99814be7c)<br>
-  <div align="center"> 
- 
-     **OR**
-  </div>  
-
-  **Click** on the `-` Icon at the **Top** of the `Staged_List` in the `Staged Changes _ Section` to `Unstage all Staged_Files`.<br>
-  ![VS_Code Source_Control >> Unstage all Changes (`-`)](https://github.com/user-attachments/assets/ffab2f7d-d4e8-46e6-a9fa-6e4ea6d0963b)<br>
+- Click the `✔ Commit` Button to `COMMIT` the **Files** listed under the `Staged Changes _ Section`.<br>
+  ![VS_Code Source_Control >> Click `✔ Commit` Button](https://github.com/user-attachments/assets/8fbe46f5-a385-4775-8494-8bd258b420fd)<br>
 - The `Unstaged_Changes` will now appear back under the `Changes_Section` as follows:<br>
   ![VS_Code Source_Control >> Changes_Section](https://github.com/user-attachments/assets/7ac6cc17-27c0-413f-93ec-77bbfea58833)<br>
 <br>
