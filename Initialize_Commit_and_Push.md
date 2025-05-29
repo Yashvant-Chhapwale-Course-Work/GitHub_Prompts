@@ -133,7 +133,7 @@
 
 ### Commiting the Staged_Changes:
 - Open your `Terminal`.
-- Use the following **Command** to `COMMIT` the **Files** in the `Staging_Area:
+- Use the following **Command** to `COMMIT` the **Files** in the `Staging_Area`:
   ```
   git commit -m "COMMIT_MESSAGE"
   ```
