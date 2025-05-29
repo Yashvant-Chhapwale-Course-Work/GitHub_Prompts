@@ -125,16 +125,15 @@
 <br>
 
 ## Commit the Staged_Modifications
-- A `COMMIT` in **Git** is a **Snapshot** of the `Staged_Changes` at a specific point in time.
-- It **Records** the `Staged_Changes` currently present in the **Git** `Staging_Area` into the `Repository’s Commit_History`.
-- Note that , only `Staged_Changes` can be included in the `COMMIT`.
+- `PUSH` is a **Git_Operation** that Uploads your `Local_Commits` from your `Local_System` to a `Remote_Repository`.
+- This ensures that the `Remote_version of the Project` is **up-to-date** with your **Latest Changes**.
 <br>
 
-### Commiting the Staged_Changes:
+### Pushing Local_Commits:
 - Open your `Terminal`.
-- Use the following **Command** to `COMMIT` the **Files** in the `Staging_Area`:
+- Use the following **Command** to `PUSH` the `Local_Commits` to the `Remote_Repository`:
   ```
-  git commit -m "COMMIT_MESSAGE"
+  git push -u origin main
   ```
   `Note:` Replace `COMMIT_MESSAGE` with an **appropriate** `Title / Message` to identify each `COMMIT`.<br>
   ![git add hello.txt >> git commit -m "Demo Commit"](https://github.com/user-attachments/assets/5059a791-bfd6-424f-a136-ac672a28d45d)<br>
