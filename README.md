@@ -19,7 +19,8 @@
 | 5.  **Managing Remote_Repositories**                                                                           | >> [` CHECK CONTENT `](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Remote_Repositories.md)                                          |
 | 6.  **Git Branches**                                                                                           | >> [` CHECK CONTENT `](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Branches.md)                                                 |
 | 7.  **Initialize-Commit-And-Push Requests**                                                                    | >> [` CHECK CONTENT `](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Initialize_Commit_and_Push.md)                                   |
-| 8.  **Update Git & GitHub_CLI [For Windows]**                                                                  | >> [` CHECK CONTENT `](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Setup.md#update-git--github_cli-gh-for-windows)              |
+| 8.  **Git Clone and Fork**                                                                                     | >> [` CHECK CONTENT `](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Clone_and_Fork.md)                                           |
+| 9.  **Update Git & GitHub_CLI [For Windows]**                                                                  | >> [` CHECK CONTENT `](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Setup.md#update-git--github_cli-gh-for-windows)              |
 </div>
 
 ---
