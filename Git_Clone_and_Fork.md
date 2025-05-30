@@ -20,13 +20,15 @@
 - In case of a `Public_Repository`, anyone can `CLONE` the `Remote_Repository` and require **No Special Access** (Ex: `Owner`, `Collaborator`, etc).
 - For `Private_Repository`, you require **Explicit Permission** to `CLONE` the `Remote_Repository` from the **Owner** or require to be added as a **Collaborator** to the `Remote_Repository`.<br>
 
+<div align="center">
+
 |**Access Level** | **Can Clone?**  | **Can Push?** | **Can Manage Repo?** |
 | --------------- | --------------- | ------------- | -------------------- |
 |**Read**         | ✅ Yes         | ❌ No         | ❌ No               |
 | **Write**       | ✅ Yes         | ✅ Yes        | ❌ No               |
 | **Admin**       | ✅ Yes         | ✅ Yes        | ✅ Yes              | 
 | **Owner** (org) | ✅ Yes         | ✅ Yes        | ✅ Yes              |
-<br>
+</div>
 
 ---
 <br>
