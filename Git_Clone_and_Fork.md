@@ -9,8 +9,7 @@
 |-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | 1 .  **What do we mean by `Cloning` a `Remote_Repository`?**                                                    | >> [` CHECK CONTENT `](#what-do-we-mean-by-cloning-a-remote_repository)                       |
 | 2 .  **`Cloning` a `Remote_Repository`**                                                                        | >> [` CHECK CONTENT `](#cloning-remote_repository-to-local_system)                            |
-<div>
-<br>
+</div>
  
 ---
 <br>
