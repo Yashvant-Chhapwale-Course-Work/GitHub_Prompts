@@ -44,6 +44,14 @@
     ```
     `Note:` Substitute **'USERNAME'** with your **'GitHub_Username'** and **'REPOSITORY-NAME'** with your **'Remote Repository_Name'** `OR` **PASTE** your `Repository_URL` instead.<br>
     [`Learn more about Managing Remote_Repositories`](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Remote_Repositories.md)<br>
+  - Now, if you have `Not Signed_In` with your `GitHub_Account`, `Signed_In` with a `Different GitHub_Account` than the **Account** on which the `Remote_Reposiotry` **Lies** or other such reasons causing an `Account or Ownership Mismatch`, then on executing the above **Command** **Git** might throw an error as follows:<br>
+    ![`dubious_ownership` Error](https://github.com/user-attachments/assets/c11a934a-0eb5-4a6f-8b82-aec61df23343)<br>
+    The above `Error` simply states that, **Git** cannot verify **Ownership** of the `Local_Repository / Directory` as you might be working on an `External Drive`, a `Shared Folder` or a `Different User_Account`.<br>
+    Use the following **Command** in your `Terminal` to **Resolve** this `Error`:
+    ```
+    git config --global --add safe.directory "Path/To/Local_Repository"
+    ```
+    This **Command** flags the `Local_Repository` to be **Safe** and **Trustworthy** to work in.
   - Use the `add` Command to `Stage` any Unstaged (New) Changes >> Use the `commit` Command to `Save` the Staged Changes to the Repository.
     ```
     git add .
