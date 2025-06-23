@@ -170,13 +170,22 @@
   ```
   git push -u origin main
   ```
+  <div align="center"> 
+ 
+     **OR**
+  </div> 
+
+  ```
+  git push -u origin main --force
+  ```
   `Note:` 
   - The `-u` **Flag** is shorthand for `--set-upstream`. It is used to **Set** the `Remote_Branch` that your `LOCAL_BRANCH` is **Tracking**.<br>
   - It tells `Git`:
     - Where to `pull from` when you **Run** `git pull`.
     - Where to `push to` when you **Run** `git push`.<br>
   - The `origin` refers to the `Remote_Repository` where the `Remote_Branch` is to be **Established**.<br>
-  - [**`Learn more about Git_Branches`**](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Branches.md).<br>
+  - [**`Learn more about Git_Branches`**](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Branches.md).
+  - The `--force`flag **Forces** the `PUSH`, even if it **overwrites changes** on the `Remote Branch`. Use it **Cautiously** and Only if you are **sure** about the **Content** being `PUSHed`.<br>
  ![git push -u origin main](https://github.com/user-attachments/assets/56d8424e-edcf-4d71-83b6-dea2ef50d353)<br>
    <div align="center"> 
  
