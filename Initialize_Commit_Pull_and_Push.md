@@ -161,6 +161,7 @@
 ## Pull to Sync the Local with Remote_Repository
 - `PULL` is a **Git_Operation** that **Downloads** the **latest updates** from a `Remote_Repository` and **Integrates** them into your `Local_Repository`.
 - This ensures that your `Local_Version` of the **Project** is **up-to-date** with the `Remote`.
+<br>
 
 ### Initial PULL (Initial Synchronization):
 - Open your `Terminal`
