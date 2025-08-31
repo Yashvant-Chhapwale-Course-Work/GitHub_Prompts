@@ -35,7 +35,25 @@
 
 ## Cloning Remote_Repository to Local_System
 ### Cloning a Remote_Repository through Git_CLI:
-
+- Launch the `Terminal` in the **directory** where you want to `Clone` the `Remote_Repository`.
+- Use the following **Command** to `CLONE` the `Remote_Repository` at the desired Path:
+  ```
+  git clone <Remote_Repository_URL> <Local_Folder_Name>
+  ```
+  `Note:`
+  - Replace `<Remote_Repository_URL>` with the URL of the `Remote_Repository`, which you want to `CLONE`.
+  - Replace `<Local_Folder_Name>` with the **Name** of the **Folder** where the `Cloned Repository` will be placed. (**Optional**)
+- Once `Cloned`, move into the `Cloned_Repository Folder` by using the **Command**:
+  ```
+  cd <Local_Folder_Name>
+  ```
+  `Note:` Replace `<Local_Folder_Name>` with the **Name** of the **Folder** where the `Cloned Repository` has been placed.
+- (**Optional**) You can also **Switch** to a desired `Branch` / `Branch_Name` by using the following **Command**:
+  ```
+  git checkout -b <Branch_Name>
+  ```
+  `Note:` Replace `<Branch_Name>` with the desired Branch Name.
+  ![git clone](https://github.com/user-attachments/assets/e036cd53-9c96-46cb-816e-c02d3ff75e19)<br>
 <br>
 
 ### Cloning a Remote_Repository using VS_Code:
