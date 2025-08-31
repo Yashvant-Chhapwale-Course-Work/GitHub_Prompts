@@ -42,7 +42,7 @@
   ```
   `Note:`
   - Replace `<Remote_Repository_URL>` with the URL of the `Remote_Repository`, which you want to `CLONE`.
-  - Replace `<Local_Folder_Name>` with the **Name** of the **Folder** where the `Cloned Repository` will be placed. (**Optional**)
+  - (**Optional**) Replace `<Local_Folder_Name>` with the **Name** of the **Folder** where the `Cloned Repository` will be placed. 
 - Once `Cloned`, move into the `Cloned_Repository Folder` by using the **Command**:
   ```
   cd <Local_Folder_Name>
