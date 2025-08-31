@@ -92,7 +92,7 @@
     gh repo create DEMO-GITHUB-REPOSITORY --public
     ```
     `Note:` Substitute **'DEMO-GITHUB-REPOSITORY'** with your `Repository-Name` and **'--public'** with your `Preferred Visibility Flag (--private / --public)`.
-  - Follow Steps For [`Initializing a Local Repository and Linking it with the Above Remote_Repository`](#repository-initialization--using-git_cli--recommended).
+  - Now, follow the **Steps** for [`Initializing a Local Repository and Linking it with the Above Remote_Repository`](#repository-initialization--using-git_cli--recommended).
 <br>
 
 ---
