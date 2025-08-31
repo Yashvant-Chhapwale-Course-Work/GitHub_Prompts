@@ -164,7 +164,7 @@
 
 ### Initial PULL (Initial Synchronization):
 - Open your `Terminal`
-- Use the following **Command** to `PULL` & `Synchronize` from the `Remote_Repository` for the **First-Time** and want to `Rebase` (i.e, apply your **Commits** on **Top** of the **Remote_History**).
+- Use the following **Command** to `PULL` & `Synchronize` from the `Remote_Repository` for the **First-Time** and want to `Rebase` (i.e, apply your **Commits** on **Top** of the **Remote_History**).<br>
   [**`Recommended:`** This avoids unnecessary **Merge Conflicts** and keeps the **Commit History** Clean.]
   ```
   git pull --rebase origin main
@@ -179,7 +179,14 @@
   git pull origin main
   ```
   [`Note:` Replace `main` with your `LOCAL BRANCH_NAME`. [**`Learn more about Git_Branches`**](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Branches.md).]
-- 
+
+### Regular PULL:
+- Use this **Command** when the `Remote_Tracking Branch` is already set for the `Local_Branch`.<br>
+  It `Fetches` and `Merges` the latest changes from the `Remote` into your `Local`.
+  ```
+  git pull
+  ```
+  [`Note:` Always `PULL` before `PUSHing` to avoid **Merge Conflicts**.]
   
 ---
 <br>
