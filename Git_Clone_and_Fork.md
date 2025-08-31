@@ -81,7 +81,12 @@
 <br>
 
 ### Cloning a Remote_Repository using VS_Code:
-
+![](https://github.com/user-attachments/assets/0942a48a-307e-499b-8654-e930f80fe0fc)<br>
+![](https://github.com/user-attachments/assets/33a973f3-4f7d-4e44-b0a3-26eb2f09bb76)<br>
+![](https://github.com/user-attachments/assets/2f6228e1-7462-4b89-929b-1962ca267c70)<br>
+![](https://github.com/user-attachments/assets/9507d4b1-3629-459e-b8c6-e0d09bd2dd40)<br>
+![](https://github.com/user-attachments/assets/3b0cf61f-31bc-4ee9-a4ee-6e231bd441b6)<br>
+![](https://github.com/user-attachments/assets/00207b4a-2895-486a-b064-93369ce3c1a1)<br>
 <br>
 
 ---
