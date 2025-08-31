@@ -179,6 +179,7 @@
   git pull origin main
   ```
   [`Note:` Replace `main` with your `LOCAL BRANCH_NAME`. [**`Learn more about Git_Branches`**](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Branches.md).]
+<br>
 
 ### Regular PULL:
 - Use this **Command** when the `Remote_Tracking Branch` is already set for the `Local_Branch`.<br>
@@ -187,7 +188,8 @@
   git pull
   ```
   [`Note:` Always `PULL` before `PUSHing` to avoid **Merge Conflicts**.]
-  
+<br>
+
 ---
 <br>
 
