@@ -7,11 +7,11 @@
  
 | TITLE                                                                                                           | SECTION_LINK                                                                                  |
 |-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| 1 .  **What are `Unstaged_Chnages`?**                                                                           | >> [` CHECK CONTENT `](#what-are-unstaged_changes-)                                           |
-| 2 .  **Initializing & `Staging` the `Unstaged_Changes`**                                                        | >> [` CHECK CONTENT `](#staging-modifications)                                                |
-| 3 .  **`Unstaging` the `Staged_Changes`**                                                                       | >> [` CHECK CONTENT `](#unstaging-the-staged_modifications)                                   |
-| 4 .  **`Commit` the `Staged_Changes`**                                                                          | >> [` CHECK CONTENT `](#commit-the-staged_modifications)                                      |
-| 5 .  **`Pushing` the `Commits`**                                                                                | >> [` CHECK CONTENT `](#pushing-commits-to-the-remote_repository)                             |
+| 1 .  **What are `Unstaged_Chnages`?**                                                                           | [` 🔗CHECK CONTENT `](#what-are-unstaged_changes-)                                           |
+| 2 .  **Initializing & `Staging` the `Unstaged_Changes`**                                                        | [` 🔗CHECK CONTENT `](#staging-modifications)                                                |
+| 3 .  **`Unstaging` the `Staged_Changes`**                                                                       | [` 🔗CHECK CONTENT `](#unstaging-the-staged_modifications)                                   |
+| 4 .  **`Commit` the `Staged_Changes`**                                                                          | [` 🔗CHECK CONTENT `](#commit-the-staged_modifications)                                      |
+| 5 .  **`Pushing` the `Commits`**                                                                                | [` 🔗CHECK CONTENT `](#pushing-commits-to-the-remote_repository)                             |
 </div>
 
 ---
