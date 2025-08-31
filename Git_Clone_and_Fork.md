@@ -56,6 +56,11 @@
   ![git clone](https://github.com/user-attachments/assets/e036cd53-9c96-46cb-816e-c02d3ff75e19)<br>
 <br>
 
+### Cloning a Specific Branch from the Remote_Repository:
+- Launch the `Terminal` in the **directory** where you want to `Clone` the specific `Branch` from a `Remote_Repository`.
+- 
+<br>
+
 ### Cloning a Remote_Repository using VS_Code:
 
 <br>
