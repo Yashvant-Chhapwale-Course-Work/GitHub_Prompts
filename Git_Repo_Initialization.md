@@ -7,7 +7,7 @@
  
 | TITLE                                                                                                          | SECTION_LINK                                                                                  |
 |----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| 1.  **Create A Repository Using Git_CLI Commands**                                                             | >> [` CHECK CONTENT `](#local-repository-initialization--using-git_cli--recommended)                |
+| 1.  **Create A Repository Using Git_CLI Commands / Initialize a Local_Git_Repository**                         | >> [` CHECK CONTENT `](#local-repository-initialization--using-git_cli--recommended)          |
 | 2.  **Create A Repository Using GitHub_CLI (gh) Commands**                                                     | >> [` CHECK CONTENT `](#repository-initialization--using-github_cli-gh--recommended)          |
 | 3.  **Create A Repository Using GitHub_Web_Interface / Initialize a Remote_GitHub_Repository**                 | >> [` CHECK CONTENT `](#repository-initialization--using-github_website--recommended)         |
 | 4.  **Create A Repository Using GitHub_Desktop**                                                               | >> [` CHECK CONTENT `](#repository-initialization--using-github_desktop-)                     |
