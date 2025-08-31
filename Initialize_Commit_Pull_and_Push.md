@@ -11,7 +11,8 @@
 | 2 .  **Initializing & `Staging` the `Unstaged_Changes`**                                                        | [` 🔗CHECK CONTENT `](#staging-modifications)                                                |
 | 3 .  **`Unstaging` the `Staged_Changes`**                                                                       | [` 🔗CHECK CONTENT `](#unstaging-the-staged_modifications)                                   |
 | 4 .  **`Commit` the `Staged_Changes`**                                                                          | [` 🔗CHECK CONTENT `](#commit-the-staged_modifications)                                      |
-| 5 .  **`Pushing` the `Commits`**                                                                                | [` 🔗CHECK CONTENT `](#pushing-commits-to-the-remote_repository)                             |
+| 4 .  **`Pull` to sync your `Local_Repository` with the latest `Remote_Updates`**                                | [` 🔗CHECK CONTENT `](#commit-the-staged_modifications)                                      |
+| 6 .  **`Pushing` the `Commits`**                                                                                | [` 🔗CHECK CONTENT `](#pushing-commits-to-the-remote_repository)                             |
 </div>
 
 ---
@@ -153,7 +154,12 @@
   ![VS_Code Source_Control >> Enter `COMMIT MESSAGE` >> Click `✔ Commit` Button](https://github.com/user-attachments/assets/54724371-c840-48e7-b791-c3df343c365e)<br>
 - The `Staged_Changes` have been `Recorded / Commited` successfully!
 <br>
-  
+
+---
+<br>
+
+## Pull to Sync the Local with Remote_Repository
+
 ---
 <br>
 
@@ -186,8 +192,8 @@
   - The `origin` refers to the `Remote_Repository` where the `Remote_Branch` is to be **Established**.<br>
   - [**`Learn more about Git_Branches`**](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Branches.md).
   - The `--force`flag **Forces** the `PUSH`, even if it **overwrites changes** on the `Remote Branch`. Use it **Cautiously** and Only if you are **sure** about the **Content** being `PUSHed`.<br>
- ![git push -u origin main](https://github.com/user-attachments/assets/56d8424e-edcf-4d71-83b6-dea2ef50d353)<br>
-   <div align="center"> 
+  ![git push -u origin main](https://github.com/user-attachments/assets/56d8424e-edcf-4d71-83b6-dea2ef50d353)<br>
+  <div align="center"> 
  
      **OR**
   </div> 
