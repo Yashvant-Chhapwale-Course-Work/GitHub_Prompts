@@ -170,6 +170,7 @@
   ```
   git pull --rebase origin main
   ```
+  ![git pull --rebase origin main](https://github.com/user-attachments/assets/ac02c992-2f68-41aa-bf51-74f5c398e0f9)<br>
   <div align="center"> 
  
      **OR**
@@ -188,7 +189,8 @@
   ```
   git pull
   ```
-  [`Note:` Always `PULL` before `PUSHing` to avoid **Merge Conflicts**.]
+  [`Note:` Always `PULL` before `PUSHing` to avoid **Merge Conflicts**.]<br>
+  ![git pull](https://github.com/user-attachments/assets/99abbf6b-7590-4632-b718-c86e78acf748)<br>
 <br>
 
 ---
