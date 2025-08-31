@@ -66,16 +66,14 @@
   - `-b`: This **flag** tells `Git` to **checkout** the `develop` branch immediately after **Cloning**. So your `Current Branch` = `develop`.
   - Replace `<Remote_Branch>` with the **Specific** `Remote_Repository Branch` which you want to `CLONE`.
   - Replace `<Remote_Repository_URL>` with the URL of the `Remote_Repository`.
-  - (**Optional**) Replace `<Local_Folder_Name>` with the **Name** of the **Folder** where the `Cloned Repository` will be placed.<br>
-  <br>
-  
+  - (**Optional**) Replace `<Local_Folder_Name>` with the **Name** of the **Folder** where the `Cloned Repository` will be placed.<br><br>
   ![git clone -b](https://github.com/user-attachments/assets/8bee4149-435b-4fe6-b469-ad827988f1be)<br>
 - Once `Cloned`, move into the `Cloned_Repository Folder` by using the **Command**:
   ```
   cd <Local_Folder_Name>
   ```
   `Note:` Replace `<Local_Folder_Name>` with the **Name** of the **Folder** where the `Cloned Repository` has been placed.
-- You can verify if the Cloned Repository is tracking the desired branch from remote repository by using the following command:
+- Use the following **Command** to verify whether your `Local_Clone` is **linked** to the **intended** `Remote_Branch`:
   ```
   git status
   ```
