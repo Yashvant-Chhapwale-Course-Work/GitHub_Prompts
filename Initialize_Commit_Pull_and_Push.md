@@ -159,13 +159,34 @@
 <br>
 
 ## Pull to Sync the Local with Remote_Repository
+- `PULL` is a **Git_Operation** that **Downloads** the **latest updates** from a `Remote_Repository` and **Integrates** them into your `Local_Repository`.
+- This ensures that your `Local_Version` of the **Project** is **up-to-date** with the `Remote`.
 
+### Initial PULL (Initial Synchronization):
+- Open your `Terminal`
+- Use the following **Command** to `PULL` & `Synchronize` from the `Remote_Repository` for the **First-Time** and want to `Rebase` (i.e, apply your **Commits** on **Top** of the **Remote_History**).
+  [**`Recommended:`** This avoids unnecessary **Merge Conflicts** and keeps the **Commit History** Clean.]
+  ```
+  git pull --rebase origin main
+  ```
+  <div align="center"> 
+ 
+     **OR**
+  </div> 
+  
+  Use the following **Command** to `PULL` & `Synchronize` from the `Remote_Repository` for the **First-Time** (without `Rebase`).
+  ```
+  git pull origin main
+  ```
+  [`Note:` Replace `main` with your `LOCAL BRANCH_NAME`. [**`Learn more about Git_Branches`**](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Branches.md).]
+- 
+  
 ---
 <br>
 
 ## Pushing Commits to the Remote_Repository
 
-- `PUSH` is a **Git_Operation** that Uploads your `Local_Commits` from your `Local_System` to a `Remote_Repository`.
+- `PUSH` is a **Git_Operation** that **Uploads** your `Local_Commits` from your `Local_System` to a `Remote_Repository`.
 - This ensures that the `Remote_version of the Project` is **up-to-date** with your **Latest Changes**.
 <br>
 
