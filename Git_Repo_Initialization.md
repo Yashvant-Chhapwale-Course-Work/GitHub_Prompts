@@ -57,6 +57,13 @@
     git add .
     git commit -m "Initial Message"
     ```
+  - Take an initial **PULL** from the `Remote Repository` to sync your `Local Branch` with it.
+    ```
+    git pull --rebase origin master
+    ```
+    `Note:`
+    - Replace `master` with your `BRANCH_NAME` to avoid any errors. [`Learn more about Branches`](https://github.com/Yashvant-Chhapwale-Course-Work/GitHub_Prompts/blob/main/Git_Branches.md)<br>
+    - Also, make sure to **PULL** before **PUSHing** to keep branches `conflict-free`.
   - Use the `push` Command to `Upload` the Changes to the Remote_GitHub_Repository.
     ```
     git push -u origin master
