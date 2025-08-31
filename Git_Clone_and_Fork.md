@@ -8,7 +8,7 @@
 | TITLE                                                                                                           | SECTION_LINK                                                                                  |
 |-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | 1 .  **What do we mean by `Cloning` a `Remote_Repository`?**                                                    | [` 🔗CHECK CONTENT `](#what-do-we-mean-by-cloning-a-remote_repository)                       |
-| 2 .  **`Cloning` a `Remote_Repository`**                                                                        | [` 🔗CHECK CONTENT `](#cloning-remote_repository-to-local_system)                            |
+| 2 .  **`Cloning` a `Remote_Repository`**                                                                        | [` 🔗CHECK CONTENT `](#cloning-a-remote_repository-to-local_system)                            |
 </div>
  
 ---
@@ -33,7 +33,7 @@
 ---
 <br>
 
-## Cloning Remote_Repository to Local_System
+## Cloning a Remote_Repository to Local_System
 ### Cloning a Remote_Repository through Git_CLI:
 - Launch the `Terminal` in the **directory** where you want to `Clone` the `Remote_Repository`.
 - Use the following **Command** to `CLONE` the `Remote_Repository` at the desired Path:
