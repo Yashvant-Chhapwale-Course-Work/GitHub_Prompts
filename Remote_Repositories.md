@@ -7,11 +7,11 @@
  
 | TITLE                                                                                                          | SECTION_LINK                                                                                  |
 |----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| 1.  **What do we mean by a `Remote_Repository`?**                                                              | >> [` CHECK CONTENT `](#what-do-we-mean-by-a-remote_repository)                               |
-| 2.  **Link `Local_Repository` To `Remote_Repository`**                                                         | >> [` CHECK CONTENT `](#link-local_repository-to-remote_repository)                           |
-| 3.  **Verify the `Linked` Remote_Repository**                                                                  | >> [` CHECK CONTENT `](#verify-the-linked-remote_repository)                                  |
-| 4.  **Updating the `Remote_Repository_URL`**                                                                   | >> [` CHECK CONTENT `](#updating-the-remote_repository_url)                                   |
-| 5.  **Remove / Unlink `Remote Repository` From `Local Repository`**                                            | >> [` CHECK CONTENT `](#unlink-remote-repository-from-local-repository)                       |
+| 1.  **What do we mean by a `Remote_Repository`?**                                                              | [` 🔗CHECK CONTENT `](#what-do-we-mean-by-a-remote_repository)                               |
+| 2.  **Link `Local_Repository` To `Remote_Repository`**                                                         | [` 🔗CHECK CONTENT `](#link-local_repository-to-remote_repository)                           |
+| 3.  **Verify the `Linked` Remote_Repository**                                                                  | [` 🔗CHECK CONTENT `](#verify-the-linked-remote_repository)                                  |
+| 4.  **Updating the `Remote_Repository_URL`**                                                                   | [` 🔗CHECK CONTENT `](#updating-the-remote_repository_url)                                   |
+| 5.  **Remove / Unlink `Remote Repository` From `Local Repository`**                                            | [` 🔗CHECK CONTENT `](#unlink-remote-repository-from-local-repository)                       |
 </div>
 
 ---
