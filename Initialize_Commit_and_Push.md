@@ -1,4 +1,4 @@
-# Initialize_Commit_&_Push
+# Initialize_Commit_Pull_&_Push
 ---
 <br>
 <div align="center">
