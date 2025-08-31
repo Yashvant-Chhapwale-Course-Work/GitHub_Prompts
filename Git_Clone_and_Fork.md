@@ -68,6 +68,7 @@
   - Replace `<Remote_Repository_URL>` with the URL of the `Remote_Repository`.
   - (**Optional**) Replace `<Local_Folder_Name>` with the **Name** of the **Folder** where the `Cloned Repository` will be placed.<br>
   <br>
+  
   ![git clone -b](https://github.com/user-attachments/assets/8bee4149-435b-4fe6-b469-ad827988f1be)<br>
 - Once `Cloned`, move into the `Cloned_Repository Folder` by using the **Command**:
   ```
