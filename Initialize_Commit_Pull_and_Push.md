@@ -11,7 +11,7 @@
 | 2 .  **Initializing & `Staging` the `Unstaged_Changes`**                                                        | [` 🔗CHECK CONTENT `](#staging-modifications)                                                |
 | 3 .  **`Unstaging` the `Staged_Changes`**                                                                       | [` 🔗CHECK CONTENT `](#unstaging-the-staged_modifications)                                   |
 | 4 .  **`Commit` the `Staged_Changes`**                                                                          | [` 🔗CHECK CONTENT `](#commit-the-staged_modifications)                                      |
-| 4 .  **`Pull` to sync your `Local_Repository` with the latest `Remote_Updates`**                                | [` 🔗CHECK CONTENT `](#commit-the-staged_modifications)                                      |
+| 4 .  **`Pull` to sync your `Local_Repository` with the latest `Remote_Updates`**                                | [` 🔗CHECK CONTENT `](#pull-to-sync-the-local-with-remote_repository)                        |
 | 6 .  **`Pushing` the `Commits`**                                                                                | [` 🔗CHECK CONTENT `](#pushing-commits-to-the-remote_repository)                             |
 </div>
 
