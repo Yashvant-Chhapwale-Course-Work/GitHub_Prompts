@@ -7,13 +7,13 @@
  
 | TITLE                                                                                                           | SECTION_LINK                                                                                        |
 |-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| 1. **An Overview `Credential-Helper (CH)`**                                                                     | >> [` CHECK CONTENT `](#what-is-a-credential_helper-ch)                                             |
-| 2. **Set / Switch_Between `Credential-Helpers (CHs)`**                                                          | >> [` CHECK CONTENT `](#set--switch_between-credential_helpers-chs)                                 |
-| 3. **Unset / Remove `Credential-Helpers (CHs)`**                                                                | >> [` CHECK CONTENT `](#unset--remove-credential_helpers-chs)                                       |
-| 4. **Git `Cache`**                                                                                              | >> [` CHECK CONTENT `](#git_cache)                                                                  |
-| 5. **Git `Store`**                                                                                              | >> [` CHECK CONTENT `](#git_store)                                                                  |
-| 6. **Git `Credential-Manager` (GCM)**                                                                           | >> [` CHECK CONTENT `](#git_credential_manager-gcm)                                                 |
-| 7. **Git `Credential-Manager-Core` (GCM Core or GCMC)**                                                         | >> [` CHECK CONTENT `](#git_credential_manager_core-gcm-core-or-gcmc)                               |
+| 1. **An Overview `Credential-Helper (CH)`**                                                                     | [` 🔗CHECK CONTENT `](#what-is-a-credential_helper-ch)                                             |
+| 2. **Set / Switch_Between `Credential-Helpers (CHs)`**                                                          | [` 🔗CHECK CONTENT `](#set--switch_between-credential_helpers-chs)                                 |
+| 3. **Unset / Remove `Credential-Helpers (CHs)`**                                                                | [` 🔗CHECK CONTENT `](#unset--remove-credential_helpers-chs)                                       |
+| 4. **Git `Cache`**                                                                                              | [` 🔗CHECK CONTENT `](#git_cache)                                                                  |
+| 5. **Git `Store`**                                                                                              | [` 🔗CHECK CONTENT `](#git_store)                                                                  |
+| 6. **Git `Credential-Manager` (GCM)**                                                                           | [` 🔗CHECK CONTENT `](#git_credential_manager-gcm)                                                 |
+| 7. **Git `Credential-Manager-Core` (GCM Core or GCMC)**                                                         | [` 🔗CHECK CONTENT `](#git_credential_manager_core-gcm-core-or-gcmc)                               |
 
 </div>
 <br>
