@@ -58,7 +58,25 @@
 
 ### Cloning a Specific Branch from the Remote_Repository:
 - Launch the `Terminal` in the **directory** where you want to `Clone` the specific `Branch` from a `Remote_Repository`.
-- 
+- Use the following **Command** to `CLONE` a **Specific** `Remote_Branch` to the `Local Directory`:
+  ```
+  git clone -b <Remote_Branch> <Remote_Repository_URL> <Local_Folder_Name>
+  ```
+  `Note:`
+  - `-b`: This **flag** tells `Git` to **checkout** the `develop` branch immediately after **Cloning**. So your `Current Branch` = `develop`.
+  - Replace `<Remote_Branch>` with the **Specific** `Remote_Repository Branch` which you want to `CLONE`.
+  - Replace `<Remote_Repository_URL>` with the URL of the `Remote_Repository`.
+  - (**Optional**) Replace `<Local_Folder_Name>` with the **Name** of the **Folder** where the `Cloned Repository` will be placed.
+- Once `Cloned`, move into the `Cloned_Repository Folder` by using the **Command**:
+  ```
+  cd <Local_Folder_Name>
+  ```
+  `Note:` Replace `<Local_Folder_Name>` with the **Name** of the **Folder** where the `Cloned Repository` has been placed.
+- You can verify if the Cloned Repository is tracking the desired branch from remote repository by using the following command:
+  ```
+  git status
+  ```
+  ![git clone -b](https://github.com/user-attachments/assets/8bee4149-435b-4fe6-b469-ad827988f1be)<br>
 <br>
 
 ### Cloning a Remote_Repository using VS_Code:
