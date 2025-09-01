@@ -82,7 +82,7 @@
 
 ### Cloning a Remote_Repository using VS_Code:
 - **Open** your **Project** in `Visual_Studio_Code (VS_Code)`.
-- From the `Navigation Bar`, **Click** `View` >> **Select** `Command Palette...`
+- From the `Navigation Bar`, **Click** `View` >> **Select** `Command Palette...`<br>
   ![`View`>>`Command Palette...`](https://github.com/user-attachments/assets/0942a48a-307e-499b-8654-e930f80fe0fc)<br>
 - In the `Command Palette`, **Search** for `Git: Clone` & **Select** it.
   ![`Command Palette...`>>`Git: Clone`](https://github.com/user-attachments/assets/33a973f3-4f7d-4e44-b0a3-26eb2f09bb76)<br>
