@@ -81,12 +81,19 @@
 <br>
 
 ### Cloning a Remote_Repository using VS_Code:
-![](https://github.com/user-attachments/assets/0942a48a-307e-499b-8654-e930f80fe0fc)<br>
-![](https://github.com/user-attachments/assets/33a973f3-4f7d-4e44-b0a3-26eb2f09bb76)<br>
-![](https://github.com/user-attachments/assets/2f6228e1-7462-4b89-929b-1962ca267c70)<br>
-![](https://github.com/user-attachments/assets/9507d4b1-3629-459e-b8c6-e0d09bd2dd40)<br>
-![](https://github.com/user-attachments/assets/3b0cf61f-31bc-4ee9-a4ee-6e231bd441b6)<br>
-![](https://github.com/user-attachments/assets/00207b4a-2895-486a-b064-93369ce3c1a1)<br>
+- **Open** your **Project** in `Visual_Studio_Code (VS_Code)`.
+- From the `Navigation Bar`, **Click** `View` >> **Select** `Command Palette...`
+  ![`View`>>`Command Palette...`](https://github.com/user-attachments/assets/0942a48a-307e-499b-8654-e930f80fe0fc)<br>
+- In the `Command Palette`, **Search** for `Git: Clone` & **Select** it.
+  ![`Command Palette...`>>`Git: Clone`](https://github.com/user-attachments/assets/33a973f3-4f7d-4e44-b0a3-26eb2f09bb76)<br>
+- **Copy** the `Remote_Repository URL` (`HTTPS` or `SSH`) from your **Hosting Service** (e.g., `GitHub` / `GitLab`).
+  ![Remote_Repository>>`Copy URL`](https://github.com/user-attachments/assets/2f6228e1-7462-4b89-929b-1962ca267c70)<br>
+- **Paste** the `Repo_URL` into the `Command Palette` >> **Choose** `Clone from URL`.
+  ![`Command Palette...`>>`Git: Clone`>>Enter `Remote_Repo_URL`>>`Clone from URL`](https://github.com/user-attachments/assets/9507d4b1-3629-459e-b8c6-e0d09bd2dd40)<br>
+- **Select** the `Local_Directory` where you want the `Remote_Repository` to be `Cloned` >> **Click** the `Select as Repository Destination` Button.
+  ![Select `Local_Directory`>>Click on `Select as Repository Destination`](https://github.com/user-attachments/assets/3b0cf61f-31bc-4ee9-a4ee-6e231bd441b6)<br>
+- Once **Cloning** is complete, **Choose** `Open` or `Open in New Window` to start working with the `Cloned_Repository` in `VS_Code`.
+  ![`Open` or `Open in New Window`](https://github.com/user-attachments/assets/00207b4a-2895-486a-b064-93369ce3c1a1)<br>
 <br>
 
 ---
