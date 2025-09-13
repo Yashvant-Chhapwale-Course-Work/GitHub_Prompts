@@ -8,7 +8,8 @@
 | TITLE                                                                                                           | SECTION_LINK                                                                                  |
 |-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | 1 .  **What do we mean by `Cloning` a `Remote_Repository`?**                                                    | [` 🔗CHECK CONTENT `](#what-do-we-mean-by-cloning-a-remote_repository)                       |
-| 2 .  **`Cloning` a `Remote_Repository`**                                                                        | [` 🔗CHECK CONTENT `](#cloning-a-remote_repository-to-local_system)                            |
+| 2 .  **`Cloning` a `Remote_Repository`**                                                                        | [` 🔗CHECK CONTENT `](#cloning-a-remote_repository-to-local_system)                          |
+| 3 .  **What do we mean by `Forking` a `Remote_Repository`?**                                                    | [` 🔗CHECK CONTENT `](#what-do-we-mean-by-forking-a-remote_repository)                       |
 </div>
  
 ---
