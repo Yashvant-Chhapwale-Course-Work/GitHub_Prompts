@@ -9,8 +9,8 @@
 |-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
 | 1 .  **What do we mean by `Cloning` a `Remote_Repository`?**                                                    | [` 🔗CHECK CONTENT `](#what-do-we-mean-by-cloning-a-remote_repository)                       |
 | 2 .  **`Cloning` a `Remote_Repository` via `Git_CLI`**                                                          | [` 🔗CHECK CONTENT `](#cloning-a-remote_repository-through-git_cli)                          |
-| 3 .  **`Cloning` a specific `Remote_Repository Branch` via `Git_CLI`**                                          | [` 🔗CHECK CONTENT `](#cloning-a-specific-branch-from-remote_repository)                     |
-| 4 .  **`Cloning` a `Remote_Repository` via `Git_CLI`**                                 | [` 🔗CHECK CONTENT `](#cloning-a-remote_repository-through-git_cli)            |
+| 3 .  **`Cloning` a specific `Branch` from `Remote_Repository`                                                   | [` 🔗CHECK CONTENT `](#cloning-a-specific-branch-from-remote_repository)                     |
+| 4 .  **`Cloning` a `Remote_Repository` via `VS_Code Source Control`**                                           | [` 🔗CHECK CONTENT `](#cloning-a-remote_repository-using-vs_code)                            |
 | 3 .  **What do we mean by `Forking` a `Remote_Repository`?**                                                    | [` 🔗CHECK CONTENT `](#what-do-we-mean-by-forking-a-remote_repository)                       |
 </div>
  
