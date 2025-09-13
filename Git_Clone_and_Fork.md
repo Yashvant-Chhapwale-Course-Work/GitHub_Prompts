@@ -23,7 +23,7 @@
 
 <div align="center">
 
-|**Private_Repository Access Level**  | **Can Clone?**  | **Can Push?** | **Can Manage Repo?** |
+|**`Private_Repository` Access Level**  | **Can Clone?**  | **Can Push?** | **Can Manage Repo?** |
 | ----------------------------------- | --------------- | ------------- | -------------------- |
 |**Read**                             | ✅ Yes         | ❌ No         | ❌ No               |
 | **Write**                           | ✅ Yes         | ✅ Yes        | ❌ No               |
