@@ -103,8 +103,19 @@
 ---
 <br>
 
-### What do we mean by Forking a Remote_Repository? 
+## What do we mean by Forking a Remote_Repository? 
 - `Forking` is the process of **Creating** a `Personal_Copy` of someone else’s `Remote_Repository` into Your `Own GitHub_Account` / `GitHub_Repository`. **[`Remote ➝ Remote`]**
 - This allows you to **Experiment**, **Modify**, and **Add Features** to someone else's **Project** without affecting the `Original_Repository`.
 - A `Forked_Repository` stays linked to the `Original_Repository`, so you can later **Submit** `Pull_Requests (PRs)` to contribute your changes back.
 - `Forking` is commonly used in **Open Source Contributions** where developers **FORK** a project, **make changes** in their copy, and then **propose updates** to the Owner of the `Original_Repository`.
+<br>
+
+---
+<br>
+
+## 
+
+<br>
+
+---
+<br>
