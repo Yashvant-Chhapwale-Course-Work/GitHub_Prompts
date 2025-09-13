@@ -124,7 +124,7 @@
   - `Repository Name:` Enter the **Name** for the **Forked_Repository** (Ex: `Ceaser-Cipher-Fork`).
   - `Description (Optional):` Add a **Short Description** for the **Forked_Repository**.
   - `Branch Option:` Leave `Copy the main branch only` option **Checked** if you only want the **default branch**.
-  - Finally, **Click** the `Create Fork` button.
+  - Finally, **Click** the `Create fork` button.
   ![`Create Fork`](https://github.com/user-attachments/assets/f7a114aa-abe7-411b-938e-662717dca9d4)<br>
 <br>
 
