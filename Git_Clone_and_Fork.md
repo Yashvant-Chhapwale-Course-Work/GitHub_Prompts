@@ -11,7 +11,8 @@
 | 2 .  **`Cloning` a `Remote_Repository` via `Git_CLI`**                                                          | [` 🔗CHECK CONTENT `](#cloning-a-remote_repository-through-git_cli)                          |
 | 3 .  **`Cloning` a specific `Branch` from `Remote_Repository`**                                                 | [` 🔗CHECK CONTENT `](#cloning-a-specific-branch-from-the-remote_repository)                 |
 | 4 .  **`Cloning` a `Remote_Repository` via `VS_Code Source Control`**                                           | [` 🔗CHECK CONTENT `](#cloning-a-remote_repository-using-vs_code)                            |
-| 3 .  **What do we mean by `Forking` a `Remote_Repository`?**                                                    | [` 🔗CHECK CONTENT `](#what-do-we-mean-by-forking-a-remote_repository)                       |
+| 5 .  **What do we mean by `Forking` a `Remote_Repository`?**                                                    | [` 🔗CHECK CONTENT `](#what-do-we-mean-by-forking-a-remote_repository)                       |
+| 6 .  **`Forking` a `Remote_Repository` into Your `Github_Account`**                                             | [` 🔗CHECK CONTENT `](#forking-a-remote_repository-into-your-github_account)                 |
 </div>
  
 ---
@@ -113,7 +114,7 @@
 ---
 <br>
 
-## 
+## Forking a Remote_Repository into Your GitHub_Account
 
 <br>
 
