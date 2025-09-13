@@ -23,12 +23,12 @@
 
 <div align="center">
 
-|**Access Level**  | **Can Clone?**  | **Can Push?** | **Can Manage Repo?** |
-| ---------------- | --------------- | ------------- | -------------------- |
-|**Read**          | ✅ Yes         | ❌ No         | ❌ No               |
-| **Write**        | ✅ Yes         | ✅ Yes        | ❌ No               |
-| **Admin**        | ✅ Yes         | ✅ Yes        | ✅ Yes              | 
-| **Owner** (Org.) | ✅ Yes         | ✅ Yes        | ✅ Yes              |
+|**Private_Repository Access Level**  | **Can Clone?**  | **Can Push?** | **Can Manage Repo?** |
+| ----------------------------------- | --------------- | ------------- | -------------------- |
+|**Read**                             | ✅ Yes         | ❌ No         | ❌ No               |
+| **Write**                           | ✅ Yes         | ✅ Yes        | ❌ No               |
+| **Admin**                           | ✅ Yes         | ✅ Yes        | ✅ Yes              | 
+| **Owner** (Org.)                    | ✅ Yes         | ✅ Yes        | ✅ Yes              |
 </div>
 
 ---
