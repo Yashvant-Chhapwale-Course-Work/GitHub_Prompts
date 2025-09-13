@@ -115,9 +115,9 @@
 <br>
 
 ## Forking a Remote_Repository into Your GitHub_Account
-Open the repository you want to fork on GitHub.
-
-At the top-right, click on the Fork button.
+- Open the `Remote_Repository` which you want to `FORK` into Your `GitHub_Account`.
+- At the `Top-Right`, **Click** on the `Fork` Button.
+  ![`Remote GitHub_Repository` >> `Fork`](https://github.com/user-attachments/assets/6e26ca64-4f25-45d3-9ba8-8f18db243cc3)<br>
 <br>
 
 ---
