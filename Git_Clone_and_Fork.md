@@ -115,7 +115,9 @@
 <br>
 
 ## Forking a Remote_Repository into Your GitHub_Account
+Open the repository you want to fork on GitHub.
 
+At the top-right, click on the Fork button.
 <br>
 
 ---
