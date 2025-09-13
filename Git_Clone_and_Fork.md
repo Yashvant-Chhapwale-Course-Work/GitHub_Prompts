@@ -120,11 +120,12 @@
   ![`Remote GitHub_Repository` >> `Fork`](https://github.com/user-attachments/assets/6e26ca64-4f25-45d3-9ba8-8f18db243cc3)<br>
 - After clicking the `Fork` Button, **GitHub** will redirect you to the **Create** a **New** `Fork_Page`.
 - Fill in the following details:
-  - Owner: Select your GitHub account or organization where the fork will be created.
-  - Repository Name: You may keep the same name as the original repo or customize it (e.g., Caesar-Cipher-Fork).
-  - Description (Optional): Add a short description of your fork.
-  - Branch Option: Leave “Copy the main branch only” checked if you only want the default branch.
-  - Finally, click the Create fork button.
+  - `Owner:` Select your **GitHub_Account** or **Organization** where the **FORK** will be created.
+  - `Repository Name:` Enter the **Name** for the **Forked_Repository** (Ex: `Ceaser-Cipher-Fork`).
+  - `Description (Optional):` Add a **Short Description** for the **Forked_Repository**.
+  - `Branch Option:` Leave `Copy the main branch only` option **Checked** if you only want the **default branch**.
+  - Finally, **Click** the `Create Fork` button.
+  ![`Create Fork`](https://github.com/user-attachments/assets/f7a114aa-abe7-411b-938e-662717dca9d4)<br>
 <br>
 
 ---
