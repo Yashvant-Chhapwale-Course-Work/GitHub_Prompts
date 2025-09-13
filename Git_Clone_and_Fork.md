@@ -16,7 +16,7 @@
 <br>
 
 ## What do we mean by Cloning a Remote_Repository?
-- `Cloning` is the process of **Creating** a `Full_Copy` of a `Remote_Repository` on your `Local_System` / `Local_Repository`.
+- `Cloning` is the process of **Creating** a `Full_Copy` of a `Remote_Repository` on your `Local_System` / `Local_Repository`. **[`Remote ➝ Local`]**
 - This includes all the **Project** `Files`, `Branches`, `Commit_History`, and the `.git_Directory` that **Tracks Changes**.
 - In case of a `Public_Repository`, anyone can `CLONE` the `Remote_Repository` and require **No Special Access** (Ex: `Owner`, `Collaborator`, etc).
 - For `Private_Repository`, you require **Explicit Permission** to `CLONE` the `Remote_Repository` from the **Owner** or require to be added as a **Collaborator** to the `Remote_Repository`.<br>
@@ -101,7 +101,7 @@
 <br>
 
 ### What do we mean by Forking a Remote_Repository? 
-- `Forking` is the process of **Creating** a `Personal_Copy` of someone else’s `Remote_Repository` into Your `Own GitHub_Account` / `GitHub_Repository`.
+- `Forking` is the process of **Creating** a `Personal_Copy` of someone else’s `Remote_Repository` into Your `Own GitHub_Account` / `GitHub_Repository`. **[`Remote ➝ Remote`]**
 - This allows you to **Experiment**, **Modify**, and **Add Features** to someone else's **Project** without affecting the `Original_Repository`.
 - A `Forked_Repository` stays linked to the `Original_Repository`, so you can later **Submit** `Pull_Requests (PRs)` to contribute your changes back.
 - `Forking` is commonly used in **Open Source Contributions** where developers **FORK** a project, **make changes** in their copy, and then **propose updates** to the Owner of the `Original_Repository`.
